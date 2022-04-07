@@ -1,8 +1,8 @@
 from pathlib import Path
 from pdfminer.high_level import extract_text
 
-mydict = Path(r'.\mydict')
-articles = Path(r'.\articles')
+mydict = Path(r'.\data\mydict')
+articles = Path(r'.\data\articles')
 
 mydict_files = sorted(list(mydict.rglob('*.pdf')))
 articles_files = sorted(list(articles.rglob('*.pdf')))
@@ -10,7 +10,7 @@ articles_files = sorted(list(articles.rglob('*.pdf')))
 
 def extract_txt(path, folder, return_value=False):
     file = extract_text(path)
-    result_path = f'.\{folder}\{path.name}'[:-3]+'txt'
+    result_path = f'.\data\{folder}\{path.name}'[:-3]+'txt'
     with open(result_path, 'w', encoding='utf-8') as f:
         f.write(file)
     if return_value:

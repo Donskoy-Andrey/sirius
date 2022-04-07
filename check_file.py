@@ -33,4 +33,4 @@ def check_new_file(path, resave=False, new_stop=[]):
                      columns=vectorizer.get_feature_names_out(),
                      index=articles_names + [current_file_path.name])
 
-    return X.loc[current_file_path.name, :].sort_values(ascending=False) 
+    return X.loc[current_file_path.name, :].sort_values(ascending=False)
