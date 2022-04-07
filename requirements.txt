@@ -1,0 +1,5 @@
+pdfminer.six==20220319
+pymorphy2==0.9.1
+nltk==3.7
+scikit-learn==1.0.2
+pandas==1.4.2
