@@ -9,15 +9,15 @@ articles_files = sorted(list(articles.rglob('*.txt')))
 
 def save_articles_data(articles_data, mode='w'):
     if mode == 'w':
-        with open(r'.\data\test.txt', 'w', encoding='utf-8') as file:
+        with open(r'.\data\clear_text.txt', 'w', encoding='utf-8') as file:
             file.write('\n'.join(articles_data))
     elif mode == 'a':
-        with open(r'.\data\test.txt', 'a', encoding='utf-8') as file:
+        with open(r'.\data\clear_text.txt', 'a', encoding='utf-8') as file:
             file.write('\n' + articles_data[-1])
 
 
 def articles_data_txt():
-    ''' save data as processing txt '''
+    """ save data as processing txt """
     articles_data = []
     for path in articles_files:
         print(path)
@@ -27,11 +27,11 @@ def articles_data_txt():
 
 
 def load_articles_data():
-    ''' get all data_txt '''
-    with open(r'.\data\test.txt', 'r') as file:
+    """ get all data_txt """
+    with open(r'.\data\clear_text.txt', 'r') as file:
         articles_data = file.readlines()
     return articles_data
 
 
-if '__name__' == '__main__':
+if __name__ == '__main__':
     articles_data_txt()

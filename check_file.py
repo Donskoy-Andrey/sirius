@@ -18,7 +18,7 @@ def check_new_file(path, resave=False, new_stop=[]):
     vectors = vectorizer.fit_transform(new_articles_data)
 
     if resave:
-        '''save new article to data'''
+        """ save new article to data """
         number = len(articles_names) + 1
         articles_names.append(f'article ({number}).txt')
         save_articles_data(new_articles_data, mode='a')
@@ -32,5 +32,5 @@ def check_new_file(path, resave=False, new_stop=[]):
     X = pd.DataFrame(vectors.toarray(),
                      columns=vectorizer.get_feature_names_out(),
                      index=articles_names + [current_file_path.name])
-
-    return X.loc[current_file_path.name, :].sort_values(ascending=False)
+    X = X.loc[current_file_path.name, :].sort_values(ascending=False)
+    return X.to_frame().reset_index().rename({'index': 'term', f'{current_file_path.name}': 'value'}, axis=1)

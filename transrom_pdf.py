@@ -7,6 +7,9 @@ articles = Path(r'.\data\articles')
 mydict_files = sorted(list(mydict.rglob('*.pdf')))
 articles_files = sorted(list(articles.rglob('*.pdf')))
 
+articles_names = [i.name for i in articles_files]
+mydict_names = [i.name for i in mydict_files]
+
 
 def extract_txt(path, folder, return_value=False):
     file = extract_text(path)
@@ -17,7 +20,7 @@ def extract_txt(path, folder, return_value=False):
         return result_path
 
 
-if '__name__' == '__main__':
+if __name__ == '__main__':
     for path in mydict_files:
         print(path)
         extract_txt(path, folder='mydict_txt')
@@ -25,8 +28,5 @@ if '__name__' == '__main__':
     for path in articles_files:
         print(path)
         extract_txt(path, folder='articles_txt')
-
-articles_names = [i.name for i in articles_files]
-mydict_names = [i.name for i in mydict_files]
 
 
