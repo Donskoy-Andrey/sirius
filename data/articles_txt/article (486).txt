@@ -1,0 +1,373 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+УДК 622.276 
+
+ЭКСПЕРИМЕНТАЛЬНОЕ ИССЛЕДОВАНИЕ ПОЛИМЕРНОГО ЗАВОДНЕНИЯ  
+В ОДНОМ ИЗ ПЛАСТОВ, СОДЕРЖАЩИХ ТЯЖЕЛУЮ НЕФТЬ 
+●●●●●● 
+EXPERIMENTAL INVESTIGATION OF POLYMER FLOODING  
+IN ONE OF HEAVY OIL RESERVOIR 
+
+Мостаджеран Масуд 
+аспирант-исследователь, 
+РГУ нефти и газа (НИУ) имени И.М. Губкина 
+
+Mostajeran Masood 
+postgraduate researcher, 
+Gubkin Russian State University  
+of Oil and Gas (NIU) 
+
+Телков Виктор Павлович 
+кандидат технических наук, доцент, 
+РГУ нефти и газа (НИУ) имени И.М. Губкина 
+
+Аннотация.  В  последние  годы  разработка  ресурсов  тяжелой 
+нефти приобретает все большее значение для промышленно-
+сти. Наиболее эффективными методами увеличения нефтеот-
+дачи (МУН) для пластов с тяжелой нефтью являются тепловые 
+методы, особенно нагнетание пара, занимающие лидирующие 
+позиции при промысловой реализации МУН. Однако примене-
+ние этих методов может быть нерентабельно в определенных 
+пластовых условиях, например при глубоком залегании коллек-
+тора или при воздействии на пласты с небольшой эффективной 
+толщиной. 
+Важной является оценка с помощью исследований всех техни-
+ческих и экономических аспектов процесса полимерного завод-
+нения.  Оценка  эффективности  использования  этого  химиче-
+ского метода для увеличения нефтеотдачи пластов с тяжелой 
+нефтью является основной целью данной работы. Был прове-
+ден  ряд  экспериментальных  исследований,  для  нахождения 
+лучшего  полимерного  состава  для  оптимизации  соотношения 
+подвижностей  вытесняющего  флюида  и  нефти.  Минерализа-
+ция, температура и скорость сдвига – это основные критические 
+параметры,  влияние  которых  на  стабильность  полимерного 
+раствора полимера было изучено. 
+Используя наиболее подходящие условия для реализации по-
+лимерного  заводнения,  была проведена  серия  экспериментов 
+по  заводнению  пласта,  которая  показала  эффективность  при-
+менения метода для конкретных промысловых условий. 
+
+Telkov Victor Pavlovich 
+Candidate  of  Technical  Sciences,  Associate 
+Professor, 
+Gubkin  Russian  State  University  of  Oil  and 
+Gas (NIU) 
+
+Annotation. Heavy oil reservoirs are becom-
+ing more important in recent years. Thermal oil 
+recovery, especially steam flooding is consid-
+ered as the most efficient EOR techniques for 
+heavy oil reservoirs that stays on the top of the 
+recent  EOR  field  experience.  However,  this 
+method  is  not  applicable  in  some  reservoir 
+conditions  like  deep  reservoirs  or  reservoirs 
+with thin pay zones. 
+Important is the assessment through research 
+of  all  the  technical  and  economic  aspects  of 
+the  polymer  flooding  process.  Assessing  the 
+effectiveness of using this chemical method to 
+increase oil recovery of heavy oil formations is 
+the main goal of this work. A series of experi-
+mental studies was conducted to find the best 
+polymer  composition  to  optimize  the  ratio  of 
+the  mobilities  of  the  displacing  fluid  and  oil. 
+Mineralization,  temperature,  and  shear  rate 
+are the  main critical parameters whose  influ-
+ence  on  the  stability  of  the  polymer  solution 
+has been studied. 
+Using the most suitable conditions for the im-
+plementation of  polymer flooding, a series of 
+experiments  on  water  flooding  was  carried 
+out,  which  showed  the  effectiveness  of  the 
+method for specific field conditions. 
+
+Ключевые  слова:  полимерные  растворы,  полимерное  завод-
+нение, повышение нефтеотдачи, тяжелые нефти. 
+
+Keywords:  Polymer  solution,  Polymer  flood-
+ing, EOR, Heavy Oil. 
+
+В 
+
+се представленные исследования в рассмотренных источниках литературы [1–9] подтвер-
+ждают возможность эффективной реализации полимерного заводнения на объектах, содер-
+жащих тяжелые, высоковязкие нефти. Оценка рациональных условий реализации метода, позволяю-
+щих добиться наилучших результатов, является очень важной задачей для исследователей. Эта ра-
+бота направлена на изучение эффективности полимерного заводнения при извлечении тяжелой нефти 
+из одного из иранских пластов. Проведенное исследование позволило оценить влияние типа полимер-
+ного раствора и его концентрации в растворе на добычу нефти, в работе рассмотрены реологическое 
+поведение полимера и влияние минерализации на эффективность процесса. 
+
+Экспериментальные исследования полимерного заводнения проводились на специальной филь-
+трационной установке, с использованием кернодержателя с размерами 12×4 см для исследования вли-
+яния вязкости полимерного раствора и неоднородности пористой среды на прирост добычи нефти по-
+сле заводнения. 
+
+В рамках представленного исследования было изучено влияние типа полимера и его концентра-
+
+ции в растворе на извлечение из пласта тяжелой нефти. 
+
+328 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Таблица 1 – Свойства объекта исследования 
+
+Параметр 
+
+Пластовая температура 
+Плотность нефти 
+
+Вязкость пластовой нефти 
+Проницаемость пласта 
+Пористость пласта 
+Тип коллектора 
+
+Значение 
+100 
+
+995 
+
+100 
+
+0,01 
+
+18 
+песчаник 
+
+Размерность 
+°С 
+кг/м³ 
+
+сП 
+мкм² 
+% 
+
+– 
+
+Первоначально задачей исследования являлся выбор наиболее эффективного типа полимера, 
+затем для лучшего полимера были исследованы влияние его концентрации в растворе на эффектив-
+ность извлечения тяжелой нефти. 
+
+Первая часть исследований направлена на оценку влияния типа полимера на вязкость полимер-
+ного  раствора.  Растворы  полимеров  различного  типа  готовились  на  основе  морской  воды.  Экспери-
+менты проводились при комнатной температуре. 
+
+Рисунок 1 – Влияние типа полимера на вязкость полимерного раствора  
+при различной концентрации полимера в растворе:  
+синий и оранжевый цвет – 3 и 5 кг/м³ 
+
+Рисунок 2 – Влияние температуры на вязкость полимерного раствора с концентрацией 5 кг/м³  
+(в растворе морской воды) 
+
+На рисунке 2 показано влияние температуры на вязкость полимерного раствора для различных 
+типов полимеров. Отмечается, что более высокие значения вязкости характерны для раствора поли-
+мера HPAM, при этом с ростом температуры эта разница нивелируется. Более высокая вязкость рас-
+твора полимера HPAM при различных условиях обуславливает его выбор в качестве активного компо-
+нента при проведении дальнейших экспериментов по моделированию полимерного заводнения. 
+
+Далее рассмотрим влияние концентрации на вязкость раствора. 
+
+329 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Рисунок 3 – Влияние температуры на вязкость полимерного раствора с концентрацией 5 кг/м³  
+(в 3 %-м растворе NaCl) 
+
+Рисунок 4 – Влияние концентрация полимера на вязкость полимерного раствора  
+
+Как показано на рисунке, с увеличением концентрации вязкость раствора увеличивается. Из гра-
+фика можно видеть влияние концентрации полимера. Этот момент надо учитывать в процессе поли-
+мерного заводнения на месторождениях с тяжелой нефтью. 
+
+В данном эксперименте меняется только концентрация полимера. Надо отметить, что в работе 
+использован полимерный раствор на основе дистиллированной воды. Все тесты сделаны при темпе-
+ратуре 100 °С. 
+
+В  результате  проведения  экспериментов  по  вытеснению  нефти  полимерным  раствором  после 
+традиционного заводнения были построены графики зависимости коэффициента вытеснения для раз-
+личных  концентраций  полимерного  раствора.  Ниже  на  графиках  представлены  значения  изменения 
+коэффициента вытеснения при разных концентрациях. 
+
+Рисунок 5 – Полимерное заводнение после заводнения с концентрацией полимера 2 кг/м³ 
+
+330 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Рисунок 6 – Полимерное заводнение после заводнения с концентрацией полимера 3 кг/м³ 
+
+Рисунок 7 – Полимерное заводнение после заводнения с концентрацией полимера 5 кг/м³ 
+
+Рисунок 8 – Результаты полимерного заводнения при различных концентрациях 
+
+По результатам проведенной работы можно сделать следующие выводы:  
+1.  Полимерное заводнение позволяет увеличить нефтеотдачу в исследуемых условиях, при вы-
+
+теснении тяжелой нефти с вязкостью 100 мПа·с. 
+
+2.  Для  эффективного  полимерного  заводнения  пласта  с  тяжелой  нефтью  концентрация  рас-
+твора полимера должна быть не ниже порогового значения рациональной концентрации. Для условий 
+экспериментов, представленных в этой работе, пороговая концентрация составляет около 5 кг/м³. 
+
+Результаты показывают, что полимерное заводнение может быть эффективным для выработки 
+
+месторождений тяжелой нефти. 
+
+331 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Литература 
+
+1.  Gao C.H. Scientific research and field applications of polymer flooding in heavy oil recovery // Journal of Petro-
+
+leum Exploration and Production Technology. – 2011. – Vol. 1. – № 2. – P. 65–70.  
+
+2.  Jung J., C. Zhang K., Chon B.H., Choi H.I. Rheology and polymer flooding characteristics of partially hydrolyzed 
+polyacrylamide for enhanced heavy oil recovery // Journal of Applied Polymer Science. – 2013. – V. 127. – P. 4833–4839. 
+3.  Wassmuth F.R., Green K., Arnold W., Cameron N. Polymer Flood Application to Improve Heavy Oil Recovery 
+
+at East Bodo, 2009. 
+
+4.  Selby R., Alikhan A.A., Farouq Ali S.M. Potential of Non-Thermal Methods for Heavy Oil Recovery. // JCPT. – 
+
+1989. – Vol. 28. – № 4. – P. 45–59.  
+
+5.  Wang D., Cheng J., Wu J., Wang Y. Producing by polymer flooding more than 300 million barrels of oil what 
+experiences have been learnt // SPE 77872 presented at Asia Pacific Oil and Gas Conference and Exhibition, Melbourne 
+Australia, 8–10 October 2002.  
+
+6.  Телков В.П., Ким С.В., Мостаджеран М. Повышение эффективности вытеснения высоковязких нефтей 
+полимерными  растворами  //  Труды  XXI  Международного  симпозиума  имени  академика  М.А.  Усова  студентов  и 
+молодых ученых, посвященного 130-летию со дня рождения профессора М.И. Кучина «Проблемы геологии и осво-
+ения недр». – Томск : Изд-во Томского политехнического университета, 2017. – Т. 2. – С. 148–150. 
+
+7.  Wassmuth F., Arnold W., Green K., Cameron N. Polymer flood application to improve heavy oil recovery at east 
+Bodo // Paper 2007–184 presented at Canadian International Petroleum Conference, Calgary Canada, June 12–14 (2007).  
+8.  Wang J., Dong M. A laboratory study of polymer flooding for improving heavy oil recovery // Paper 2007–178 
+
+presented at the Canadian International Petroleum Conference, Calgary Canada, June 12–14 (2007).  
+
+9.  Asghari  K.,  Nakutnyy  P.  Experimental results  of polymer flooding  of  heavy  oil  reservoirs  //  Paper  2008–189 
+
+presented at the Canadian International Petroleum Conference, Calgary Canada, June 17–19 (2008).  
+
+10. Повышение нефтеизвлечения на месторождениях высоковязкой и тяжелой нефти с помощью полимер-
+
+ного заводнения / В.П. Телков [и др.]. – Нефтяное хозяйство. – 2018. – № 5. – С. 60–63. 
+
+11. Телков В.П., Мостаджеран М.Г. Оценка критериев применения полимерного заводнения для вытеснения 
+
+тяжелых, высоковязких нефтей Ирана // Экспозиция Нефть Газ. – 2018. – № 4 (64). – С. 52–55. 
+
+References 
+
+1.  Gao C.H. Scientific research and field applications of polymer flooding in heavy oil recovery // Journal of Petro-
+
+leum Exploration and Production Technology. – 2011. – Vol. 1. – № 2. – P. 65–70.  
+
+2.  Jung J., C. Zhang K., Chon B.H., Choi H.I. Rheology and polymer flooding characteristics of partially hydrolyzed 
+
+polyacrylamide for enhanced heavy oil recovery // Journal of Applied Polymer Science. – 2013. – Vol. 127. – P. 4833–4839. 
+
+3.  Wassmuth F.R., Green K., Arnold W., Cameron N. Polymer Flood Application to Improve Heavy Oil Recovery 
+
+at East Bodo, 2009. 
+
+4.  Selby R., Alikhan A.A., Farouq Ali S.M. Potential of Non-Thermal Methods for Heavy Oil Recovery. // JCPT. – 
+
+1989. – Vol. 28. – № 4. – P. 45–59.  
+
+5.  Wang D., Cheng J., Wu J., Wang Y. Producing by polymer flooding more than 300 million barrels of oil what 
+experiences have been learnt // SPE 77872 presented at Asia Pacific Oil and Gas Conference and Exhibition, Melbourne 
+Australia, 8–10 October 2002.  
+
+6.  Telkov V.P., Kim S.V., Mostajeran M. Increase of efficiency of displacement of the high-viscosity oils by polymer 
+solutions // Proceedings of the XXI International M.A. Usov Symposium for students and young scientists devoted to the 
+130th anniversary of Professor M.I. Kuchin «Problems of geology and mineral resources development». – Tomsk : Pub-
+lishing house of Tomsk Polytechnic University, 2017. – Vol. 2. – P. 148–150. 
+
+7.  Wassmuth F., Arnold W., Green K., Cameron N. Polymer flood application to improve heavy oil recovery at east 
+Bodo // Paper 2007–184 presented at Canadian International Petroleum Conference, Calgary Canada, June 12–14 (2007).  
+8.  Wang J., Dong M. A laboratory study of polymer flooding for improving heavy oil recovery // Paper 2007–178 
+
+presented at the Canadian International Petroleum Conference, Calgary Canada, June 12–14 (2007).  
+
+9.  Asghari  K.,  Nakutnyy  P.  Experimental results  of polymer flooding  of  heavy  oil  reservoirs  //  Paper  2008–189 
+
+presented at the Canadian International Petroleum Conference, Calgary Canada, June 17–19 (2008).  
+
+10. Increase of oil recovery at the high-viscosity and heavy oil fields by means of the polymer flooding / V.P. Telkov 
+
+[et al.]. – Oil economy. – 2018. – № 5. – Р. 60–63. 
+
+11. Telkov V.P., Mostajeran M.G. Estimation of the polymer flooding application criteria for the heavy, high-viscosity 
+
+oil displacing // Exposition Nefty Gaz. – 2018. – № 4 (64). – Р. 52–55. 
+
+332 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

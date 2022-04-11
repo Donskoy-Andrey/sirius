@@ -1,0 +1,1526 @@
+УДК 66.021.3: 66.048.3 
+
+67 
+
+СОВЕРШЕНСТВОВАНИЕ КОНСТРУКЦИИ КОЛПАЧКОВОЙ 
+
+ТАРЕЛКИ ДЛЯ РЕКТИФИКАЦИОННЫХ КОЛОНН 
+
+IMPROVING THE DESIGN OF CAP-TYPE PLATE  
+
+FOR RECTIFICATION COLUMNS 
+
+В.Г. Афанасенко, Ю.Л. Юнусова, В.Ф. Хузиев, В.А. Яковлев  
+
+Уфимский государственный нефтяной технический университет, 
+
+г. Уфа, Российская Федерация 
+
+Vitaliy G. Afanasenko, Julia L. Yunusova, Vilnar F. Khuziev,  
+
+Vitaliy A. Yakovlev 
+
+Ufa State Petroleum Technological University,  
+
+Ufa,  Russian Federation 
+
+e-mail: nedra.ugntu@gmail.com 
+
+Аннотация. 
+
+В 
+
+целях 
+
+развития 
+
+нефтеперерабатывающей 
+
+промышленности  непрерывно  ведется  поиск  решений,  способствующих 
+
+повышению  интенсивности  тепломассообменных  процессов,  что  требует 
+
+постоянного  совершенствования  основного    оборудования,  в  частности  – 
+
+аппаратов  колонного  типа.  Наряду  с  распространенными  способами 
+
+интенсификации  процессов  тепломассообмена  (увеличение  удельной 
+
+поверхности  контакта  фаз,  повышение  эффективности  перемешивания, 
+
+увеличение 
+
+скорости 
+
+относительного 
+
+движения 
+
+потоков, 
+
+совершенствование  способов  осуществления  контакта  фаз  и  т.д.), 
+
+эффективным способом решения подобной задачи является использование 
+
+нестационарных 
+
+режимов  межфазного 
+
+обмена, 
+
+обеспечивающих 
+
+достижение  высоких  мгновенных  значений  коэффициентов  тепло-  и 
+
+массопередачи.  При  проведении  опытов  реализован  принцип  дискретно-
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+68 
+
+импульсных  воздействий  на  обрабатываемые  вещества,  который 
+
+заключается  в  том,  что  введенная  в  систему  энергия  концентрируется  в 
+
+локально разобщенных дискретных точках системы.  
+
+Контактные устройства являются основными элементами, влияющими 
+
+на  эффективность  работы  массообменных  аппаратов  колонного  типа, 
+
+поэтому  применение  принципа  дискретно-импульсных  воздействий 
+
+целесообразно реализовывать локально на контактных устройствах. 
+
+Известно 
+
+много 
+
+конструкций 
+
+контактных 
+
+устройств, 
+
+классифицируемых  по  различным  признакам,  обладающих  отличными 
+
+друг  от  друга  эксплуатационными  характеристиками.  В  данной  работе 
+
+представлена 
+
+конструкция 
+
+колпачковой  массообменной 
+
+тарелки, 
+
+особенностью  которой  является  использование  термоэлектрических 
+
+преобразователей,  базирующихся  на  эффекте  Пельтье,  позволяющих 
+
+вводить  энергию  в  дискретные  точки  системы  в  виде  дополнительного 
+
+нагрева  жидкой  фазы  и  одновременного  охлаждения  паровой  фазы,  что 
+
+является  введением  нестационарности  по  профилю  температур  в  
+
+исследуемую  систему.  Приводятся  описание  конструкции  разработанного 
+
+контактного  устройства,  а  также  исследования,  направленные  на 
+
+определение 
+
+оптимального 
+
+расположения 
+
+термоэлектрических 
+
+преобразователей,  проведенные  путем  использования  тепловизионной 
+
+съемки эксперимента, измерением размеров зон термического воздействия. 
+
+Получена  конструкция,  позволяющая  осуществлять  дополнительный 
+
+нагрев  стороны  полотна  тарелки,  контактирующей  непосредственно  с 
+
+жидкой фазой исследуемой жидкости, а также дополнительное охлаждение 
+
+стороны  полотна  тарелки,  контактирующей  с  газовой  фазой.  Площадь 
+
+дополнительных  нагрева  и  охлаждения  относительно  свободного  полотна 
+
+тарелки, согласно расчетам, составила 74,0 % и 47,8 % соответственно.  
+
+Abstract. For the purpose of oil refining industry development search of the 
+
+solutions  which  are  support  increase  of  heat  and  mass  transfer  processes 
+
+intensity  entailing  need  of  continuous  main  equipment  improvement,  in 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+69 
+
+particular – column devices. Along with the common methods of heat and mass 
+
+transfer  processes  intensification  (increasing  phase  contact  surface  area, 
+
+increasing  the  mixing  efficiency,  increasing  the  flows  speed,  improving  the 
+
+phase contact methods, etc.), an effective way to solve this problem is the use of 
+
+non-stationary  interfacial  exchange  modes,  ensuring  the  achievement  of  heat 
+
+high  instantaneous  values  and  mass  transfer  coefficients.  To  obtain  non-
+
+stationary  modes  in  the  experiments  which  are  described  in  this  article,  the 
+
+energy discrete-pulse input principle on the processed substances is used, which 
+
+consists  in  the  fact  that  the  energy  injected  into  the  system  is  concentrated  in 
+
+locally separated discrete points of the system. 
+
+Contact  devices  are  the  main  elements  that  affect  the  efficiency  of  mass 
+
+transfer column-type  apparatus. So the application of the  energy discrete-pulse 
+
+input principle is advisable to implement locally on contact devices. 
+
+There are many designs of contact devices, classified according to different 
+
+attributes,  with  different  performance  characteristics.  This  article  presents  the 
+
+design  of  the  cap-type  mass  transfer  plate,  a  feature  of  which  is  the  use  of 
+
+thermoelectric  converters  based  on  the  Peltier  effect,  allowing  to  introduce 
+
+energy into discrete points of the system in the form of additional heating of the 
+
+liquid  phase  and  simultaneous  cooling  of  the  vapor  phase,  that  is  the 
+
+representation of  non-stationary  mode  in the temperature profile  in the  studied 
+
+system.  The  design  description  of  the  developed  contact  device,  as  well  as 
+
+studies aimed at determining the optimal location of thermoelectric converters, 
+
+performed by using carried experiment thermal imaging, measuring the thermal 
+
+impact  zones  size.  The  design  allows  for  additional  heating  of  the  plate  side 
+
+being in contact directly with the liquid phase of the studied liquid, as well as 
+
+additional  cooling  of  the  plate  side  being  in  contact  with  the  gas  phase.  The 
+
+additional heating and cooling area relative to the free plate sheet according to 
+
+calculations was 74.0 % and 47.8 %, respectively. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+70 
+
+Ключевые  слова:  массообменные  процессы,  контактное  устройство, 
+
+ректификационные колонны, дискретно-импульсный ввод энергии, эффект 
+
+Пельтье 
+
+Key  words:  mass transfer  processes, contact device,  rectification  columns, 
+
+energy discrete-pulse input, Peltier effect 
+
+Введение 
+
+Ректификационные  колонны,  предназначенные  для  разделения  смесей 
+
+с 
+
+разной 
+
+температурой 
+
+кипения,  широко 
+
+используются 
+
+в 
+
+нефтеперерабатывающей промышленности, поэтому от их эффективности 
+
+зависят  материальные,  энергетические  и  трудовые  затраты,  качество 
+
+нефтепродуктов и показатели по отбору, глубина переработки и др. [1–3].  
+
+В  химической,  нефтехимической,  пищевой,  газовой  промышленности 
+
+теплоэнергетике 
+
+теплообменные  и 
+
+тепломассообменные 
+
+аппараты 
+
+применяются не только как самостоятельные аппараты, но и как составные 
+
+устройства сложной технологической цепочки, поэтому важным фактором 
+
+интенсификации 
+
+различных 
+
+процессов 
+
+является 
+
+повышение 
+
+эффективности аппаратов наименьшей производительности. 
+
+Массообменные  процессы  на  границе  раздела  фаз  протекают  иначе, 
+
+чем  в  объеме  реагирующей  среды,  в  связи  с  тем,  что  переходный  слой 
+
+между фазами обладает мультифрактальными свойствами в распределении 
+
+энергетических  и  геометрических  параметров  [4].  Существует  множество 
+
+способов  совершенствования  контакта  фаз,  один  из  них  –  импульсное 
+
+воздействие  на  обрабатываемые  вещества,  в  частности  использование 
+
+температурных неоднородностей в гетерогенных средах [5-12]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+71 
+
+Конструкция  массообменной  тарелки  с  термоэлектирическими 
+
+преобразователями 
+
+В  процессе  разработки  контактных  устройств  для  массообменных 
+
+аппаратов  одной  из  основных  задач  является  повышение  эффективности 
+
+процесса ректификации [13–15].  
+
+Указанная  задача  в  данной  работе  решается  за  счет  температурного 
+
+воздействия  на  паровую  и  жидкую  фазу  разделяемого  потока  путем 
+
+создания  массообменной  тарелки,  содержащей  паровые  патрубки, 
+
+колпачки  и  сливные  устройства,  в  основании  которой  установлены 
+
+плоские 
+
+элементы 
+
+термоэлектрических  преобразователей,  принцип 
+
+действия которых основан на эффекте Пельтье, – элементы Пельтье (ЭП).  
+
+Принцип  работы  ЭП  заключается  в  возникновении  разности  температур 
+
+при протекании электрического тока [16–19]. 
+
+На  рисунке  1  представлен  общий  вид  колпачковой  тарелки  с 
+
+термоэлектрическими преобразователями. 
+
+Колпачковая  тарелка  представляет  собой  два  соединенных  листа 
+
+металла:  нижний  5  и  верхний  6,  между  которыми  находятся 
+
+термоэлектрические  преобразователи  Пельтье  7,  также  конструкция 
+
+содержит паровые патрубки 1, колпачки 2, сливные устройства 3. 
+
+На  рисунке  2  представлен  термоэлектрический  преобразователь, 
+
+установленный между листов металла основания тарелки. 
+
+Принцип  действия  устройства 
+
+следующий:  при  пропускании 
+
+электрического 
+
+тока 
+
+через 
+
+элементы 
+
+термоэлектрических 
+
+преобразователей  7  одна  сторона  элемента  нагревается,  а  другая 
+
+охлаждается.  Установка  таких  элементов  между  двух  слоев  металла, 
+
+образующих 
+
+массообменную 
+
+тарелку, 
+
+позволит 
+
+дополнительно 
+
+подогревать верхний 6и охлаждать нижний 5 листы.  
+
+Рассмотрим принцип действия разработанного контактного устройства 
+
+с 
+
+точки 
+
+зрения  массообменного 
+
+процесса, 
+
+происходящего 
+
+в 
+
+ректификационной  колонне:  в  процессе  ректификации  поток  паровой 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+фазы,  обогащенный  низкокипящим  компонентом,  подводится  к  нижней 
+
+(охлаждаемой)  части  5  поверхности  тарелки,  и  при  непосредственном 
+
+контакте с ней происходит отвод тепла из газовой фазы.  
+
+72 
+
+1 – паровые патрубки; 2 – колпачки; 3 – сливные устройства;  
+4 – полотно тарелки; 5 – нижний лист металла; 6 – верхний лист металла;  
+7 – термоэлектрические преобразователи 
+
+Рисунок 1. Колпачковая тарелка с термоэлектрическими 
+преобразователями 
+
+1 – патрубки; 5 – нижний лист металла; 6 – верхний лист металла;  
+7 – термоэлектрический преобразователь 
+
+Рисунок 2. Термоэлектрический преобразователь,  
+установленный в тарелке 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+73 
+
+Этот  процесс  приводит  к  частичной  конденсации  высококипящего 
+
+компонента  разделяемой  смеси,  повышая  эффективность  ректификации. 
+
+Далее паровая фаза проходит  через патрубки  1, закреплённые на тарелке, 
+
+и,  разворачиваясь  при  контакте  с  колпачком  2,  барботируется  через  слой 
+
+жидкой  фазы,  который  находится  на  верхней  (нагреваемой)  поверхности  
+
+тарелки.  
+
+На 
+
+втором 
+
+этапе 
+
+реализуется 
+
+традиционный 
+
+этап 
+
+тепло-
+
+массообменного процесса при непосредственном контакте фаз.  
+
+Поток  жидкой  фазы,  состоящий  преимущественно  из  высококипящих 
+
+компонентов  смеси,  движется  горизонтально  по  верхней  поверхности 
+
+основания тарелки, обтекая колпачки 2, от одного сливного устройства 3 к 
+
+другому.  Дополнительное  тепло,  отдаваемое  верхней  поверхностью  6 
+
+основания  тарелки  4  жидкой  фазе,  увеличивает  количество  испаренного 
+
+низкокипящего  компонента,  что  повышает  эффективность  разделения 
+
+смеси [20]. 
+
+Исследование эффективности теплоотдачи полотна тарелки  
+
+со встроенным элементом Пельтье 
+
+Для  наибольшей  эффективности  работы  контактного  устройства 
+
+необходимо  обеспечить  оптимальное  расположение  термоэлементов 
+
+между  листами  основания  тарелки,  для  этого  необходимо  определить, 
+
+какая  площадь  поверхности  полотна  тарелки  нагревается,  а  какая 
+
+охлаждается при использовании стандартного модуля элемента Пельтье. 
+
+С целью определения оптимально шага расположения термоэлементов 
+
+Пельтье был сконструирован стенд, представленный на рисунке 3.  
+
+С  его  помощью  производились  измерения  температуры  нагрева  и 
+
+охлаждения листового  металла при контакте его с термопреобразователем 
+
+Пельтье.  Для  регистрации  показаний  использовалась  тепловизионная 
+
+съемка. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+74 
+
+1 – открытая емкость с водой; 2 – место установки ЭП между двумя листами стали;  
+3 – листовая сталь толщиной 2 мм; 4 – генератор постоянного электрического тока 
+
+Рисунок 3. Фотография экспериментальной сборки с охлаждением 
+
+Исследования проводились в два этапа:  
+
+1)  без жидкости на поверхности тарелки; 
+
+2)  с имитацией жидкой фазы на поверхности тарелки. 
+
+Жидкая  фаза  способствует  отводу  тепла  от  верхней  поверхности 
+
+полотна тарелки в месте расположения термоэлемента. 
+
+Отвод  тепла  осуществлялся  с  помощью  полимерной  емкости, 
+
+наполненной  водой 
+
+температурой  равной  начальной  температуре 
+
+остальных элементов системы (уровень воды устанавливался аналогичным 
+
+уровню  жидкости  в  лабораторной  колонне  для  исследования  процесса 
+
+ректификации).  Изменения  температуры  регистрировались  при  помощи 
+
+тепловизора  Ti55  IR  Flexcam.  Для  удобства  интерпретации  результатов 
+
+используются  следующие  обозначения:  «низ»  –  охлаждаемая  сторона 
+
+исследуемого  материала,  «верх»  –  нагреваемая  сторона.  Начальная 
+
+температура исследуемого материала составляет 20 °С. 
+
+Тепловизионная  съемка  проводилась  в  течение  5  мин,  регистрация 
+
+изображения осуществлялась с интервалом 0,5 мин для четырех случаев:  
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+75 
+
+1. «верх» без охлаждения (рисунок 4); 
+
+2. «верх» с охлаждением (рисунок 5); 
+
+3. «низ» без охлаждения (рисунок 6); 
+
+4. «низ» с охлаждением (рисунок 7). 
+
+На  рисунках  4–7  показаны  фото  эксперимента  для  0,5  мин,  1,0  мин, 
+
+3,0 мин,  4,0  мин,  4,5  мин,  5,0  мин  работы  термоэлектрического 
+
+преобразователя  с  указанием  максимальной  (для  нагреваемой  стороны)  и 
+
+минимальной  (для  охлаждаемой  стороны)  температуры  исследуемого 
+
+материала. 
+
+Рисунок 4. Тепловизионная съемка «верха» без охлаждения  
+(0,5 мин; 1,0 мин; 3,0 мин; 4,0 мин; 4,5 мин; 5,0 мин) 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+76 
+
+Рисунок 5. Тепловизионная съемка «верха» с охлаждением  
+(0,5 мин; 1,0 мин; 3,0 мин; 4,0 мин; 4,5 мин; 5,0 мин) 
+
+Рисунок 6. Тепловизионная съемка «низа» без охлаждения  
+(0,5 мин; 1,0 мин; 3,0 мин; 4,0 мин; 4,5 мин; 5,0 мин) 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+77 
+
+Рисунок 7. Тепловизионная съемка «низа» с охлаждением  
+(0,5 мин; 1,0 мин; 3,0 мин; 4,0 мин; 4,5 мин; 5,0 мин) 
+
+Инфракрасное  излучение  тепловизора  проникает  через  объем  воды  и 
+
+регистрирует температуру металла, контактирующего с термоэлементом. В 
+
+связи  с  этим  дополнительно  проводились  измерения  температуры  воды 
+
+термометром стеклянным ТН7 с диапазоном измерений от 0 ℃  до 360 ℃, 
+
+получены данные, приведенные в таблице 1: 
+
+Таблица 1. Результаты измерения температур в ходе испытания 
+
+№ 
+п/п 
+
+Время, мин 
+
+Температура 
+воды 
+
+Температура 
+металла (верх) 
+
+Температура 
+металла (низ) 
+
+Уровень воды- 1 см (200 мл) 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+  0 
+
+  1,0 
+
+  2,0 
+
+  3,0 
+
+  4,0 
+
+  4,5 
+
+  5,0 
+
+21,0 
+
+22,0 
+
+23,0 
+
+23,5 
+
+24,0 
+
+24,3 
+
+24,5 
+
+21,00 
+
+25,89 
+
+26,28 
+
+27,17 
+
+27,28 
+
+27,67 
+
+27,67 
+
+21,00 
+
+11,00 
+
+9,11 
+
+8,78 
+
+8,61 
+
+8,89 
+
+10,06 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+78 
+
+Из таблицы 1 следует, что при достижении времени 4,5 мин количество 
+
+отводимой 
+
+энергии  с  верхней  поверхности  основания  начинает 
+
+уменьшаться.  В  связи  с  этим  в  данной  работе  при  оценке  шага 
+
+расположения  термоэлементов  учитывался  размер  теплового  пятна 
+
+нагревающейся  части,  зарегистрированный  при  4,5  мин  от  начала 
+
+испытания. 
+
+Для  анализа    распространения  тепловой  энергии  термоэлемента  были 
+
+взяты данные по размеру теплового пятна при работе термоэлектрического 
+
+преобразования  в  течение  4,5  мин,  т.к.  при  дальнейшем  проведении 
+
+эксперимента 
+
+без 
+
+отвода 
+
+тепла 
+
+охлаждающая 
+
+сторона 
+
+теряет 
+
+эффективность и начинается  постепенный нагрев контактирующего с ней 
+
+материала. Это связано с тем, что происходит частичная передача тепла от 
+
+горячей стороны термоэлемента к холодной. При достижении температуры 
+
+кипения  жидкости  эффективность  работы  холодной  стороны  начнет 
+
+увеличиваться. 
+
+Экспериментально  определены  площади  нагрева  и  охлаждения 
+
+поверхности  основания  тарелки,  изготовленной  из  листового  стального 
+
+проката  толщиной  2  мм.  Средний  диаметр  поверхности  нагрева  составил 
+
+134  мм.  Средний  диаметр  поверхности  с  пониженной  температурой 
+
+составил 76 мм. 
+
+При  определении  оптимального  шага  расположения  стандартных 
+
+термоэлементов учитывались следующие параметры: 
+
+1. размеры  используемого  в  ходе  эксперимента  термоэлектрического 
+
+преобразователя 
+
+– 
+
+элемента  Пельтье 
+
+SP1848 
+
+27145 
+
+SA  
+
+(40 x 40 х 4 мм); 
+
+2. размер  области  термического  воздействия,  зарегистрированной  при 
+
+4,5 мин от начала испытания; 
+
+3. параметры  колпачковой  тарелки  согласно  отраслевому  стандарту 
+
+[21]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+Согласно 
+
+отраслевому 
+
+стандарту 
+
+[21], 
+
+тарелка 
+
+колпачковая 
+
+неразборная, для колонных аппаратов диаметром 400 мм имеет параметры 
+
+согласно таблице 2. 
+
+79 
+
+Таблица 2. Параметры колпачковых тарелок 
+
+Диаметр 
+колонны 
+D 
+
+Диаметр 
+основания 
+тарелки 
+D1 
+
+Диаметр 
+колпачка d 
+
+Размер скоб 
+крепежных 
+колпачков, мм 
+
+Диаметр 
+колпачка d 
+
+Кол-во 
+колпачков 
+на тарелке 
+n, шт.  
+
+400 
+
+380 
+
+60 
+
+36 
+
+60 
+
+7 
+
+Определение  оптимального  места  расположения  элементов  Пельтье 
+
+проводилось со следующими допущениями (рисунок 8): 
+
+а)  при  расчетах  учитывался  не  диаметр  колпачков,  а  размер  скоб 
+
+крепежных, 
+
+т.к. 
+
+возможность 
+
+расположения 
+
+термоэлементов 
+
+регламентируется положением скоб; 
+
+б) расположением болтов и шпилек пренебрегли. 
+
+Коэффициент  термического  воздействия  нагреваемой  поверхности 
+
+(     вычислялся по формуле: 
+
+       , 
+
+(1) 
+
+где    – свободная поверхность тарелки; 
+
+    – площадь нагрева. 
+
+Коэффициент  термического  воздействия  охлаждаемой  поверхности 
+
+(     вычислялся по формуле: 
+
+(2) 
+
+где    – свободная поверхность тарелки; 
+
+    – площадь охлаждения. 
+
+Полученные данные отражены в таблице 3: 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+      
+   
+  
+ 
+      
+   
+  
+        
+ 
+80 
+
+1 – полотно тарелки; 2 – ЭП; 3 – крепежные скобы;  
+4 – область термического воздействия 
+
+Рисунок  8. Локализация термоэлементов на колпачковой тарелке 
+
+Таблица  3.  Данные  по  термическому  воздействию  ЭП  на  нагреваемую  и 
+охлаждаемую стороны тарелки 
+
+Количество ЭП 
+
+5 
+
+   , % 
+
+74 
+
+   , % 
+
+47,8 
+
+Площадь  поверхности  перекрытия  зон  нагрева  от  общей  поверхности 
+
+нагрева составила 8,3 %. 
+
+Вывод 
+
+Использование  термоэлектрических  преобразователей  в  колпачковых 
+
+тарелках, согласно предложенной в данной статье конструкции, позволяет 
+
+вводить дополнительную энергию в процесс ректификации путем создания 
+
+температурного  градиента,  влияющего  и  на  процесс  конденсации,  и  на 
+
+процесс  парообразования.  При  внедрении  ЭП  в  конструкцию  тарелки  в 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+количестве 7 штук площади нагревания и охлаждения составляют 74,0 % и 
+
+47,8 % от свободной поверхности тарелки соответственно. 
+
+81 
+
+Список используемых источников  
+
+1.  Хафизов  Ф.Ш.,  Афанасенко  В.Г.,  Хафизов  Н.Ф.  Кавитирование 
+
+жидкой  фазы  как  способ  интенсификации  массообменных  процессов  // 
+
+Естественные и технические науки. 2007. № 4 (30). С. 267-268. 
+
+2.  Rohman A.S., Rusmin P.H., Maulidda R., Hidayat E.M.I., Machbub C., 
+
+Mahayana  D.  Modeling  of  the  Mini  Batch  Distillation  Column  //  International 
+
+Journal  on  Electrical  Engineering  and  Informatics.  2018.  Vol.  10.  Issue  2. 
+
+pp. 350-368. DOI: 10.15676/ijeei.2018.10.2.11. 
+
+3.  Grisales  Díaz  V.H.,  Olivar  Tost  G.  Techno-Economic  Analysis  of 
+
+Extraction-Based  Separation  Systems  for  Acetone,  Butanol,  and  Ethanol 
+
+Recovery  and  Purification  //  Bioresources  and  Bioprocessing.  2017.  Vol.  4, 
+
+Issue  1,  pp.  4-12.  URL:  https://bioresourcesbioprocessing.springeropen.com 
+
+/articles/10.1186/s40643-017-0142-z.  (дата  обращения:  05.05.2019).  DOI: 
+
+10.1186/s40643-017-0142-z. 
+
+4.  Наумкин Е.А., Кузеев И.Р. Поверхность и поверхностные явления // 
+
+Прикладная  синергетика  –  II:  матер.  науч.-практ.  конф.  Уфа,  2004.  
+
+С. 171-179. 
+
+5.  Долинский  А.А.,  Ободович  А.Н.,  Сидоренко В.В.  Интенсификация 
+
+аэрации  и  массопереноса  в  технологии  очистки  сточных  вод  за  счет 
+
+дискретно-импульсного  ввода  энергии  //  Теплофизика  и  аэромеханика. 
+
+2018. Т. 25. № 4. С. 649-656. 
+
+6.  Василишин  М.С.,  Иванов  О.С.,  Будаева  В.В.,  Бычин  Н.В., 
+
+Золотухин В.Н.,  Гисматулина  Ю.А.  Оценка  параметров  диспергирования 
+
+технической 
+
+целлюлозы 
+
+в 
+
+роторно-пульсационном 
+
+аппарате 
+
+// 
+
+Ползуновский вестник. 2016. № 4-1. С. 142-146. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+82 
+
+7.  Васильев М.П., Абиев Р.Ш. Диспергирование капель масла в воде в 
+
+пульсационном 
+
+аппарате  проточного 
+
+типа 
+
+//  Известия  Санкт-
+
+Петербургского государственного технологического института. 2014. № 23 
+
+(49). С. 66-68. 
+
+8.  Юнусова  Ю.Л.  Интенсификация  массообменных  процессов 
+
+нестационарными  воздействиями  //  Матер.  45-й  Междунар.  науч.-техн. 
+
+конф.  молодых  ученых,  аспирантов  и  студентов.  Уфа:  Изд-во  УГНТУ, 
+
+2018. С. 103-105. 
+
+9.  Дубовкина И.А. Исследование свойств водно-спиртовых растворов 
+
+при обработке методом дискретно-импульсного ввода энергии // Пищевая 
+
+наука и технология. 2013. Т. 22. № 1. С. 64-66. 
+
+10. Драганов  Б.Х.,  Борхаленко  Ю.А.  Основы  концепции  дискретно-
+
+импульсного  ввода  энергии 
+
+//  Труды  Кубанского  государственного 
+
+аграрного университета. 2013. № 42. С. 147-151. 
+
+11. Bessarab  O.,  Obodovich  O.,  Sydorenko  V.  Intensification  of  Mass 
+
+Transfer Processes in Gas-Liquid Media by Discrete-Pulse Energy Input Method 
+
+// Ukranian Food Journal. 2016. Vol. 5. Issue 2. Р. 368-375. 
+
+12. Tselen  B.,  Stolitnia  N.  Influence  of  the  Discrete-Pulse  Input  of  Energy 
+
+on  ph  of  the  Acidic  Solution  //  International  Scientific  Journal  «Internauka». 
+
+2017. Vol. 1. No. 28. pp. 72-77. 
+
+13. Боев  Е.В.,  Афанасенко  В.Г.,  Николаев  Е.А.,  Иванов  С.П. 
+
+Повышение эффективности тепломассообменных насадок промышленных 
+
+градирен // Газовая промышленность. 2010. No. 7 (648). С. 85-88. 
+
+14. Taqvi  S.A.,  Tufa  L.D.,  Muhadizir  S.  Optimization  and  Dynamics  of 
+
+Distillation Column Using Aspen Plus // Procedia Engineering. 2016. No. 148. 
+
+pp. 
+
+978-984. 
+
+URL: 
+
+https://www.sciencedirect.com/science/article/pii 
+
+/S1877705816309511?via%3Dihub.  DOI:  10.1016/j.proeng.2016.06.484.  (дата 
+
+обращения: 05.05.2019). 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+83 
+
+15. Xiong  W.,  Chen  L.,  Liu  F.,  Xu  B.  Multiple  Model  Identification  for  a 
+
+High  Purity  Distillation  Column  Process  Based  on  em  Algorithm 
+
+// 
+
+Mathematical  Problems  in  Engineering.  2014.  Vol.  2014.  No.  712682.  9  p. 
+
+URL:  https://www.hindawi.com/journals/mpe/2014/712682  (дата  обращения: 
+
+05.05.2019). DOI: 10.1155/2014/712682. 
+
+16. Афанасенко  В.Г.,  Юнусова  Ю.Л.  Создание  температурных 
+
+неоднородностей  с  применением  элемента  Пельтье  для  интенсификации 
+
+массообменных  процессов  нефтегазовой  отрасли  //  Записки  Горного 
+
+института. 2019. Т. 235. С. 10-15. DOI: 10.31897/PMI.2019.1.10. 
+
+17. Harrson  S.  Santana,  Geovanni  B.  Sanchez,  Osvaldir  P.  Taranto 
+
+Evaporation of Excess Alcohol in Biodiesel in a Microchannel Heat Exchanger 
+
+with  Peltier  Module  //  Chemical  Engineering  Research  and  Design.  2017. 
+
+No. 124. pp. 20-28. 
+
+18. Monfared  B.  Simulation  of  Solid-State  Magnetocaloric  Refrigeration 
+
+Systems  with  Peltier  Elements  as  Thermal  Diodes  //  International  Journal  of 
+
+Refrigeration.2017. No. 74. pp. 324-332. 
+
+19. Vries W., Theo H. van der Meer. Application of Peltier Thermal Diodes 
+
+in a Magnetocaloric Heat Pump // Applied Thermal Engineering. 2017. No. 111. 
+
+pp. 377-386. 
+
+20. Пат.  175743  РФ,  МПК  51  В  01  D.  Колпачковая  тарелка  с 
+
+термоэлектрическими  преобразователями  /  В.Г.  Афанасенко,  И.Р.  Кузеев, 
+
+М.И.  Баязитов,  П.А.  Кулаков,  Ю.Л.  Юнусова.  2017111339,  Заявлено 
+
+04.04.2017; Опубл. 18.12.2017. Бюл. № 35. 
+
+21. ОСТ  26-01-66-81.  Тарелки  колпачковые  стальные  колонных 
+
+аппаратов. Параметры, конструкция и размеры. Харьков: УкрНИИхиммаш, 
+
+1986. 31 с. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+84 
+
+References 
+
+1.  Khafizov F.Sh., Afanasenko V.G., Khafizov N.F. Kavitirovanie zhidkoi 
+
+fazy  kak  sposob  intensifikatsii  massoobmennykh  protsessov  [Cavitation  of  a 
+
+Liquid  Phase  as  a  Way  of  Intensification  of  a  Mass  Transfer  Processes]. 
+
+Estestvennye i tekhnicheskie nauki – Natural and Technical Sciences, 2007, No. 
+
+4 (30), pp. 267-268. [in Russian]. 
+
+2.  Rohman A.S., Rusmin P.H., Maulidda R., Hidayat E.M.I., Machbub C., 
+
+Mahayana  D.  Modeling  of  the  Mini  Batch  Distillation  Column.  International 
+
+Journal  on  Electrical  Engineering  and  Informatics,  2018,  Vol.  10,  Issue  2, 
+
+pp. 350-368. DOI: 10.15676/ijeei.2018.10.2.11. 
+
+3.  Grisales  Díaz  V.H.,  Olivar  Tost  G.  Techno-Economic  Analysis  of 
+
+Extraction-Based  Separation  Systems  for  Acetone,  Butanol,  and  Ethanol 
+
+Recovery and Purification. Bioresources and Bioprocessing, 2017, Vol. 4, Issue 
+
+1,  pp.  4-12.  Available  at:  https://bioresourcesbioprocessing.springeropen. 
+
+com/articles/10.1186/s40643-017-0142-z 
+
+(accessed 
+
+05.05.2019).  DOI: 
+
+10.1186/s40643-017-0142-z. 
+
+4.  Naumkin  E.A.,  Kuzeev  I.R.  Poverkhnost'  i  poverkhnostnye  yavleniya 
+
+[Surface 
+
+and  Surface  Phenomena].  Materialy  nauchno-prakticheskoi 
+
+konferentsii  «Prikladnaya  sinergetika  –  II»  [Materials  of  Scientific-Practical 
+
+Conference «Applied Synergetics – II»]. Ufa, 2004, pp. 171-179. [in Russian]. 
+
+5.  Dolinskii  A.A.,  Obodovich  A.N.,  Sidorenko  V.V.  Intensifikatsiya 
+
+aeratsii  i  massoperenosa  v  tekhnologii  ochistki  stochnykh  vod  za  schet 
+
+diskretno-impul'snogo  vvoda  energii  [Intensification  of  Aeration  and  Mass 
+
+Transfer Process in Wastewater Treatment Technology due to Discrete Impulse 
+
+Energy 
+
+Input].  Teplofizika 
+
+i  aeromekhanika  –  Thermophysics  and 
+
+Aeromechanics, 2018, Vol. 25, No. 4, pp. 649-656. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+85 
+
+6.  Vasilishin  M.S., 
+
+Ivanov  O.S.,  Budaeva  V.V.,  Bychin  N.V., 
+
+Zolotukhin V.N.,  Gismatulina  Yu.A.  Otsenka  parametrov  dispergirovaniya 
+
+tekhnicheskoi  tsellyulozy  v  rotorno-pul'satsionnom  apparate  [Estimation  of 
+
+Dispersion  Parameters  of  Technological  Cellulose 
+
+in  Rotary  Pulsation 
+
+Apparatus]. 
+
+Izvestiya 
+
+Sankt-Peterburgskogo 
+
+gosudarstvennogo 
+
+tekhnologicheskogo  instituta  –  News  of  the  St.  Petersburg  State  Technological 
+
+Institute, 2014, No. 23 (49), pp. 66-68. [in Russian].  
+
+7.  Vasil'ev  M.P.,  Abiev  R.Sh.  Dispergirovanie  kapel'  masla  v  vode  v 
+
+pul'satsionnom apparate protochnogo tipa [Dispersion of Oil Droplets in Water]. 
+
+Izvestiya Sankt-Peterburgskogo gosudarstvennogo tekhnologicheskogo instituta 
+
+–  News  of  the  St.  Petersburg  State  Technological  Institute,  2014,  No.  23  (49), 
+
+pp. 66-68. [in Russian]. 
+
+8.  Yunusova  Yu.L. 
+
+Intensifikatsiya  massoobmennykh 
+
+protsessov 
+
+nestatsionarnymi vozdeistviyami [Intensification of Mass Transfer Processes by 
+
+Non-Stationary Effects]. Materialy 45-i mezhdunarodnoi nauchno-tekhnicheskoi 
+
+konferentsii  molodykh  uchenykh,  aspirantov  i  studentov  [Materials  of  the 
+
+International  Scientific  and  Technical  Conference  of  Young  Scientists, 
+
+Postgraduates  and  Students].  Ufa,  USPTU  Publ.,  2018,  pp.  103-105. 
+
+[in Russian]. 
+
+9.  Dubovkina  I.A.  Issledovanie  svoistv  vodno-spirtovykh  rastvorov  pri 
+
+obrabotke  metodom  diskretno-impul'snogo  vvoda  energii  [The  Study  of  the 
+
+Properties  of  Water-Spirit  Solutions  after  Application  the  Method  of  Discrete 
+
+Impulse Energy Input].  Pishchevaya nauka i tekhnologiya  –  Food Science and 
+
+Technology, 2013, Vol .22, No 1, pp.64-66. [in Russian]. 
+
+10. Draganov  B.Kh.,  Borkhalenko  Yu.A.  Osnovy  kontseptsii  diskretno-
+
+impul'snogo  vvoda  energii  [The  Basics  of  the  Concept  of  Discrete  Impulse 
+
+Energy  Input].  Trudy  Kubanskogo  gosudarstvennogo  agrarnogo  universiteta  – 
+
+Proceedings of the Kuban State Agrarian University, 2013, No. 42, pp. 147-151. 
+
+[in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+86 
+
+11. Bessarab  O.,  Obodovich  O.,  Sydorenko  V.  Intensification  of  Mass 
+
+Transfer Processes in Gas-liquid Media by Discrete-Pulse Energy Input Method. 
+
+Ukranian Food Journal, 2016, Vol. 5, Issue 2, pp. 368-375. 
+
+12. Tselen  B.,  Stolitnia  N.  Influence  of  the  Discrete-Pulse  Input  of  Energy 
+
+on  PH  of  the  Acidic  Solution.  International  Scientific  Journal  «Internauka», 
+
+2017, Vol.1, No. 28, pp. 72-77. 
+
+13. Boev  E.V.,  Afanasenko  V.G.,  Nikolaev  E.A.,  Ivanov  S.P.  Povyshenie 
+
+effektivnosti 
+
+teplomassoobmennykh  nasadok  promyshlennykh  gradiren 
+
+[Improving  the  Efficiency  of  Heat  and  Mass  Transfer  Nozzles  of  Industrial 
+
+Cooling Towers]. Gazovaya promyshlennost' – Gas Industry, 2010, No. 7 (648), 
+
+pp. 85-88. [in Russian]. 
+
+14. Taqvi  S.A.,  Tufa  L.D.,  Muhadizir  S.  Optimization  and  Dynamics  of 
+
+Distillation  Column  Using  Aspen  Plus.  Procedia  Engineering,  2016,  No.  148. 
+
+pp. 
+
+978-984. 
+
+Available 
+
+at: 
+
+https://www.sciencedirect.com/science 
+
+/article/pii/S1877705816309511?via%3Dihub 
+
+(accessed  05.05.2019).  DOI: 
+
+10.1016/j.proeng.2016.06.484. 
+
+15. Xiong  W.,  Chen  L.,  Liu  F.,  Xu  B.  Multiple  Model  Identification  for  a 
+
+High Purity Distillation Column Process Based on EM Algorithm. Mathematical 
+
+Problems  in  Engineering,  2014,  Vol.  2014,  No.  712682,  9  p.  Available  at:  
+
+https://www.hindawi.com/journals/mpe/2014/712682 
+
+(accessed  05.05.2019). 
+
+DOI: 10.1155/2014/712682. 
+
+16. Afanasenko  V.G.,  Yunusova  Yu.L.  Sozdanie 
+
+temperaturnykh 
+
+neodnorodnostei 
+
+s  primeneniem 
+
+elementa  Pel't'e  dlya 
+
+intensifikatsii 
+
+massoobmennykh  protsessov  neftegazovoi  otrasli  [Creation  of  Temperature 
+
+Inhomogenities  with  the  Use  of  Peltier  Element  for  the  Mass-Exchange 
+
+Processes Intensification of the Oil and Gas Industry]. Zapiski Gornogo instituta 
+
+–  Journal  of  Mining 
+
+Institute,  2019,  Vol.  235,  pp.  10-15.  DOI: 
+
+10.31897/PMI.2019.1.10. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+87 
+
+17. Harrson  S.  Santana,  Geovanni  B.  Sanchez,  Osvaldir  P.  Taranto 
+
+Evaporation of Excess Alcohol in Biodiesel in a Microchannel Heat Exchanger 
+
+with  Peltier  Module.  Chemical  Engineering  Research  and  Design,  2017, 
+
+No. 124, pp. 20-28. 
+
+18. Monfared  B.  Simulation  of  Solid-State  Magnetocaloric  Refrigeration 
+
+Systems  with  Peltier  Elements  as  Thermal  Diodes.  International  Journal  of 
+
+Refrigeration, 2017, No. 74, pp. 324-332. 
+
+19. Vries W., Theo H. van der Meer. Application of Peltier Thermal Diodes 
+
+in a Magnetocaloric Heat Pump. Applied Thermal Engineering, 2017, No. 111, 
+
+pp. 377-386. 
+
+20. Afanasenko  V.G.,  Kuzeev  I.R.,  Bayazitov  M.I.,  Kulakov  P.A., 
+
+Yunusova Yu.L. 
+
+Kolpachkovaya 
+
+tarelka 
+
+s 
+
+termoelektricheskimi 
+
+preobrazovatelyami [Cap Plate with Thermoelectric Converters]. Patent RF, No. 
+
+175743, 2017. [in Russian]. 
+
+21. OST  26-01-66-86  Tarelki  kolpachkovye  stal'nye  kolonnykh  apparatov. 
+
+Parametry,  konstruktsiya  i  razmery  [OST  26-01-66-86.  Steel  Cap  Plates  of 
+
+Column  Apparatus.  Parameters,  Design  and  Dimensions],  Khar'kov, 
+
+UkrNIIkhimmash, 1986. 31 p. [in Russian]. 
+
+Сведения об авторах 
+
+About the author 
+
+Афанасенко  Виталий  Геннадьевич,  канд.  техн.  наук,  доцент  кафедры 
+
+«Механика  и  конструирование  машин»,  УГНТУ,  г.  Уфа,  Российская 
+
+федерация 
+
+Vitaliy  G.  Afanasenko,  Candidate  of  Engineering  Sciences,  Assistant 
+
+Professor  of  Mechanics  and  Design  of  Machines  Department,  USPTU,  Ufa, 
+
+Russian Federation  
+
+e-mail: afanasenko.v.g@yandex.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+88 
+
+Юнусова  Юлия  Ленаровна,  аспирант  кафедры  «Технологические 
+
+машины и оборудование», УГНТУ, г. Уфа, Российская федерация 
+
+Julia  L.  Yunusova,  Post-graduate  Student  of  Process  Machinery  and 
+
+Equipment Department, USPTU, Ufa, Russian Federation 
+
+e-mail: nedra.ugntu@gmail.com 
+
+Хузиев  Вильнар  Файзуллович,  магистрант  кафедры  «Технологические 
+
+машины и оборудование», УГНТУ, г. Уфа, Российская федерация 
+
+Vilnar  F.  Khuziev,  Undergraduate  Student  of  Process  Machinery  and 
+
+Equipment Department, USPTU, Ufa, Russian Federation 
+
+e-mail: khuziev1305@mail.ru 
+
+Яковлев  Виталий  Александрович, 
+
+инженер  Центра 
+
+научно-
+
+технического  творчества  механического  факультета,  УГНТУ,  г.  Уфа, 
+
+Российская федерация 
+
+Vitaliy A. Yakovlev, Engineer of Scientific and Technical Creativity Center 
+
+of Mechanical Faculty, USPTU, Ufa, Russian Federation 
+
+e-mail: jakovleffvitaly@yandex.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+

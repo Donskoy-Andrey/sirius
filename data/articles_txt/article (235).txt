@@ -1,0 +1,685 @@
+52 
+
+УДК 622.276 
+
+МЕТОД ОЦЕНКИ ОБЩЕГО КОЛИЧЕСТВА САЖИ  
+
+(ЧЕРНОГО УГЛЕРОДА), ЭМИТИРУЕМОЙ В АТМОСФЕРУ  
+
+ПРИ СЖИГАНИИ ПОПУТНОГО ГАЗА В НЕФТЕПРОИЗВОДСТВЕ 
+
+METHOD FOR ESTIMATING THE TOTAL QUANTITY  
+
+OF BLACK CARBON EMITTED INTO THE ATMOSPHERE  
+
+WHEN COMBUSTION OF ASSOCIATED GAS IN OIL PRODUCTION 
+
+Ф.Г. Абасзаде, Л.И. Нуриева 
+
+Национальное аэрокосмическое агентство,  
+
+г. Баку, Азербайджанская Республика 
+
+Fuad G. Abaszade, Lale I. Nurieva 
+
+National Aerospace Agency, Baku, Azerbaijan Republic 
+
+e-mail: asadzade@rambler.ru 
+
+Аннотация.  Разработан  метод  оценки  общего  количества  сажи, 
+
+эмитируемой с факелов сжигания попутного углеводородного газа.  
+
+Разработана  соответствующая  методика  расчета,  основанная  на 
+
+известной аналитической формуле для расчета коэффициента эмиссии сажи 
+
+при  сжигании  углеводородного  газа,  в  предположении  о  том,  что 
+
+коэффициент эмиссии сажи находится  в сильной  корреляционной связи  с 
+
+отношением  объема  эмитированной  сажи  к  объему  эмитированного  СО2 
+
+при  сжигании  углеводородного  газа.  Также  учтена  линейная  связь  между 
+
+объемом  сожженного  углеводородного  газа  и  эмитированного  при  этом 
+
+объемом  СО2.  При  разработке  методики  использована  известная 
+
+аппроксимационная модель сожженного в факелах углеводородного газа по 
+
+годам за период 1950–2005 гг.  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+53 
+
+Согласно  построенной  модели  эмитированного  в  атмосферу  объема 
+
+сажи,  установлено,  что  начиная  с  1985  г.  происходит  ее  накопление  в 
+
+атмосфере.  
+
+Abstract.  A  method  for  assessing  the  total  amount  of  soot  emitted  from 
+
+associated hydrocarbon gas flares has been developed.  
+
+An  appropriate  calculation  method  has been developed,  based on  the  well-
+
+known analytical formula for calculating the soot emission factor when burning 
+
+hydrocarbon gas, on the assumption that the soot emission factor is in a strong 
+
+correlation with the ratio of the emitted soot volume to the emitted CO2 volume 
+
+when burning hydrocarbon gas. The linear relationship between the volume of 
+
+burnt hydrocarbon gas and the volume of CO2 emitted was also taken into account. 
+
+When  developing  the  methodology,  a  well-known  approximation  model  of 
+
+hydrocarbon gas burnt in flares by years for the period 1950–2005 was used.  
+
+According to the constructed model of the volume of soot emitted into the 
+
+atmosphere, it has been established that since 1985 it has been accumulating in 
+
+the atmosphere. 
+
+Ключевые  слова:  сажа;  факел  сжигания  газа;  попутный  газ; 
+
+нефтепроизводство; эффективность сжигания 
+
+Key  words:  soot;  gas  flare;  associated  gas;  oil  production;  combustion 
+
+efficiency 
+
+Введение 
+
+Согласно  [1],  только  в  2012  г.  общий  мировой  объем  сжигаемого 
+
+углеводородного  газа  в  факелах  согласно  спутниковым  наблюдениям 
+
+составил  143  млрд  м3,  что  составляет  3,5  %  всего  объема  производимого 
+
+газа в мире.  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+54 
+
+В  результате  сжигания  углеводородного  газа  выделяются  такие 
+
+загрязнители  атмосферы  как  CO2,  CO,  NOx,  N2O,  H2S,  аэрозоли  и  т.д. 
+
+Аэрозоли, выделяемые при сжигании газа, в основном имеют форму сажи 
+
+(черный  углерод)  [2].  Сажа  является  вторым  основным  фактором,  после 
+
+CO2, приводящим к глобальному потеплению [3]. 
+
+Существует несколько работ, посвященных эмиссии сажи при сжигании 
+
+углеводородного  газа  [4–6].  Так,  в  работе  [4]  оценен  общий  объем 
+
+эмитируемой  сажи  при  сжигании  углеводородного  газа  и  определен 
+
+верхний предел такой оценки. Коэффициент эмиссии сажи был определен 
+
+по методу масс-баланса. При этом учитывался весь объем сжигаемого газа, 
+
+например  в  дизельных  автомашинах,  генераторах  и  т.д.  В  работе  [5] 
+
+предложен  метод  для  определения  коэффициента  эмиссии  сажи  при 
+
+сжигании газа в факелах. В этой работе было получено несколько меньшее 
+
+значения коэффициента эмиссии, чем в [4]. 
+
+В работе [6] исследован вопрос об эмиссии сажи путем оценки общей 
+
+эффективности  сгорания  углеводородного  газа  с  учетом  выделяемых  при 
+
+этом продуктов (в основном CO2 и несгораемой части CH4). 
+
+Экспериментальные  исследования  по  определению  коэффициента 
+
+эмиссии  сажи  были  проведены  с  использованием  оптоэлектронной 
+
+аппаратуры «Sky-LOSA» в Узбекистане [7] и в Мексике [8]. В результате 
+
+проведенных  измерений  получены  такие  оценки,  как  2,00  ±  0,66  и  
+
+0,067 ± 0,020 г/с соответственно. 
+
+Согласно 
+
+[9], 
+
+коэффициент 
+
+эмиссии 
+
+сажи 
+
+при 
+
+сжигании 
+
+углеводородного  топлива  сильно  зависит  от  географической  местности 
+
+нефтепроизводства.  
+
+Согласно 
+
+работе 
+
+[2], 
+
+существует 
+
+следующее 
+
+эмпирическое 
+
+соотношение: 
+
+где EFBC – коэффициент эмиссии сажи; 
+
+, 
+
+ (1) 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+09.20578.0APGBCHVEF 
+55 
+
+HAPG  –  объемно-взвешенный коэффициент нагрева газа  –  загрязнителя 
+
+атмосферы. 
+
+Из  выражения  (1)  ясно,  что  EFBC  сильно  зависит  от  состава 
+
+загрязняющих  атмосферу  газов.  EFBC  также  зависит  от  технологии 
+
+производства, которая различна в нефтедобывающих странах. В работе [5] 
+
+применительно к конкретному факелу сжигания углеводородного газа была 
+
+предложена  следующая  формула  для  вычисления  коэффициента  эмиссии 
+
+сажи: 
+
+ , 
+
+(2) 
+
+где СCO2, CCH4, CBC – массовые концентрации углерода (гр/м3) в СO2, CH4 и 
+
+BC соответственно, без учета фоновых значений;  
+
+F – отношение массы углерода к общей масса углеводорода. 
+
+Согласно [6] F = 0,79. 
+
+Как отмечается в работе [3], исследования, проведенные в атмосфере над 
+
+платформами нефтедобычи. показывают, что для всех платформ существует 
+
+достаточно  сильная  корреляция  между  показателем  EFBC  и  крутизной 
+
+линии  регрессии  показателя 
+
+эмитируемой 
+
+сажи  по  показателю 
+
+эмитируемого газа СО2.  
+
+С учетом вышеизложенного в настоящей статье разрабатывается новая 
+
+методика по оценке общего количества сажи, эмитируемого при сжигании 
+
+попутного углеводородного газа. 
+
+Материалы и методы 
+
+Следует  отметить,  что  эмиссия  СO2  в  атмосферу  возникает  при 
+
+сжигании газа в факелах  во  всем цикле нефтепроизводства. Соотношение 
+
+объемов  эмитируемого  СО2  в  факелах  и  объема  нефтепроизводства 
+
+показано на рисунке 1 [10]. Как видно из графиков, показанных на рисунке 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+BCCHCOBCBCCCCCFEF421000 
+1, эмиссия СО2 при сжигании газа в факелах, начиная с 1980 г., значительно 
+
+уменьшилась. 
+
+56 
+
+1 – в факелах;  
+2 – в нефтепроизводстве 
+
+Рисунок 1. Кривые объема эмиссии СО2 по годам вследствие сжигания 
+газа в факелах и нефтепроизводстве 
+
+Как  было  отмечено  выше,  согласно  [6],  существует  следующее 
+
+соотношение: 
+
+где k = const. 
+
+Следовательно, из (3) получим 
+
+, 
+
+, 
+
+(3) 
+
+(4) 
+
+где EFBC может быть определен по формуле (1) или (2).  
+
+Согласно  работе 
+
+[11],  кривая  временной  зависимости  объема 
+
+сжигаемого  углеводородного  газа  по  годам  (1950–2005  гг.)  (рисунок  2) 
+
+может быть аппроксимирована решением следующего дифференциального 
+
+уравнения (в метрических тоннах): 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+2COBCkEFBCkCOEFBCBC2 
+ 
+ 
+где t исчисляется в годах.  
+
+57 
+
+,  (5) 
+
+Рисунок 2. Модель изменения эмиссии сажи из-за факельного сжигания 
+углеводородного газа 
+
+Решение уравнения (5) имеет вид: 
+
+На  рисунке  2  приведена  кривая  выражения  (6)  и  реальные  данные  об 
+
+эмиссии в атмосферу СО2 из-за сжигания углеводородного газа. 
+
+. 
+
+(6)  
+
+С учетом  
+
+а также [1] 
+
+Для временного промежутка Δt напишем 
+
+С учетом (7), приняв 
+
+ , 
+
+(7) 
+
+. 
+
+(8) 
+
+ . 
+
+(9)  
+
+, 
+
+(10) 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+3258,06685.0999.402100909.8104229.5)()(ttttFtF325806685.0032.40210105.810431.5)(ttttFconstkdttdCOdttdFk121;22520055.010064.810105.8ttdttdFttttF)20055.010064.810105.8(225tFktCO12 
+ 
+ 
+ 
+ 
+ 
+из выражений (9) и (10) получим 
+
+С учетом (4) и (11) окончательно получаем 
+
+58 
+
+. 
+
+(11) 
+
+. 
+
+(12) 
+
+Таким образом, полученное уравнение (12) позволяет вычислить объем 
+
+эмитированной в атмосферу сажи в интервале времени 1950–2005 гг. 
+
+График выражения (12) для случая Δt = 1 год и 
+
+ приведен 
+
+на рисунке 3. 
+
+Рисунок 3. График выражения (12) для случая Δt = 1 год и 
+
+Как  видно  из  графика,  приведенного  на  рисунке  3,  начиная  с  1985  г., 
+
+согласно  построенной  модели,  происходит  накопление  сажи,  т.е. 
+
+наблюдается  положительный  прирост  концентрации  сажи  из-за  сжигания 
+
+газа. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+tttktCO)20055.010064.810105.8(22512)20055.010064.810105.8(2251ttkkEFtBCBC11kkEFBC11kkEFBC 
+ 
+ 
+ 
+59 
+
+Выводы 
+
+Таким  образом.  построенная  модель  оценки  общего  объема  сажи, 
+
+эмитируемой в атмосферу, основывается на следующих положениях: 
+
+а)  существуют  аналитические  формулы  для  расчета  коэффициента 
+
+эмиссии сажи при сжигании углеводородного газа; 
+
+b)  коэффициент  эмиссии  сажи  находится  в  сильной  корреляционной 
+
+связи с отношением объема эмитированной сажи к объему эмитированного 
+
+СО2 при сжигании углеводородного газа; 
+
+с) имеется линейная связь между объемом сожженного углеводородного 
+
+газа  и  эмитированного  при  этом  объема  СО2  в  течение  определенного 
+
+промежутке времени Δt; 
+
+d)  существует  аппроксимационная  модель  сожженного  в  факелах 
+
+углеводородного газа по годам за период 1950–2005 гг.  
+
+На  основе  вышеуказанных  положений  построена  модель  зависимости 
+
+эмитированного  в  атмосферу  объема  сажи,  согласно  которой,  начиная  с 
+
+1985 г., происходит ее накопление в атмосфере.  
+
+Список используемых источников 
+
+1.  Elvidge  C.D.,  Zhizhin  M.,  Baugh  K.,  Hsu  F.C.,  Ghosh  T.  Methods  for 
+
+Global Survey of Natural Gas Flaring from Visible Infrared Imaging Radiometer 
+
+Suite Data // Energies. 2016. Vol. 9. No. 1. P. 14-19. DOI: 10.3390/en9010014. 
+
+2.  MvEven  J.D.,  Johnson  M.R.  Black  Carbon  Particulate  Matter  Emission 
+
+Factors for Buoyancy-Driven Associated Gas Flare // Journal of the Air and Waste 
+
+Management  Association. 
+
+2012.  Vol. 
+
+62. 
+
+P. 
+
+307-321.  DOI: 
+
+10.1080/10473289.2011.650040. 
+
+3.  Moffet R.C., Prather K.A. In-Situ Measurements of the Mixing State and 
+
+Optical  Properties  of  Soot  with  Implication  for  Radiative  Forcing  Estimates  // 
+
+PNAS. 2009. Vol. 106. P. 11872-11877. DOI: 10.1073/pnas.0900040106. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+60 
+
+4.  Schwarz  J.P.,  Holloway  J.S.,  Katich  L.M.,  McKeen  S.,  Kort  E.A., 
+
+Smith M.L., Ryerson T.B., Sweeney C., Peischl J. Black Carbon Emissions from 
+
+the  Bakken  Oil  and  Gas  Development  Region  //  Environmental  Science  and 
+
+Technology  Letters.  2015.  Vol.  2. 
+
+Issue  10.  P.  281-285.  DOI: 
+
+10.1021/acs.estlett.5b00225. 
+
+5.  Weyant  C.L.,  Shepson  P.B.,  Sumramanian  R.,  Cambaliza  M.O., 
+
+Heimburger  A.,  McCabe  D.,  Baum  E.,  Stirm,  B.H.,  Bond  T.C.  Black  Carbon 
+
+Emissions  from  Associated  Natural  Gas  Flaring  //  Environmental  Science  and 
+
+Technology. 2016. Vol. 50. Issue 4. P. 2075-2081. DOI: 10.1021/acs.est.5b04712. 
+
+6.  Gvakharia  A.,  Kort  E.A.,  Brandt  A.,  Peischl  J.,  Ryerson  T.B.,  Schwarz 
+
+J.P.,  Smith  M.L.,  Smith  L.,  Sweenev  C.  Methane,  Black  Carbon  and  Ethane 
+
+Emissions  from  Natural  Gas  Flares  in  the  Bakken  Shale,  North  Dakota  // 
+
+Environmental Science and Technology.  2017. Vol. 51. Issue 9. P. 5317-5325. 
+
+DOI: 10.1021/acs.est.6b05183. 
+
+7.  Johnson  M.R.,  Devillers  R.W.,  Thomson  K.A.  Quantitative  Field 
+
+Measurement  of  Emissions  from  a  Large  Gasflare.  Using  Sky-LOSA  // 
+
+Environmental Science and Technology. 2011. Vol. 45. Issue 1. P. 345-350. DOI: 
+
+10.1021/es102230y. 
+
+8.  Johnson M.R., Devillers R.W., Thomson K.A. A Generalized Sky-LOSA 
+
+Method to Quantify Soot/Black Carbon Emission Rates in Atmospheric Plumes 
+
+of Gas Flares // Aerosol Science and Technology. 2013. Vol. 47. P. 1017-1029. 
+
+9.  Huang K., Joshua S.Fu. A Global Gas Flaring Black Carbon Emission Rate 
+
+Dataset  from  1994  to  2012  //  Scientific  Data.  2016.  Vol.  3.  Article  Number 
+
+160104. DOI: 10.1038/sdate.2016.104. 
+
+10.  Gervet B. Gas Flaring Emission Contributes to Global Warming. Lulea: 
+
+Lulea University of Technology, 2007. 14 p. 
+
+11.  Tsokos C.P., Xu Y. Modeling Carbon Dioxide Emissions with a System 
+
+of Differential Equations: Nonlinear Analysis // International Journal of Exergy. 
+
+2009. Vol. 10. P. 422-453. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+61 
+
+References 
+
+1.  Elvidge  C.D.,  Zhizhin  M.,  Baugh  K.,  Hsu  F.C.,  Ghosh  T.  Methods  for 
+
+Global Survey of Natural Gas Flaring from Visible Infrared Imaging Radiometer 
+
+Suite Data. Energies, 2016, Vol. 9, No. 1, pp. 14-19. DOI: 10.3390/en9010014. 
+
+2.  MvEven  J.D.,  Johnson  M.R.  Black  Carbon  Particulate  Matter  Emission 
+
+Factors for Buoyancy-Driven Associated Gas Flare. Journal of the Air and Waste 
+
+Management  Association, 
+
+2012,  Vol. 
+
+62, 
+
+pp. 
+
+307-321.  DOI: 
+
+10.1080/10473289.2011.650040. 
+
+3.  Moffet R.C., Prather K.A. In-Situ Measurements of the Mixing State and 
+
+Optical  Properties  of  Soot  with  Implication  for  Radiative  Forcing  Estimates. 
+
+PNAS, 2009, Vol. 106, pp. 11872-11877. DOI: 10.1073/pnas.0900040106. 
+
+4.  Schwarz  J.P.,  Holloway  J.S.,  Katich  L.M.,  McKeen  S.,  Kort  E.A., 
+
+Smith M.L., Ryerson T.B., Sweeney C., Peischl J. Black Carbon Emissions from 
+
+the  Bakken  Oil  and  Gas  Development  Region.  Environmental  Science  and 
+
+Technology  Letters,  2015,  Vol.  2, 
+
+Issue  10,  pp.  281-285.  DOI: 
+
+10.1021/acs.estlett.5b00225. 
+
+5.  Weyant  C.L.,  Shepson  P.B.,  Sumramanian  R.,  Cambaliza  M.O., 
+
+Heimburger  A.,  McCabe  D.,  Baum  E.,  Stirm,  B.H.,  Bond  T.C.  Black  Carbon 
+
+Emissions  from  Associated  Natural  Gas  Flaring.  Environmental  Science  and 
+
+Technology, 
+
+2016,  Vol. 
+
+50, 
+
+Issue 
+
+4, 
+
+pp. 
+
+2075-2081.  DOI: 
+
+10.1021/acs.est.5b04712. 
+
+6.  Gvakharia  A.,  Kort  E.A.,  Brandt  A.,  Peischl  J.,  Ryerson  T.B.,  Schwarz 
+
+J.P.,  Smith  M.L.,  Smith  L.,  Sweenev  C.  Methane,  Black  Carbon  and  Ethane 
+
+Emissions  from  Natural  Gas  Flares  in  the  Bakken  Shale,  North  Dakota. 
+
+Environmental Science and Technology, 2017, Vol. 51, Issue 9, pp. 5317-5325. 
+
+DOI: 10.1021/acs.est.6b05183. 
+
+7.  Johnson  M.R.,  Devillers  R.W.,  Thomson  K.A.  Quantitative  Field 
+
+Measurement  of  Emissions  from  a  Large  Gasflare.  Using  Sky-LOSA. 
+
+Environmental  Science  and  Technology,  2011,  Vol.  45,  Issue  1,  pp.  345-350. 
+
+DOI: 10.1021/es102230y. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+62 
+
+8.  Johnson M.R., Devillers R.W., Thomson K.A. A Generalized Sky-LOSA 
+
+Method to Quantify Soot/Black Carbon Emission Rates in Atmospheric Plumes 
+
+of Gas Flares. Aerosol Science and Technology, 2013, Vol. 47, pp. 1017-1029. 
+
+9.  Huang K., Joshua S.Fu. A Global Gas Flaring Black Carbon Emission Rate 
+
+Dataset from 1994 to 2012. Scientific Data, 2016, Vol. 3, Article Number 160104. 
+
+DOI: 10.1038/sdate.2016.104. 
+
+10.  Gervet B. Gas Flaring Emission Contributes to Global Warming. Lulea, 
+
+Lulea University of Technology, 2007. 14 p. 
+
+11.  Tsokos C.P., Xu Y. Modeling Carbon Dioxide Emissions with a System 
+
+of Differential Equations: Nonlinear Analysis. International Journal of Exergy, 
+
+2009, Vol. 10, pp. 422-453. 
+
+Сведения об авторах 
+
+About the Authors 
+
+Абасзаде Фуад Габиль оглы, аспирант Национального аэрокосмического 
+
+агентства, г. Баку, Азербайджанская Республика 
+
+Fuad  Gabil  ogly  Abaszade,  Post-graduate  Student  of  National  Aerospace 
+
+Agency, Baku, Azerbaijan Republic 
+
+e-mail: asadzade@rambler.ru 
+
+Нуриева Лале Имран гызы, научный сотрудник НИИ Аэрокосмической 
+
+информатики  Национального  аэрокосмического  агентства.  г.  Баку, 
+
+Азербайджанская Республика 
+
+Lale  I.  Nurieva,  Researcher,  Research  Institute  of  Aerospace  Informatics, 
+
+National Aerospace Agency, Baku, Azerbaijan Republic 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+

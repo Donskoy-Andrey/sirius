@@ -1,0 +1,339 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+УДК 621.383 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+ОПРЕДЕЛЕНИЕ РАСЧЕТНОЙ МОЩНОСТИ 
+ДЛЯ ГИБРИДНОЙ ЭЛЕКТРИЧЕСКОЙ МАШИНЫ ГЕНЕРАТОРА 
+НА ОСНОВЕ КРИТЕРИЯ ДОПУСТИМЫХ ЭЛЕКТРОМАГНИТНЫХ НАГРУЗОК 
+––––––– 
+DETERMINATION OF THE DESIGN POWER 
+FOR A HYBRID ELECTRIC MACHINE OF THE GENERATOR BASED 
+ON THE CRITERION OF PERMISSIBLE ELECTROMAGNETIC LOADS 
+
+Асташов Максим Александрович 
+аспирант 3 года обучения гр. 18-АО-ЭТ1, 
+Кубанский государственный технологический университет 
+
+Astashov Maxim Aleksandrovich 
+Graduate Student of the 3rd Year of Study, 
+Gr. 18-АО-ET1, 
+Kuban State Technological University 
+
+Черкасский Павел Андреевич 
+аспирант 5 года обучения гр. 14-АЗк-ЭТ061 
+
+Cherkassky Pavel Andreevich 
+Graduate Student of the 5rd Year of Study, 
+Gr. 14-AZk-ET061 
+
+Ивашкин Илья Ильич 
+аспирант 2 года обучения гр. 19-АЗ-ЭТ1, 
+Кубанский государственный технологический университет 
+
+Ivashkin Ilya Ilyich  
+Graduate Student of the 2rd Year of Study, 
+Gr. 19-AZ-ET1, 
+Kuban State Technological University 
+
+Умрихин Дмитрий Олегович 
+студент магистратуры 2 года обучения гр. 18-НМ-ЭЭ2, 
+Кубанский государственный технологический университет 
+
+Umrihin Dmitriy Olegovich 
+2nd Year Master's Student, Gr. 18-NM-EE2, 
+Kuban State Technological University 
+
+Аннотация.  Данная  статья  посвящена  предварительному  вы-
+воду  формулы  расчетной  мощности  электромеханического 
+преобразователя  – 
+гибридной  электрической  машины-
+генератора на основе критерия допустимых электромагнитных 
+нагрузок. 
+
+Annotation.  This  article  is  devoted  to  the 
+preliminary  derivation  of  the  formula  for  the 
+calculated  power  of  an  electromechanical 
+converter  –  a  hybrid  electric  machine-
+generator  based  on  the  criterion  of  permissi-
+ble electromagnetic loads. 
+
+Ключевые  слова: 
+электрическая  машина-
+генератор,  ветроэнергетика,  солнечные  панели,  солнечная 
+энергия, альтернативная энергетика. 
+
+гибриданя 
+
+Keywords:  hybridanya  electric  machine-
+generator,  wind  energy,  solar  panels,  solar 
+energy, alternative energy. 
+
+В 
+
+данный момент, в альтернативной энергетике, находят применение новые гибридные элек-
+тромеханические ветро-солнечные преобразователи, в основе которых лежит принцип пря-
+мого преобразования энергии [1, 2, 3, 4, 5, 6, 7]. Данные установки обладают рядом преимуществ, [8, 9, 
+10, 11, 12, 13, 14] по сравнению со стандартными преобразователями энергии, вследствие чего их ис-
+следование представляет, как научный, так и экономический интерес. Одной из таких установок являет-
+ся гибридная  электрическая  машина-генератор (далее  ГЭМГ).  Как  и любой  электромеханический пре-
+образователь, для ГЭМГ необходимо разработать методику ее проектирования. Для разработки мето-
+дики необходимо подобрать соответствующие критерии оптимизации. Большинство расчетных методик 
+электромеханических  преобразователей  основываются  на  нахождении  «машинной  постоянной»  Ар-
+нольда [15], которая определяется из критерия допустимых электромагнитных нагрузок:  
+
+=
+
+C
+
+A
+
+2
+ΩlD
+δ
+P
+
+=
+
+2
+kkπa
+
+обBδ
+
+AB
+
+δ
+
+, 
+
+(1) 
+
+где    D – диаметр якоря машины постоянного тока или внутренний диаметр статора, м; lδ – расчетная 
+длина магнитопровода, м; Ω – угловая скорость, рад/с; P' – расчетная мощность, ВА; A – линей-
+ная  нагрузка,  А/м;  Bδ  –  индукция  в  воздушном  зазоре,  Тл;  aδ  –  коэффициент  полюсного  пере-
+крытия;  kB  –  коэффициент  формы  кривой  индукции,  учитывающий  изменение  напряжения  на 
+выводах машины при холостом ходе и нагрузке; kоб – обмоточный коэффициент. 
+
+Чтобы  определить  постоянную  Арнольда  для  ГЭМГ  из  формулы  1  выразим  расчетную  мощ-
+
+ность и получим: 
+
+Р(cid:2) (cid:3)
+
+(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:7)обАВ(cid:6)(cid:13)(cid:14)(cid:15)(cid:6)(cid:16)
+(cid:17)
+
+, 
+
+213 
+
+(2) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+¢
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+Так как ГЭМГ представляет из себя две части – это обращенный двигатель постоянного тока и 
+генератор  на  постоянных  магнитах,  то  общая  расчетная  мощность будет представлять  собой  сумму 
+каждой из составляющих: 
+
+Р(cid:2) (cid:3)
+
+(cid:4)(cid:5)(cid:18)(cid:6)(cid:7)(cid:18)(cid:8)(cid:7)(cid:18)обА(cid:18)В(cid:14)(cid:6)(cid:13)(cid:14)(cid:15)(cid:6)(cid:16)
+(cid:17)
+
+(cid:19)
+
+(cid:4)(cid:5)(cid:14)(cid:6)(cid:7)(cid:14)(cid:8)(cid:7)(cid:14)обА(cid:14)В(cid:14)(cid:6)(cid:13)(cid:14)(cid:15)(cid:6)(cid:16)
+(cid:17)
+
+, 
+
+(3) 
+
+где    А(cid:20), А(cid:17)  –  линейная  нагрузка  соответственно  двигателя  постоянного  тока  и  генератора  на  посто-
+янных магнитах, А/м; В(cid:20)(cid:22), В(cid:17)(cid:22) – индукция в воздушном зазоре между постоянными магнитами и 
+обмоткой  статора  генератора  и  между  постоянными  магнитами  и  якорем  машины  постоянного 
+тока,  Тл;  a(cid:20)(cid:22), a(cid:17)(cid:22)  –  коэффициент  полюсного  перекрытия  соответственно  для  генератора  и  для 
+двигателя  постоянного  тока  ;  k(cid:20)(cid:25),	k(cid:17)(cid:25)  –  коэффициент  формы  кривой  индукции  соответственно 
+для генератора и двигателя постоянного тока, учитывающий изменение напряжения на выводах 
+машины  при  холостом  ходе  и  нагрузке;  k(cid:20)об, k(cid:17)об  –  обмоточный  коэффициент  соответственно 
+для генератора и двигателя постоянного тока. 
+
+После преобразования формулы 3 окончательно получим: 
+
+(cid:4)(cid:13)(cid:14)(cid:15)(cid:6)(cid:16)(cid:27)(cid:5)(cid:14)(cid:6)(cid:7)(cid:14)(cid:8)(cid:7)(cid:14)обА(cid:14)В(cid:14)(cid:6)(cid:28)(cid:5)(cid:18)(cid:6)(cid:7)(cid:18)(cid:8)(cid:7)(cid:18)обА(cid:18)В(cid:14)(cid:6)(cid:29)
+(cid:17)
+Выведенная  выше формула  позволит  определить  постоянную  Арнольда  и  рассчитать  предва-
+
+Р(cid:2) (cid:3)
+
+(4) 
+
+. 
+
+рительную расчетную мощность для ГЭМГ. 
+
+Литература: 
+
+1.  Патент 2633377 (РФ). Гибридная электрическая машина-генаратор / Попов С.А., Попов М.С., Михед А.И. – 
+
+БИ, 2016. – № 29.  
+
+2.  Патент 2629017 (РФ) Гибридная аксиальная электрическая машина-генератор / Попов С.А., Попов М.С. – 
+
+БИ, 2016. – № 24. 
+
+3.  Попов  С.А.,  Асташов  М.А.  Разработка  математической  модели  гибридной  электрической  машины-
+генератора // Инженерные технологии в сельском и лесном хозяйстве. Материалы Всероссийской национальной 
+научно-практической конференции, 2020. – С. 74–78. 
+
+4.  Асташов М.А., Попова С.В., Черкасский П.А. Гибридная электрическая машина-генератор для локаль-
+ных  ветро-солнечных  электростанций  //  Инженерные  технологии  в  сельском  и  лесном  хозяйстве.  Материалы 
+Всероссийской национальной научно-практической конференции, 2020. – С. 9–12. 
+
+5.  Применение  ветрогенераторов  с  вертикальной  и  горизонтальной  осью  в  нефтегазовой  отрасли  /        
+
+С.А. Попов [и др.] // Булатовские чтения. – 2020. – С. 318–320. 
+
+6.  Анализ  конструкций  ветрогенераторов  и  перспективы  их  применения  на  предприятиях  нефтегазовой 
+
+отрасли / С.А. Попов [и др.] // Булатовские чтения. – 2020. – C. 321–323.  
+
+7.  Альтернативная энергетика на службе у нефтянников / С.А. Попов [и др.] // Булатовские чтения. – 2020. – 
+
+C. 324–326. 
+
+8.  Разработка  конструктивно-интегрированного  электропривода  домкрата  для  грузовых  операций  на 
+
+предприятиях нефтегазового комплекса / С.А. Попов [и др.] // Булатовские чтения. – 2020. – C. 327–330.  
+
+9.  Черкасский  П.А.,  Попова  С.В.,  Асташов  М.А.  Повышение  эффективности  работы  распределительной 
+сети путём применения альтернативных подходов // Современные электротехнические и информационные ком-
+плексы и системы. Материалы I Международной научно-практической конференции, 2019. – С. 115–118. 
+
+10. Обоснование  применения  гибридых  ветро-солнечных  энергоустановок  на  основе  электромеханических 
+преобразователей / С.А. Попов [и др.] // Современные электротехнические и информационные комплексы и систе-
+мы.  Материалы  I  Международной  научно-практической  конференции  студентов,  аспирантов  и  преподавателей, 
+посвященной 60-летию со дня образования Армавирского механико-технологического института, 2019. – С. 76–79. 
+
+11. Актуальность использования гибридных микро ветро–солнечных электростанций на территории Крас-
+нодарского края / С.А. Попов [и др.] // Современные электротехнические и информационные комплексы и систе-
+мы. Материалы II Международной научно-практической конференции студентов, аспирантов и преподавателей, 
+2020. – С. 18–21. 
+
+12. Ветро-солнечный генератор со сдвоенным ротором для экологически чистой энергетики / С.А. Попов 
+[и  др.]  //  Современные  электротехнические  и  информационные  комплексы  и  системы.  Материалы  II  Междуна-
+родной научно-практической конференции студентов, аспирантов и преподавателей, 2020. – С. 72–75. 
+
+13. Определение  функциональной  зависимости  выходной  мощности  гибридной  электрической  машины-
+генератора  от  её  параметров  /  С.А.  Попов [и  др.]  //  Современные  электротехнические  и  информационные  ком-
+плексы и системы. Материалы II Международной научно-практической конференции, 2020. – С. 21–22. 
+
+14. Попов С.А., Асташов М.А., Ивашкин И.И. Гибридный ветро-солнечный генератор для возобновляемой 
+энергетики  //  Технические  и  технологические  системы: Материалы  восьмой  международной научной конферен-
+ции «ТТС-20». – Краснодар : Издательский дом – Юг, 2021. – С. 104–110. 
+
+15. Проектирование электрических машин: учебник для вузов / И.П. Копылов [и др.]. – 4-е изд., перераб. и 
+
+доп. – М. : Юрайт, 2011. – 767 с. 
+
+References: 
+
+1.  Patent 2633377 (RF). Hybrid electric machine-generator / Popov S.A., Popov M.S., Mikhed A.I. – BI, 2016. – № 29.  
+2.  Patent 2629017 (RF) Hybrid axial electric machine-generator / Popov S.A., Popov M.S. – BI, 2016. – № 24. 
+
+214 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+3.  Popov S.A., Astashov M.A. Development of mathematical model of hybrid electric machine-generator // Engi-
+neering technologies in agriculture and forestry. Proceedings of the All-Russian National Scientific and Practical Confer-
+ence, 2020. – Р. 74–78. 
+
+4.  Astashov MA, Popova SV, Cherkassky PA Hybrid electric machine-generator for local wind-solar power plants // 
+Engineering  Technology  in  Agriculture  and  Forestry.  Materials  of  All-Russian  National  Scientific  and  Practical  Confer-
+ence, 2020. – Р. 9–12. 
+
+5.  Application of wind turbines with vertical and horizontal axis in oil and gas industry / S.A. Popov [et al.] // Bula-
+
+tov Readings. – 2020. – Р. 318–320. 
+
+6.  Analysis of wind generators' designs and prospects for their application at the oil and gas industry enterprises / 
+
+S.A. Popov [et al.] // Bulatov readings. – 2020. – Р. 321–323.  
+
+7.  Alternative power engineering at the oilmen's service / S.A. Popov [et al.] // Bulatov's readings. – 2020. – 
+
+Р. 324–326. 
+
+8.  Development of constructive-integrated electric drive of a jack for cargo operations at the enterprises of oil and 
+
+gas complex / S.A. Popov [et al.] // Bulatov's readings. – 2020. – Р. 327–330.  
+
+9.  Cherkasskiy  P.A.,  Popov  S.V.,  Astashov  M.A.  Distribution  network  effectiveness  increase  by  the  alternative 
+approaches // Modern electrotechnical and information complexes and systems. Proceedings of the I International Scien-
+tific and Practical Conference, 2019. – Р. 115–118. 
+
+10. Substantiation  of  application of hybrid  wind-solar  power installations  on the  basis  of  electromechanical  con-
+verters / S.A. Popov [et al.] // Modern electrotechnical and information complexes and systems. Proceedings of the I In-
+ternational Scientific-Practical Conference of Students, Postgraduates and Teachers, dedicated to the 60th anniversary 
+of the Armavir Mechanical and Technological Institute, 2019. – Р. 76–79. 
+
+11. The relevance of using hybrid micro wind-solar power plants in the Krasnodar Territory / S.A. Popov [et al.] // 
+Modern electrotechnical and information complexes and systems. Proc. of II International Scientific-Practical Conference 
+of Students, Post-graduates and Teachers. – Р. 18–21. 
+
+12. Wind-solar generator with twin rotor for ecologically clean power engineering (in Russian) / S.A. Popov [et al.] // 
+Modern electrotechnical and information complexes and systems. Proc. of II Intern. scientific-practical conference of stu-
+dents, post-graduates and teachers, 2020. – Р. 72–75. 
+
+13. Determination of functional dependence of output power of the hybrid electrical machine-generator from its pa-
+rameters / S.A. Popov [et al.] // Modern electrotechnical and information complexes and systems. Proc. of II International 
+scientific-practical conference, 2020. – Р. 21–22. 
+
+14. Popov, S.A.; Astashov, M.A.; Ivashkin, I.I. Hybrid wind-solar generator for renewable energy // Technical and 
+technological systems: Proceedings of the Eighth International Scientific Conference «TTS-20». – Krasnodar : Publishing 
+House – South, 2021. – P. 104–110. 
+
+15. Design of the electrical machines: text-book for institutes / I.P. Kopylov [et al.] – 4-th edition, revised, revised 
+
+and extended – M. : Yuright, 2011. – 767 p. 
+
+215 
+
+ 
+ 
+ 
+ 
+ 
+

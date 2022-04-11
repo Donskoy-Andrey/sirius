@@ -1,0 +1,744 @@
+УДК 546.05+661.183.2 
+
+СОВМЕСТНАЯ ПЕРЕРАБОТКА НЕФТЕШЛАМА С РИСОВЫМИ ОТХОДАМИ 
+●●●●● 
+JOINT TREATMENT OF OIL SLUDGE WITH RICE WASTE 
+
+Аппазов Нурбол Орынбасарулы 
+кандидат химических наук, профессор,  
+директор института химических исследований и технологий,  
+Кызылординский государственный университет им. Коркыт Ата 
+
+Appazov Nurbol Orynbasaruly 
+Candidate of Chemical Sciences, Professor,  
+Director of the Institute of Chemical Research 
+and Technology,  
+Kyzylorda State University named  
+after Korkyt Ata 
+
+Базарбаев Баурат Маликулы 
+инженер лаборатории инженерного профиля  
+«Физико-химические методы анализа», 
+Кызылординский государственный университет им. Коркыт Ата 
+
+Диярова Бану Маралбеккызы 
+PhD-докторант по специальности 6D060600 – Химия, 
+Казахский национальный женский педагогический университет 
+
+Bazarbayev Baurat Malikuly 
+Engineer of the laboratory of engineering  
+profile «Physical and chemical methods  
+of analysis», 
+Kyzylorda State University named  
+after Korkyt Ata 
+
+Diyarova Banu Maralbekkyzy 
+PhD Doctoral Student in 6D060600 –  
+Chemistry, 
+Kazakh  National  Teacher  Training  University 
+for Women 
+
+Шурагазиева Асель Торебековна  
+магистрант по специальности 6М072000 – Химическая  
+технология неогранических веществ, 
+Кызылординский государственный университет им. Коркыт Ата 
+
+Shuragazieva Asel Torrebekovna  
+Master's  degree  6M072000  –  Chemical 
+Technology of Neogranic Substances, 
+Kyzylorda State University named  
+after Korkyt Ata 
+
+Жаппарбергенов Рахметулла Умирбекович 
+магистр технических наук, научный сотрудник, 
+Институт химических исследований и технологий, 
+Кызылординский государственный университет им. Коркыт Ата 
+
+Zhapparbergenov  
+Rakhmetulla Umirbekovich 
+Master of Technical Sciences,  
+Research Associate, 
+Institute for Chemical Research  
+and Technology, 
+Kyzylorda State University named  
+after Korkyt Ata 
+
+Акылбеков Нургали Икрамович 
+PhD, руководитель лаборатории инженерного профиля  
+«Физико-химические методы анализа», 
+заместитель  директора  института  химических  исследований  и 
+технологий,  
+Кызылординский государственный университет им. Коркыт Ата 
+
+Akylbekov Nurgali Ikramovich 
+PhD, Head of the Engineering Profile  
+Laboratory «Physical and chemical  
+methods of analysis», 
+Deputy Director, Institute of  
+Chemical Research and Technology,  
+Kyzylorda State University named  
+after Korkyt Ata 
+
+Аннотация. Проведен со-термолиз рисовой шелухи и соломой 
+с  нефтешламом  с  целью  получения  широкоприменяемого  ад-
+сорбента – активированный уголь. Карбонизацию проводили в 
+трубчатой печи, изготовленной из нержавеющей при темпера-
+туре  500  ºС  и  активацию  карбонизата  осуществляли  водяным 
+паром при температуре 800 ºС. Изучено влияние соотношения 
+исходных  компонентов  сырья  (шелуха  /  солома  :  нефтешлам) 
+на свойства продукта. 
+Оптимальным  соотношением  для  со-термолиза  шелуха 
+: 
+нефтешлам  является  9  :  1  (по  массе),  соответственно.  Опти-
+мальным  условием  получения  активированного  угля  со-
+термолизом  рисовой  соломы  и  нефтешлама  является  темпе-
+ратура  карбонизации  500  ºС  с  продолжительностью  100  мин, 
+активации  карбонизата  при  температуре  850  ºС  и  при  соотно-
+
+Annotation. Co-thermolysis  of rice husk  and 
+straw with  oil sludge  was carried  out in  order 
+to obtain a widely used adsorbent – activated 
+carbon.  Carbonization  was  carried  out  in  a 
+tubular  furnace  made  of  stainless  steel  at  a 
+temperature  of  500  °C  and  the  activation  of 
+carbonization  was  carried  out  with  water 
+vapor  at  a  temperature  of  800  °C.  The  influ-
+ence  of  the  ratio  of  the  initial  components  of 
+the raw material (husk / straw : oil sludge) on 
+the  properties  of  the  product  was  studied. 
+The  optimal  ratio  for  co-thermolysis  of  the 
+husk:  oil  sludge  is  9  :  1  (by  weight),  respec-
+tively.  The  optimal  condition  for  the  produc-
+tion  of  activated  carbon  by  co-thermolysis  of 
+rice  straw  and  oil  sludge  is  a  carbonization 
+temperature of 500 °C with a duration of  100 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+шении вода:карбонизат = 2 : 1. Изучены такие  пока-затели, как 
+адсорбционная  активность  по  йоду,  суммарный  объем  пор  по 
+воде, массовая доля влаги и насыпная плотность. Микрострук-
+туры  полученных  активированных  углей  изучали  на  сканиру-
+ющем  растровом  электронном  микроскопе.  Активированный 
+уголь полученный совместной переработкой рисовой шелухи и 
+нефтешлама в соотношениях 9 : 1 соответствует активирован-
+ному углю марки ДАК. Полученный продукт на основе рисовой 
+соломы  и  нефтешлама  соответствует  активированным  углям 
+марки БАУ-МФ, БАУ-А и БАУ-Ац. 
+
+min, activation of the carbonizate at a tempera-
+ture  of  850  °C  and  with  a  ratio  of  wa-
+ter:carbonizate  =  2  :  1.  Indices  such  as  iodine 
+adsorption  activity,  total  pore  volume  in  water, 
+mass fraction of moisture, and bulk density were 
+studied.  The  microstructures  of  the  obtained 
+activated  carbons  were  studied  on  a  scanning 
+scanning  electron  microscope.  Activated  car-
+bon obtained by the joint processing of rice husk 
+and oil sludge in a ratio of 9 : 1 corresponds to 
+activated  carbon  brand  DAK.  The  resulting 
+product based on rice straw and oil sludge cor-
+responds  to  the  activated  carbons  BAU-MF, 
+BAU-A and BAU-Ats. 
+
+Ключевые  слова:  активированный  уголь,  рисовая  шелуха, 
+рисовая  солома,  нефтешлам,  со-термолиз,  карбонизация, 
+активация карбонизата. 
+
+Keywords:  activated  carbon,  rice  husk,  rice 
+straw,  oil  sludge,  co-thermolysis,  carboniza-
+tion, activating of carbonizate. 
+
+А 
+
+ктивированный  уголь  находит  широкое  практическое  применение  в  очистке  воздуха  и  га-
+зов,  в  обесцвечивании  и  очистки  жидкостей  и  растворов,  в  водоподготовке,  в  качестве               
+
+катализаторов и носителей катализаторов, в медицине, в табачном производстве и т.д. [1]. 
+
+Важнейшим  сырьем для получения  активного  угля,  являются: древесина  (в  виде  опилок),  дре-
+весный уголь, торф, торфяной кокс, каменные и бурые угли, а также полукокс бурых углей. Известны 
+способы  получения  активированного  угля  из  фруктовых  косточек,  скорлупы  орехов,  сельскохозяй-
+ственных отходов, отходов бумажного производства, мусора, осадков сточных вод, изношенных рези-
+новых покрышек, отходов производства синтетических полимеров и т.д., которые не нашли широкого 
+промышленного применения [1–5]. 
+
+Известны  способы  получения  активированного  угля  из  растительных  отходов,  в  частности  из 
+отходов  ячменя  (шелуха  и  некондиционное  зерно)  и  из  соломы  рапса  [6,  7].  Авторы  [8,  9]  в 
+исследованиях  использовали 
+качестве  сырья  для  производства 
+активированного угля. Активацию проводили с использованием диоксида углерода при температурах 
+800–900 °С, времени активации 20–120 мин и степени обжига 1–71 %. 
+
+кукурузные  початки  в 
+
+Имеются работы по получению высокопористого активного угля из рисовой шелухи, который имеет 
+селективную  сорбционную  активность  на  ионы  свинца  [10,  11].  Имеются  сведения,  что  совместная 
+переработка рисовой шелухи с политетрафторэтиленом показывает высокую пористую структуру [3]. 
+
+Авторами  [12]  получен  активированный  уголь  из  рисовой  шелухи,  карбонизацию  проводят при 
+температуре 500–700 ºС с выдержкой  100–120 мин, активацию осуществляют при температуре 780–
+800  ºС  при  расходе  водяного  пара  2,0–2,5  кг  на  1  кг  карбонизированного  продукта.  Адсорбционная 
+активность  по  йоду  активированного  угля  полученного  данным  способом  составляет  20–25  %. 
+Недостатком данного способа является низкая адсорбционная активность. 
+
+Активированные  угли,  получены  из  рисовой  шелухи  путем  активации  с  помощью  фосфорной 
+кислотой  [13–16],  а  также  получен  активированный  уголь  из  рисовой  шелухи  методом  активации  с 
+фосфорной кислотой в одностадийном процессе [17]. 
+
+Ранее  нами  был  получен  активированный  уголь  из  рисовой  соломы  и  шелухи  [18],  а  также 
+
+совместной переработкой рисовой шелухи и нефтешлама [19].  
+
+При  проведении  со-термолиза  используются  многокомпонентные  смеси  или  композиты,  раз-
+личных по своей природе органических материалов с целью получения синергизма термолиза компо-
+нентов  и,  соответственно,  улучшения  выхода  и  селективности  вторичных  продуктов.  Процессы  со-
+карбонизации  смесей  техногенного  сырья  и  природных  углеродных  материалов  с  целью  получения 
+твердых  пористых  сорбентов  относительно  новая  и  малоизученная  область  применения  со-
+термолиза к задачам переработки органического сырья. 
+
+ЭКСПЕРИМЕНТАЛЬНАЯ ЧАСТЬ 
+Рисовая шелуха и солома была измельчена до порошкового состояния на лабораторной мельнице. 
+Со-термолиз рисовой шелухи и нефтешлама в соотношениях 9 : 1, 8 : 2, 7 : 3, 6 : 4, 5 : 5 проводили в 
+трубчатой печи,  изготовленной из нержавеющей стали высотой  250 мм  и внутренним диаметром 25 мм 
+при температуре 500 ºС и активацией карбонизата водяным паром при температуре 800 ºС. 
+
+Со-термолиз смеси рисовой соломы и нефтешлама проводили в трубчатой печи, изготовленной 
+
+из нержавеющей стали высотой 250 мм и внутренним диаметром 25 мм. В печь помещают смесь из               
+9 г рисовой соломы и 1 г нефтешлама (оптимальное соотношение согласно работе [19]), карбониза-
+цию  проводили  при  температурах  350–500  ºС.  Затем  с  нижней  части  трубчатой  печи  подключается 
+сосуд для подачи пара воды при температуре 750–900 ºС. 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Поверхность полученных активированных углей изучали на растровом сканирующем электрон-
+
+ном микроскопе JSM-6510 LV фирмы JEOL (Япония). 
+
+Свойства полученных активированных углей (адсорбционная активность по йоду, суммарный объ-
+
+ем пор по воде, массовая доля влаги, насыпная плотность) определяли по известной методике [20–23]. 
+
+РЕЗУЛЬТАТЫ И ОБСУЖДЕНИЕ 
+Совместная переработка рисовой шелухи и нефтешлама проводили по общей методике: в трубча-
+тую печь помещают смесь рисовой шелухи и нефтешлама в различных соотношениях (табл. 1), гермети-
+зируют  и  осуществляют  карбонизацию  со  скоростью  подъема  температуры  10  ºС  в  минуту  до  500  ºС  и 
+выдерживают при этой температуре 100 мин. Затем с нижней части трубчатой печи подключается сосуд 
+для  подачи  пара  воды  с  расходом  2  :  1  на  массу  карбонизата.  Активацию  проводят  при  температуре           
+800 ºС. 
+
+Физико-химические показатели полученного активированного угля показаны в таблице 1. 
+
+Таблица 1 –  Совместная переработка рисовой шелухи и нефтешлама 
+
+Наименование показателя 
+
+Результаты экспериментальных исследований 
+
+Массовое соотношение рисовой шелухи и нефтешлама 
+
+Выход карбонизата, мас. % 
+
+Выход активированного угля, мас. % 
+
+Адсорбционная активность по йоду, % 
+Суммарный объем пор по воде, см3/г 
+
+Массовая доля влаги, % 
+Насыпная плотность, г/дм3 
+
+9 : 1 
+
+42,7 
+
+35 
+
+8 : 2 
+
+40,6 
+
+32,4 
+
+7 : 3 
+
+36,8 
+
+29,4 
+
+6 : 4 
+
+33,7 
+
+26,6 
+
+5 : 5 
+
+33,0 
+
+26,2 
+
+46,99 
+
+43,18 
+
+38,10 
+
+31,75 
+
+26,67 
+
+1,41 
+
+4,1 
+
+1,38 
+
+4,5 
+
+1,31 
+
+4,9 
+
+1,28 
+
+5,1 
+
+1,20 
+
+5,3 
+
+201,4 
+
+207,9 
+
+211,3 
+
+213,2 
+
+220,8 
+
+Со-термолиз смеси рисовой соломы и нефтешлама проводили со скоростью подъема температуры 
+10  ºС  в  минуту  до  необходимой  температуры  (350–500  ºС)  и  выдерживали  при  данных  температурах           
+50–150 мин. Выход карбонизата при со-термолизе в различных условиях составляет 27,9–32,5 %. Актива-
+цию карбонизата проводили парами воды с расходами воды на массу карбонизата 1–4 : 1 при температу-
+рах  750–900  ºС.  Выход  активированного  угля  составляют  20,0–29,0  %  от  массы  взятой  смеси  соломы  и 
+нефтешлама. 
+
+Оптимальным  условием  получения  активированного  угля  со-термолизом  рисовой  соломы  и 
+нефтешлама  является  температура  карбонизации  500ºС  с  продолжительностью  100  мин,  активации 
+карбонизата  при  температуре  850ºС  и  при  соотношении  вода:карбонизат  =  2 :  1.  Адсорбционная  ак-
+тивность по йоду полученного таким способом активированного угля составляет 94,03 % (табл. 2). 
+
+Выход и физико-химические параметры полученного активированного угля показаны в таблице 2. 
+
+Таблица 2 –  Со-термолиз рисовой соломы и нефтешлама 
+
+Наименование показателя 
+
+Результаты экспериментальных исследований 
+
+Температура карбонизации, ºС 
+Продолжительность карбонизации, 
+мин 
+Выход карбонизата, мас. % 
+Температура активации 
+карбонизата, ºС 
+Соотношение вода:карбонизат 
+
+500 
+
+350 
+
+400 
+
+450 
+
+500 
+
+500 
+
+500 
+
+500 
+
+500 
+
+500 
+
+500 
+
+100 
+
+100 
+
+100 
+
+100 
+
+100 
+
+100 
+
+50 
+
+150 
+
+100 
+
+100 
+
+100 
+
+31,1  32,5  31,6  30,8  31,1  31,1  31,6  27,9  31,1  31,1  31,1 
+
+850 
+
+800 
+
+800 
+
+800 
+
+750 
+
+900 
+
+850 
+
+850 
+
+850 
+
+850 
+
+850 
+
+2:1 
+
+2:1 
+
+2:1 
+
+2:1 
+
+2:1 
+
+2:1 
+
+2:1 
+
+2:1 
+
+3:1 
+
+4:1 
+
+1:1 
+
+Выход активированного угля, мас. % 
+
+22,1  25,2  24,6  27,3  28,3  24,0  22,4  20,0  25,3  25,0  29,0 
+
+Адсорбционная активность по йоду, %  94,03  60,97  51,84  49,29  73,34  92,71  45,58  42,24  31,75  35,56  30,47 
+Суммарный объем пор по воде, см3/г 
+
+2,12  1,43  1,99  0,98  1,93  1,35  0,94  1,51  1,09  1,13  2,20 
+
+Массовая доля влаги, % 
+Насыпная плотность, г/дм3 
+
+0,06  0,52  0,85  0,41  0,58  1,26  7,20  0,32  1,68  1,09  2,33 
+
+144,7  154,0  142,4  141,9  143,2  168,0  167,3  149,9  117,7  124,3  114,9 
+
+Микрофотографии активированных углей приведены на рисунках 1 и 2, на рисунках можно уви-
+
+деть развитую пористую структуру полученных сорбентов. 
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Рисунок 1 – Микрофотография активированного угля 
+полученной из рисовой шелухи и нефтешлама 
+
+Рисунок 2 – Микрофотография активированного угля 
+полученной со-термолизом рисовой соломы  
+и нефтешлама 
+
+По  результатам  экспериментальных  исследований,  полученный  продукт при  совместной  пере-
+работке  рисовой  шелухи  и  нефтешлама  в  соотношениях  9  :  1  соответствует  активированному  углю 
+марки ДАК (ГОСТ 6217-74. Уголь активный древесный дробленый). Полученный продукт при совмест-
+ной  переработке  рисовой  соломы  и  нефтешлама  в  соотношениях  9  :  1, при  температуре  карбониза-
+ции  500ºС  с  продолжительностью  100  мин,  при  температуре  активации  850  ºС  в  соотношении  во-
+да:карбонизат  =  2  :  1  (самый  оптимальный),  соответствует  активированным  углям  марки  БАУ-МФ, 
+БАУ-А и БАУ-Ац (ГОСТ 6217-74. Уголь активный древесный дробленый). 
+
+Использование  предлагаемых  способов  получения  активированного  угля  по  сравнению  с  из-
+вестным способом обеспечивает высокую адсорбционную активность и в качестве сырья предлагает-
+ся  использовать  рисовую  шелуху  и  солому  с  нефтешламом.  Результаты  исследований  позволяют 
+рационально использовать природные ресурсы и имеют природоохранное значение. 
+
+Работа выполнена при поддержке Комитета науки МОН РК за счет грантового финансирования 
+
+AP05134356. 
+
+Литература: 
+
+1.   Кинле Х., Бадер Э. Активные угли и их промышленное применение. – Л. : Химия, 1984. – 216 с. 
+2.   Arezou Niksiar, Bahram Nasernejad. Activated carbon preparation from pistachio shell pyrolysis and gasifica-
+tion  in  a  spouted  bed  reactor  //  Biomass  and  Bioenergy.  –  2017.  –  V.  106.  –  P.  43–50.  DOI:  10.1016/j.biombioe. 
+2017.08.017. 
+
+3.   Facile Synthesis of Highly Porous Carbon from Rice Husk / Yeru Liang [et al.] // ACS Sustainable Chem. Eng., 
+
+Just Accepted Manuscript. – 2017. – V. 5. – № 8. – P. 7111–7117. DOI: 10.1021/acssuschemeng.7b01315. 
+
+4.   Direct  carbonization  of  rice  husk  to  prepare  porous  carbon  for  supercapacitor  applications  /  Wenli  Zhang                
+
+[et al.] // Energy. – 2017. – V. 128. – P. 618–625. DOI: 10.1016/j.energy.2017.04.065. 
+
+5.   Пред. патент РК № 15933. Способ получения карбонизированного сорбента для извлечения золота из 
+
+растворов / Мансуров З.А., Мансурова Р.М., Николаева А.Ф., Васильев Д.Г.; дата опубл. 15.07.2005. Бюл. № 7. 
+
+6.   Патент РФ № 2315712 на изобретение. Способ получения активированного угля из отходов сельского 
+хозяйства / Хоанг Ким Бонг, Тимофеев В.С., Тёмкин О.Н., Гафаров И.Г., Тимошенко А.В., Артамонова Т.В., Гор-
+бачева  О.В.,  Кольвах  И.П.,  Мишулин  Г.М.,  Щепакин  М.Б.,  Кожура  Е.А.,  Хазиев  Р.М.,  Ватолин  А.К.;  дата  опубл. 
+27.01.2008. 
+
+7.   Патент  РФ  №  2527221  на  изобретение.  Способ  получения  активного  угля  из  растительных  отходов  / 
+Мухин В.М., Воропаева Н.Л., Карпачев В.В., Харламов С.А., Спиридонов Ю.Я., Гурьянов В.В., Дмитрякова Е.Е.; 
+дата опубл. 27.08.2014. 
+
+8.   Aworn A. Preparation of CO2 activated carbon from corncob for monoethylene glycol adsorption / A. Amphol,               
+
+T. Paitip, N. Woranan // Colloids and Surfaces A: Physicochem and Eng. Asp. – 2009. – V. 333. – № 1–3. – P. 19–25.  
+
+9.   Chang  Ch-F.  Effects  of  Burn-off  and  Activation  Temperature  on  Preparation  of  Activated  Carbon from  Corn 
+Cob Agrowaste by CO2 and Steam / Ch-F. Chang, Ch-Y. Chang, W-T. Tsai // Journal of Colloid and Interface Science. – 
+2000. – V. 232. – № 1. – P. 45–49.  
+
+10. Hanum F., Bani O., Wirani L.I. Characterization of Activated Carbon from Rice Husk by HCl Activation and Its 
+Application for Lead (Pb) Removal in Car Battery Wastewater // IOP Conf. Series: Materials Science and Engineering. – 
+2017. – V. 180, 012151. DOI: 10.1088/1757-899X/180/1/012151. 
+
+11. Hanum F., Bani O., Izdiharo A.M. Characterization of Sodium Carbonate (Na2CO3) Treated Rice Husk Acti-
+vated Carbon and Adsorption of Lead from Car Battery Wastewater // IOP Conf. Series: Materials Science and Engineer-
+ing. – 2017. – V. 180, 012149. DOI: 10.1088/1757-899X/180/1/012149. 
+
+12. Патент РФ № 2609802 на изобретение. Способ получения активного угля из растительного сырья / Клушин 
+
+В.Н., Тху Аунг Си, Мухин В.М., Вин Мьинт Со, Нистратов А.В., Воропаева Н.Л.; дата опубл. 06.02.2017. Бюл. № 4. 
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13. Daifullah A.A.M., Girgis B.S., Gad H.M.H. A study of the factors affecting the removal of humic acid by activated 
+
+carbon  prepared  from  biomass  material  //  Colloids  and  Surfaces  A:  Physicochemical  and  Engineering  Aspects.  –  2004.  –                  
+V. 235. – № 1–3. – P. 1–10. DOI: 10.1016/j.colsurfa.2003.12.020. 
+
+14. Mohamed M.M. Acid dye removal: comparison of surfactant-modified mesoporous FSM-16 with activated car-
+
+bon  derived  from  rice  husk  //  Journal  of  Colloid  and  Interface  Science.  –  2004.  –  V.  272.  –  №  1.  –  P.  28–34.                        
+DOI: 10.1016/j.jcis.2003.08.071. 
+
+15. Rahman I.A., Saad B., Shaidan S., Sya Rizal E.S. Adsorption characteristics of malachite green on activated carbon 
+derived from rice husks produced by chemical-thermal process // Bioresource Technology. – 2005. – V. 96. – № 14. – P. 1578–
+1583. DOI: 10.1016/j.biortech.2004.12.015. 
+
+16. Kennedy L.J., Vijaya J.J., Sekaran G. Effect of Two-Stage Process on the Preparation and Characterization of 
+Porous  Carbon  Composite  from  Rice  Husk  by  Phosphoric Acid  Activation  // Ind.  Eng.  Chem.  Res.  –  2004.  –  V. 43. –               
+№ 8. – P. 1832–1838. DOI: 10.1021/ie034093f. 
+
+17. Guo Y., Rockstraw D.A. Activated carbons prepared from rice hull by one-step phosphoric acid activation // 
+Microporous  and  Mesoporous  Materials.  –  2007.  –  V.  100.  –  №  1–3.  –  P.  12–19.  DOI:  10.1016/j.micromeso.2006. 
+10.006. 
+
+18. Аппазов Н.О., Жусупбек У.А., Турманов Р.А., Любчик С.Б., Любчик А.И., Любчик С.И., Лыгина О.С., Бай-
+назарова С.Р., Базарбаев Б.М. Патент на полезную модель № 3892. Способ получения активированного угля из 
+рисовой соломы и шелухи. Промышл. собственность. Офиц. бюлл. – 19.04.2019. – № 16. 
+
+19. Аппазов  Н.О.,  Турманов  Р.А.,  Байназарова  С.Р.,  Диярова  Б.М.,  Шурагазиева  А.Т.,  Джиембаев  Б.Ж.,               
+
+Лыгина О.С., Любчик А.И., Курманбаев Р.Х. Патент на полезную модель № 3821. Способ получения активированного 
+угля из рисовой шелухи и нефтешлама. Промышл. собственность. Офиц. бюлл. – 05.04.2019. – № 14. 
+
+20. ГОСТ  6217.  Уголь  активный  древесный  дробленый.  Технические  условия.  –  M.  :  ИПК  Издательство 
+
+стандартов, 2003. 
+
+21. ГОСТ 17219. Угли активные. Метод определения суммарного объема пор по воде. – M. : Издательство 
+
+стандартов, 1988. 
+
+22. ГОСТ 12597. Сорбенты. Метод определения массовой доли воды в активных углях и катализаторах на 
+
+их основе. – M. : Издательство стандартов, 1989. 
+
+23. ГОСТ  16190.  Сорбенты.  Метод  определения  насыпной  плотности.  –  M.  :  Издательство  стандартов, 
+
+1970. 
+
+References: 
+
+1.   Kinle H., Bader E. Active carbons and their industrial application. – L. : Chemistry, 1984. – 216 p. 
+2.   Arezou Niksiar, Bahram Nasernejad. Activated carbon preparation from pistachio shell pyrolysis and gasifica-
+//  Biomass  and  Bioenergy.  –  2017.  –  V.  106.  –  P.  43–50.  DOI: 
+in  a  spouted  bed 
+tion 
+10.1016/j.biombioe.2017.08.017. 
+
+reactor 
+
+3.   Facile Synthesis of Highly Porous Carbon from Rice Husk / Yeru Liang [et al.] // ACS Sustainable Chem. Eng., 
+
+Just Accepted Manuscript. – 2017. – V. 5. – № 8. – P. 7111–7117. DOI: 10.1021/acssuschemeng.7b01315. 
+
+4.   Direct  carbonization  of  rice  husk  to  prepare  porous  carbon  for  supercapacitor  applications  /  Wenli  Zhang               
+
+[et al.] // Energy. – 2017. – V. 128. – P. 618–625. DOI: 10.1016/j.energy.2017.04.065. 
+
+5.   Patent of the Republic of Kazakhstan № 15933. A method of obtaining a carbonized sorbent for the extraction 
+of  gold  from  solutions  /  Mansurov  Z.A.,  Mansurova  R.M.,  Nikolaeva  A.F.,  Vasiliev  D.G.;  publ.  date  07/15/2005.  Bull. 
+Number 7. 
+
+6.   RF patent № 2315712 for the invention. A method of producing activated carbon from agricultural waste / Ho-
+ang  Kim  Bong,  Timofeev  V.S.,  Tyomkin  O.N.,  Gafarov  I.G.,  Timoshenko  A.V.,  Artamonova  T.V.,  Gorbacheva  O.V., 
+Kolvakh I.P., Mishulin G.M., Schepakin M.B., Kozhura E.A., Khaziev R.M., Vatolin A.K.; publ. date 01/27/2008. 
+
+7.  RF  patent № 2527221  for the  invention.  A method  of  producing  activated  carbon  from  plant  waste  /  Mukhin 
+V.M.,  Voropaeva  N.L.,  Karpachev  V.V.,  Kharlamov  S.A.,  Spiridonov  Yu.Ya., Guryanov  V.V.,  Dmitryakova  E.E.;  publ. 
+date 08/27/2014. 
+
+8.   Aworn A. Preparation of CO2 activated carbon from corncob for monoethylene glycol adsorption / A. Amphol,  
+
+T. Paitip, N. Woranan // Colloids and Surfaces A: Physicochem and Eng. Asp. – 2009. – V. 333. – № 1–3. – P. 19–25.  
+
+9.   Chang  Ch-F.  Effects  of  Burn-off  and  Activation  Temperature  on  Preparation  of  Activated  Carbon from  Corn 
+Cob Agrowaste by CO2 and Steam / Ch-F. Chang, Ch-Y. Chang, W-T. Tsai // Journal of Colloid and Interface Science. – 
+2000. – V. 232. – № 1. – P. 45–49.  
+
+10. Hanum F., Bani O., Wirani L.I. Characterization of Activated Carbon from Rice Husk by HCl Activation and Its 
+Application for Lead (Pb) Removal in Car Battery Wastewater // IOP Conf. Series: Materials Science and Engineering. – 
+2017. – V. 180, 012151. DOI: 10.1088/1757-899X/180/1/012151. 
+
+11. Hanum F., Bani O., Izdiharo A.M. Characterization of Sodium Carbonate (Na2CO3) Treated Rice Husk Acti-
+vated Carbon and Adsorption of Lead from Car Battery Wastewater // IOP Conf. Series: Materials Science and Engineer-
+ing. – 2017. – V. 180, 012149. DOI: 10.1088/1757-899X/180/1/012149. 
+
+12. RF  patent  №  2609802 for invention.  A method  of  producing  activated  carbon  from  plant materials /  Klushin 
+
+V.N., Thu Aung Si, Mukhin V.M., Vin Myint So, Nistratov A.V., Voropaeva N.L.; publ. date 02/06/2017. Bull. Number 4. 
+
+13. Daifullah A.A.M., Girgis B.S., Gad H.M.H. A study of the factors affecting the removal of humic acid by activated 
+carbon  prepared  from  biomass  material  //  Colloids  and  Surfaces  A:  Physicochemical  and  Engineering  Aspects.  –  2004.  –                
+V. 235. – № 1–3. – P. 1–10. DOI: 10.1016/j.colsurfa.2003.12.020. 
+
+14. Mohamed M.M. Acid dye removal: comparison of surfactant-modified mesoporous FSM-16 with activated car-
+
+bon  derived  from  rice  husk  //  Journal  of  Colloid  and  Interface  Science.  –  2004.  –  V.  272.  –  №  1.  –  P.  28–34.                        
+DOI: 10.1016/j.jcis.2003.08.071. 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+15. Rahman I.A., Saad B., Shaidan S., Sya Rizal E.S. Adsorption characteristics of malachite green on activated 
+carbon derived  from rice  husks  produced  by  chemical-thermal  process  //  Bioresource  Technology.  –  2005.  –  V.  96.  –              
+№ 14. – P. 1578–1583. DOI: 10.1016/j.biortech.2004.12.015. 
+
+16. Kennedy L.J., Vijaya J.J., Sekaran G. Effect of Two-Stage Process on the Preparation and Characterization of 
+
+Porous  Carbon  Composite  from  Rice  Husk  by  Phosphoric Acid  Activation  // Ind.  Eng.  Chem.  Res.  –  2004.  –  V. 43. –                  
+№ 8. – P. 1832–1838. DOI: 10.1021/ie034093f. 
+
+17. Guo Y., Rockstraw D.A. Activated carbons prepared from rice hull by one-step phosphoric acid activation // 
+Microporous  and  Mesoporous  Materials.  –  2007.  –  V.  100.  –  №  1–3.  –  P.  12–19.  DOI:  10.1016/j.micromeso.2006. 
+10.006. 
+
+18. Appazov  N.O.,  Zhusupbek  U.A.,  Turmanov  R.A.,  Lyubchik  S.B.,  Lyubchik  A.I.,  Lyubchik  S.I.,  Lygina  O.S., 
+Bainazarova S.R., Bazarbaev B.M. Utility Model Patent № 3892. A method of producing activated carbon from rice straw 
+and husk. Industry own. Officer bull. – 04/19/2019. – № 16. 
+
+19. Appazov N.O., Turmanov R.A., Bainazarova S.R., Diyarova B.M., Shuragazieva A.T., Dzhimbaev B.Zh., Lygi-
+na O.S., Lyubchik A.I., Kurmanbaev R.Kh. Utility Model Patent № 3821. A method of producing activated carbon from 
+rice husk and oil sludge. Industry own. Officer bull. – 04/05/2019. – № 14. 
+
+20. GOST 6217. Crushed active charcoal. Technical conditions – M. : IPK Standards Publishing House, 2003. 
+21. GOST 17219. Active coals. Method for determining the total pore volume by water. – M. : Publishing house of 
+
+standards, 1988. 
+
+22. GOST 12597. Sorbents. A method for determining the mass fraction of water in activated carbons and cata-
+
+lysts based on them. – M. : Publishing house of standards, 1989. 
+
+23. GOST 16190. Sorbents. Method for determining bulk density. – M. : Publishing house of standards, 1970. 
+
+32 
+
+ 
+ 
+ 
+

@@ -1,0 +1,582 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+УДК 658.26:621.31.031-047.72 
+
+ПРОГНОЗИРОВАНИЕ ПОТРЕБЛЕНИЯ ЭЛЕКТРИЧЕСКОЙ ЭНЕРГИИ  
+ДЛЯ НЕРИТМИЧНО РАБОТАЮЩЕГО ПРЕДПРИЯТИЯ 
+●●●●●● 
+POWER FORECASTING FOR AN OCCASIONALLY OPERATING COMPANY 
+
+Шутов Евгений Алексеевич  
+кандидат технических наук,  
+доцент отделения Электроэнергетики  
+и электротехники инженерной школы энергетики,  
+Томского политехнического университета 
+
+Shutov Evgeny Alekseevich  
+Candidate of Technical Sciences,  
+Assistant Professor  
+in the electric power department  
+and electrical engineers  
+of the Power Engineering School,  
+Tomsk polytechnic university 
+
+Капустина Елена Дмитриевна  
+магистрант отделения Электроэнергетики  
+и электротехники инженерной школы энергетики,  
+Томского политехнического университета 
+
+Kapustina Elena Dmitrievna  
+Graduate student of power engineering  
+and electrical engineers  
+at the Power Engineering School,  
+Tomsk polytechnic university 
+
+Аннотация.  
+Предмет. В настоящее время для крупных потребителей боль-
+шое  значение  уделяется  построению  качественного  прогноза, 
+так как планирование позволяет сократить издержки на покупку 
+электроэнергии. 
+Цели.  Исследование  эффективности  способов  прогнозирова-
+ния  электроэнергии.  Внедрение  системы  прогнозирования  на 
+предприятие с неритмичным режимом работы для повышения 
+экономической эффективности.  
+Методология.  В ходе  исследования  были использован  экспе-
+риментальный  метод  для  построения  прогноза  при  помощи 
+компьютерной модели.  
+Результаты. Исследование показало, что для построения крат-
+косрочного прогноза наиболее экономически-эффективным спо-
+собом является метод однофакторного одиночного прогнозиро-
+вания с помощью искусственных нейронных сетей, а для средне-
+срочного – метод деревьев классификации и регрессии. 
+Выводы.  В  ходе  исследования  был  сделан  вывод  о  важности 
+снижения  ошибки прогнозирования,  так  как  ее  уменьшение  на  
+1 % позволяет предприятию экономить примерно 1 млн руб. в 
+год.  Основная  особенность  предприятия  –  неритмичность  ра-
+боты.  Данную  специфику  наиболее  точно  отображают  искус-
+ственные нейронные сети, которые показали самую низкую от-
+носительную ошибку прогноза на сутки вперёд. Для более дли-
+тельного прогноза наиболее подходящим является метод дере-
+вьев  регрессии  и  классификации,  учитывающий  также  порт-
+фель заказов. 
+
+Annotation.  
+Subject.  At  present,  for  large  consumers, 
+great importance is attached to the construc-
+tion of high-quality prognosis, as planning al-
+lows reducing the cost of buying electricity. 
+Objectives. Research of efficiency of methods 
+of forecasting of electric power. Introduction of 
+a forecasting system for an enterprise with an 
+unusual  mode  of  operation  to  improve  eco-
+nomic efficiency.  
+Methodology. In the course of the research, an 
+experimental  method  was  used  to  make  a 
+forecast using a computer model.  
+Results. The study showed that the most cost-
+effective way to build short-term forecasts is to 
+use  one-factor  single  forecast  using  artificial 
+neural networks, and in the medium term - the 
+method of classification and regression trees. 
+Conclusions. The study concluded that it is im-
+portant to reduce the forecast error, as its re-
+duction  by  1%  allows  the  company  to  save 
+about 1 million rubles per year. The main pe-
+culiarity of the enterprise is rhythmicity of the 
+raboot.  This specificity  is  most  accurately re-
+flected  by  artificial  neural  networks  which 
+showed the lowest relative error of forecast for 
+the  day  ahead.  For  a longer  forecast,  the re-
+gression and classification tree method, which 
+also takes into account the order  portfolio,  is 
+the most suitable. 
+
+Ключевые слова: потребление электроэнергии, прогнозирова-
+ние  электропотребления,  искусственные  нейронные  сети, 
+скользящее среднее, линейная регрессия. 
+
+Keywords:  power  consumption,  electricity 
+consumption forecasting,  artificial neural  net-
+works, moving average, linear regression. 
+
+П 
+
+осле возникновения оптового рынка электроэнергии и мощности (ОРЭМ) для крупных по-
+требителей появилась необходимость в создании системы прогнозирования максимальных 
+почасовых объемов электроэнергии (э/э), а также [1, 2, 3]. Стоимость э/э складывается из стоимости 
+потребленного объема и оплаты за отклонение от прогноза (переход предприятия на балансирующий 
+рынок) [4]. Поэтому для потребителя важно снижать ошибку прогноза, тем самым уменьшать издержки 
+производства.  
+
+Для исследования были использованы работы [5, 6, 7, 8], в которых сравниваются различные методы 
+прогнозирования. В данной статье были изучены методы: авторегрессии и проинтегрированного скользя-
+щего среднего (АРПСС), искусственных нейронных сетей (ИНС), деревьев классификации и регрессии. 
+
+229 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Метод АРПСС наиболее применим для цикличных исходных данных, поэтому необходимо отби-
+рать наиболее похожие временные интервалы [9]. Метод ИНС позволяет работать со стохастичными 
+данными, так как сети можно обучать [10]. Деревья классификации и регрессии позволяют строить про-
+гнозы на основе нескольких категорий данных, что позволяет строить наиболее точные модели [11].  
+
+На  рисунке  1  представлены  данные  почасового  потребления  за  сутки,  на  рисунке  2  –  данные 
+
+месячного потребления, на которых отчетлива прослеживается цикличность. 
+
+Рисунок 1 
+
+Рисунок 2 
+
+Метод АРПСС 
+
+Исходные данные являются стохастичными, поэтому выполнен анализ исходных данных (авто-
+корреляционная (АКФ) и частная автокорреляционная (ЧАКФ) функции), выбор прогнозных моделей, 
+добавлена сезонная составляющая. С учетом данных преобразований построен прогноз на сутки впе-
+ред, а также проведена проверка гипотезы о нормальности распределения прогнозных данных, ряда 
+остатков, а также вычислена относительная ошибка прогноза [9] (MAPE) (1): 
+
+где    (cid:17)(cid:15)
+
+ – фактическое значение, (cid:17)(cid:14)(cid:15)
+
+(cid:1)(cid:2)(cid:3)(cid:4) (cid:5) (cid:6)(cid:7)(cid:7)
+(cid:8)
+
+(cid:11)(cid:12)(cid:13)(cid:11)(cid:14)(cid:12)
+(cid:11)(cid:12)
+ – значение прогноза, (cid:18) – количество шагов.  
+
+(cid:8)
+∑ (cid:10)
+(cid:15)(cid:16)(cid:6)
+
+, 
+(cid:10)
+
+(1) 
+
+Для данного прогноза относительная ошибка составила 13,66 %. 
+Если  0  %  ≤  MAPE  ≤  10  %  –  высокая  точность  прогноза,  10  %  <  MAPE  ≤  20  %  –  хорошая,                                
+
+20 % < MAPE ≤ 50 % – удовлетворительная. 
+
+Метод ИНС 
+
+Анализ  проводился  с  помощью  регрессионного  анализа  временных  рядов.  После  завершения 
+процедуры обучения многослойного персептрона (МСП) выбрана лучшая сеть по производительности. 
+Для оценки качества прогноза проанализированы нормальный вероятностный график остатков, гисто-
+грамма распределения остатков, а также нормальный вероятностный график Производительность мо-
+дели составила 99,41 %. 
+
+Два метода прогноза были сравнены по относительной ошибке, а также визуально (рис. 3). Метод – 
+ИНС имеет меньшую погрешность, равную 1,88 %, следовательно, является наиболее экономически 
+выгодным. 
+
+Рисунок 3 – Сравнение фактических и предсказанных объемов потребления э/э 
+
+Одномерные  модели  не  учитывают  множество  факторов,  влияющих  на  потребление  электро-
+энергии, именно поэтому в данной работе исследовано и многофакторное прогнозирование (в данной 
+работе  дерево  регрессии и  классификации) [13].  С  помощью программы  Statistica  были  определены 
+наиболее  значительные факторы  («Литье  СЧ-15», «Чушковый  чугун»,  «Жидкое  литье»,  «Количество 
+230 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+плавок») и построено дерево  классификации и  регрессии (рис.  4), для  которого  оценивалось  качество 
+прогноза по гистограмме распределения остатков, нормальному вероятностному графику, а также срав-
+нивалось с фактическим значением (рис. 5). Средняя относительная ошибка в месяц составила 1,49 %.  
+
+ID1
+
+N=12
+
+Mu=4310 188,33
+Var=1286 528565 49,56
+
+Жидкое литье, т
+
+<=1417,82
+
+>1417,82
+
+ID2
+
+N=1
+
+ID3
+
+N=11
+
+Mu=3563 272,00
+Var=0,00
+
+Mu=4378 089,82
+Var=8502 123104 5,79
+
+Чу шковый чу гун, т
+
+<=387,55
+
+>387,55
+
+ID4
+
+N=3
+
+ID5
+
+N=8
+
+Mu=4638 497,00
+Var=5566 442334,00
+
+Mu=4280 437,13
+Var=7985 126569 8,61
+
+Чу шковый чу гун, т
+
+<=749,61
+
+>749,61
+
+ID10
+
+N=1
+
+ID11
+
+N=7
+
+Mu=3870 825,00
+
+Var=0,00
+
+Mu=43389 53,14
+Var=6386 559460 2,98
+
+Жидкое литье, т
+
+<=2072,85
+
+>2072,85
+
+ID12
+
+N=2
+
+ID13
+
+N=5
+
+Mu=46508 53,50
+
+Var=2838 972255 6,25
+
+Mu=42141 93,00
+Var=2357 811706 1,60
+
+Литье СЧ, т
+
+Литье СЧ, т
+
+<=523,75
+
+>523,75
+
+<=644,90
+
+>644,90
+
+ID14
+
+N=1
+
+ID15
+
+N=1
+
+ID16
+
+N=3
+
+ID17
+
+N=2
+
+Mu=4482 361,00
+Var=0,00
+
+Mu=4819 346,00
+Var=0,00
+
+Mu=4160 6407,33
+Var=1020 786229 4,22
+
+Mu=4375 871,50
+Var=6693 6942,25
+
+Рисунок 4 – Дерево классификации № 6 
+
+Рисунок 5 – Фактические и предсказанные объемы потребления (многофакторный прогноз) 
+
+Проведено  сравнение  экономической  эффективности  однофакторных  прогнозов  (табл.  1)  [12]. 
+
+Расчет выполнен по формуле (2) [13]: 
+
+где    (cid:22)(cid:23)
+
+!"(cid:13)#
+
+!"(cid:13)#
+
+(cid:26)(cid:27)
+(cid:15)(cid:16)(cid:6)
+
+(cid:26)(cid:27)
+(cid:28) ∑ (cid:22)(cid:23)
+(cid:15)(cid:16)(cid:6)
+
+(cid:28) ∑ (cid:22)(cid:23) ∙ (cid:25)проч (cid:28) ∑ (cid:22)(cid:23)
+
+(cid:26)(cid:27)
+(cid:26)(cid:27)
+Зэ/э (cid:5) ∑ (cid:22)(cid:23) ∙ (cid:25)(cid:23)
+(cid:15)(cid:16)(cid:6)
+(cid:15)(cid:16)(cid:6)
+ – э/э, потребленная предприятием, кВт·ч; (cid:25)(cid:23)
+
+!"(cid:13)#
+,(cid:7) , 
+,(cid:7) (cid:28)
+∙ (cid:25)(cid:23)сбыт
+ – мощность, опла-
+ – стоимость э/э, руб/кВт·ч; (cid:3)ПМ
+ – ставка за мощность, приобретаемая на ОРЭМ в месяц, руб/кВт; 
+
+  –  мощность  за  услуги  передачи  э/э,  кВт;  (cid:25)/
+
+ – плата за иные услуги при передаче э/э, руб/кВт·ч; (cid:22)(cid:23)
+
+чиваемая на ОРЭМ, кВт; (cid:25)ПМ
+  –  ставка  сетевую  мощность  в  месяц,  руб/кВт;          
+(cid:3)/
+!"(cid:13)# – величина отклонения в положитель-
+(cid:25)проч
+ную  (отрицательную)  сторону  фактического  от  прогнозируемого  объема  потребления  э/э,  кВт·ч; 
+!"(cid:13)#   –  сбытовая  надбавка  для  отклонения  прогнозного  значения  от  фактического,  руб/кВтч; 
+!"(cid:13)# – цена на электрическую энергию на ОРЭМ для случаев отклонения прогнозного значения 
+
+(2) 
+
+∙ (cid:25)(cid:23)
+
+!"(cid:13)#
+
+(cid:28)
+
+(ПМ∙+ПМ
+
+(-∙+-
+
+ (cid:25)(cid:23)сбыт
+(cid:25)(cid:23)
+от фактического, руб/кВт·ч. 
+
+231 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Таблица 1 – Результаты произведенных расчетов  
+
+Алгоритм построения прогноза 
+
+Относительная погрешность, % 
+
+Итоговая сумма, руб. 
+
+Литература 
+
+Однофакторный одиночный 
+
+АРПСС 
+
+13,66 
+
+ИНС 
+
+1,88 
+
+128058150,38 
+
+117455981,15 
+
+1.  Современная  модель  рынка  электроэнергии.  –  ООО  «Межрегионсбыт».  –  URL  :  http://www.mrsb.ru/ 
+
+modelrinka (дата обращения: 21.09.2019). 
+
+2.  Вывод  предприятий  на  ОРЭМ.  –  Энергогруппа  «АРСТЭМ».  –  URL  :  http://www.eg-arstem.ru/new/plants/ 
+
+take_out_orem/exitto_orem.htm (дата обращения: 22.09.2019). 
+
+3.  Регламент допуска к торговой системе оптового рынка : Приложение № 1 к договору о присоединении к 
+
+торговой системе оптового рынка (ред. от 21.12.2017). – Доступ из ассоциации «НП Совет рынка». 
+
+4.  О ценообразовании в области регулируемых цен (тарифов) в электроэнергетике (вместе с «Основами 
+ценообразования  в  области  регулируемых  цен  (тарифов)  в  электроэнергетике»,  «Правилами  государственного 
+регулирования (пересмотра, применения) цен (тарифов) в электроэнергетике») – VI. Ценообразование на рознич-
+ном  рынке  :  Постановление  Правительства  РФ  от  29.12.2011  №  1178  (ред.  от  29.06.2019).  –  Доступ  из  справ.-
+правовой системы «КонсультантПлюс». 
+
+5.  Ghaderi S.F., Sohrabkhani S. Forecasting electrical consumption by integration of Neural Network, time series 
+and  ANOVA  //  Applied  Mathematics  and  Computation.  –  2007.  –  URL  :  https://www.sciencedirect.com/science/arti-
+cle/abs/pii/S0096300306011106 (дата обращения: 20.10.2019). 
+
+6.  Ghaderi S.F., Sohrabkhani S. A simulated-based neural network algorithm for forecasting electrical energy con-
+sumption in Iran // Energy Policy. – 2008. – URL : https://www.sciencedirect.com/science/article/abs/pii/S0301421508000864 
+(дата обращения: 20.10.2019). 
+
+7.  Saeedeh Sadegh S. Forecasting energy consumption using ensemble ARIMA–ANFIS hybrid algorithm // Inter-
+national Journal of Electrical Power & Energy Systems. – 2016. – URL : https://www.sciencedirect.com/science/article/abs/ 
+pii/S0142061516303702 (дата обращения: 21.10.2019). 
+
+8.  Zhanga P., Wang H. Fuzzy Wavelet Neural Networks for City Electric Energy Consumption Forecasting. – En-
+ergy Procedia, 2012. – URL : https://www.sciencedirect.com/science/article/pii/S187661021200584X (дата обращения: 
+21.10.2019). 
+
+9.  Тихонов Э.Е. Методы прогнозирования в условиях рынка : учеб. пособие. – Невинномысск, 2006. – 221 с. 
+10. Хайкин С. Нейронные сети : полный курс / пер. с англ. – М. : Издательский дом «Вильямс» – 2006. – 2-е 
+
+издание. – 1104 с. 
+
+11. Шитиков В.К., Мастицкий С.Э. Классификация, регрессия и другие алгоритмы Data Mining с использова-
+нием  R.  –  Электронная  книга,  2017.  –  351  с.  –  URL  :  https://github.com/ranalytics/data-mining  (дата  обращения: 
+20.01.2020). 
+
+12. Тарифы и цены. – AO «Томскэнергосбыт». – URL : https://ensb.tomsk.ru/ (дата обращения: 03.11.2019). 
+13. Шутов Е.А., Бабинович Д.Е. Роль прогнозирования в энергоэффективности предприятий // Энергобез-
+опасность  и  энергосбережение.  –  2012.  –  URL  :  https://www.elibrary.ru/item.asp?id=18789210  (дата  обращения: 
+21.01.2020). 
+
+References 
+
+1.  Modern model of the electricity market. – LLC «Mezhregionsbyt». – URL : http://www.mrsb.ru/ modelrinka (cir-
+
+culation date : 21.09.2019). 
+
+2.  Withdrawal  of  enterprises  to  the  Wholesale  Electricity  Market.  –  Energogroup  «ARSTEM».  –  URL  : 
+
+http://www.eg-arstem.ru/new/plants/ take_out_orem/exitto_orem.htm (date of address : 22.09.2019). 
+
+3.  Wholesale Market  Trading  System  Admission  Regulations :  Appendix №  1  to  the  Agreement  on joining the 
+
+wholesale market trading system (edited from 21.12.2017). – Access from «NP Market Council» Association. 
+
+4.  On pricing in the field of regulated prices (tariffs) in the electric power industry (together with the «Principles of 
+pricing in the field of regulated prices (tariffs) in the electric power industry», «Rules of state regulation (review, application) 
+of prices (tariffs) in the electric power industry») – VI. Pricing in the retail market : Decree of the Government of the Russian 
+Federation dated 29.12.2011 № 1178 (ed. 29.06.2019). – Access from the reference legal system «ConsultantPlus». 
+
+5.  Ghaderi S.F., Sohrabkhani S. Forecasting electrical consumption by integration of Neural Network, time se-ries 
+and  ANOVA  //  Applied  Mathematics  and  Computation.  –  2007.  –  URL  :  https://www.sciencedirect.com/science/arti-
+cle/abs/pii/S0096300306011106 (accessed on 20.10.2019). 
+
+6.  Ghaderi S.F., Sohrabkhani S. A simulated based neural network algorithm for forecasting electrical energy con-
+:  https://www.sciencedirect.com/science/article/abs/pii/ 
+
+//  Energy  Policy.  –  2008.  –  URL 
+
+sumption 
+S0301421508000864 (reference date : 20.10.2019). 
+
+Iran 
+
+in 
+
+7.  Saeedeh  Sadegh  S.  Forecasting  energy  consumption  using  ensemble  ARIMA-ANFIS hybrid algorithm //  In-
+ternational  Journal  of  Electrical  Power  &  Energy  Systems.  –  2016.  –  URL  :  https://www.sciencedirect.com/science/arti-
+cle/abs/ pii/S0142061516303702 (reference date : 21.10.2019). 
+
+8.  Zhanga P., Wang H. Fuzzy Wavelet Neural Networks for City Electric Energy Consumption Forecasting. – En-
+ergy  Procedia,  2012.  –  URL  :  https://www.sciencedirect.com/science/article/pii/S187661021200584X  (contact  date: 
+21.10.2019). 
+
+232 
+
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+9.  Tikhonov E.E. Forecasting methods in market conditions : a training manual. – Nevinnomyssk, 2006. – 221 р. 
+10. Khaikin S. Neural Networks : full course / per. engl. – M. : Williams Publishing House – 2006. – 2nd edition. – 
+
+1104 р. 
+
+11. Shitikov  V.K., Mastitskiy  S.E.  Classification,  regression  and  other  algorithms  of  Data Mining  with  the  use  of  R.  –                    
+
+E-book, 2017. – 351 р. – URL : https://github.com/ranalytics/data-mining (address date : 20.01.2020). 
+
+12. Tariffs and prices. – JSC «Tomskenergosbyt». – URL : https://ensb.tomsk.ru/ (circulation date : 03.11.2019). 
+13. Shutov E.A., Babinovich D.E. Forecasting role in the energy efficiency of enterprises // Energy-safety and energy 
+
+saving. – 2012. – URL : https://www.elibrary.ru/item.asp?id=18789210 (date of address : 21.01.2020). 
+
+233 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

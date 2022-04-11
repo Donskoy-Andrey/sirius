@@ -1,0 +1,783 @@
+УДК 547.327 
+
+250 
+
+ИНГИБИТОРЫ КИСЛОТНОЙ КОРРОЗИИ В ХИМИЧЕСКОЙ 
+
+ТЕХНОЛОГИИ ТОПЛИВА И ВЫСОКОЭНЕРГЕТИЧЕСКИХ 
+
+ВЕЩЕСТВ НА ОСНОВЕ СОЛЕЙ СУЛЬФАТИРОВАННЫХ 
+
+АМИДОВ ОЛЕИНОВОЙ КИСЛОТЫ 
+
+ACID CORROSION INHIBITORS IN CHEMICAL TECHNOLOGY  
+
+OF FUEL AND HIGH ENERGY SUBSTANCES BASED ON SALTS  
+
+OF SULFATED OLEIC ACID AMIDES 
+
+Э.К. Аминова, В.В. Фомина, В.Н. Гайсина, А.В. Попова 
+
+Уфимский государственный нефтяной технический университет, 
+
+филиал, г. Салават, Российская Федерация 
+
+Elmira K. Aminova, Vera V. Fomina, Veana N. Gaysina,  
+
+Anastasiya V. Popova  
+
+Ufa State Petroleum Technological University, Branch, Salavat,  
+
+Russian Federation 
+
+e-mail: k.elmira.k@yandex.ru 
+
+Аннотация.  В  настоящее 
+
+время  разрушение  металлического 
+
+оборудования  является  одной  из  важнейших  проблем  в  химической 
+
+технологии 
+
+топлива  и 
+
+высокоэнергетических 
+
+веществ.  Имеется 
+
+потребность  в  новых  более  эффективных  средствах  борьбы  с  коррозией. 
+
+Наиболее  агрессивные  среды  распространены  в  нефтехимической 
+
+промышленности  (нефтяной,  нефтегазовой,  нефтеперерабатывающей  и 
+
+др.).  Для  защиты  оборудования  нефтепровода  все  больше  используются 
+
+азотсодержащие  соединения,  в  частности  аммонийные  соли.  Интерес 
+
+представляют ингибиторы на основе органических соединений.  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+251 
+
+Данная работа является продолжением  серии исследований получения 
+
+ингибиторов  кислотной  коррозии  на  основе  карбоновых  кислот. 
+
+Разработана методика синтеза ингибиторов кислотной коррозии на основе 
+
+амидов  олеиновой  кислоты.  Причиной  замедления  коррозии  является 
+
+адсорбционная 
+
+способность 
+
+органических 
+
+поверхностно-активных 
+
+соединений 
+
+(ПАВ).  Это  связано  с  перекрытием  контактирующей 
+
+поверхности  металла  со  средой  и  изменением  энергии  активации  на 
+
+свободных  участках.  Основой  разработанных  ингибиторов  является 
+
+олеиновая кислота (ОК) – органическое жирное соединение, проявляющее 
+
+свойства  ПАВ.  Известно,  что  содержание  азота,  серы  и  кислорода 
+
+увеличивает 
+
+защитную  способность,  поэтому  для  повышения  ее 
+
+ингибирующих  свойств  проведены  несколько  синтезов.  Вещества  были 
+
+получены  в  несколько  стадий.  На  первой  стадии  к  ОК  были  добавлены 
+
+аминоспирты,  далее  полученные  соединения  были  сульфированы  серной 
+
+кислотой.  Для  расширения  типов  различных  ингибиторов  произведены 
+
+реакции 
+
+с 
+
+основаниями. 
+
+В 
+
+результате 
+
+образовались 
+
+соли 
+
+сульфатированных  амидов  олеиновой  кислоты,  синтезированной  с 
+
+аминоспитртами,  серной  кислоты  и  водных  растворов  оснований.  Для 
+
+определения  эффективности  полученных  соединений  проведена  оценка 
+
+защитной способности в разбавленной соляной кислоте.  Установлено, что 
+
+некоторые  полученные  вещества  проявляют  соответствующие  свойства 
+
+ингибиторов, при этом  наиболее эффективным является  аммонийная соль 
+
+сульфатированного диэтаноламида олеиновой кислоты.  
+
+Abstract. At present, the destruction of metal equipment is one of the most 
+
+important  problems  in  the  chemical  technology  of  fuel  and  high-energy 
+
+substances.  There  is  a  need  for  new,  more  effective  corrosion  control  agents. 
+
+The  most  aggressive  environments  are  common  in  the  petrochemical  industry 
+
+(oil,  oil  and  gas,  oil  refining,  etc.).  To  protect  the  equipment  of  the  pipeline, 
+
+nitrogen-containing compounds, in particular ammonium salts, are increasingly 
+
+being used. Inhibitors based on organic compounds are of interest. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+252 
+
+This  work  is  a  continuation  of  studies  series  on  the  corrosion  inhibitors 
+
+preparation  based  on  carboxylic  acids.  A  method  for  the  synthesis  of  acid 
+
+corrosion inhibitors based on oleic acid amides has been developed. The reason 
+
+for  the  slowdown  in  corrosion  is  the  adsorption  capacity  of  organic  surface-
+
+active  compounds  (surfactants).  This  is  due  to  the  overlap  of  the  contacting 
+
+surface of the  metal with  the  medium and a change  in  the activation energy  in 
+
+free areas. The basis of the developed inhibitors is oleic acid (OА) – an organic 
+
+fatty compound that exhibits surfactant  properties. It  is known that the content 
+
+of nitrogen, sulfur and oxygen increases the protective ability, therefore, several 
+
+syntheses were carried out to increase its inhibitory properties. Substances were 
+
+obtained in several stages. At the first stage, amino alcohols were added to OА, 
+
+then the resulting compounds were sulfonated with sulfuric acid. To expand the 
+
+types  of  various  inhibitors,  reactions  with  bases  were  carried  out.  As  a  result, 
+
+salts  of  sulfated  amides  of  oleic  acid  synthesized  with  amino  alcohol,  sulfuric 
+
+acid,  and  aqueous  solutions  of  bases  were  formed.  To  determine  the 
+
+effectiveness  of  the  obtained  compounds,  the  protective  ability  in  dilute 
+
+hydrochloric  acid  was  evaluated.  It  was  found  that  some  of  the  obtained 
+
+substances exhibit the corresponding properties of inhibitors. The most effective 
+
+is the ammonium salt of sulfated diethanolamide oleic acid. 
+
+Ключевые  слова:  олеиновая  кислота;  ингибиторы  коррозии;    амиды; 
+
+аминоспирты; кислотная коррозия; синтез 
+
+Key  words:  oleic  acid;  corrosion  inhibitors;  amides;  amino  alcohols;  acid 
+
+corrosion; synthesis 
+
+В  настоящее  время  химическое  и  электрохимическое  разрушения 
+
+металлов являются одной из важнейших  проблем при переработке  нефти, 
+
+поскольку  уменьшают  срок  эксплуатации  промышленного  оборудования. 
+
+Коррозия  ведет  к  экономическим  и  экологическим  потерям.  Существует 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+ 
+253 
+
+множество  способов  защиты  металлов  от  коррозии.  Одним  из  наиболее 
+
+перспективных способов является применение ингибиторов коррозии.  
+
+Для  защиты  контактной  поверхности  металлоконструкций  разумно 
+
+изолировать металл от агрессивной среды. Наиболее подходящий способ – 
+
+это  покрытие  металла  пленкой  защитного  характера.  Поверхностно-
+
+активные  вещества  (ПАВ)  проявляют  адсорбционные  свойства,  которые 
+
+способствуют  образованию  пленки  на  поверхности  [1].  Гидрофильная 
+
+природа  металла  затрудняет  процесс  вытеснения  среды,  поэтому 
+
+ингибитор  должен  обладать  достаточной  защищающей  и  загущающей 
+
+способностями,  а  также  высоким  уровнем  нейтрализации  агрессивного 
+
+агента [2]. 
+
+Цель настоящей работы – синтез ингибиторов кислотной коррозии на 
+
+основе солей сульфатированных амидов олеиновой кислоты.   
+
+Молекула олеиновой кислоты обладает амфифильными свойствами, то 
+
+есть  длинная  часть  молекулы  обладает  гидрофобными  свойствами,  а 
+
+компактная  –  гидрофильными.  Именно  такие  молекулы  проявляют 
+
+поверхностную 
+
+активность, 
+
+также 
+
+ингибирующая 
+
+способность 
+
+увеличивается в присутствии таких соединений, как азот, кислород и сера. 
+
+Отличительной особенностью получения ингибиторов кислотной коррозии 
+
+является  применение  аминов  не  только  в  виде  свободных  органических 
+
+соединений, но и в виде солей [3, 4]. 
+
+Сырьем 
+
+для 
+
+синтеза 
+
+амидов 
+
+олеиновой 
+
+кислоты 
+
+являются 
+
+моноэтаноламин  (МЭА),  диэтаноламин  (ДЭА)  и  техническая  олеиновая 
+
+кислота  марки  Б-115  в  присутствии  20 %  раствора  серной  кислоты.  Для 
+
+получения  солей  сульфатированных  амидов  использовали  следующее 
+
+сырье: 20 %-ый  водный раствор серной кислоты; водные растворы едкого 
+
+натрия, 
+
+гидрокисда 
+
+кальция  и 
+
+гидроксида 
+
+аммония  различной 
+
+концентрации [5].  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+254 
+
+Проведена 
+
+реакция 
+
+этерификации 
+
+олеиновой 
+
+кислоты 
+
+с 
+
+моноэтаноламидом и диэтаноломамидом при мольном соотношении 1 : 1 в 
+
+присутствии серной кислоты как катализатора.  
+
+Для  последующего  сульфирования  в  реакционную  смесь  добавляли 
+
+20 %-ый  раствор  серной  кислоты  при  перемешивании  при  температуре  
+
+50–60 С в течение 15 ч (по методике И.Т. Исмаилова [2]).  
+
+Для  получения  солей  были  использованы  10 %-ый,  20 %-ый,  40 %-ый 
+
+водные растворы NaOH, Ca(OH)2, NH4OH.  
+
+Реакцию  проводили  при  комнатной  температуре  с  перемешиванием  в 
+
+течение 15 мин. 
+
+Для  синтезированных  солей  было  определено  кислотное  число  по 
+
+ГОСТ 31933-20122,  которое  подтвердило  полное  протекание  реакции 
+
+(таблица 1). 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+150oCCH3(CH2)7CH2CH(CH2)7CONH(CH2CH2OH)SO3H+ H2SO4CH3(CH2)7CHCH(CH2)7CONH(CH2CH2OH)CH3(CH2)7CH2CH(CH2)7CONH(CH2CH2OH)SO3H+ H2SO4CH3(CH2)7CHCH(CH2)7CONH(CH2CH2OH)CH3(CH2)7CH2CH(CH2)7CONH(CH2CH2OH)OSO3NH4CH3(CH2)7CH2CH(CH2)7CONH(CH2CH2OH)OSO3NaNH4OHNaOHCH3(CH2)7CH2CH(CH2)7CONH(CH2CH2OH)SO3HCa(OH)2(CH3(CH2)8CHOSO2O(CH2)7CON((CH2)2OH)2Ca 
+ 
+ 
+ 
+ 
+ 
+ 
+Таблица 1. Кислотное число 
+
+Соединение 
+
+CH3(CH2)7CH=СH(CH2)7CONH(CH2)2OH 
+CH3(CH2)7CH=СH(CH2)7CONH(CH2)2OH 
+CH3(CH2)7CH=СH(CH2)7CON((CH2)2OH)2 
+CH3(CH2)7CH=СH(CH2)7CON((CH2)2OH)2 
+
+255 
+
+Кислотное число, мг 
+
+До 
+этерификации 
+
+После 
+этерификации 
+
+266,7 
+
+– 
+
+226,6 
+
+– 
+
+– 
+
+69,4 
+
+– 
+
+64,8 
+
+Выход  полученных  солей  в  зависимости  от  концентраций  щелочных 
+
+растворов представлен в таблице 2. 
+
+Таблица  2.  Выход  солей  при  синтезе  с  водными  растворами  щелочами 
+разной концентрации 
+
+Исходные реагенты 
+
+Продукт 
+
+Соединение 6 и NaOH 
+
+Соединение 8 
+
+Соединение 7 и NaOH 
+
+Соединение 9 
+
+Соединение 6 и NН4OH 
+
+Соединение 10 
+
+Соединение 7 и NН4OH 
+
+Соединение 11 
+
+Соединение 6 и Ca(OH)2 
+
+Соединение 12 
+
+Соединение 7 и Ca(OH)2 5 
+
+Соединение 13 
+
+Концентрации растворов 
+щелочей, % 
+10 
+
+20 
+
+30 
+
+10 
+
+20 
+
+30 
+
+10 
+
+20 
+
+30 
+
+10 
+
+20 
+
+30 
+
+10 
+
+20 
+
+30 
+
+10 
+
+20 
+
+30 
+
+Выход, % 
+
+86,1 
+
+98,0 
+
+98,5 
+
+87,3 
+
+97,5 
+
+97,0 
+
+89,6 
+
+97,8 
+
+96,4 
+
+85,7 
+
+96,0 
+
+95,8 
+
+82,9 
+
+93,7 
+
+93,8 
+
+83,8 
+
+95,1 
+
+96,2 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+ 
+256 
+
+По  результатам,  приведенным  в  таблице  2,  видно,  что  концентрация 
+
+щелочи 10 % недостаточна для практически полного  выхода продуктов,  а 
+
+концентрация  30 %  нецелесообразна  в  использовании.  Самый  лучший 
+
+выход  показали  соли,  синтезированные  на  основе  растворов  щелочей  с 
+
+концентрацией 20 %. 
+
+Полученные  соединения  (соли,  синтезированные  на  основе  20 %-ых 
+
+растворов  щелочей)  также  были  проверены  на  защитное  ингибирующее 
+
+действие по ГОСТ 9.505-86 (таблица 3). 
+
+Таблица  3.  Защитная  эффективность  солей  сульфатированных  амидов 
+олеиновой кислоты 
+
+№ 
+
+Соединение  
+
+Удельная потеря массы, 
+
+0   HCl 0,1 н  
+
+1   CH3(CH2)8CHOSO2ONa(CH2)7CONH(CH2)2OH 
+
+2   CH3(CH2)8CHOSO2ONH4(CH2)7CONH(CH2)2OH 
+
+3  
+
+(CH3(CH2)8CHOSO2O-2(CH2)7CONH(CH2)2OH)2Ca 
+
+4   CH3(CH2)8CHOSO2ONa(CH2)7CON((CH2)2OH)2 
+
+5   CH3(CH2)8CHOSO2ONH4(CH2)7CON((CH2)2OH)2 
+
+6  
+
+7  
+
+(CH3(CH2)8CHOSO2O-2(CH2)7CON((CH2)2OH)2)2Ca 
+
+уротропин  
+
+Выводы 
+
+г/м2  
+
+385,3 
+
+300,5 
+
+133,3 
+
+260,5 
+
+285,4 
+
+58,9 
+
+80,6 
+
+45,2 
+
+1.  В  результате  испытаний  на  защитное  ингибирующее  действие 
+
+синтезированных 
+
+реагентов 
+
+установлено, 
+
+что 
+
+сульфатированный 
+
+диэтаноламид  олеиновой  кислоты  проявляет  антикоррозионные  свойства 
+
+лучше, чем сульфатированный моноэтаноламид олеиновой кислоты.  
+
+2.  Максимальный  ингибиторный  эффект  проявила  аммонийная  соль 
+
+сульфатированного  диэтаноламида  олеиновой  кислоты,  что  является 
+
+обоснованием  выгодного  использования  ее  в  целях  защиты  оборудования 
+
+от коррозии. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+ 
+257 
+
+Список используемых источников 
+
+1. Козлова  Л.С.,  Сибилева  С.В.,  Чесноков  Д.В.,  Кутырев  А.Е. 
+
+Ингибиторы  коррозии  (обзор)  //  Авиационные  материалы  и  технологии. 
+
+2015. № 2 (35). С. 67-75. 
+
+2. Уварова  Н.Н.  Амиды 
+
+высших 
+
+карбоновых 
+
+кислот 
+
+как 
+
+полифункциональна добавка к минеральному маслу И-20А // Вестник ТГУ. 
+
+1997. Т. 2. Вып. 1. С. 70-75. 
+
+3. Исмаилов  И.Т.  Синтез  и  поверхностноактивные  свойства  солей 
+
+сульфатированных амидов на основе олеиновой кислоты и этаноламидов // 
+
+Kimya Problemlеri. 2015. № 2. С. 144-153. 
+
+4. Загидуллин  Р.Н.,  Дмитриева  Т.Г.,  Загидуллин  С.Н.,  Идрисова  В.А. 
+
+Разработка процесса получения новых ингибиторов кислотной коррозии // 
+
+Башкирский химический журнал. 2012. Т. 19. № 2. С. 31-35. 
+
+5. Аминова  Э.К.,  Фомина  В.В.,  Лихачева  Н.А.,  Гайсина  В.Н., 
+
+Попова А.В. Синтез ингибиторов кислотной коррозии на основе олеиновой 
+
+кислоты  и  аминоспиртов  //  Сетевое  издание  «Нефтегазовое  дело».  2019.  
+
+№  3.  С.  116-125.  URL:  http://ogbus.ru/files/ogbus/issues/3_2019/ogbus_3_ 
+
+2019_p116-125.pdf  (дата  обращения:  20.11.2019).  DOI:  10.17122/ogbus-
+
+2019-3-116-125. 
+
+References 
+
+1. Kozlova  L.S.,  Sibileva  S.V.,  Chesnokov  D.V.,  Kutyrev  A.E.  Ingibitory 
+
+korrozii  (obzor)  [Corrosion  Inhibitors  (Review)].  Aviatsionnye  materialy  i 
+
+tekhnologii  –  Aviacionnye  Materialy  and  Tehnologii,  2015,  No.  2  (35),  
+
+pp. 67-75. [in Russian]. 
+
+2. Uvarova N.N. Amidy vysshikh karbonovykh kislot kak polifunktsional'na 
+
+dobavka k mineral'nomu maslu I-20A [Amides of Higher Carboxylic Acids as a 
+
+Multifunctional  Additive  to  I-20A  Mineral  Oil].  Vestnik  TGU  –  Tomsk  State 
+
+University Journal, 1997, Vol. 2, Issue 1, pp. 70-75. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+258 
+
+3. Ismailov 
+
+I.T.  Sintez 
+
+i 
+
+poverkhnostnoaktivnye 
+
+svoistva 
+
+solei 
+
+sul'fatirovannykh amidov na osnove oleinovoi kisloty i etanolamidov [Synthesis 
+
+and  Surface-Active  Properties  of  Salts  of  Sulphated  Amides  on  the  Basis  of 
+
+Oleic Acid and Ethanolamins]. Kimya Problemleri – Chemical Problems, 2015, 
+
+No. 2, pp. 144-153. [in Russian]. 
+
+4. Zagidullin  R.N.,  Dmitrieva  T.G.,  Zagidullin  S.N.,  Idrisova  V.A. 
+
+Razrabotka  protsessa  polucheniya  novykh  ingibitorov  kislotnoi  korrozii  [The 
+
+Development  Process  of  Obtaining  of  New  Inhibitors  of  Acid  Corrosion]. 
+
+Bashkirskii  khimicheskii  zhurnal  –  Bashkir  Chemical  Journal,  2012,  Vol.  19, 
+
+No. 2, pp. 31-35. [in Russian]. 
+
+5. Aminova  E.K.,  Fomina  V.V.,  Likhacheva  N.A.,  Gaisina  V.N., 
+
+Popova A.V. Sintez ingibitorov kislotnoi korrozii  na osnove oleinovoi kisloty  i 
+
+aminospirtov  [Acid  Corrosion  Inhibitors  Synthesis  on  the  Basis  of  Oleic  Acid 
+
+and  Amino  Alcohol].  Setevoe  izdanie  «Neftegazovoe  delo»  –  Online  Edition 
+
+«Oil  and  Gas  Business»,  2019,  No.  3,  pp.  116-125.  URL:  http://ogbus.ru/ 
+
+files/ogbus/issues/3_2019/ogbus_3_2019_p116-125.pdf  (accessed  20.11.2019). 
+
+DOI: 10.17122/ogbus-2019-3-116-125. [in Russian]. 
+
+Сведения об авторах 
+
+About the authors 
+
+Аминова  Эльмира  Курбанаглиевна,  канд.  хим.  наук,  доцент  кафедры 
+
+«Химико-технологические  процессы»,  УГНТУ,  филиал, 
+
+г. Салават, 
+
+Российская Федерация  
+
+Elmira K. Aminova, Candidate of Chemical Sciences, Assistant Professor of 
+
+Chemical  and  Technological  Processes  Department,  USPTU,  Branch,  Salavat, 
+
+Russian Federation  
+
+е-mail: k.elmira.k@yandex.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+ 
+259 
+
+Фомина Вера Васильевна, канд. техн. наук, доцент кафедры «Химико-
+
+технологические  процессы»,  УГНТУ,  филиал,  г. Салават,  Российская 
+
+Федерация  
+
+Vera V. Fomina, Candidate of Engineering Sciences, Assistant Professor of 
+
+Chemical  and  Technological  Processes  Department,  USPTU,  Branch,  Salavat, 
+
+Russian Federation. 
+
+е-mail: asterhtp@mail.ru 
+
+Гайсина  Веана  Ниязовна,  студент  кафедры  «Химико-технологические 
+
+процессы», УГНТУ, филиал, г. Салават, Российская Федерация  
+
+Veana N.  Gaysina,  Student  of  Chemical  and  Technological  Processes 
+
+Department, USPTU, Branch, Salavat, Russian Federation 
+
+Попова  Анастасия  Владимировна,  студент  кафедры  «Химико-
+
+технологические  процессы»,  УГНТУ,  филиал,  г. Салават,  Российская 
+
+Федерация  
+
+Anastasiya  V.  Popova,  Student  of  Chemical  and  Technological  Processes 
+
+Department, USPTU, Branch, Salavat, Russian Federation 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+ 
+ 
+

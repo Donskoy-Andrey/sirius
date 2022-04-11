@@ -1,0 +1,301 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+УДК 621.31, 62-83, 621.313.33 
+
+СОВРЕМЕННЫЕ МЕТОДЫ И РЕШЕНИЯ ПО УТИЛИЗАЦИИ 
+ЛОПАСТЕЙ ВЕТРОЭЛЕКТРИЧЕСКИХ УСТАНОВОК 
+––––––– 
+MODERN METHODS AND SOLUTIONS 
+FOR UTILIZATION OF WINDMILL BLADES 
+
+Ляшенко Андрей Михайлович 
+Кубанский государственный технологический университет 
+
+Lyashenko Andrey Mikhaylovich 
+Kuban State Technological University 
+
+Афанасьев Виктор Леонидович 
+Кубанский государственный технологический университет 
+
+Afanasiev Viktor Leonidovich 
+Kuban State Technological University 
+
+Махинько Владислав Сергеевич 
+Кубанский государственный технологический университет 
+
+Mahinko Vladislav Sergeyevich  
+Kuban State Technological University 
+
+Аннотация.  В  статье  показан  анализ  современных  методов  и 
+решений по утилизации лопастей ветроэлектрических установок. 
+
+Annotation.  The  article  shows  the  analysis 
+of problems of creation and ecological opera-
+tion of electric receivers using the example of 
+wind power plants. 
+
+Ключевые  слова:  моделирование,  электроприемник,  элек-
+трический  генератор,  электрическая  машина,  ветроэлектриче-
+сике установки, экология. 
+
+Keywords:  simulation,  electric 
+receiver, 
+electric  generator,  electric  machine,  wind-
+electric plants, ecology. 
+
+Д 
+
+оля ветроэнергетики в выработке мировой электроэнергии постепенно возрастает [1]. 
+Для успешного развития ветроэнергетики необходимо создание новых типы электрических 
+комплексов [2, 3] и электромеханических систем [4, 5]. Для этого необходимы новые подходы [6, 7] и 
+методы  [8,  9]  для  расчета  параметров  [10]:  электромагнитной  системы  [11,  12]  и  электромагнитных 
+величин  [13,  14],  электромагнитную  энергию  [15,  16]  и  момент  [17,  18].  Аналитически  такая  задача 
+решается довольно трудно. Для этого разрабатывают программы расчета параметров и моделирова-
+ния электромагнитных процессов [19]. 
+
+На сегодняшний день во всем мире люди сталкиваются с проблемой утилизации ветроэлектри-
+ческих установок. Из чего же они выполнены, что их так сложно и проблемно утилизировать? Лопасти 
+ветроэлектрических  установок  выполнены  из  волокнисто-полимерного  композита,  который  способен 
+выдерживать сильнейшие порывы ветра и не разрушаться под его воздействием.  
+
+В естественной среде материал, из которого  изготавливают лопасти ветроэлектрических уста-
+новок,  практически  не  подвержен  разложению  в  естественной  среде.  На  сегодняшний  день  есть  не-
+сколько способов утилизации лопастей.  
+
+Первый и самый  «грязный» способ –  это захоронение лопастей ветроэлектрических установок 
+под  землей. В  США  из  эксплуатации  ежегодно  выводится  около  8000 лопастей.  По  окончании  срока 
+службы ветряных турбин лопасти необходимо разрезать промышленными пилами на маленькие кус-
+ки, чтобы их можно было разместить на прицепе с плоской платформой, и вывезти на мусорную свал-
+ку.  Кроме  свалки  мусора  в  Каспере,  выброшенные  лопасти принимают  еще  в Лейк-Миллсе,  Айове  и 
+Су-Фолсе,  Южной  Дакоте.  Как  только  лопасти  оказываются  в  земле,  они  остаются  там  практически 
+навсегда, так как не разлагаются со временем. 
+
+Второй  способ  –  это  измельчение лопастей  в  мелкие  гранулы  –  так  называемый  рециклят.  То 
+есть лопасти разрезают на все более мелкие части, потом и их дробят, и полученный продукт служит 
+наполнителем  при  производстве  пластмасс  или  новых  волокнистых  композиционных  материалов. 
+Правда,  это  едва  ли  сможет  полностью  решить  проблему  утилизации  лопастей,  поскольку  доля  ре-
+циклята в новых продуктах не должна превышать 40 процентов. Возможно, именно это побудило од-
+ного из швейцарских производителей цемента предложить технологию, в которой термическая утили-
+зация сочетается с рециклингом материала. Процесс производства цемента предполагает нагрев сы-
+рья до температуры в 1400 градусов Цельсия, и измельченные лопасти могут заменить уголь или ма-
+зут в качестве топлива, пусть и низкокалорийного. А из золы, остающейся после сгорания, можно из-
+влечь еще и ряд материалов, обычно используемых в производстве цемента – например, песок. 
+
+Возможно,  выходом  из  ситуации  станет  развитие  стартапа,  предложенного  компанией  Global 
+Fibreglass Solutions. Его суть заключается в применении сверхвысоких температур, трансформирующих 
+исходный  материал  в  волокна.  На  втором  этапе  переработки  они  могут  быть  спрессованы  в  плиты  и 
+превращены, например, в напольные покрытия. По словам разработчиков, таким способом можно ути-
+
+171 
+
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+лизировать 99,9 % стандартной лопатки, а мощности одного завода хватит на то, чтобы переработать 
+от 6 до 7 тысяч лопастей в год. Однако это лишь теория, а жители тех регионов мира, где в общем объ-
+ёме генерации велика доля ветра, нуждаются в практическом воплощении подобного рода идей. 
+
+Рисунок 1 – Лопасти ветроэлектрических установок 
+
+Вдобавок  к  этому,  специалисты  работают  над  альтернативными  технологиями  переработки 
+композитных лопастей, такими как: механическая рециркуляция, сольволиз и пиролиз. Успешные ис-
+следования в этих направлениях дадут возможность создавать безотходные ветровые турбины. Так, 
+компания  Vestas  обещает  наладить  безотходное  производство  ветрогенераторов  к  2040  году.  Не 
+осталась в стороне химическая и композитная промышленность – совместно с ветроэнергетическими 
+корпорациями  создана  межотраслевая  площадка,  основой  которой  является  ветроэнергетическое 
+объединение  WindEurope,  Европейский  совет  химической  промышленности  Cefic  и  ассоциация 
+EUCIA, производящая композитные материалы. Совместными усилиями корпорации ведут поиск но-
+вых способов утилизации и переработки лопастей ветряков. 
+
+Литература: 
+
+1.  URL  :  https://forpost-sz.ru/a/2020-10-13/vetroehnergetiku-nazvali-v-ssha-nepredvidennym-ehkologicheskim-
+
+koshmarom 
+
+2.  Карандей В.Ю., Попов Б.К. Управляемый каскадный электрический привод с жидкостным токосъемом // 
+
+Патент на изобретение № 2461947 зарегистрировано 20.09.2012 г. 
+
+3.  Афанасьев  В.Л.,  Карандей  В.Ю.,  Попов  Б.К.  Управляемый  каскадный  электрический привод  //  Патент 
+
+на полезную модель RU 191959 U1, 28.08.2019, заявка № 2019111630 от 16.04.2019. 
+
+4.  Карандей В.Ю., Попов Б.К. Токосъемное устройство // Патент на изобретение № 2370869 зарегистри-
+
+ровано 30.06.2008 г. 
+
+5.  Сигнализирующее  токосъемное  устройство  /  В.Ю.  Карандей  [и  др.]  //  Патент  на  изобретение                 
+
+№ 2601958 от 27 июля 2015 г, зарегистрировано 18.10.2016 г.  
+
+6.  Popova O.B.,  Popov  B.K.,  Karandey  V.Yu. Intelligence  amplification  in  distance  learning through  the  binary 
+tree  of  question-answer  system  //  Procedia-Social  and  Behavioral  Sciences.  –  2015.  –  Vol.  214.  –  Р.  75–85.  Doi: 
+10.1016/j.sbspro.2015.11.597. 
+
+7.  Theoretical propositions and practical implementation of the formalization of structured knowledge of the sub-
+ject area for exploratory research / O.B. Popova [et al.] // Advances in Intelligent Systems and Computing. – 2018. – 
+Vol. 722. – P. 432–437. Doi: 10.1007/978-3-319-73888-8_67. 
+
+8.  New Methods and Evaluation Criteria of Research Efficiency / O.B. Popova [et al.] // Mediterranean journal of 
+
+social sciences. – 2015. – Vol 6. – № 6 S5. – Р. 212–217. 
+
+9.  Analysis of forecasting methods as a tool for information structuring in science research / O.B. Popova [et al.] // 
+
+British Journal of Applied Science & Technology. – 2016. – Vol. 17. – Р. 9–19. Doi: 10.9734/BJAST/2016/26353. 
+
+10. Intelligence amplification via language of choice description as a mathematical object (binary tree of question-
+
+answer system) / V.Yu. Karandey [et al.] // Procedia-social and behavioral science. – 2015. – Vol. 214. – Р. 897–905. 
+
+11. Подход  к  определению  магнитных  параметров  компонента  управляемого  каскадного  асинхронного 
+электрического привода /  В.Ю.  Карандей  [и  др.]  //  Политематический  сетевой  электронный  научный журнал  Ку-
+банского государственного аграрного университета [Электронный ресурс]. – 2015. – № 10 (114). – С. 182–201. 
+
+12. Разработка алгоритма расчета электромагнитных параметров статора компонента управляемого асин-
+хронного каскадного электрического привода / В.Ю. Карандей [и др.] // Политематический сетевой электронный 
+научный журнал  Кубанского  государственного  аграрного  университета  (Научный  журнал  КубГАУ) [Электронный 
+ресурс]. – Краснодар : КубГАУ, 2016. – № 06 (120). – С. 587–605. – URL : http://ej.kubagro.ru/2016/06/pdf/41.pdf 
+
+13. Карандей  В.Ю.,  Афанасьев  В.Л.  Mathematical  modeling  of  special  electric  drives  for  the  equipment  of  oil 
+and gas branch // Политематический сетевой электронный научный журнал Кубанского государственного аграрно-
+го университета [Электронный ресурс]. – 2017. – № 08 (132). – С. 926–940., Doi: 10.21515/1990-4665-132-072. 
+
+14. Определение магнитных параметров модели статора компонента управляемого асинхронного каскад-
+ного электрического привода цилиндрической конструкции / В.Ю. Карандей [и др.] // Политематический сетевой 
+
+172 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+электронный  научный  журнал  Кубанского  государственного  аграрного  университета  [Электронный  ресурс].  – 
+2017. – № 09 (133). – С. 1231–1248. Doi: 10.21515/1990-4665-133-105. 
+
+15. Karandey V.Yu., Popov B.K., Afanasyev V.L. Research of change of parameters of a magnetic flux of the sta-
+tor and rotor of special electric drives // 2018 International Multi-Conference on Industrial Engineering and Modern Tech-
+nologies (FarEastCon). – 2018. – Р. 8602911. Doi: 10.1109/FarEastCon.2018.8602911. 
+
+16. Research of electromagnetic parameters for improvement of efficiency of special electric drives and compo-
+nents  /  V.Yu.  Karandey  [et  al.] //  5th  International  Conference  on  Power  Generation  Systems  and  Renewable  Energy 
+Technologies. – 2019. – Р. 69–74. Doi: 10.1109/PGSRET.2019.8882689. 
+
+17. Determination of power and moment on shaft of special asynchronous electric drives / V.Yu. Karandey [et al.] // 
+IOP  Conf.  Series:  Materials  Science  and  Engineering.  –  2018.  –  Vol.  327.  –  Р.  052003.  Doi:10.1088/1757-
+899X/327/5/052003. 
+
+18. Research  dynamics  of  change  of  electromagnetic  parameters  of  controlled  special  electric  drives  /              
+
+V.Yu.  Karandey  [et  al.]  //  2019  International  Multi-Conference  on  Industrial  Engineering  and  Modern  Technologies 
+(FarEastCon-2019). – 2019. – Р. 8934751. Doi: 10.1109/FarEastCon.2019.8934751. 
+
+19. Попов Б.К., Карандей В.Ю. Программа расчета токов статора и ротора в каскадном электрическом при-
+
+воде // свидетельство о регистрации программы для ЭВМ RU № 2008614048, зарегистрировано 30.06.2008 г. 
+
+References: 
+
+1.  URL  :  https://forpost-sz.ru/a/2020-10-13/vetroehnergetiku-nazvali-v-ssha-nepredvidennym-ehkologicheskim-
+
+koshmarom 
+
+2.  Karandey  V.Y.,  Popov  B.K.  Controlled  cascade  electric  drive  with  liquid current  collector  //  Invention  patent      
+
+№ 2461947 registered 20.09.2012. 
+
+3.  Afanasiev V.L., Karandey V.Y., Popov B.K. Controlled cascade electric drive // Utility model patent RU 191959 
+
+U1, 28.08.2019, application № 2019111630 dated 16.04.2019. 
+
+4.  Karandey  V.Y.,  Popov  B.K.  Current-carrying  device  //  Patent  for  the  invention  №  2370869  registered 
+
+30.06.2008. 
+
+5.  Signaling  current-carrying  device  /  V.Yu.  Karandei  [et  al.] //  Patent  for invention №  2601958  dated  July 27, 
+
+2015, registered 18.10.2016. 
+
+6.  Popova O.B.,  Popov  B.K.,  Karandey  V.Yu. Intelligence  amplification  in  distance  learning through  the  binary 
+tree  of  question-answer  system  //  Procedia-Social  and  Behavioral  Sciences.  –  2015.  –  Vol.  214.  –  Р.  75–85.  Doi: 
+10.1016/j.sbspro.2015.11.597. 
+
+7.  Theoretical propositions and practical implementation of the formalization of structured knowledge of the sub-
+ject area for exploratory research / O.B. Popova [et al.] // Advances in Intelligent Systems and Computing. – 2018. – 
+Vol. 722. – P. 432–437. Doi: 10.1007/978-3-319-73888-8_67. 
+
+8.  New Methods and Evaluation Criteria of Research Efficiency / O.B. Popova [et al.] // Mediterranean journal of 
+
+social sciences. – 2015. – Vol 6. – № 6 S5. – Р. 212–217. 
+
+9.  Analysis of forecasting methods as a tool for information structuring in science research / O.B. Popova [et al.] // 
+
+British Journal of Applied Science & Technology. – 2016. – Vol. 17. – Р. 9–19. Doi: 10.9734/BJAST/2016/26353. 
+
+10. Intelligence amplification via language of choice description as a mathematical object (binary tree of question-
+
+answer system) / V.Yu. Karandey [et al.] // Procedia-social and behavioral science. – 2015. – Vol. 214. – Р. 897–905. 
+
+11. Approach  to  Determination  of  Magnetic  Parameters  of  a  Controlled  Cascade  Asynchronous  Electric  Drive 
+Component /  V.Yu.  Karandei [et  al.] //  Polythematic  Network  Electronic  Scientific  Journal  of the  Kuban  State  Agrarian 
+University [Electronic resource]. – 2015. – № 10 (114). – Р. 182–201. 
+
+12. Development  of  an algorithm for  calculating the  electromagnetic  parameters  of the  stator component  of  the 
+controlled asynchronous cascade electric drive / V.Yu. Karandei [et al.] // Polythematic network electronic scientific jour-
+nal of the Kuban State Agrarian University (Scientific Journal of KubGAU) [Electronic resource]. – Krasnodar : KubGAU, 
+2016. – № 06 (120). – Р. 587–605. – URL : http://ej.kubagro.ru/2016/06/pdf/41.pdf 
+
+13. Karandey V.Y., Afanasiev V.L. Mathematical modeling of special electric drives for the equipment of oil and 
+gas  branch  //  Mathematical  Network  Electronic  Scientific  Journal  of  Kuban  State  Agrarian  University  [Electronic  re-
+source]. – 2017. – № 08 (132). – P. 926–940., Doi: 10.21515/1990-4665-132-072. 
+
+14. Determination of magnetic parameters of the stator model component of the controlled asynchronous cascade 
+electric drive of cylindrical design / V.Yu. Karandei [et al.] // Polythematic network electronic scientific journal of the Kuban 
+State Agrarian University [Electronic resource]. – 2017. – № 09 (133). – Р. 1231–1248. Doi: 10.21515/1990-4665-133-105. 
+15. Karandey V.Yu., Popov B.K., Afanasyev V.L. Research of change of parameters of a magnetic flux of the sta-
+tor and rotor of special electric drives // 2018 International Multi-Conference on Industrial Engineering and Modern Tech-
+nologies (FarEastCon). – 2018. – Р. 8602911. Doi: 10.1109/FarEastCon.2018.8602911. 
+
+16. Research of electromagnetic parameters for improvement of efficiency of special electric drives and compo-
+nents  /  V.Yu.  Karandey  [et  al.] //  5th  International  Conference  on  Power  Generation  Systems  and  Renewable  Energy 
+Technologies. – 2019. – Р. 69–74. Doi: 10.1109/PGSRET.2019.8882689. 
+
+17. Determination of power and moment on shaft of special asynchronous electric drives / V.Yu. Karandey [et al.] // 
+IOP  Conf.  Series:  Materials  Science  and  Engineering.  –  2018.  –  Vol.  327.  –  Р.  052003.  Doi:10.1088/1757-
+899X/327/5/052003. 
+
+18. Research  dynamics  of  change  of  electromagnetic  parameters  of  controlled  special  electric  drives  /              
+
+V.Yu.  Karandey  [et  al.]  //  2019  International  Multi-Conference  on  Industrial  Engineering  and  Modern  Technologies 
+(FarEastCon-2019). – 2019. – Р. 8934751. Doi: 10.1109/FarEastCon.2019.8934751. 
+
+19. Popov B.K., Karandey V.U. Software for Calculation of Stator and Rotor Currents in Cascade Electric Drive // 
+
+Registration certificate for computer program RU № 2008614048, registered 30.06.2008. 
+
+173 
+
+ 
+ 
+ 
+ 
+ 
+

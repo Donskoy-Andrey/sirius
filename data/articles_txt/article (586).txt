@@ -1,0 +1,174 @@
+УДК 678.762.3 
+
+ИССЛЕДОВАНИЕ МАГНИТНЫХ ПОЛИМЕРНЫХ КОМПОЗИТНЫХ СОРБЕНТОВ 
+●●●●● 
+THE RESEARCH OF MAGNETIC POLYMERIC COMPOSITE SORBENTS 
+
+Мустафаева Рена Эльдаровна 
+кандидат химических наук,  
+старший научный сотрудник, 
+научно-исследовательская лаборатория  
+«Новые химические материалы и технологии», 
+Азербайджанский Государственный Университет  
+Нефти и Промышленности 
+
+Mustafayeva Rena Eldar 
+Leading Research fellow, chem. Sciences, 
+Scientific-research laboratory  
+«New chemical materials and technologies», 
+University of Oil and Industry, 
+Republic of Azerbaijan  
+
+Аннотация.  Разработаны  синтетические  подходы  к  созданию 
+магнитоактивных полимеров, способных сорбировать субстра-
+ты  различной  природы  (газы,  алканы,  спирты).  Показано,  что 
+магнитные  характеристики  таких  систем  определяются  маг-
+нитными  свойствами  полиядерных  фрагментов  в  их  составе, 
+что является важным свойством для направленного получения 
+композиционных  материалов  с  заданными  магнитными  свой-
+ствами.  Полученные  соединения  могут  найти  применение  как 
+основа  создания  новых  магнитных  материалов,  магнитных 
+сорбентов. 
+
+Annotation.  Synthetic  approaches  to  the 
+creation  of  magnetically  active  polymers 
+capable  of  sorption  substrates  of  various 
+natures (gases, alkanes, alcohols) have been 
+developed.  It  is  shown  that  the  magnetic 
+characteristics  of  such  systems  are  deter-
+mined  by  the  magnetic  properties  of  polynu-
+clear fragments in their composition, which is 
+an important property for the directed produc-
+tion  of  composite  materials  with  specified 
+magnetic  properties.  The  resulting  com-
+pounds  can  be  used  as  the  basis  for  the 
+creation of new magnetic materials, magnetic 
+sorbents. 
+
+Ключевые  слова:  магнитореологические  материалы,  ферро-
+магнитные  наполнители,  магнитные  материалы,  магнитные 
+сорбенты. 
+
+Keywords:  magnetorheological  materials, 
+ferromagnetic 
+fillers,  magnetic  materials, 
+magnetic sorbents. 
+
+M 
+
+agnetic  polymer  composites  are  of  great  interest  in  terms  of  fundamental  research.  Magne-
+torheological materials refer to composite materials consisting of ferro- or ferrimagnetic particles 
+having  their  own  magnetic  moment,  placed  in  a  paro-  or  diamagnetic  medium  with  rheological  properties. 
+The rheological properties of such materials are altered by the interaction of the magnetic filling particles with 
+the external magnetic field. Para- or diamagnetic medium with rheological properties. The mechanical, elec-
+trical  and magnetic  properties  of magnetic  composites  can  be  controlled  by  a magnetic field,  which  allows 
+them to be classified as multifunctional materials. The search for and development of such magnetic elasto-
+mer materials is relevant. We have studied the technology of making composite materials based on polymer 
+and a mixture of ferromagnetic fillers. [1] 
+
+As you know, composites are many component materials consisting of two or more components with a 
+clear between phase boundaries them, while the properties of the composites can not be determined by the 
+properties  of  each  of  the  phases  separately,  but  only  taking  into  account  their  interaction.  Such  materials, 
+which are actually a matrix with fillers included in it, differ in the types of matrices (organic, inorganic, poly-
+mer, metal) and fillers. [2] Obtaining new effective sorbents is of paramount importance for solving environ-
+mental  problems  associated  with  the  increased  content  of  a  number  of  toxic  compounds  in  natural  waters 
+used in urban water supply systems, as well as in the oil industry, as it is known, oil production is accompa-
+nied by the inevitable release of hydrocarbons into the environment. The largest losses of oil and petroleum 
+products are associated with their sea transportation from production areas. Despite the fact that oil pipelines 
+are  a  cheaper  and  more  environmentally  friendly  method  of  oil  delivery,  tankers  carry  out  the  bulk  of  the 
+transportation. Emergencies on board tankers, draining of flushing and ballast water worsen the environmen-
+tal situation, cause significant damage to the environment. Oil spills also occur during accidents on offshore 
+platforms  from  which  wells  are  drilled  and  oil  is  produced  offshore.  To  clean  the  surface  of  water  from  oil 
+films, it is necessary to use magnetic composite sorbents based on polymer matrices, which have increased 
+buoyancy, mechanical strength and high absorption capacity in relation to oil products and oil. It should be 
+noted that today polymer-inorganic sorbents have become the objects of a wide variety of sorption studies. 
+
+The  purpose  of  the  work  is  to  develop  effective  ways  to  obtain  magnetically  active  polymer  sorbent 
+composites, which combine the presence of magnetic centers  with the presence of pores suitable for sorp-
+tion of certain substrates, and to establish factors affecting their structure, magnetic and sorption characteris-
+tics. 
+
+183 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+When  dispersing  crystals  of  magnetite  Fe3O4  and  maghemite  γ-Fe2O3  in  porous  polymer  spherical 
+granules, non-magnetic sorbents become magnetically active and react to a magnetic field. The use of such 
+materials  in  sorption  processes  makes  it  possible  to  replace  the  complex  procedure  for  separating  spent 
+sorbent  from  solution  with  a  simple  magnetic  separation  method.  Magnetic  polymer  granules  can  be  ob-
+tained by depositing iron oxides directly in a polymer matrix that limits the growth of magnetic particles, as a 
+result, their size becomes smaller than in the absence of polymer, and magnetic properties are improved. 
+
+At the same time, hybrid materials must satisfy the following two conditions, firstly, so that the imposed 
+magnetic activity does not impair the sorption properties of polymer materials, and secondly, that the compo-
+sites remain magnetized for many sorption-desorption cycles. 
+
+Results are obtained on the effect of a magnetic field on the process of producing magnetic compo-
+sites.  It  is  established  that  the  combination  of  magnetic  and  elastic  properties  leads  to  the  appearance  in 
+these types of composite materials of a unique ability of the material to reversibly change the size and vis-
+cous elastic properties in an external magnetic field. In a uniform magnetic field, such materials have a mag-
+netically  controlled  elastic modulus,  and  strong  magnetostriction  is  observed  in  inhomogeneous  fields.  For 
+the  synthesis  of  magnetic  elastomers  used  silicone  polymer  matrix  SIEL.  Silicone  oligomer  with  vinyl  and 
+hydride  groups  at  100-1500С  interacts  in  the  presence  of  a  platinum  catalyst.  Magnetic  particles  are  intro-
+duced into the matrix: Fe – 2 µm, Fe3O4 – 0.2-0.5 µm. 
+
+In a magnetic field, the polymer macromolecules are oriented, and in the presence of magnetic parti-
+cles,  the  elastomers  are  structured.  To  achieve  high  magnetic  characteristics  of magnetic  elastomers,  it  is 
+known that it is necessary to introduce the maximum possible number of magnetic fillers. However, at a very 
+high  value  of  the  degree  of  filling,  the  material  loses  cohesive  strength.  At  various  degrees  of  filling  with 
+magnetic particles of 3, 5, and 12 volume % Fe, structured elastomers with various elastic magnetostrictive 
+characteristics  were  obtained.  There  is  a  different viscoelastic  behavior  of  the  polymer  when  exposed  to  a 
+uniform magnetic field during various deformation processes. The residual deformation in a uniform magnet-
+ic field depends on the type of magnetic particles and increases with an increase in their content. 
+
+Synthetic approaches to the creation of magnetically active polymers capable of sorption substrates of 
+various natures (gases, alkanes, alcohols) have been developed. It is shown that the magnetic characteris-
+tics of such systems are determined by the magnetic properties of polynuclear fragments in their composi-
+tion, which is an important property for the directed production of composite materials with specified magnet-
+ic properties. The resulting compounds can be used as the basis for the creation of new magnetic materials, 
+magnetic sorbents. 
+
+The highest value of the elastic modulus is observed for structured compositions with parallel oriented 
+strains and magnetic field intensities. It has been revealed that with the use of a magnetically sensitive poly-
+mer  in  the  process  of  sequential  pumping  as  a  liquid  separator  it  gives  the  greatest  economic  effect.  De-
+pending on the relief of the pipelines and the properties of the relief of the pipeline and the properties of the 
+pumped liquids, the necessary magnetic field strength is selected using the results obtained. 
+
+Литература: 
+
+1.   Воробьев  Ю.Л.,  Акимов  В.А.,  Соколов  Ю.И.  Предотвращение  и  реагирование  на  аварийные  разливы 
+
+нефти и нефтепродуктов. – М., 2005. – 368 с. 
+
+2.   Леон-Гонсалес  М.Е.,  Перес-Аррибас  Л.В.  Химически  моди-фицированные  полимерные  сорбенты  для 
+
+предварительной концентрации образца // Журнал Хроматографии. – 2000. – Т. 902. – С. 3–16. 
+
+References: 
+
+1.   Vorobyov Yu.L., Akimov V.A., Sokolov Yu.I. Prevention and response to emergency oil and oil product spills. – 
+
+M., 2005. – 368 p. 
+
+2.   León-González  M.E.,  Pérez-Arribas  L.V.  Chemically  modified  polymeric  sorbents  for  sample  preconcentration  //                  
+
+J. Chromatogr. – 2000. – V. 902. – Р. 3–16. 
+
+184 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

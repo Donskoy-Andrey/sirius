@@ -1,0 +1,1459 @@
+УДК 66.045.122 
+
+ОЦЕНКА КОРРОЗИОННОЙ СТОЙКОСТИ КОМБИНИРОВАННЫХ 
+
+СОЕДИНЕНИЙ ТРУБ С ТРУБНОЙ РЕШЕТКОЙ, ПОЛУЧЕННЫХ  
+
+С ПРИМЕНЕНИЕМ РАЗЛИЧНЫХ СПОСОБОВ СВАРКИ 
+
+114 
+
+ASSESSMENT OF THE CORROSION RESISTANCE OF ROLLED  
+
+AND WELDED TUBE TO TUBE SHEET JOINTS OBTAINED  
+
+USING VARIOUS TECHNOLOGICAL PROCESSES 
+
+А.С. Токарев, Д.В. Каретников, Р.Г. Ризванов,  
+
+С.Е. Черепашкин, Д.Ш. Муликов 
+
+Уфимский государственный нефтяной технический университет, 
+
+г. Уфа, Российская Федерация 
+
+Andrey S. Tokarev, Denis V. Karetnikov, Rif G. Rizvanov,  
+
+Sergey E. Cherepashkin, Denis Sh Mulikov 
+
+Ufa State Petroleum Technological University, 
+
+Ufa, Russian Federation 
+
+e-mail: andrewtok07@gmail.com 
+
+Аннотация. При изготовлении теплообменной аппаратуры, нашедшей 
+
+широкое  применение  в  нефтегазовой  промышленности, 
+
+зачастую 
+
+применяются методы дуговой сварки. Это может привести, в зависимости 
+
+от  материального  исполнения  аппарата,  к  значительному  повышению 
+
+расходов энерго- и трудовых ресурсов. 
+
+Целью  исследований,  приведенных  в  этой  статье,  было  выяснить, 
+
+удовлетворяют ли образцы, полученные с применением технологии сварки 
+
+трением, 
+
+являющейся 
+
+альтернативой  дуговым 
+
+способам 
+
+сварки, 
+
+требованиям  к  коррозионной  стойкости  теплообменного  оборудования  из 
+
+жаропрочных  закаливающихся  сталей  при  его  эксплуатации,  а  также 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+115 
+
+сравнить их с образцами, полученными с применением дуговых способов 
+
+сварки. 
+
+Для  этого  были  проведены  исследования  макро-  и  микроструктур 
+
+сварных соединений и распределений значений электродных потенциалов в 
+
+различных  зонах  сварных  соединений  и  основного  металла.  В  качестве 
+
+образцов  для  исследования  использовались  фрагменты  соединений, 
+
+имитирующих  комбинированные  соединения  трубы  с  трубной  решеткой, 
+
+изготовленных  из  стали  15Х5М.  Образцы  изготавливались  с  применением 
+
+различных технологических процессов, отличающихся способом получения 
+
+неразъемных  соединений:  с  использованием  ручной  дуговой  сварки 
+
+металлическим  покрытым  электродом,  дуговой  сварки  вольфрамовым 
+
+электродом  в  среде  инертного  газа  и  сварки  трением  вращением, 
+
+выступающей в качестве альтернативы дуговым способам сварки. 
+
+Сравнение  макро-  и  микроструктур  исследуемых  соединений  показало, 
+
+что соединения, изготовленные с применением дуговых способов сварки, не 
+
+обладают явно выраженной неоднородностью структуры металла шва после 
+
+проведения термической обработки. Сварные соединения, изготовленные с 
+
+применением  сварки  трением  без  проведения  термической  обработки, 
+
+напротив,  обладают  структурной  неоднородностью,  однако,  как  показали 
+
+предыдущие  исследования,  это  не  оказывает  существенного  влияния  на 
+
+механические свойства исследуемых образцов. 
+
+Сравнительный 
+
+анализ 
+
+распределения 
+
+значений 
+
+электродного 
+
+потенциала  по  основному  металлу  и  сварному  соединению  образцов, 
+
+изготовленных с использованием различных способов сварки, показал, что 
+
+с  точки  зрения  электрохимической  коррозии  образцы,  изготовленные 
+
+сваркой  трением,  не  уступают  по  коррозионной  стойкости  образцам, 
+
+изготовленным с применением дуговых способов сварки. 
+
+Abstract.  Arc  welding  methods  are  often  used  in  the  manufacture  of  heat 
+
+exchange equipment, which is widely used in the oil and gas industry. This can 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+116 
+
+lead, depending on the material of construction of the apparatus, to a significant 
+
+increase in the expenditure of energy and human resources. 
+
+The purpose of  the studies presented in this  paper  was to find out whether 
+
+the samples obtained using friction welding technology, which is an alternative 
+
+to  arc  welding  methods,  meet  the  corrosion  resistance  requirements  of  heat-
+
+exchange equipment made of heat-resistant hardened steels during its operation, 
+
+and to compare it with the samples obtained using arc welding methods. 
+
+For  this,  studies  of  macro-  and  microstructures  of  welded  joints  and 
+
+distributions of electrode potentials in  various zones of welded joints and base 
+
+metal were  conducted.  Fragments of  joints imitating  rolled and welded tube to 
+
+tube  sheet  joints  of  15Cr5Mo  steel  were  used  as  samples  for  study.  Samples 
+
+were  made  using  various  technological  processes,  differing  in  the  method  of 
+
+producing permanent joints: using shielded manual metal arc welding, tungsten 
+
+inert-gas arc welding and rotary friction welding, which serves as an alternative 
+
+to arc welding methods. 
+
+Comparison of macro- and microstructures of the studied joints showed that 
+
+joints  made  using  arc  welding  methods  do  not  have  strongly  marked 
+
+heterogeneity  of  the  weld  metal  structure  after  heat  treatment.  Welded  joints 
+
+made  using  friction  welding  without  heat  treatment,  on  the  contrary,  have 
+
+structural  heterogeneity,  however,  as  shown  by  previous  studies,  this  does  not 
+
+significantly affect the mechanical properties of the studied samples. 
+
+A comparative analysis of the distribution of electrode potential values over 
+
+the  base  metal  and  the  welded  joint  of  samples  made  using  various  welding 
+
+methods showed that, from the point of view of electrochemical corrosion, the 
+
+samples made by friction welding are not inferior in corrosion resistance to the 
+
+samples made using arc welding methods. 
+
+Ключевые  слова:  кожухотрубчатый  теплообменный  аппарат;  дуговая 
+
+сварка;  сварка  трением  вращением;  электрохимическая  коррозия;  сталь 
+
+15Х5М; энергоэффективность 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+Key  words:  shell-and-tube  heat  exchanger;  arc  welding;  rotary  friction 
+
+welding; electrochemical corrosion; steel 15Cr5Mo; energy efficiency 
+
+117 
+
+В  нефтегазовой  промышленности  при  работе  с  повышенными 
+
+температурами и окислительными средами широко применяются машины 
+
+и  оборудование  из  жаропрочных  сталей  мартенситного  класса  [1–3].  При 
+
+изготовления  печного  оборудования  и 
+
+теплообменных  аппаратов 
+
+применяются стали марки 15Х5М и ее аналоги. Согласно данным заводов-
+
+изготовителей 
+
+оборудования,  пятая 
+
+часть 
+
+всего  произведенного 
+
+оборудования относится к данному типу. 
+
+Для  получения  комбинированного  соединения  трубы  с  трубной 
+
+решеткой  применяется  операция  сварки.  Особенностью  стали  15Х5М 
+
+является  ее  плохая  свариваемость,  что  вызывает  необходимость 
+
+проведения  предварительного  подогрева  перед 
+
+сваркой  каждого 
+
+соединения  и  сопутствующего  подогрева  во  время  сварки,  при  котором 
+необходимо исключить охлаждение зоны соединения ниже 300 °С. Кроме 
+
+того, сразу после сварки необходимо проводить высокий отпуск, который 
+
+заключается  в  равномерном  нагреве  всей  конструкции  до  температуры  в 
+диапазоне  750–760  °С,  выдержке  (зависит  от  толщины  металла)  при 
+
+указанной температуре и медленном охлаждении [4–6]. При этом аппарат 
+
+не  рекомендуется  транспортировать  и  нагружать  до  проведения 
+
+термической  обработки.  Для  уменьшения  внутренних  напряжений  и 
+
+деформаций в металле вышеназванные операции проводят со скоростями, 
+
+не  превышающими  70–100  °С/ч  [7,  8].  Таким  образом,  применяющийся 
+
+технологический  процесс  изготовления  теплообменников  из  15Х5М 
+
+является  трудоемким  и  энергоемким,  что  негативно  сказывается  на 
+
+себестоимости продукции [9]. 
+
+На  данный  момент  существует  несколько  альтернативных  способов  
+
+получения  комбинированных  соединений  трубы  с  трубной  решеткой,  в 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+ 
+118 
+
+том  числе  из  стали  15Х5М  и  ее  аналогов  [10–13].  Эти  способы,  как 
+
+правило,  основаны  на  снижении  энерговложений  в  соединение,  за  счет 
+
+чего возможно исключить либо упростить процесс термической обработки 
+
+в процессе изготовления аппаратов [14]. 
+
+Одним из таких способов является сварка трением вращением. Данный 
+
+способ 
+
+сварки 
+
+предполагает 
+
+использование 
+
+дополнительной 
+
+привариваемой 
+
+втулки, 
+
+необходимость 
+
+использования 
+
+которой 
+
+обусловлена технологической особенностью данного способа сварки [15]. 
+
+Исследования 
+
+проводились 
+
+на 
+
+образцах, 
+
+имитирующих 
+
+комбинированное  соединение  трубы  с  трубной  решеткой,  где  вместо 
+
+трубной решетки используется эквивалентная втулка (рисунок 1). Диаметр 
+
+эквивалентной втулки рассчитывался согласно [16]. 
+
+Рисунок 1. Разрезанные образцы, имитирующие комбинированное 
+соединение трубы с трубной решеткой 
+
+Сварка  образцов,  изготовленных  с  применением  сварки  трением, 
+
+проводилась  на  станке  сварки  трением  типа  ПСТ-20Т  в  ООО  «КТИАМ», 
+
+г. Челябинск.  Режим  сварки  представлен  в  таблице  1.  Термическая 
+
+обработка не проводилась ни во время, ни после сварки. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+ 
+119 
+
+Таблица 1. Режим сварки трением опытных образцов 
+
+Давление  
+при нагреве, 
+МПа 
+
+Давление  
+при проковке, 
+МПа 
+
+Время 
+нагрева,  
+с 
+
+Время 
+проковки,  
+с 
+
+Частота 
+вращения, 
+об/мин 
+
+2,0 
+
+3,5 
+
+6 
+
+2 
+
+1250 
+
+Сварка  образцов 
+
+с  использованием  ручной  дуговой 
+
+сварки 
+
+металлическим  покрытым  электродом  и  дуговой  сварки  вольфрамовым 
+
+электродом  в  среде  аргона  проводилась  согласно  требованиям  ГОСТ  Р 
+
+55601-2013 
+
+«Аппараты 
+
+теплообменные  и 
+
+аппараты 
+
+воздушного 
+
+охлаждения.  Крепление  труб  в  трубных  решетках.  Общие  технические 
+
+требования».  Перед  началом  и  в  процессе  сварки  выполнялся  подогрев 
+
+свариваемых  образцов  в  интервале  температур  300–350  °С.  После 
+
+окончания  сварки  была  незамедлительно  проведена  термообработка, 
+
+которая  заключалась  в  объемном  нагреве  изделия  в  печи  в  интервале 
+
+температур  750–760  °С  в  течение  2  ч  и  последующем  медленном 
+
+охлаждении. 
+
+С  целью  выяснить,  удовлетворяют  ли  образцы,  полученные  с 
+
+применением  сварки  трением,  требованиям  к  коррозионной  стойкости 
+
+теплообменного  оборудования  из  жаропрочных  закаливающихся  сталей 
+
+при  его  эксплуатации,  а  также  для  сравнения  их  с  образцами,  
+
+полученными  с  применением  дуговых  способов  сварки,  были  проведены 
+
+микроструктурные и коррозионные исследования образцов. 
+
+Образцы  для  исследования  микроструктуры  изготавливали  по 
+
+методике,  приведенной  в  ГОСТ  5639-82  «Стали  и  сплавы.  Методы 
+
+выявления  и  определения  величины  зерна».  Для  получения  изображений 
+
+использовался  оптический  микроскоп.  На  рисунках  2–4  представлены 
+
+фотографии  макроструктуры  сварного  соединения  и  микроструктуры 
+
+металла  сварного  шва  образцов,  полученных  с  использованием  разных 
+
+способов сварки. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+ 
+120 
+
+На рисунке 2 показаны макро- и микроструктура образца, полученного 
+
+с использованием сварки неплавящимся электродом в среде аргона, после 
+
+проведения  термической  обработки.  Из  анализа  фотографий  видно,  что 
+
+микроструктура  металла  сварного  шва  представляет  собой  вытянутую  в 
+
+направлении  кристаллизации  структуру,  состоящую  из  феррита  и 
+
+карбидов,  неравномерно  распределенных  по  границам  и  телу  ферритных 
+
+зерен.  Зона  термического  влияния  не  наблюдается,  что,  вероятнее  всего, 
+
+является следствием проведения термической обработки образца. 
+
+а) 
+
+б) 
+
+а) макроструктура сварного соединения;  
+б) микроструктура металла сварного шва (х 500) 
+
+Рисунок 2. Структура образца, полученного сваркой неплавящимся 
+электродом в среде аргона 
+
+На рисунке 3 показаны макро- и микроструктура образца, полученного 
+
+с  использованием  ручной дуговой  сварки  покрытыми  электродами,  также 
+
+после  проведения  термической  обработки.  Микроструктура  металла 
+
+сварного  шва 
+
+представляет 
+
+собой 
+
+вытянутую 
+
+в 
+
+направлении 
+
+кристаллизации  структуру,  состоящую  из  феррита  и  равномерно 
+
+распределенных  по  телу  ферритных  зерен  карбидов.  Зона  термического 
+
+влияния также не наблюдается. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+121 
+
+Основываясь  на  приведенном  выше  описании  микроструктур,  можно 
+
+утверждать,  что  разница  в  микроструктуре  образцов,  полученных  с 
+
+использованием  дуговых  способов  сварки,  почти  отсутствует.  Данное 
+
+явление  может  быть  объяснено  тем,  что  в  обоих  случаях  образцы 
+
+подверглись  одинаковым  по  типу  и  режиму  нагрева  процессам 
+
+термической обработки [17].  
+
+а) 
+
+б) 
+
+а) макроструктура сварного соединения; 
+б) микроструктура металла сварного шва (х 500) 
+
+Рисунок 3. Структура образца, полученного ручной дуговой сваркой 
+покрытыми электродами 
+
+Образец, полученный с использованием сварки трением, отличается от 
+
+двух  других  как  по  макро-,  так  и  по  микроструктуре  (рисунок  4). 
+
+Микроструктура 
+
+металла 
+
+сварного  шва 
+
+представляет 
+
+собой 
+
+крупноигольчатый 
+
+мартенсит.  Микроструктура 
+
+металла 
+
+зоны 
+
+термического  влияния  со  стороны  эквивалентной  втулки  представляет 
+
+собой 
+
+сорбитообразную 
+
+структуру, 
+
+состоящую 
+
+из  феррита 
+
+и 
+
+расположенных  равномерно  по  границам  и  телу  ферритных  зерен 
+
+карбидов.  Микроструктура  металла  зоны  термического  влияния  со 
+
+стороны  трубы  состоит  из  мелкоигольчатого  мартенсита  и  глобулярных 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+карбидов, наличие которых говорит о перегреве металла  трубы в процессе 
+
+сварки. 
+
+122 
+
+а) 
+
+б) 
+
+а)  макроструктура сварного соединения; 
+б) микроструктура металла сварного шва после травления 
+в спиртовом растворе 15 %-ой азотной  кислоты (х 500) 
+
+Рисунок 4. Структура образца, полученного сваркой трением 
+
+Приведенное  выше  описание  микроструктуры  образца,  полученного 
+
+сваркой  трением,  говорит  о  том,  что  данный  образец  имеет  значительное 
+
+различие 
+
+в  микроструктуре  металла 
+
+сварного  шва 
+
+и 
+
+зоны 
+
+термомеханического влияния.  Хотя  этот факт и не оказывает негативного 
+
+влияния  на  механические  свойства  получаемых  соединений  [18,  19],  это 
+
+может  привести  к  возникновению  электрохимической  неоднородности  в 
+
+зоне соединения. При контакте соединения с агрессивными электролитами 
+
+могут  появиться  микрогальванические 
+
+элементы, 
+
+способствующие 
+
+ускорению  процессов  коррозии.  Как  правило,  разрушение  сварных 
+
+конструкций при этом происходит по сварному шву или зоне термического 
+
+влияния. 
+
+По причине неравномерности коррозии сварного соединения массовый 
+
+показатель не может характеризовать его коррозионную стойкость. В связи 
+
+с этим для оценки коррозионной стойкости опытных образцов был выбран 
+
+метод измерения электродных потенциалов. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+123 
+
+Сварное  соединение  является  сложной  многоэлектродной  системой,  в 
+
+которую  входят  сварной  шов,  зона  термического  влияния  и  основной 
+
+металл.  Между  элементами  этой  системы  возможны  разные  отношения 
+
+электродных потенциалов. Измерение значений электродных потенциалов 
+
+дает  возможность  судить  о  коррозионной  стойкости  конкретных  зон 
+
+сварного 
+
+соединения, 
+
+определить 
+
+наиболее 
+
+уязвимые 
+
+участки. 
+
+Определение электродных потенциалов используется для выбора наиболее 
+
+оптимального  с  точки  зрения  коррозионной  стойкости  способа  и  режима 
+
+сварки. 
+
+Наиболее  оптимальным  распределением  электродных  потенциалов 
+
+является  равенство  электродных  потенциалов  шва  и  основного  металла  
+
+(φш  =  φо.м),  при  котором  будет  проходить  процесс  общей  равномерной 
+
+коррозии.  На  практике  добиться равенства  электродных потенциалов  шва 
+
+и  основного  металла  довольно  сложно,  поэтому  стремятся  добиться 
+
+смещения  электродного  потенциала  сварного  шва  в  сторону  бóльших 
+
+значений  (φш  >  φо.м.),  при  котором  анодное  растворение  переходит  на 
+
+основной металл при уменьшении скорости коррозии шва [20].  
+
+Измерение  распределения  электродных  потенциалов  по  различным 
+
+зонам сварного соединения проводилось согласно общепринятой методике 
+
+[20].  Измерения  представляли 
+
+собой 
+
+регистрацию 
+
+электродных 
+
+потенциалов  в  различных  точках  сварного  соединения  и  основного 
+
+металла специальным электрохимическим щупом. Величина электродного 
+
+потенциала  фиксировалась  вольтметром  с  относительной  погрешностью 
+
+измерений 5 %. Результаты измерений показаны на рисунке 5. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+124 
+
+а) 
+
+б) 
+
+в) 
+
+а) для образца, полученного с использованием ручной дуговой сварки металлическим 
+покрытым электродом; б) для образца, полученного с использованием дуговой сварки 
+вольфрамовым электродом в среде инертного газа; в) для образца, полученного с 
+использованием сварки трением вращением 
+
+Рисунок 5. Схема эксперимента с отмеченными точками замеров  
+и значениями их электродного потенциала (хлоридсеребряный электрод) 
+
+Из  результатов  измерения  распределения  электродных  потенциалов 
+
+следует,  что  сварной  шов  образца,  полученный  с  использованием  ручной 
+
+дуговой  сварки  металлическим  покрытым  электродом,  является  более 
+
+благородным относительно металла трубы и эквивалентной втулки. 
+
+Результаты  измерения 
+
+электродных  потенциалов 
+
+у 
+
+образца, 
+
+полученного с использованием дуговой сварки вольфрамовым электродом 
+
+в  среде  инертного  газа,  показали,  что  электродный  потенциал  сварного 
+
+шва почти равен потенциалам трубы и эквивалентной втулки. 
+
+У образца, полученного с использованием сварки трением вращением, 
+
+потенциал  сварного  шва  превышает  потенциалы  металла  трубы  и 
+
+эквивалентной втулки. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Полученные данные позволяют утверждать, что во всех трех образцах 
+
+распределение электродных потенциалов является благоприятным с точки 
+
+зрения электрохимической коррозии. 
+
+125 
+
+Выводы 
+
+1. Образец,  имитирующий  комбинированное  соединение  трубы  с 
+
+трубной  решеткой,  полученный  с  применением  сварки  трением, 
+
+характеризуется  неоднородностью  микроструктуры  металла  шва  и  зоны 
+
+термомеханического  влияния,  однако  это  не  оказывает  негативного 
+
+влияния на механические свойства получаемых соединений. 
+
+2. Образец,  полученный  с  использованием  сварки  трением  с  точки 
+
+зрения  электрохимической  коррозии  не  уступает  по  своим  свойствам 
+
+образцам, полученным дуговыми способами сварки. 
+
+3. Пункты  1–2  позволяют  рассматривать  технологию  изготовления 
+
+комбинированных соединений труб с трубными решетками, включающую 
+
+использование  сварки  трением  вращением,  для  исследуемого  типа  сталей 
+
+как  альтернативную  технологиям,  подразумевающим  использование 
+
+дуговых способов сварки. 
+
+Список используемых источников 
+
+1.   Лащинский  А.А.,  Толчинский  А.Р.  Основы  конструирования  и 
+
+расчета химической аппаратуры: справочник. М.: АльянС, 2008. 752 с. 
+
+2.   Зайнуллин 
+
+Р.С. 
+
+Ресурсосберегающие 
+
+технологии 
+
+в 
+
+нефтехимическом аппаратостроении. Уфа: ТРАНСТЭК, 2000. 348 с. 
+
+3.   Zhidkov A.B., Vanslov A. V. Problems and Prospects of Development 
+
+of  Tube  Furnaces  for  the  Oil  Refining  Industry  //  Chem.  Pet.  Eng.  Springer, 
+
+2001. Vol. 37, № 11. P. 603–605. DOI: 10.1023/A:1014897725178. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+126 
+
+4.   Халимов  А.А.,  Жаpинова  Н.В.  Оптимизация 
+
+технологии 
+
+высокотемпеpатуpной  теpмической  обpаботки  сваpных  соединений  из 
+
+хpомистых  жаpопpочных  сталей  //  Технология  машиностроения.  2009.  № 
+
+10. С. 19–25. 
+
+5.   Халимов  А.А.,  Жаринова  Н.В.,  Халимов  А.Г.,  Файрушин  А.М. 
+
+Обеспечение  технологической  прочности  сварных  соединений  из 
+
+мартенситных хромистых сталей типа 15Х5М // Нефтегазовое дело. 2012. 
+
+Т. 10, № 3. С. 102–108. 
+
+6.   Халимов  А.Г.,  Жаринова  Н.В.,  Габбасов  Д.Ф.,  Халимов  А.А. 
+
+Ресурсосберегающая  технология  ремонтной  полуавтоматической  сварки 
+
+технологических  трубопроводов  из  стали  15Х5М  //  Промышленная  и 
+
+технологическая безопасность: проблемы и перспективы. 2002. С. 177–179. 
+
+7.   Халимов 
+
+А.А., 
+
+Халимов 
+
+А.Г. 
+
+Работоспособность 
+
+нефтегазохимического оборудования из жаропрочных хромистых сталей // 
+
+Мировое сообщество проблемы и пути решения: сб. ст. Уфа: УГНТУ, 2003. 
+
+Т. 14. С. 85-97. 
+
+8.   Ибрагимов И.Г., Ямилев М.З., Файрушин А.М. Совершенствование 
+
+технологии  выполнения  сварного  узла  «труба  –  трубная  решетка» 
+
+кожухотрубчатых 
+
+теплообменных 
+
+аппаратов, 
+
+изготовленных 
+
+из 
+
+мартенситных сталей // Нефтегазовое дело. 2009. Т. 7. № 1. С. 194-197. 
+
+9.   Abson D.J., Tkach Y., Hadely I., Burdekin F.M. A Review of Post Weld 
+
+Heat Treatment Code Exemptions // J. Weld. 2006. Vol. 85. P. 63–69. 
+
+10.  Муликов  Д.Ш.,  Яхин  А.В.,  Каретников  Д.В.  Проблемы  и  пути 
+
+совершенствования 
+
+технологического 
+
+процесса 
+
+получения 
+
+комбинированных 
+
+соединений 
+
+труб 
+
+с 
+
+трубными 
+
+решетками 
+
+кожухотрубчатых теплообменных аппаратов // Нефтегазовое дело. 2017. Т. 
+
+15. № 2. С. 134-140. 
+
+11.  Тукаев  Р.Ф.,  Ибрагимов  И.Г.,  Файрушин  А.М.,  Сисанбаев  А.В. 
+
+Cравнительный  анализ  сварных  швов  в  узле  «труба  –  трубная  решетка» 
+
+кожухотрубчатого теплообменного аппарата из жаропрочной стали 15Х5М 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+127 
+
+полученных  различными  способами  сварки  //  Электронный  научный 
+
+журнал  «Нефтегазовое  дело».  2013.  №  5.  С.  363–375.  URL: 
+
+http://ogbus.ru/files/ogbus/authors/TukaevRF/TukaevRF_1.pdf. 
+
+(дата 
+
+обращения: 06.08.2019). 
+
+12.  Vandewynckéle A., Vaamonde E., Fontán M., Herwig P., Mascioletti A. 
+
+Laser  Welding  Head  Tailored  to  tube-Sheet  Joint  Requirements  for  heat 
+
+Exchangers  Manufacturing  //  Phys.  Procedia.  Elsevier,  2013.  Vol.  41.  P.  144–
+
+152. DOI: 10.1016/j.phpro.2013.03.063. 
+
+13.  Dard  P.,  Roudier  R.,  Sayegh  G.  New  Realizations  of  Electron-Beam 
+
+Welding  Equipment  to  Join  Tubes  to  Tubesheet  //  Adv.  Weld.  Process.  1978. 
+
+Vol. 1. P. 291–301. 
+
+14.  Тукаев  Р.Ф.,  Файрушин  А.М.,  Кучуков  Т.М.  Совершенствование 
+
+технологии 
+
+изготовления 
+
+узла 
+
+«труба 
+
+– 
+
+трубная 
+
+решетка» 
+
+кожухотрубчатого теплообменного аппарата из жаропрочной стали 15Х5М 
+
+применением  лазерной  сварки  //  Современное  машиностроение.  Наука  и 
+
+образование. 2013. № 3. С. 1179-1185. 
+
+15.  Токарев  А.С.,  Каретников  Д.В.,  Ризванов  Р.Г.  Определение 
+
+оптимальных 
+
+геометрических  размеров 
+
+элементов 
+
+альтернативной 
+
+конструкции комбинированных соединений труб с трубными решетками // 
+
+Нефтегазовое дело. 2018. Т. 16. № 1. С. 92-101. DOI: 10.17122/ngdelo-2018-
+
+1-92-101. 
+
+16.  Ткаченко 
+
+Г.П., 
+
+Бриф  В.М.  Изготовление 
+
+и 
+
+ремонт 
+
+кожухотрубчатой теплообменной аппаратуры. М.: Машиностроение, 1980. 
+
+160 с. 
+
+17.  Chirkova  A.G.,  Simarchuk  A.S.,  Kinev  S.A.,  Kuzeev  I.R.  Study  of 
+
+Welded Joints Properties of Coil Pipes of Furnace for Petroleum Hydrocarbons 
+
+Pyrolysis // Заводская лаборатория. Диагностика материалов. 2005. Vol. 71, 
+
+№ 9. P. 60–63. 
+
+18.  Yakhin  A.V.,  Karetnikov  D.V.,  Rizvanov  R.G.,  Abutalipova  E.M., 
+
+Gareev  A.G.,  Tokarev  A.S.  Improving  the  Technology  Used  in  Fabrication  of 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+ 
+128 
+
+Tube  Bundles  of  Heat  Exchangers  Produced  from  12Cr18Ni10Ti  Steel  by 
+
+Means of Friction Welding // Chemical and Petroleum Engineering.  2019. Vol. 
+
+54. Issue 11-12. P. 801-805. DOI: 10.1007/s10556-019-00553-5. 
+
+19.  Rizvanov  R.G.,  Mulikov  D.S.,  Karetnikov  D.V.,  Fairushin  A.M., 
+
+Tokarev  A.S.  Evaluation  of  the  Possibility  of  Obtaining  Tube-to-Tube  Sheet 
+
+Welded  Joints  of  15Cr5Mo  Steel  by  Alternative  Technological  Process  // 
+
+Materials  Science  and  Engineering:  IOP  Conference  Series.  2018.  Vol.  317. 
+
+URL: 
+
+https://iopscience.iop.org/article/10.1088/1757-899X/317/1/012077/pdf 
+
+(дата обращения: 12.08.2017). DOI:10.1088/1757-899X/317/1/012077. 
+
+20.  Uhlig  H.H.,  Revie  R.W.  Corrosion  and  Corrosion  Control:  an 
+
+Introduction  to  Corrosion  Science  and  Engineering  //  John  Wiley  Sons,  Inc. 
+
+1985. P. 441. 
+
+References 
+
+1.   Lashchinskii  A.A.,  Tolchinskii  A.R.  Osnovy  konstruirovaniya  i  rascheta 
+
+khimicheskoi apparatury: spravochnik [Fundamentals of the Design and Calculation 
+
+of chemical Equipment: Handbook]. Moscow, AlianS, 2008, 752 p. [in Russian]. 
+
+2.   Zainullin  R.S.  Resursosberegayushchie  tekhnologii  v  neftekhimicheskom 
+
+apparatostroenii  [Resource-Saving  Technologies 
+
+in  Petrochemical  Apparatus 
+
+Engineering]. Ufa, TRANSTEK Publ., 2000, 348 p. [in Russian]. 
+
+3.   Zhidkov A.B., Vanslov A. V. Problems and Prospects of Development 
+
+of  Tube  Furnaces  for  the  Oil  Refining  Industry.  Chemical  and  Petroleum 
+
+Engineering,  Springer,  2001,  Vol.  37,  No.  11,  pp.  603–605.  DOI: 
+
+10.1023/A:1014897725178. 
+
+4.   Khalimov  A.A.,  Zhapinova  N.V.  Optimizatsiya 
+
+tekhnologii 
+
+vysokotempepatupnoi 
+
+tepmicheskoi  obpabotki 
+
+svapnykh 
+
+soedinenii 
+
+iz 
+
+khpomistykh  zhapoppochnykh  stalei  [Optimization  of  Technology  of  High-
+
+Temperature  Heat  Treatment  of  Welded  Joints  Made  of  Chrome-Plated  Heat-
+
+Resistant 
+
+Steels].  Tekhnologiya  mashinostroeniya 
+
+–  Tekhnologiya 
+
+Mashinostroeniya, 2009, No. 10, pp. 19-25. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+129 
+
+5.   Khalimov  A.A.,  Zharinova  N.  V.,  Khalimov  A.G.,  Fairushin  A.M. 
+
+Obespechenie 
+
+tekhnologicheskoi 
+
+prochnosti 
+
+svarnykh 
+
+soedinenii 
+
+iz 
+
+martensitnykh  khromistykh  stalei  tipa  15Kh5M  [Ensuring  the  Technological 
+
+Strength  of  Welded  Joints  from  Martensitic  Chromium  Steels  of  Type 
+
+15Cr5Mo]. Neftegazovoe delo – Petroleum Engineering, 2012, Vol. 10, No. 3, 
+
+pp. 102–108. [in Russian]. 
+
+6.   Khalimov  A.G.,  Zharinova  N.V.,  Gabbasov  D.F.,  Khalimov  A.A. 
+
+Resursosberegayushchaya  tekhnologiya  remontnoi  poluavtomaticheskoi  svarki 
+
+tekhnologicheskikh 
+
+truboprovodov 
+
+iz 
+
+stali  15Kh5M 
+
+[Resource-Saving 
+
+Technology for Repair of Semi-Automatic Welding of Technological Pipelines 
+
+Made of Steel 15Cr5Mo]. Promyshlennaya i tekhnologicheskaya bezopasnost’: 
+
+problemy  i  perspektivy  [Industrial  and  Technological  Safety:  Problems  and 
+
+Prospects], 2002, pp. 177–179.  [in Russian]. 
+
+7.   Khalimov 
+
+A.A., 
+
+Khalimov 
+
+A.G. 
+
+Rabotosposobnost' 
+
+neftegazokhimicheskogo  oborudovaniya  iz  zharoprochnykh  khromistykh  stalei 
+
+[Efficiency  of  Petrochemical  Equipment  Made  of  Heat-Resistant  Chromium 
+
+Steels].  Sbornik  statei  «Mirovoe  soobshchestvo  problemy  i  puti  resheniya» 
+
+[Collection  of  Articles  «World  Community  Problems  and  Solutions»].  Ufa, 
+
+UGNTU Publ., 2003, Vol. 14, pp. 85-97. [in Russian]. 
+
+8.   Ibragimov  I.G.,  Yamilev  M.Z.,  Fairushin  A.M.  Sovershenstvovanie 
+
+tekhnologii 
+
+vypolneniya 
+
+svarnogo 
+
+uzla 
+
+«truba-trubnaya 
+
+reshetka» 
+
+kozhukhotrubchatykh 
+
+teploobmennykh 
+
+apparatov, 
+
+izgotovlennykh 
+
+iz 
+
+martensitnykh  stalei  [Technology  Perfection  of  Welded  Knot  Performance  the 
+
+Pipe Trumpet Lattice of Shell and Tube Heat Exchanger Made from Martensit 
+
+Steels].  Neftegazovoe  delo  –  Petroleum  Engineering,  2009,  Vol.  7,  No.  1,  pp. 
+
+194-197. [in Russian]. 
+
+9.  Abson D.J., Tkach Y., Hadely I., Burdekin F.M. A Review of Post Weld 
+
+Heat Treatment Code Exemptions. J. Weld., 2006, Vol. 85, pp. 63–69. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+130 
+
+10.  Mulikov  D.Sh.,  Yakhin  A.V.,  Karetnikov  D.V.  Problemy  i  puti 
+
+sovershenstvovaniya 
+
+tekhnologicheskogo 
+
+protsessa 
+
+polucheniya 
+
+kombinirovannykh soedinenii trub s trubnymi reshetkami kozhukhotrubchatykh 
+
+teploobmennykh  apparatov  [Problems  and  the  Ways  of  Improvement  of  the 
+
+Technological Process of Obtaining Combined Joints of Pipes with Pipe Grates 
+
+Shell-and-Tube Heat Exchangers]. Neftegazovoe delo – Petroleum Engineering, 
+
+2017, Vol. 15, No. 2, pp. 134-140. [in Russian]. 
+
+11.  Tukaev  R.F.,  Ibragimov  I.G.,  Fairushin  A.M.,  Sisanbaev  A.  V. 
+
+Cravnitel’nyi  analiz  svarnykh  shvov  v  uzle  «truba  –  trubnaya  reshetka» 
+
+kozhukhotrubchatogo teploobmennogo apparata iz zharoprochnoi stali 15Kh5M 
+
+poluchennykh  razlichnymi  sposobami  svarki  [Comparative  Analysys  of 
+
+Different «Tube-to-Tubesheet» Weld Types on 15Х5М (15CR5MO) steel Heat 
+
+Exchanger’s  Tubesheet].  Elektronnyi  nauchnyi  zhurnal  «Neftegazovoe  delo»  – 
+
+Electronic Scientific Journal «Oil and Gas Business», 2013, No. 5, pp. 363–375. 
+
+URL: 
+
+http://ogbus.ru/files/ogbus/authors/TukaevRF/TukaevRF_1.pdf.  
+
+(accessed 06.08.2019). [in Russian]. 
+
+12.  Vandewynckéle A., Vaamonde E., Fontán M., Herwig P., Mascioletti A. 
+
+Laser  Welding  Head  Tailored  to  Tube-Sheet  Joint  Requirements  for  Heat 
+
+Exchangers Manufacturing. Physics Procedia, Elsevier, 2013, Vol. 41, pp. 144–
+
+152. DOI: 10.1016/j.phpro.2013.03.063. 
+
+13.  Dard  P.,  Roudier  R.,  Sayegh  G.  New  Realizations  of  Electron-Beam 
+
+Welding  Equipment  to  Join  Tubes  to  Tubesheet.  Advances  in  Welding 
+
+Processes., 1978, Vol. 1, pp. 291–301. 
+
+14.  Tukaev  R.F.,  Fairushin  A.M.,  Kuchukov  T.M.  Sovershenstvovanie 
+
+tekhnologii  izgotovleniya  uzla  «truba-trubnaya  reshetka»  kozhukhotrubchatogo 
+
+teploobmennogo apparata iz zharoprochnoi stali 15Kh5M primeneniem lazernoi 
+
+svarki  [15Х5М  (15Cr5Mo)  Shell  and  Tube  Heat  Exchanger  Tube  Sheet 
+
+Production  Modification  with  Laser  Welding].  Sovremennoe  mashinostroenie. 
+
+Nauka i obrazovanie – Modern Mechanical Engineering. Science and Education, 
+
+2013, No. 3, pp. 1179-1185. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+131 
+
+15.  Tokarev  A.S.,  Karetnikov  D.V.,  Rizvanov  R.G.  Opredelenie 
+
+optimal'nykh  geometricheskikh  razmerov  elementov  al'ternativnoi  konstruktsii 
+
+kombinirovannykh  soedinenii  trub  s  trubnymi  reshetkami  [Optimal  Geometric 
+
+Dimensions  Determination  of  the  Elements  of  the  Alternative  Construction  of 
+
+Combined  Pipe  Joints  with  Tube  Sheets].  Neftegazovoe  delo  –  Petroleum 
+
+Engineering, 2018, Vol. 16, No. 1, pp. 92-101. DOI: 10.17122/ngdelo-2018-1-
+
+92-101 [in Russian]. 
+
+16.  Tkachenko  G.P.,  Brif  V.M.  Izgotovlenie  i  remont  kozhukhotrubchatoi 
+
+teploobmennoi  apparatury  [Manufacture  and  Repair  of  Shell-and-Tube  Heat-
+
+Exchange  Equipment].  Moscow,  Mashinostroenie  Publ.,  1980,  160  p.  [in 
+
+Russian]. 
+
+17.  Chirkova  A.G.,  Simarchuk  A.S.,  Kinev  S.A.,  Kuzeev  I.R.  Study  of 
+
+Welded Joints Properties of Coil Pipes of Furnace for Petroleum Hydrocarbons 
+
+Pyrolysis. Zavodskaya laboratoya. Diagnostika materialov – Factory Laboratory. 
+
+Material Diagnostics, 2005, Vol. 71, No. 9, pp. 60–63. 
+
+18.  Yakhin  A.V.,  Karetnikov  D.V.,  Rizvanov  R.G.,  Abutalipova  E.M., 
+
+Gareev  A.G.,  Tokarev  A.S.  Improving  the  Technology  Used  in  Fabrication  of 
+
+Tube  Bundles  of  Heat  Exchangers  Produced  from  12Cr18Ni10Ti  Steel  by 
+
+Means  of  Friction  Welding.  Chemical  and  Petroleum  Engineering,  2019,  Vol. 
+
+54, Issue 11-12, pp. 801-805. DOI: 10.1007/s10556-019-00553-5. 
+
+19.  Rizvanov  R.G.,  Mulikov  D.S.,  Karetnikov  D.V.,  Fairushin  A.M., 
+
+Tokarev  A.S.  Evaluation  of  the  Possibility  of  Obtaining  Tube-to-Tube  Sheet 
+
+Welded  Joints  of  15Cr5Mo  Steel  by  Alternative  Technological  Process.  IOP 
+
+Conference Series «Materials Science and Engineering», 2018, Vol. 317.  
+
+20.  URL: 
+
+https://iopscience.iop.org/article/10.1088/1757-
+
+899X/317/1/012077/pdf 
+
+(accessed 
+
+12.08.2017). 
+
+DOI:10.1088/1757-
+
+899X/317/1/012077. 
+
+21.  Uhlig  H.H.,  Revie  R.W.  Corrosion  and  Corrosion  Control:  an 
+
+Introduction  to  Corrosion  Science  and  Engineering.  John  Wiley  &  Sons,  Inc., 
+
+1985, 441 p. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+132 
+
+Сведения об авторах 
+
+about the authors 
+
+Токарев  Андрей  Сергеевич,  ассистент  кафедры  «Оборудование  и 
+
+технологии сварки и контроля», УГНТУ, г. Уфа, Российская Федерация 
+
+Andrey S.  Tokarev, Assistant of Equipment and Technologies for Welding 
+
+and Control Department, USPTU, Ufa, Russian Federation  
+
+e-mail: andrewtok07@gmail.com 
+
+Каретников Денис Владимирович, кандидат технических наук, доцент, 
+
+доцент  кафедры  «Оборудование  и  технологии  сварки  и  контроля», 
+
+УГНТУ, г. Уфа, Российская Федерация 
+
+Denis  V.  Karetnikov,  Candidate  of  Engineering  Sciences,  Associate 
+
+Professor, Assistant Professor of Equipment and Technologies for Welding and 
+
+Control Department, USPTU, Ufa, Russian Federation 
+
+e-mail: karetnikov2811@gmail.com  
+
+Ризванов  Риф  Гарифович,  доктор  технических  наук,  профессор, 
+
+заведующий  кафедрой  «Технология  нефтяного  аппаратостроения», 
+
+УГНТУ, г. Уфа, Российская Федерация 
+
+Rif  G.  Rizvanov,  Doctor  of  Engineering  Sciences,  Professor,  Head  of  Oil 
+
+Processing  Equipment  Technology  Department,  USPTU,  Ufa,  Russian 
+
+Federation 
+
+e-mail: rifriz@mail.ru 
+
+Черепашкин  Сергей  Евгеньевич,  кандидат  технических  наук,  доцент, 
+
+доцент  кафедры  «Технология  нефтяного  аппаратостроения»,  УГНТУ, 
+
+г. Уфа, Российская Федерация 
+
+Sergey  E.  Cherepashkin,  Candidate  of  Engineering  Sciences,  Associate 
+
+Professor,  Assistant  Professor  of  Oil  Processing  Equipment  Technology 
+
+Department, USPTU, Ufa, Russian Federation 
+
+e-mail: tna_ugntu@mail.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+133 
+
+Муликов  Денис  Шамильевич,  аспирант  кафедры  «Технологические 
+
+машины и оборудование», УГНТУ, г. Уфа, Российская Федерация 
+
+Denis Sh. Mulikov, Post-graduate Student of the Chair «Process Machinery 
+
+and Equipment Department, USPTU, Ufa, Russian Federation 
+
+e-mail: mulikov.denis@gmail.com 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+

@@ -1,0 +1,862 @@
+18 
+
+УДК 621.642.3 
+
+ОПРЕДЕЛЕНИЕ ПОТЕНЦИАЛЬНО ОПАСНЫХ ЗОН 
+
+РАЗРУШЕНИЯ В УТОРНОМ УЗЛЕ ЭКСПЛУАТИРУЮЩЕГОСЯ 
+
+СТАЛЬНОГО ВЕРТИКАЛЬНОГО РЕЗЕРВУАРА  
+
+DETERMINATION OF THE POTENTIALLY DANGEROUS 
+
+DESTRUCTION ZONES IN THE CIRCUMFERENCE WELD  
+
+OF THE OPERATING STEEL VERTICAL TANK 
+
+А.С. Романчук, А.М. Файрушин, Н.А. Елышев, К.Д. Вержбицкий, 
+
+Р.Р. Исмагилова  
+
+Уфимский государственный нефтяной технический университет, 
+
+г. Уфа,  Российская Федерация 
+
+ООО «ИЦ-НК», г. Уфа, Российская Федерация 
+
+ЗАО «НПО «Ленкор», г. Санкт-Петербург, Российская Федерация 
+
+Уфимский государственный авиационный технический университет, 
+
+г. Уфа,  Российская Федерация 
+
+Anastasiya  S. Romanchuk, Airat M. Fairushin, Nail A. Elyshev,  
+
+Kirill D. Verzhbitskii, Regina R. Ismagilova 
+
+Ufa State Petroleum Technological University, Ufa, Russian Federation 
+
+EC-NDT LLC, Ufa, Russian Federation 
+
+NPO «Lenkor» JSC, Saint-Petersburg, Russian Federation 
+
+Ufa State Aviation Technical University, Ufa, Russian Federation 
+
+e-mail: rushaniya_romanchuk@mail.ru 
+
+Аннотация.  В  данной  работе  рассматриваются  актуальные  вопросы 
+
+определения потенциально опасных зон в уторном узле эксплуатируемого 
+
+вертикального  стального  резервуара.  Долговечность  данного  узла  во 
+
+многом определяется точностью его изготовления. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+19 
+
+Отличительной  особенностью  уторного  узла  является  наличие 
+
+конструктивного  зазора  между  стенкой  и  окрайкой,  который,  по  данным  
+
+нормативно-технической  документации,  не  должен  превышать  2  мм. 
+
+Замеры  величины  зазора,  проведенные  на  реальных  объектах  перед 
+
+сваркой  уторного  шва,  показали,  что  длина  участков  с  завышенными 
+
+зазорами  достигает  до  7  %  от  общей  площади  сопряжения  стенки  и 
+
+окрайки.  Причем  величина  зазора  на  некоторых  участках  превышала 
+
+допустимый в несколько раз. 
+
+Проведенные  исследования  в  данной  области  показали,  что  ресурс 
+
+работы уторного узла уменьшается с увеличением величины зазора между 
+
+стенкой и окрайкой. 
+
+Методы  повышения  прочности  данного  узла  предложены  авторами  в 
+
+других  статьях,  однако  возникает  проблема  определения  точного 
+
+местоположения  участков  с  завышенными  зазорами.  На  строящихся 
+
+резервуарах  (до  заварки  уторного  шва)  определение  локализации  и  замер 
+
+величины зазора между стенкой и окрайкой не составит особого труда. Для 
+
+уже  построенных,  эксплуатируемых  резервуаров  на  сегодняшний  день  не 
+
+предложена методика определения величины зазора в уторном узле. 
+
+В данной статье авторами предлагается способ замера величины зазора 
+
+между  стенкой  и  окрайкой  в  действующем  резервуаре,  с  целью  контроля 
+
+его на соответствие требованиям нормативно-технической документации и 
+
+определения потенциально опасных зон разрушения в уторном узле. 
+
+Abstract.  This  paper  discusses  current  issues  in  identifying  potentially 
+
+hazardous areas in the circumference weld of a steel vertical  tank in operation. 
+
+The  durability  of  this  site  is  largely  determined  by  the  accuracy  of  its 
+
+manufacture. 
+
+A  distinctive  feature  of  the  circumference  weld  is  the  presence  of  a 
+
+constructive  gap  between  the  wall  and  the  edge,  which,  according  to  the 
+
+specifications  and 
+
+technical  documentation,  should  not  exceed  2  mm. 
+
+Measurements of the size of the gap, carried out on real objects before welding 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+20 
+
+the  circumference  weld,  showed  that  the  length  of  the  sections  with  excessive 
+
+gaps reaches up to 7% of the total area of the interface between the wall and the 
+
+edge. Moreover, the size of the gap in some areas exceeded the permissible by 
+
+several times. 
+
+Conducted research in this area showed that the resource of operation of the 
+
+circumference weld decreases with increasing gap between the wall and edge. 
+
+Methods  to  increase  the  strength  of  this  weld    proposed  by  the  authors  in 
+
+other articles, however, the problem arises of determining the exact location of 
+
+areas  with  high  gaps.    In  tanks  under  construction  (before  the  welding  of  the 
+
+circumference  weld),  determining  the  localization  and  measuring  the  gap 
+
+between the wall and the edge will not be difficult. For the already constructed, 
+
+operated  tanks  today,  there  is  no  proposed  method  for  determining  the  size  of 
+
+the gap in circumference node. 
+
+In  this  article,  the  authors  propose  a  method  for  measuring  the  size  of  the 
+
+gap between the wall and the edge in the existing tank, in order to control it for 
+
+compliance with the requirements of the normative-technical documentation and 
+
+to determine potentially dangerous fracture zones in the circumference node. 
+
+Ключевые  слова:  резервуар,  уторный  узел,  окраечные  листы, 
+
+технологический  непровар,  зазор,  сварочные  напряжения,  сварочные 
+
+деформации 
+
+Key words: tank, circumference weld, edge sheets, underrun, gap, welding 
+
+stress, welding deformations 
+
+Резервуар представляет собой герметично закрываемый или открытый 
+
+стационарный сосуд, наполняемый жидким или газообразным веществом. 
+
+Резервуары 
+
+являются 
+
+наиболее 
+
+ответственными 
+
+сооружениями 
+
+технологических 
+
+установок 
+
+добычи, 
+
+переработки, 
+
+хранения 
+
+и 
+
+транспортировки нефти и нефтепродуктов.  
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+21 
+
+Вертикальные  цилиндрические  резервуары  представляют  собой 
+
+опасные производственные объекты, аварии на которых могут привести к 
+
+серьёзному  экономическому  и  экологическому  ущербу.  В  связи  с  этим 
+
+вопросам  безопасной  эксплуатации  резервуаров  на  сегодняшний  день 
+
+уделяется достаточно большое внимание [1-5]. 
+
+Уторный  узел  является  одним  из  наиболее  ответственных  элементов 
+
+резервуара,  так  как  он  работает  в  условиях  сложного  напряженно-
+
+деформированного состояния. Отличительной особенностью уторного узла 
+
+является  наличие  конструктивного  зазора  между  стенкой  и  окрайкой, 
+
+который,  по  данным    нормативно-технической  документации,  не  должен 
+
+превышать 2 мм [6, 7].  
+
+Данный  регламентированный  зазор  усложняет  процесс  монтажа 
+
+стенки, так как возникает необходимость в соблюдении величины данного 
+
+зазора  на  требуемом  уровне.  Замеры  величины  зазора,  проведенные  на 
+
+реальных  объектах  перед  сваркой  уторного  шва,  показали,  что  длина 
+
+участков  с  завышенными  зазорами  достигает  до  7  %  от  общей  площади 
+
+сопряжения  стенки  и  окрайки.  Причем  величина  зазора  на  некоторых 
+
+участках превышала допустимый в несколько раз [8]. 
+
+Проблеме определения ресурса работы уторного узла и повышения его 
+
+прочности  посвящены  работы  многих  исследователей 
+
+[4,  6-10]. 
+
+Проведенные исследования в данной области показали, что с увеличением 
+
+величины  зазора  между  стенкой и окрайкой ресурс работы  уторного  узла 
+
+уменьшается [7]. 
+
+До  проведения  сварочных  работ  замерить  величину  зазора  в  уторном 
+
+узле  возможно  с  помощью  специальных  щупов  универсального  шаблона 
+
+сварщика 
+
+(УШС),  штангенциркуля,  линейки.  Что  же 
+
+касается 
+
+эксплуатируемых  резервуаров,  на  сегодняшний  день  нет  методики 
+
+определения  величины  зазора  в  уторном  узле  уже  построенного 
+
+резервуара.  В  связи  со  всем  вышеизложенным  вопрос  замера  величины 
+
+зазора после заварки уторного шва является актуальным. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+22 
+
+На  сегодняшний  день  известны  различные  способы  неразрушающего 
+
+контроля  сварных  узлов.  Уторный  узел  проверяется  капиллярно-
+
+проникающими  веществами  и  вакуумированием  с  целью  контроля 
+
+герметичности. Данные методы не дают информации о величине зазора в 
+
+данном  узле.  Также  известны  методы  просвечивания  рентгеном  и 
+
+магнитопорошковый,  но  в  связи  с  наличием  двух  сварных  швов  и 
+
+конструктивного  зазора  между  ними,  они  также  не  дадут  точной  оценки 
+
+зазора  в  данном  узле.  Радиографический  контроль  не  выявляет  дефекты, 
+
+плоскость 
+
+раскрытия 
+
+которых 
+
+не 
+
+совпадает 
+
+с 
+
+направлением 
+
+просвечивания. 
+
+В  связи  с  этим  нами  предлагается  проводить  контроль  данного  узла  с 
+
+помощью  ультразвукового  дефектоскопа  и  измерительного  инструмента. 
+
+Нами разработана следующая методика определения величины зазора: 
+
+на  поверхность  стенки  резервуара,  предварительно  нанеся  на  неё 
+
+контактную  жидкость,  на  расстоянии  равном  примерно  1,5S × tgα  от  края 
+
+валика 
+
+усиления 
+
+шва 
+
+устанавливается 
+
+пьезоэлектрический 
+
+преобразователь (ПЭП) (для исследования применялся ПЭП с углом ввода 
+
+α = 65°).  Определяется  максимальный  сигнал  от  зазора  в  уторном  шве  и 
+
+фиксируется  координата «х» (рисунок 1); 
+
+Рисунок 1. Определение координаты х 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+Sα1,5S х tgαxyх=35y=5 
+ 
+1)  не  изменяя  положения  ПЭП,  удаляется  контактная  жидкость  с 
+
+поверхности  стенки  резервуара  и  наносится  отметка  на  уровне  точки 
+
+выхода луча ПЭП (рисунок 2); 
+
+23 
+
+Рисунок 2. Нанесение отсчетной отметки 
+
+2)  используя 
+
+измерительный 
+
+инструмент 
+
+(штангенциркуль), 
+
+определяется  расстояние  х1  от  отметки  до  окрайки  резервуара  по 
+
+вертикали (рисунок 3); 
+
+Рисунок 3. Определение расстояния х1 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+х1 
+ 
+ 
+24 
+
+3)  величина  зазора  в  уторном  шве  определяется  как  разность  между 
+
+полученными значениями:  
+
+Δx = x1 – x. 
+
+Наличие  возможности  настройки  «стрелы»  ПЭП  поможет  упростить 
+
+замеры, т.к. точкой отсчета будет не точка выхода луча, а передний торец 
+
+датчика. Данная настройка проводится на стандартном образце СО-3.   
+
+Общая погрешность данного метода складывается из: 
+
+-  погрешности  показаний  глубиномера  ультразвукового  дефектоскопа 
+
+(для  её  снижения  необходимо  применять  образец  для  настройки 
+
+глубиномера,  выполненный  из  материала,  идентичного  по  акустическим 
+
+свойствам  материалу  стенки  РВС;  проводить  настройку  прибора  при 
+
+температуре контроля); 
+
+- погрешности при нанесении производителем ПЭП точки выхода луча 
+
+(для снижения необходимо проверить её и учесть); 
+
+-  погрешности  при  нанесении  отметки  на  стенку  резервуара  (для 
+
+снижения  необходимо  точно  наносить  отметку  на  стенку  резервуара, 
+
+отметка должна быть тонкой); 
+
+-  погрешности  при  измерении  расстояния  (для  снижения  необходимо 
+
+использовать  оптимальный  для  данного 
+
+способа  измерительный 
+
+инструмент:  штангенциркуль,  а  также  угольник  для  соблюдения 
+
+вертикальности;  либо  использовать  универсальный  измерительный 
+
+инструмент). 
+
+Практический  замер  величины  зазора  по  предложенной  методике  на 
+
+образце  из  стали  09Г2С,  толщиной  10  мм,  с  величиной  зазора  в  уторном 
+
+узле от 3 до 5 мм показан на рисунках 4, 5. 
+
+Определение  координаты  х 
+
+с  помощью  пьезоэлектрического 
+
+преобразователя представлено на рисунке 4. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+25 
+
+Рисунок 4. Определение координаты х 
+
+Далее  проведем  замер  расстояния  х1  с  помощью  штангенциркуля  от 
+
+отметки до окраечного листа  (рисунок 5). 
+
+Рисунок 5. Замер расстояния х1 
+
+В  результате  проведенных  замеров  на  экспериментальных  образцах 
+
+получены данные, представленные в таблице 1. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+Таблица 1. Результаты замеров 
+
+Фактический 
+зазор в уторе, мм 
+3 
+4 
+5 
+
+Значение х,  
+мм 
+33,43 
+32,17 
+32,21 
+
+Значение х1, 
+мм 
+36,75 
+36,63 
+37,55 
+
+26 
+
+Δx,  
+мм 
+3,32 
+4,46 
+5,34 
+
+Относительная 
+погрешность, % 
+9,6 
+10,3 
+6,3 
+
+Контролировать  данным  способом  предлагается  уторный  шов 
+
+резервуара в участках, наиболее вероятных к возникновению завышенных 
+
+зазоров, таких как места врезки штуцеров и нижних люков, вертикальные 
+
+стыковые соединения на стенке резервуара, сварные швы уторного узла с 
+
+возникающими дефектами.  
+
+Выводы  
+
+В  данной  работе  с  целью  выявления  дефектных  участков  и  для 
+
+последующего  их  укрепления  предложена  методика  замера  величины 
+
+зазора  в  уторном  узле  стального  вертикального  резервуара  с  помощью 
+
+ультразвукового дефектоскопа и штангенциркуля.  
+
+Проведенные  практические  замеры  зазора  в  образце  уторного  узла  по 
+
+предложенной методике показали возможность определения потенциально 
+
+опасных  зон  разрушения  уторного  узла  действующего  резервуара,  при 
+
+этом погрешность определения зазора не превышала 10,3 %.  
+
+Список используемых источников 
+
+1.  Швырков  С.А.,  Батманов  С.В.  Анализ  последствий  чрезвычайных 
+
+ситуаций  при  разрушениях  резервуаров  на  объектах 
+
+топливно-
+
+энергетического  комплекса  //  Защита  окружающей  среды  в  нефтегазовом 
+
+комплексе. 2008. № 4. С. 2-8. 
+
+2.  Самигуллин Г.Х., Герасименко А.А. К вопросу о методике расчета 
+
+остаточного  ресурса  резервуаров  с  трещиноподобными  дефектами.  URL: 
+
+http://ogbus.ru/authors/Samigullin/Samigullin_5.pdf 
+
+(дата 
+
+обращения: 
+
+18.02.2019). 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+27 
+
+3.  Кондрашова  О.Г.,  Назарова  М.Н.  Причинно-следственный  анализ 
+
+аварий 
+
+вертикальных 
+
+стальных 
+
+резервуаров. 
+
+http://ogbus.ru/files/ogbus/authors/Kondrashova/Kondrashova_1.pdf 
+
+URL: 
+
+(дата 
+
+обращения: 18.02.2019). 
+
+4.  Семин  Е.Е.  Оценка  долговечности  уторных  узлов  вертикальных 
+
+стальных резервуаров в процессе эксплуатации: дисс. … канд. техн. наук. 
+
+М.: РГУ нефти и газа им. Губкина, 2012. 145 с. 
+
+5.  Чепур П.В., Тарасенко А.А., Тарасенко Д.А. Исследование влияния 
+
+величины  выступа  окрайки  на  напряженно-деформированное  состояние 
+
+вертикального  стального  цилиндрического  резервуара  при  развитии 
+
+неравномерной  осадки  наружного  контура  днища  //  Фундаментальные 
+
+исследования. 2013. № 10-15. С. 3441-3445. 
+
+6.  Руководство  по  безопасности  вертикальных  цилиндрических 
+
+стальных резервуаров для  нефти и нефтепродуктов / Научно-технический 
+
+центр исследований проблем промышленной безопасности, 2013. Сер. 03. 
+
+Вып. 69. 240 с. 
+
+7.  Скорняков  А.А.,  Зарипов  М.З.,  Карпов  А.Л.,  Вержбицкий  К.Д. 
+
+Исследование  конструктивных  элементов  уторного  шва  резервуаров  // 
+
+Нефтегазовое дело. 2014. Т. 12. № 4. С. 157-161. 
+
+8.  Валеев  Н.Н.,  Романчук  А.С.,  Вержбицкий  К.Д.,  Чернятьева  Р.Р., 
+
+Князев  В.А.  Совершенствование  технологии  изготовления  уторного  узла 
+
+вертикального 
+
+стального 
+
+резервуара.  URL: 
+
+http://ogbus.ru/files/ 
+
+ogbus/issues/6_2017/ogbus_6_2017_p57-75_ValeevNN_ru.pdf 
+
+(дата 
+
+обращения: 18.02.2019). 
+
+9.  Файрушин  А.М.,  Валеев  Н.Н.,  Романчук  А.С.,  Биккинин  А.И., 
+
+Ямилев  М.З.  Модернизация  уторного  узла  стального  вертикального 
+
+резервуара  //  Транспорт  и  хранение  нефтепродуктов  и  углеводородного 
+
+сырья. 2016. № 2. С. 18-21. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+10. Файрушин  А.М.,  Четверткова  О.В.,  Ямилев  М.З.,  Биккинин  А.И. 
+
+Совершенствование  технологии  изготовления  уторного  узла  стального 
+
+вертикального  резервуара 
+
+//  Наука  и  технологии  трубопроводного 
+
+транспорта нефти и нефтепродуктов. 2016. № 6 (26). С. 84-87. 
+
+28 
+
+References 
+
+1.  Shvyirkov  S.A.,  Batmanov  S.V.  Analiz  posledstviy  chrezvyichaynyih 
+
+situatsiy  pri  razrusheniyah  rezervuarov  na  ob''ektah  toplivno-energeticheskogo 
+
+kompleksa  [Analysis  of  the  Consequences  of  Emergency  Situations  in  the 
+
+Destruction  of  Tanks  at  the  Facilities  of  the  Fuel  and  Energy  Complex]. 
+
+Zaschita  okruzhayuschey  sredyi  v  neftegazovom  komplekse    Environmental 
+
+Protection in Oil and Gas Complex, 2008, No. 4, pp. 2-8. [in Russian]. 
+
+2.  Samigullin  G.H.,  Gerasimenko  A.A.  K  voprosu  o  metodike  rascheta 
+
+ostatochnogo  resursa  rezervuarov  s  treschinopodobnyimi  defektami  [Revisited 
+
+the Method of Calculation of Residual Life of Tank with Crack-Like Defects]. 
+
+Available  at:  http://ogbus.ru/authors/Samigullin/Samigullin_5.pdf  (accessed 
+
+18.02.2019). [in Russian]. 
+
+3.  Kondrashova  O.G.,  Nazarova  M.N.  Prichinno-sledstvennyiy  analiz 
+
+avariy  vertikal'nykh  stal'nykh  rezervuarov  [Causal  Analysis  of  Accidents  of 
+
+Vertical  Steel  Tanks].  Available  at:  http://ogbus.ru/files/ogbus/authors/ 
+
+Kondrashova/Kondrashova_1.pdf (accessed 18.02.2019). [in Russian]. 
+
+4.  Semin  E.E.  Otsenka  dolgovechnosti  utornykh  uzlov  vertikal'nykh 
+
+stal'nykh  rezervuarov  v  protsesse  ekspluatatsii:  diss.  …  kand.  tehn.  nauk 
+
+[Evaluation  of  the  Durability  of  the  Rotor  Assemblies  of  Vertical  Steel  Tanks 
+
+During  Operation:  Cand.  Engin.  Sci.  Diss.]  M.,  Gubkin  University  National 
+
+University of Oil and Gas, 2012. 145 p. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+29 
+
+5.  Chepur  P.V.,  Tarasenko  A.A.,  Tarasenko  D.A.  Issledovanie  vliyaniya 
+
+velichinyi  vyistupa  okrayki  na  napryazhenno-deformirovannoe  sostoyanie 
+
+vertikal'nogo  stal'nogo  tsilindricheskogo  rezervuara  pri  razvitii  neravnomernoy 
+
+osadki  naruzhnogo  kontura  dnischa  [Study  of  the  Influence  of  the  Size  of  the 
+
+Ridge on the Stress-Strain State of the Vertical Steel Cylindrical Tank with the 
+
+Development  of  Uneven  Precipitation  of  the  Outer  Contour  of  the  Bottom]. 
+
+Fundamental'nye issledovaniya  Fundamental Research, 2013, No. 10-15, pp. 
+
+3441-3445. [in Russian]. 
+
+6.  Rukovodstvo  po  bezopasnosti  vertikal'nykh  tsilindricheskih  stal'nykh 
+
+rezervuarov  dlya  nefti  i  nefteproduktov  [Safety  Guide  for  Vertical  Cylindrical 
+
+Steel  Tanks  for  Oil  and  Petroleum  Products].  Scientific  Technical  Center  of 
+
+Industrial  Safety  Problems  Research,  2013,  Series  03.  Issue  69.  240  p. 
+
+[in Russian]. 
+
+7.  Skornyakov  A.  A.,  Zaripov  M.Z.,  Karpov  A.L.,  Verzhbitskiy  K.D. 
+
+Issledovanie konstruktivnyih elementov utornogo shva rezervuarov [The Study 
+
+of  Structural  Elements  Rim  Weld  Reservoirs].  Neftegazovoe  delo  –  Petroleum 
+
+Engineering, 2014, Vol. 12, No. 4. pp. 157-161. [in Russian]. 
+
+8.  Valeev N.N., Romanchuk A.S., Verzhbitskiy K.D., Chernyatyeva R.R., 
+
+Knyazev  V.A.  Sovershenstvovanie  tekhnologii  izgotovleniya  utornogo  uzla 
+
+vertikal'nogo stal'nogo rezervuara [Improvement of Manufacturing Technology 
+
+of 
+
+the  Rim  Weld  of  a  Vertical  Steel  Tank].  Available  at:  http: 
+
+//ogbus.ru/files/ogbus/issues/6_2017/ogbus_6_2017_p57-75_ValeevNN_ru.pdf 
+
+(data obrashcheniya: 18.02.2019). [in Russian]. 
+
+9.  Fayrushin  A.M.,  Valeev  N.N.,  Romanchuk  A.S.,  Bikkinin  A.I., 
+
+Yamilev M.Z.  Modernizatsiya  utornogo  uzla  stal'nogo  vertikal'nogo  rezervuara 
+
+[Modernization  Rim  Site  Steel  Vertical  Tank].  Transport 
+
+i  hranenie 
+
+nefteproduktov  i  uglevodorodnogo  syr'ya    THNP,  2016,  No.  2,  pp.  18-21. 
+
+[in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+30 
+
+10. Fayrushin  A.M.,  Chetvertkova  O.V.,  Yamilev  M.Z.,  Bikkinin  A.I. 
+
+Sovershenstvovanie 
+
+tehnologii 
+
+izgotovleniya  utornogo  uzla 
+
+stal'nogo 
+
+vertikal'nogo  rezervuara  [An  Improvement  in  Corner  Weld  Joint  of  Vertical 
+
+Steel  Tank  Manufacturing  Technology].  Nauka  i  tehnologii  truboprovodnogo 
+
+transporta  nefti  i  nefteproduktov    Science  &  Technologies:  Oil  and  Oil 
+
+Products Pipeline Transportation, 2016, No. 6(26), pp. 84-87. [in Russian]. 
+
+Сведения об авторах 
+
+About the authors 
+
+Романчук  Анастасия  Сергеевна,  магистрант  кафедры  «Технология 
+
+нефтяного аппаратостроения», УГНТУ, г. Уфа, Российская Федерация 
+
+Anastasiya  S.  Romanchuk,  Undergraduate  Student  of  Oil  Processing 
+
+Equipment Technology Department, USPTU, Ufa, Russian Federation 
+
+e-mail: rushaniya_romanchuk@mail.ru 
+
+Файрушин  Айрат  Миннуллович,  канд.  техн.  наук,  доцент  кафедры 
+
+«Технология  нефтяного  аппаратостроения»,  УГНТУ,  г.  Уфа,  Российская 
+
+Федерация 
+
+Airat M. Fairushin, Candidate of Engineering Sciences, Assistant Professor 
+
+of  Oil  Processing  Equipment  Technology  Department,  USPTU,  Ufa,  Russian 
+
+Federation 
+
+e-mail: tna_ugntu@mail.ru 
+
+Елышев  Наиль  Адикович,  главный  инженер  ООО  «ИЦ-НК»,  г.  Уфа, 
+
+Российская Федерация 
+
+Nail A. Elyshev, Chief Engineer, EC-NDT LLC, Ufa, Russian Federation 
+
+e-mail: noodles5@yandex.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+Вержбицкий  Кирилл  Дмитриевич,  инженер,  ЗАО  «НПО  «Ленкор», 
+
+г. Санкт-Петербург, Российская Федерация 
+
+Kirill  D.  Verzhbitskii,  Engineer,  NPO  «Lenkor»  JSC,  Saint-Petersburg, 
+
+31 
+
+Russian Federation 
+
+e-mail: iqencounter@gmail.com 
+
+Исмагилова  Регина  Разитовна, 
+
+студент  кафедры 
+
+технической 
+
+кибернетики, УГАТУ, г. Уфа, Российская Федерация 
+
+Regina  R.  Ismagilova,  Student  of  Engineering  Cybernetics  Department, 
+
+USАTU, Ufa, Russian Federation 
+
+e-mail: ismagilova_regina@mail.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+

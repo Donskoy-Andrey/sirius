@@ -1,0 +1,539 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+УДК 005:006.86:665.74:614.841.412 
+
+ЭВОЛЮЦИЯ ОГНЕННЫХ ТЕСТОВ  
+ОПРЕДЕЛЕНИЯ КАЧЕСТВА НЕФТЕПРОДУКТОВ 
+●●●●●● 
+EVOLUTION OF FIRE TESTS DETERMINING THE QUALITY OF PETROLEUM 
+
+Алексеев Сергей Геннадьевич 
+кандидат химических наук, доцент,  
+член-корреспондент ВАН КБ, 
+научный консультант, 
+Уральский научно-исследовательский  
+институт Всероссийского добровольного  
+пожарного общества 
+3608113@mail.ru 
+
+Смирнов Виталий Владимирович 
+старший преподаватель, 
+Уральский институт государственной  
+противопожарной службы МЧС России 
+s_vitaly2006@list.ru 
+
+Барбин Николай Михайлович 
+доктор технических наук, доцент,  
+почетный работник науки и техники РФ, 
+ведущий научный сотрудник, 
+Уральский институт государственной  
+противопожарной службы МЧС России 
+NMBarbin@mail.ru 
+
+Аннотация.  В  статье  рассмотрено  развитие  огненных  тестов, 
+применяемых  в  XVII-XIX  веках  для  определения  качества  го-
+рючих жидкостей. После появления на рынке дешевого амери-
+канского керосина в середине XIX века огненные тесты начали 
+использовать  для  контроля  качества  и  безопасности  нефте-
+продуктов. Рассмотренные в статье примитивные методы кон-
+троля  качества  заложили  основу  для  создания  приборов  по 
+определению  температур  вспышки,  воспламеняемости  и  дру-
+гих показателей пожаровзрывоопасности, что в конечном итоге 
+привело  к  развитию  национальных  систем  классификации  го-
+рючих жидкостей в разных странах. 
+
+Alexeev Sergey Gennadievich 
+Candidate of chemical sciences,  
+Associate Professor,  
+Corresponding Member of WASCS, 
+Expert Consultant, 
+Ural Research Institute  
+of the All-Russian Voluntary Fire Society 
+3608113@mail.ru 
+
+Smirnov Vitaly Vladimirovich 
+Senior Lecturer,  
+Ural State Fire Service Institute  
+of Emercom of Russia 
+s_vitaly2006@list.ru 
+
+Barbin Nikolay Mikhailovich 
+Doctor of technical sciences,  
+Associate Professor, Honorary Researcher  
+of Science and Technology of Russia, 
+Lead Researcher, 
+Ural State Fire Service Institute  
+of Emercom of Russia 
+NMBarbin@mail.ru 
+
+Annotation.  The  development  of  fire  tests 
+used  in  the  XVII-XIX  centuries  to  determine 
+the quality  of flammable liquids  are reviewed 
+in  the  article.  After  the  appearance  of  cheap 
+american kerosene on the market in the mid-
+dle of XIX century, fire tests began to be used 
+to control the quality  and safety  of petroleum 
+products.  The  primitive  methods  of  quality 
+control considered in the article laid the foun-
+dation  for  the  creation  of  devices  for  deter-
+mining flash points, fire points and other indi-
+cators  of  fire  and  explosion  hazard,  which 
+ultimately  led  to  the  development  of  national 
+systems for classifying combustible liquids in 
+different countries. 
+
+Ключевые  слова:  огненные  тесты,  керосин,  нефтепродукты, 
+температура вспышки. 
+
+Keywords:  fire  tests,  kerosene,  petroleum 
+products, flash point. 
+
+О 
+
+гненные тесты для проверки качества горючих жидкостей в 17–19 столетиях не являлись 
+чем-то  особенными.  В  качестве  примера  можно  привести  пруф  (proof)  классификацию 
+крепости алкогольных напитков, которая родилась из огненного теста смеси рома (джина) с порохом [1]. 
+До  наступления  «керосиновой  эры»  огненные  тесты  широко  применялись  для  проверки  качества 
+осветительных масел, полученных из животного, растительного и каменноугольного сырья, причем в 
+круг их пользователей входили не только торговцы и домашние хозяйки, но и ученые, включая М. Фа-
+радея  [2].  После  американской  нефтяной  революции  1859  года,  когда  на  рынке  появился  дешевый 
+керосин,  огненные  тесты  широко  применялись  для  проверки  качества  керосина  и  других  нефтепро-
+дуктов1 вплоть до начала прошлого столетия. 
+
+Все огненные тесты, которые иногда называют грубыми или примитивными методами [4], мож-
+
+но разделить на 5 типов. 
+
+1 В  Нефтяном  законе  (Petroleum  Act) 1862 года под  термином  «петролеум»  понимался  не  только керосин, но  и 
+
+любая жидкость, способная давать горючие пары при температуре менее чем 100 °F (37,8 °С) [3]. 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                        
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+1.  Метод тонкого слоя 
+
+Метод тонкого слоя (рис. 1) заключается в следующем: пробу осветительного масла (керосина) 
+выливают на поверхность теплой воды, затем подносят внешний источник зажигания (горящая лучи-
+на, свечка или спичка). Если вспышки или воспламенения не происходит, то данная партия керосина 
+относится к категории безопасной. В другом варианте этого метода нагретый керосин выливают в та-
+релку, после чего осуществляют воздействие открытым пламенем. 
+
+Рисунок 1 – Метод тонкого слоя 
+
+В 19 веке метод тонкого слоя широко практиковался в быту и на производстве, как в Европе, так 
+и в Америке, а во Франции он применялся в качестве официального способа контроля качества керо-
+сина до 1873 года, а также некоторое время в качестве контрольного метода в американском штате 
+Огайо (Ohio) [5–10].  
+
+Идея применения метода тонкого слоя для определения температуры вспышки керосина и дру-
+гих нефтепродуктов в 1869 году была реализована в приборе1 Хатсхорна (Hartshorn), а в 1925 году в 
+тестере Эттела (Ettele) [4], а американский криминалист Гилмо (Gilmore) приспособил блок для опре-
+деления температуры плавления и газовую горелку для определения температуры вспышки тонкого 
+слоя горючих жидкостей (рис. 2) [11]. 
+
+Также можно отметить, что использование водяной подушки в качестве бани реализована в по-
+лузакрытых приборах Смита–Джонса (Smith–Jones), Пэрриша (Parrish), Касертелли (Casartelli) и Биля 
+(Biel), которые во второй половине 19-го столетия использовались в США, Голландии, Англии, России 
+и других странах для определения температуры вспышки [12, 13]. В настоящее время принцип мето-
+да тонкого слоя внедрен в методику огневых испытаний по оценке эффективности переносных и пе-
+редвижных устройств пожаротушения [14]. 
+
+Рисунок 2 – Тестирование горючей жидкости на вспышку  
+в блоке для определения температуры плавления [11] 
+
+1 В  19  столетии  термины  прибор,  аппарат,  нафтометр,  пирометр  и  тестер  для  определения  температуры 
+
+вспышки (воспламенения) рассматривались, как синонимы [4]. Этот подход сохранен в настоящей работе. 
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                        
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+2.  Объемный метод 
+
+В объемном методе используются сопоставимые объемы горячей воды (40–50 °С) и керосина, 
+которые  ручным  способом  встряхиваются,  после  чего  к  зеркалу  полученной  смеси  подносится  за-
+пальное пламя. В случае вспышки или воспламенения считается, что партия керосина не выдержала 
+огненный тест и относится к категории небезопасного (опасного) осветительного продукта. 
+
+В 70–80-х годах 19-го века появились закрытые паровые нафтометры Майяра (Meyer), Хоялера 
+(Hörler) и Абельянца (Abelianz), которые широко использовались полицией Швейцарии для контроля 
+качества  осветительных  масел  [15].  В  этих  приборах  технология  встряхивания  перед  тестом  на 
+вспышку заимствована из объемного огненного теста. Следует также отметить, что тестеры Майяра, 
+Хоялера и Абельянца можно рассматривать как прообразы современных аппаратов для определения 
+температурных пределов воспламенения горючих жидкостей по ГОСТ 12.1.044 и ASTM E1232 [16, 17]. 
+
+3.  Тигельный метод 
+
+В  тигельном  методе  предусматривается  нагрев  чашки  (тигля)  или  пробирки  на  водяной  или 
+воздушной  или  песчаной  бане.  Существовал  и  упрощенный  вариант  тигельного  метода,  когда  стек-
+лянная  пробирка  с  теплым  керосином  подносилось  горлышком  к  пламени.  В  случае  отсутствия 
+вспышки  при  воздействии  пламени  запальной  горелки  или  свечки  партия  керосина  считалась  без-
+опасной.  
+
+На  первых  порах  в  первой  половине  и  в  начале  второй  половины  19  столетия  исследователи 
+использовали  этот метод для  определения пожаровзрывоопасности  осветительных масел, при  этом 
+описание  его  аппаратурной  реализации  либо  опускалось,  либо  ограничивалось  общей  информации 
+типа  –  небольшой  маслянный  тигель  в  бассейне  с  водой  [2,  18–24].  В учебных целях данный  метод 
+использовался до конца первого этапа развития экспериментальных технологий определения темпе-
+ратуры вспышки1 [25]. 
+
+Развитие  тигельного  метода  привело  к  появлению  аппаратов:  Арнабольди  (Arnaboldi),  Кедзи 
+(Kedzie), Кулла (Kyll), Тальябу (Tagliabue), Писа (Pease), Шоу (Shaw), Хатсхорна (Hartshorn), Сквайера 
+(Squire),  Сайболта  (Saybolt),  Пинкни  (Pinckney),  Айсинмана  (Aisinman),  Лейгтона  (Leighton),  Манна 
+(Mann), Редвуда (Redwood), Эттфилда (Attfield), Хеарна (Hearn), Миллса (Mills), Поттера (Potter), Кур-
+туа (Courtois), Кисслинга (Kißling или Kissling), Жерара-Делорье (Guérard-Deslauriers), Ямайки, компа-
+нии  «Negretti  & Zambra’s»,  Метрополии,  штатов  Миннесота  (Minnesota),  Индиана  (Indiana)  и  Мичиган 
+(Michigan),  Калифорнии  (California),  города  Кливленда  (Cleveland),  официальных  тесторов  Англии, 
+Швеции и Дании и др., которые относятся к классу «открытый тигель» [4, 13]. Из всего этого многооб-
+разия до наших дней дожили только приборы Тага2 и Кливленда [4, 27]. Безусловно, что идея приме-
+нения тигля и водяной или воздушной бани также была реализована в нафтометрах закрытого и по-
+лузакрытого типов [12, 13, 26, 27]. 
+
+4.  Капельный метод 
+
+Капельный  метод  заключался  в  добавлении  несколько  капель  керосина  на  нагретую  поверх-
+ность стальной пластины. Способ контроля за качеством керосина аналогичен методу тонкого слоя, В 
+сущности  капельный  способ  контроля  качества  нефтепродуктов  можно  рассматривать,  как  микрова-
+риант метода тонкого слоя. В 1920 году Муром (Moore) разработан прибор для определения темпера-
+туры  воспламенения  капли  горючей  жидкости,  который  состоит  из  рифленой  стальной  пластины,  на 
+которой располагается небольшой платиновый или никелевый тигель, обвернутый рифленой жестью 
+с  крышкой  с  двумя  отверстиями.  Нагрев  тигля  контролируется  с  помощью  термометра.  Для  опреде-
+ления  температуры  воспламенения  к  одному  отверстию  крышки  подводится  небольшое  пламя  газо-
+вой горелки, и добавляют с помощью пипетки несколько капель горючей жидкости во внутреннее про-
+странство  тигля  через  другое  отверстие  крышки.  Дальнейший  алгоритм  действий  аналогичен  стан-
+дартной методике [28], которая используется в настоящее время [16]. 
+
+В  настоящее  время  капельный  метод  широко  используется для  определения  температуры са-
+
+мовоспламенения горючих жидкостей [16, 29]. 
+
+5.  Ламповый метод 
+
+Поскольку в «керосиновую эру» основаная пожаровзрывоопасность в основном была связана с 
+аварийным  режимом  работы  керосиновых  приборов  и  в  первую  очередь  керосиновых  ламп,  то  ис-
+пользование  последних  в  качестве  испытательных  приборов  не  выглядело  какой-то  безумной  идей. 
+Однако  достичь  каких  либо  значимых  успехов  в  данном  направлении  не  удалось.  Более  продуктив-
+ным направлением оказался путь по моделированию процессов, которые имеют в керосиновой лам-
+пе. В качестве примера можно привести нафтометр Манна (Mann), который представляет собой ме-
+
+1 Этот этап закончился в 20-е годы 20-го столетия [4]. 
+2 Таг (Tag) – сокращение от фамилии Тальябу (Tagliabue). 
+25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                        
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+таллическую  лампу,  в  которой  держатель  фитиля  заменен  на  трубу  3,  закрытую  сверху  резиновой 
+пробкой.  Отверстие  4  предназначено  для  введения  небольшого  запального  пламени.  Термометр  5 
+помещается  в  металлический  чехол  (трубка  запаянная  с  одного  конца).  В  верхней  части  корпуса  1 
+имеются отверстия, служащие для отвода продуктов сгорания нагревательной лампы (спиртовка) 2, с 
+помощью которой осуществляется нагрев горючей жидкости. При введении запала через боковое от-
+верстие и вспышке паров керосина резиновая пробка вылетает под действием избыточного давления 
+продуктов сгорания воспламеняющихся паров. 
+
+Рисунок 3 – Тестер Манна [12]: 
+1 – корпус; 2 – нагревательная лампа (спиртовка); 3 – труба;  
+4 – отверстие для введения запала; 5 – термометр 
+
+Другим примером является тестер Гаваловского (Gawalovski) (рис. 4), который состоит из тигля 1 
+для испытуемой жидкости, непосредственно нагреваемой спиртовой горелкой 2. К крышке тигля при-
+креплена горелка Бунзена 7, имеющая предохранительный клапан, поддерживаемый в открытом по-
+ложении нитью, пропитанной нитратом аммония. При испытании горючая жидкость нагревается и пе-
+риодически  к  устью  горелки Бунзена  7  подводится  запальная  горелка  6.  Когда происходит  вспышка, 
+нить  перегорает,  предохранительный  клапан  закрывается,  и  температура  вспышки  фиксируется  по 
+показаниям термометра 3 [26].  
+
+Рисунок 4 – Тестер Гаваловского [26]: 
+1 – тигель; 2 – спиртовая горелка; 3 – термометр; 4 – горелка Бунзена;  
+5 – нить, пропитанная нитратом аммония; 6 – запальная горелка; 7 – предохранительный клапан 
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+В настоящее время тестеры Манна и Гаваловского, как и сам ламповый метод забыт. 
+
+Заключение 
+
+Огненные методы создали основу для бума по созданию приборов для определения темпера-
+тур вспышки и воспламенения нефтепродуктов, который имел место во второй половине 19-го столе-
+тия, что привело к созданию национальных систем классификаций горючих жидкостей в разных стра-
+нах и развитию научного подхода при обращении с пожаровзрывоопасными жидкостями. Кроме того, 
+примитивные  огненные  тесты  явились  прародителями  современных  методов  определения  темпера-
+турных пределов воспламенения и температуры самовоспламенения горючих жидкостей. 
+
+Литература 
+
+1.  Jensen W.B. The origin of alcohol proof // Journal of Chemical Education. – 2004. – Vol. 81. – № 9. – P. 1258. – 
+
+Doi: 10.1021/ed081p1258 
+
+2.  On  the  volatility  and inflammability  which  fish  and  other  fixed  oils  acquire  by  continued  exposure  to  certain 
+
+high temperatures // The London Journal of Arts and Sciences. – 1820. – № 3. – Vol. 1. – P. 188–198. 
+
+3.  An Act for the safe keeping of Petroleum // The Jurist. New Series. – 1862. – Vol. 8. – Part 2. – P. 59–60. 
+4.  Алексеев С.Г., Смирнов В.В., Барбин Н.М. Первые нафтометры для определения температуры вспыш-
+
+ки жидкостей : 1. Открытый тигель // Российский химический журнал. – 2018. – Т. 62. – № 3. – С. 71–87. 
+
+5.  To detect explosive coal oil // Scientific American. – 1862. – Vol. 6. – № 4. – P. 55. 
+6.  Petroleum // The Mechanics’ Magazine. New Series. – 1862. – Vol. 7. – P. 208–209. 
+7.  Redwood B. Petroleum. – London: Charles Griffin & Co. – 1922. – Vol. 3. – P. 1022. 
+8.  Décret et instruction concernunt les huiles minérales // Journal de Pharmacie et de Chimie. – 1869. – T. 9. – 
+
+P. 436–439. 
+
+9.  Höfer  H.  Die  Petroleum-Industrie  Nordamerikas.  –  Wien:  Commissions-Verlag  von  Faesy  &  Frick  K.K. 
+
+Hofbuchhandlung, 1877. – Р. 142–144. 
+
+10. Kedzie  R.C.  Illuminating  oils in  use  in  Michigan //  First  annual report  of the  secretary  of the  State  Board  of 
+Health of the State of Michigan for the fiscal year ending Sept. 30, 1873. – Lansing : W.S. George & Co., State Printers 
+and Binders, 1874. – P. 35–59. 
+
+11. Gilmore A.E. A Semi-micro method for flash point determination // The Journal of Criminal Law, Criminology, 
+
+and Police Science. – 1958. – Vol. 49. – № 4. – P. 391–392. – Doi: 10.2307/1141612 
+
+12. Алексеев С.Г., Смирнов В.В., Барбин Н.М. Первые нафтометры для определения температуры вспыш-
+ки жидкостей : 2. Полузакрытый тигель // Российский химический журнал. – 2019. – Т. 63. – № 1. – С. 55–70. – Doi: 
+10.6060/rcj.2019631.4. 
+
+13. Алексеев  С.Г.,  Смирнов  В.В.,  Барбин  Н.М.  Экспертиза  высказывания  Д.И.  Менделеева  о  британском 
+
+лимите для безопасного керосина // Российский химический журнал. – 2020. – Т. 64 (в печати). 
+
+14. Национальный  стандарт  Российской  Федерации.  Техника  пожарная.  Переносные  и  передвижные 
+устройства пожаротушения с высокоскоростной подачей огнетушащего вещества. Общие технические требова-
+ния. Методы испытаний : ГОСТ Р 53291-2009. – М. : Стандартинформ, 2009. – 25 с. 
+
+15. Алексеев С.Г., Смирнов В.В., Барбин Н.М. Первые нафтометры для определения температуры вспыш-
+ки  жидкостей  :  3.  Паровые  тестеры  //  Российский  химический  журнал.  –  2019.  –  Т.  63,  №  1.  –  С.  71-85.  Doi: 
+10.6060/rcj.2019631.5. 
+
+16. Пожаровзрывоопасность веществ и материалов. Номенклатура показателей и методы их определения : 
+
+ГОСТ 12.1.044-2018. – М. : Стандартинформ, 2018. – 206 с. 
+
+17. Standard  test  method  for  temperature  limit  of  flammability  of  chemicals  :  ASTM  E1232-07(2019).  –  URL  : 
+
+https://www.astm.org/Standards/E1232.htm (дата обращения 06.03.2020). 
+
+18. Hutton  W.R.  On  the  igniting  point  of  the  vapours  of  some  commercial  products  //  Proceeding  of  the  Royal 
+
+Philosophical Society of Glasgow. – 1868-69. – Vol. 2. – № 1. – P. 49–53. 
+
+19. Beckwith  D.H.  A scientific  standard for  the  safety  of  illuminating  oils  //  The  Sanitarian.  –  1887.  –  Vol.  18.  –               
+
+№ 208. – P. 247–252.  
+
+20. Tate  N.  On  the  explosibility  of  petroleum  oil  //  Pharmaceutical  Journal  and  Transactions.  Second  Series.  – 
+
+1862. – Vol. 4. – № 4. – P. 150–151. 
+
+21. Gibbons W.S. Kerosene oil: What it is; with causes and prevention of accidents in its use, together with up-
+wards of fifty analyses and experiments with samples sold in Melbourne. – Melbourne : F. Bailliere, Publisher & Importer, 
+1862. – 33 p. 
+
+22. Allen T. Explosibility of coal oils // Annual report of the Smithsonian institution. – Washington : Government 
+
+Printing Office, 1862. – P. 330–342. 
+
+23. Ferrus M.A. Analyse du Mémoire de M.T. Allen, publié dans le Smithsonian report sous le titre: Explosibility of 
+coal oils // Société Académique des Sciences, Arts, Belles-Lettres, Agriculture et Industrie de Saint-Quentin. Troisiéme 
+série. – 1864. – T. 5. – P. 85–104. 
+
+24. Tegetmeier W.B. Examination of mineral oils // The Chemist and Druggist. – 1863. – Vol. 4. – № 48. – P. 217–218. 
+25. Holleman  A.F.  A  Laboratory  Manual  of Organic  Chemistry for  Beginners.  –  N.Y. :  John Wiley  &  Sons,  Inc., 
+
+1917 – P. 8. 
+
+26. Алексеев С.Г., Смирнов В.В., Алексеев К.С., Барбин Н.М. Первые нафтометры для определения тем-
+пературы  вспышки  жидкостей  :  4.  Закрытые  и  дистилляционные  тестеры  //  Российский  химический  журнал.  – 
+2020. – Т. 64 (в печати). 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+27. Алексеев С.Г., Смирнов В.В., Барбин Н.М. Температура вспышки : История вопроса, дефиниции, мето-
+
+ды экспериментального определения // Пожаровзрывобезопасность. – 2012. – Т. 21. – . Ч. I. – № 5. – С. 35–41. 
+
+28. Glazebrook R. A Dictionary of Applied Physics. – London : Macmillan and Co., 1922. – Vol. 1. – P. 334–338. 
+:  ASTM  E659-15.  –  URL 
+for  Autoignition  Temperature  of  Chemicals 
+29. Standard  Test  Method 
+
+: 
+
+https://www.astm.org/Standards/E659.htm (дата обращения 11.03.2020). 
+
+References 
+
+1.  Jensen W.B. The origin of alcohol proof // Journal of Chemical Education. – 2004. – Vol. 81. – № 9. – P. 1258. – 
+
+Doi: 10.1021/ed081p1258 
+
+2.  On  the  volatility  and inflammability  which  fish  and  other  fixed  oils  acquire  by  continued  exposure  to  certain 
+
+high temperatures // The London Journal of Arts and Sciences. – 1820. – № 3. – Vol. 1. – P. 188–198. 
+
+3.  An Act for the safe keeping of Petroleum // The Jurist. New Series. – 1862. – Vol. 8. – Part 2. – P. 59–60. 
+4.  Alexeev  S.G.,  Smir№v  V.V.,  Barbin  N.N.  First  naphtometers  for  determination  of  flash  point  of  liquids  :                  
+
+1. Open cup devices // Russian Chemical Journal [Rossiiskii Khimicheskii Zhurnal]. – 2018. – Vol. 62, № 3. – P. 71-87. 
+
+5.  To detect explosive coal oil // Scientific American. – 1862. – Vol. 6. – № 4. – P. 55. 
+6.  Petroleum // The Mechanics’ Magazine. New Series. – 1862. – Vol. 7. – P. 208–209. 
+7.  Redwood B. Petroleum. – London : Charles Griffin & Co., 1922. – Vol. 3. – P. 1022. 
+8.  Décret et instruction concernunt les huiles minérales // Journal de Pharmacie et de Chimie. – 1869. – T. 9. – 
+
+P. 436–439. 
+
+9.  Höfer  H.  Die  Petroleum-Industrie  №rdamerikas.  –  Wien  :  Commissions-Verlag  von  Faesy  &  Frick  K.K. 
+
+Hofbuchhandlung, 1877. – Р. 142–144. 
+
+10. Kedzie  R.C.  Illuminating  oils in  use  in  Michigan //  First  annual report  of the  secretary  of the  State  Board  of 
+Health of the State of Michigan for the fiscal year ending Sept. 30, 1873. – Lansing : W.S. George & Co., State Printers 
+and Binders, 1874. – P. 35–59. 
+
+11. Gilmore A.E. A Semi-micro method for flash point determination // The Journal of Criminal Law, Crimi№logy, 
+
+and Police Science. – 1958. – Vol. 49. – № 4. – P. 391–392. – Doi: 10.2307/1141612 
+
+12. Alexeev S.G., Smir№v V.V., Barbin N.N. First naphtometers for determination of flash point of liquids. 2. Sem-
+iclosed cup devices // Russian Chemical Journal [Rossiiskii Khimicheskii Zhurnal]. – 2019. – Vol. 63. – № 1. – P. 55–70. – 
+Doi: 10.6060/rcj.2019631.4 
+
+13. Alexeev S.G., Smir№v V.V., Barbin N.N. Examination of the D.I. Mendeleev’s expression about the British lim-
+
+it for safe kerosene // Russian Chemical Journal [Rossiiskii Khimicheskii Zhurnal]. – 2020. – Vol. 64 (in press). 
+
+14. Portable  and  movable  devices  of  fire  extinguishing  with  high-velosity  submission  of  fire  quenching  matter. 
+
+General technical requirements. Test methods : GOST R 53291-2009. – M. : Standartinform, 2009. – 25 p. 
+
+15. Alexeev S.G., Smir№v V.V., Barbin N.N. First naphtometers for determination of flash point of liquids : 3. Va-
+por tester // Russian Chemical Journal [Rossiiskii Khimicheskii Zhurnal]. – 2019. – Vol. 63. – № 1. – P. 71–85. – Doi: 
+10.6060/rcj.2019631.5 
+
+16. Fire and explosion hazard of substances and materials. №menclature of indices and methods of their deter-
+
+mination : GOST 12.1.044-2018. – M. : Standartinform, 2018. – 206 p. 
+
+17. Standard  test  method  for  temperature  limit  of  flammability  of  chemicals  :  ASTM  E1232-07(2019).  –  URL  : 
+
+https://www.astm.org/Standards/E1232.htm (accessed: 06.03.2020). 
+
+18. Hutton  W.R.  On  the  igniting  point  of  the  vapours  of  some  commercial  products  //  Proceeding  of  the  Royal 
+
+Philosophical Society of Glasgow. – 1868-69. – Vol. 2. – № 1. – P. 49–53. 
+
+19. Beckwith  D.H.  A scientific  standard for  the  safety  of  illuminating  oils  //  The  Sanitarian.  –  1887.  –  Vol.  18.  –              
+
+№ 208. – P. 247–252. 
+
+20. Tate  N.  On  the  explosibility  of  petroleum  oil  //  Pharmaceutical  Journal  and  Transactions.  Second  Series.  – 
+
+1862. – Vol. 4. – № 4. – P. 150–151. 
+
+21. Gibbons W.S. Kerosene oil: What it is; with causes and prevention of accidents in its use, together with up-
+wards of fifty analyses and experiments with samples sold in Melbourne. – Melbourne : F. Bailliere, Publisher & Importer, 
+1862. – 33 p. 
+
+22. Allen T. Explosibility of coal oils // Annual report of the Smithsonian institution. – Washington : Government 
+
+Printing Office, 1862. – P. 330–342. 
+
+23. Ferrus M.A. Analyse du Mémoire de M.T. Allen, publié dans le Smithsonian report sous le titre: Explosibility of 
+coal oils // Société Académique des Sciences, Arts, Belles-Lettres, Agriculture et Industrie de Saint-Quentin. Troisiéme 
+série. – 1864. – T. 5. – P. 85–104. 
+
+24. Tegetmeier W.B. Examination of mineral oils // The Chemist and Druggist. – 1863. – Vol. 4. – № 48. – P. 217–218. 
+25. Holleman  A.F.  A  Laboratory  Manual  of Organic  Chemistry for  Beginners.  –  N.Y. :  John Wiley  &  Sons,  Inc., 
+
+1917 – P. 8. 
+
+26. Alexeev S.G., Smir№v V.V., Alexeev K.S., Barbin N.N. First naphtometers for determination of flash point of liquids : 
+
+4. Closed and distillation testers // Russian Chemical Journal [Rossiiskii Khimicheskii Zhurnal]. – 2020. – Vol. 64 (in press). 
+
+27. Alexeev  S.G.,  Smir№v  V.V.,  Barbin  N.M.  Flash  Point.  Part  I.  Question  History,  Conception  Definitions  and 
+Test Methods of Determination // Fire and Explosion Safety» [Pozharovzryvobezopasnost]. – 2012. – Vol. 21. – № 5. – 
+P. 35–41. 
+
+28. Glazebrook R. A Dictionary of Applied Physics. – London : Macmillan and Co., 1922. – Vol. 1. – P. 334–338. 
+:  ASTM  E659-15.  –  URL 
+for  Autoignition  Temperature  of  Chemicals 
+29. Standard  Test  Method 
+
+: 
+
+https://www.astm.org/Standards/E659.htm (accessed: 11.03.2020). 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

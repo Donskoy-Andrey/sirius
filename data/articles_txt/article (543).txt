@@ -1,0 +1,579 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+УДК 626.276 
+
+ОЦЕНКА ЭФФЕКТИВНОСТИ ПРОЦЕССА ЗАВОДНЕНИЯ  
+НА ОСНОВЕ ЕМКОСТНО-РЕЗИСТИВНОЙ МОДЕЛИ 
+●●●●●● 
+WATERFLOODING EFFICIENCY ESTIMATION USING CAPACITANCE-RESISTANCE 
+MODEL WITH NON-LINEAR PRODUCTIVITY INDEX 
+
+Аббасов Аскер Аббас оглы 
+кандидат технических наук,  
+доцент, зав. отделом SOCAR 
+
+Abbasov Asker Abbas 
+Candidate of Technical Sciences,  
+Associate professor, Head of Department, 
+State Oil Company  
+of Azerbaijan Republic (SOCAR) 
+
+Аббасов Эльхан Меджид оглы  
+доктор физико-математических наук,  
+доцент, ведущий научный сотрудник,  
+Институт Математики и Механики АН Азербайджана 
+
+Abbasov Elkhan Majid 
+Doctor of Physico-Mathematical Sciences,  
+Associate Professor, Senior Researcher,  
+Institute of Mathematics and Mechanics  
+of Azerbaijan National Academy of Sciences  
+
+Сулейманов Ариф Алекпер оглы 
+доктор технических наук, доцент,  
+Азербайджанский Государственный Университет  
+Нефти и Промышленности 
+
+Suleymanov Arif Alekper oglu 
+Doctor of Engineering,  
+Associate Professor, Azerbaijani State Oil  
+and Industry University 
+
+Аннотация.  Разработана  модифицированная  емкостно-резис-
+тивная  модель  процесса добычи,  учитывающая  нелинейность 
+коэффициента продуктивности. Емкостно-резистивная модель, 
+основанная на уравнении неразрывности между отбором и за-
+качкой, имеет ряд преимуществ по сравнению с другими мето-
+дами.  
+Данный подход не требует построения геологической модели и 
+гидродинамических  симуляторов,  длительного  вычислитель-
+ного процесса и базируется только на данных динамики добычи 
+и закачки. 
+Предложенная модель адекватно описывает процесс добычи и 
+может  быть  использована  при  прогнозировании  показателей 
+добычи и для мониторинга процесса заводнения. 
+
+Annotation. A modified Capacitive Resistive 
+Model,  with  a  non-linear  Productivity  Index, 
+has been suggested to evaluate efficiency of 
+waterflooding in heterogeneous reservoirs.  
+CRM  model  is  based  on  continuity  equation 
+between  production  and  injection,  and  has 
+several additional advantages. The technique 
+does not require sophisticated geological and 
+hydrodynamics  numerical  simulation  model-
+ing, which would require expensive computing 
+time and based on actual hydrodynamic data. 
+The  model  adequately  describes  depletion 
+process and can be used for production fore-
+casting and waterflooding mechanism. 
+
+Ключевые  слова:  заводнение,  эффективность,  емкостно-ре-
+зистивная  модель,  нелинейный  коэффициент продуктивности, 
+мониторинг. 
+
+Keywords:  waterflooding,  efficiency,  capaci-
+tance-resistance model,  non-linear  productiv-
+ity index. 
+
+А 
+
+нализ  и  прогноз  процесса добычи,  с  учетом  внутренних и  внешних  воздействий  на  пласт, 
+является важным условием выбора стратегии разработки резервуара.  
+
+Поддержание  пластового  давления  заводнением  является  одним  из  основных  видов  воздей-
+ствия  на  нефтяные  пласты,  которое  кроме  повышения  нефтеотдачи  обеспечивает  интенсификацию 
+процесса разработки. 
+
+Оценка эффективности процесса закачки, основывается на анализе фактического отклика резер-
+вуара на закачку и на прогнозировании этого отклика в ближайшем будущем. Неадекватное описание 
+и моделирование резервуара может привести к нерациональному расходованию ресурсов, снижению 
+объемов добычи нефти, преждевременному обводнению скважин и др. [1, 2].  
+
+Важно  отметить,  что  сложность  геологического  строения  резервуара,  (наличие  тектонических 
+нарушений, неоднородность свойств пластов по площади и по разрезу и др.), ограниченность проводи-
+мых  гидродинамических  исследований  не  позволяют  адекватно  оценивать и прогнозировать  направ-
+ления основных фильтрационных потоков [3].  
+
+Существуют  различные  методики  анализа  эффективности  процесса  заводнения  резервуара:                                   
+
+Hall plot, Chan plot, Reciprocal Productivity Index, WOR plot etc. и др. [4–7].  
+
+Важное значение имеют методы моделирования, которые позволяют, без проведения дополни-
+тельных промысловых исследований, адекватно описывать текущее состояние и спрогнозировать про-
+цесс разработки резервуара [3].  
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Одним из современных методов анализа и прогноза процесса заводнения являются Емкостно-
+Резистивные Модели (Capacitance-Resistance Model, CRM) [8, 9]. Различные модификации этой модели 
+(CRMT, CRMP, CRMIP и др.) применяются для мониторинга и прогнозирования закачки как в целом по 
+резервуару, так и для анализа взаимодействия эксплуатационных и нагнетательных скважин [9–10].  
+
+В  статье  для  описания  процесса  нефтедобычи  с  поддержанием  пластового  давления  предло-
+
+жена емкостно-резистивная модель, учитывающая нелинейность коэффициента продуктивности. 
+
+Емкостно-резистивная модель на основе нелинейного коэффициента продуктивности 
+
+CRM основана на материальном балансе с учетом упругого запаса жидкости в поровом простран-
+
+стве резервуара [9].  
+
+Предположим, что в пласте с объемом пор 
+
+изменилось на 
+
+. Тогда изменение объемов закачиваемой и отбираемой жидкостей изменится на 
+
+ : 
+
+V(cid:2)
+
+∆t
+
+  за малый промежуток времени 
+
+ среднее давление 
+
+где   
+
+  и 
+ и 
+
+  коэффициенты  сжимаемости  нефти  и  воды  с  учетом  сжимаемости  пористой  среды;              
+, (
+, соответственно, объемы пор занятые нефтью и водой в момент времени 
+t
+
+V(cid:2) = V(cid:10) + V(cid:12)
+
+). 
+
+, 
+∆V = (cid:8)c(cid:10)V(cid:10) + c(cid:12)V(cid:12)(cid:13)∆P(cid:6)
+
+∆V
+
+(1) 
+
+ равно разности объемов закачки и отбора жидкости за промежуток вре-
+
+∆V
+
+∆P(cid:6)
+
+c(cid:12)
+V(cid:12)
+
+c(cid:10)
+V(cid:10)
+Изменение объема 
+
+мени 
+
+: 
+
+∆t
+
+где   
+
+  и 
+w(cid:8)t(cid:13)
+q(cid:8)t(cid:13)
+времени.  
+
+  –  соответственно  объем  закачиваемой  воды  и  отбираемой  жидкости  в  единицу                
+
+Из выражения (2) при 
+
+∆t → 0
+
+. 
+(cid:8)c(cid:10)V(cid:10) + c(cid:12)V(cid:12)(cid:13)∆P(cid:6) = (cid:14)w(cid:8)t(cid:13) − q(cid:8)t(cid:13)(cid:18)∆t
+ получим: 
+
+(cid:8)c(cid:10)V(cid:10) + c(cid:12)V(cid:12)(cid:13)
+
+(cid:21)(cid:22)(cid:6)
+(cid:21)(cid:23) = w(cid:8)t(cid:13) − q(cid:8)t(cid:13)
+
+, 
+
+С другой стороны: 
+
+Тогда подставляя выражение (4) в уравнение (3), получим: 
+
+. 
+
+V(cid:10) = V(cid:2) − V(cid:12)
+
+(cid:21)(cid:22)(cid:6)
+(cid:21)(cid:23) + V(cid:2)c(cid:10)
+В  традиционном  CRM  [8,  9]  применяется  линейный  коэффициент  продуктивности 
+
+. 
+(cid:21)(cid:22)(cid:6)
+(cid:21)(cid:23) = w(cid:8)t(cid:13) − q(cid:8)t(cid:13)
+
+V(cid:12)(cid:8)c(cid:12) − c(cid:10)(cid:13)
+
+,            
+
+где 
+J
+
+ – коэффициент продуктивности.  
+
+q(cid:8)t(cid:13) = J∆P
+Но  в  практике  разработки  нефтегазовых  месторождений  коэффициент продуктивности  в  боль-
+
+шинстве случаев является нелинейным [11].  
+
+Поэтому, для построения емкостно-резистивной модели был выбран нелинейный коэффициент 
+
+продуктивности: 
+
+q(cid:8)t(cid:13) = J(cid:8)P(cid:6) − P(cid:12)(cid:25)(cid:13)
+
+(cid:26). 
+
+где   
+
+ – среднее забойное давление в эксплуатационной скважине. 
+
+P(cid:12)(cid:25)
+Решив уравнения (5) с учетом (6), получим следующее уравнение для определения притока жид-
+
+кости в скважину в единицу времени: 
+
+q = (cid:27)
+
+(cid:26)(cid:28)(cid:29)(cid:30)(cid:31) (cid:8)(cid:29)(cid:23)(cid:13)!"#(cid:8)$(cid:13)(cid:29)% (cid:8)(cid:29)(cid:23)(cid:13)
+
+(cid:29)% (cid:8)(cid:29)(cid:23)(cid:13)!
+
+"&(cid:8)’(cid:13)
+
+(cid:30)( (cid:31) (cid:8)(cid:29)(cid:23)(cid:13)
+
+(cid:26)
+
+, 
+
+)
+
+(7) 
+
+где   
+
+(cid:26)
+
+ω
+
+=
+
++
+,(cid:28)(cid:30) w(cid:8)t(cid:13) −
+
+"-
+
+(cid:26)(cid:28)
+
+(cid:21)(cid:22)./
+(cid:21)(cid:23)
+
+, 
+
+q(cid:8)0(cid:13)
+
+ – начальное значение дебита жидкости.  
+
+Если предположить, что не вся закачиваемая влияет на добычу жидкости, то 
+
+ставить в виде: 
+
+=
+ – доля закачки, влияющая на добычу. 
+
+ω
+
+(cid:26)
+
+где   
+
+f
+
++
+,(cid:28)(cid:30) fw(cid:8)t(cid:13) −
+
+"-
+
+(cid:26)(cid:28)
+
+(cid:21)(cid:22)./
+(cid:21)(cid:23)
+
+, 
+
+34 
+
+ можно пред-
+
+(cid:8)t(cid:13)
+
+(cid:26)
+
+ω
+
+(8) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+В дискретном виде процесс притока жидкости можно представить в виде: 
+
+q1 = (cid:27)
+
+(cid:30)
+(cid:26)(cid:28)(cid:29)2
+
+(cid:31) (cid:8)(cid:29)2(cid:23)2(cid:13)!"#234(cid:29)2% (cid:8)(cid:29)2(cid:23)2(cid:13)
+)
+"&234
+
+(cid:29)2% (cid:8)(cid:29)2(cid:23)2(cid:13)!
+
+(cid:30)( (cid:31) (cid:8)(cid:29)2(cid:23)2(cid:13)
+
+где   
+
+. 
+
+56 = 567+ + ∆5
+Для случая постоянного забойного давления: 
+
+(cid:26)
+
+, 
+
+(9) 
+
+. 
++
+,(cid:28)(cid:30) fw(cid:8)t1(cid:13)
+Предложенный подход был применен к моделированию работы скважин морского нефтяного ме-
+
+(cid:26)
+ω1
+
+(10) 
+
+=
+
+сторождения.  
+
+На рисунке 1 приведены показатели работы добывающей скважины Р1 и нагнетательной сква-
+жины I1. Как видно из представленных данных, в скважине Р1 коэффициент продуктивности нелиней-
+ный (рис. 2).  
+
+Рисунок 1 – Динамика дебита жидкости и забойного 
+давления скважины Р1 и закачки воды скважины I1 
+
+Рисунок 2 – Зависимость дебита жидкости  
+и перепада давления скважины Р1 
+
+На рисунке 3 показаны результаты моделирования дебита скважины Р1 на основе предложенной 
+CRM c нелинейным коэффициентом продуктивности и модели c линейным коэффициентом продуктив-
+ности [9, 12].  
+
+Рисунок 3 – Сравнение моделирования дебита скважины Р1  
+на основе линейного и нелинейного коэффициентов продуктивности 
+
+Как видно из полученных результатов, CRM с учетом нелинейности коэффициента продуктивно-
+сти лучше описывает фактическую добычу скважины по сравнению с CRM линейной продуктивности.  
+На основе проведенных исследований установлено, что предложенная модель адекватно опи-
+сывает процесс добычи и может быть использована при прогнозировании показателей добычи и мони-
+торинге процесса заводнения.  
+
+35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Выводы 
+
+Разработана емкостно-резистивная модель процесса добычи на основе нелинейного коэффици-
+
+ента продуктивности.  
+
+Предложенная  модель  адекватно  описывает  процесс  добычи  и  может  быть  использована  при 
+
+прогнозировании показателей добычи и для мониторинга процесса заводнения. 
+
+Применимость предложенной модели для описания процесса добычи с учетом заводнения апро-
+
+бирована как на модельных, так и на реальных примерах нефтедобычи. 
+
+Литература 
+
+1.  Мирзаджанзаде А.Х. Моделирование процессов нефтегазодобычи / А.Х. Мирзаджанзаде, М.М. Хасанов, 
+
+Р.Н. Бахтизин. – М.-Ижевск : Институт компьютерных исследований. – 2004. – 368 с. 
+
+2.  Ahmed T.H. Reservoir Engineering Handbook. Gulf Professional Publishing. – 2001. 
+3.  Фрагменты разработки морских нефтегазовых месторождений / А.Х. Мирзаджанзаде [и др.]. – Баку : Из-
+
+дательство «Елм», 1997. – 408 с.  
+
+4.  Kumar A. Strength of Water Drive or Fluid Injection from Transient Well Test Data. – // J Pet Tech. – 1977. –  
+
+№ 29 (11). –  Р. 1497–1508. 
+
+5.  Hearn C.L. Method Analyzes Injection Well Pressure and Rate Data. // Oil & Gas J. –  1983. –  Р. 117–120. 
+6.  Chan K.S. Water Control Diagnostic Plots. Society of Petroleum Engineers // SPE Conference Paper, 30775-MS, 
+
+1995.  
+
+7.  Analysis and Interpretation of Water / Y.C. Yortsos [et al.] // Oil Ratio in Waterfloods. SPE J. –  1999. – № 4. –  
+
+Р. 413–424,  
+
+8.  Albertoni A. Inferring Interwell Connectivity from Well-Rate Fluctuations in Waterfloods. Paper SPE 75225 pre-
+
+sented  at  the  SPE/DOE  Symposium  on  Improved Oil  Recovery  /  A.  Albertoni,  L.W.  Lake.  –  Tulsa,  Oklahoma,  2002.  –                          
+13–17 April. 
+
+9.  Yousef A. Investigating Statistical Techniques to Infer Interwell Connectivity from Production and Injection Rate 
+
+Fluctuations : PhD dissertation. – U. of Texas, Austin, 2006. 
+
+10. Laochamroonvorapongse R. Advances in the Development and Application of a Capacitance-Resistance Model : 
+
+PhD dissertation. – U. of Texas, Austin, 2013. 
+
+11. Aulisa E., Ibragimov A., Valko P. and Walton J.R. Mathematical framework of the well productivity index for fast 
+
+Forchheimer  (non-Darcy)  flows  in  porous  media  //  Mathematical  Models  and  Methods  in  Applied  Sciences.  –  2009.  –                    
+№ 19(8). – Р. 1241–1275. 
+
+12. Sayarpour M. Development and Application of Capacitance-Resistive Models for Water/Co2 Flood : PhD dis-
+
+sertation. – U. of Texas, Austin, 2008. 
+
+References 
+
+1.  Mirzajanzade A. Modeling of oil and gas production processes / A. Mirzajanzade, M. Hasanov, R. Bahtizin. – 
+
+M. : ICR, 2004. 
+
+2.  Ahmed T.H. Reservoir Engineering Handbook. Gulf Professional Publishing. – 2001. 
+3.  Fragments of development of sea oil and gas fields / Mirzadzhanzade A. [et al.]. – Baku : Elm, 1997.  
+4.  Kumar A. Strength of Water Drive or Fluid Injection from Transient Well Test Data. – // J Pet Tech. – 1977. –  
+
+№ 29 (11). –  Р. 1497–1508. 
+
+5.  Hearn C.L. Method Analyzes Injection Well Pressure and Rate Data. // Oil & Gas J. –  1983. –  Р. 117–120. 
+6.  Chan K.S. Water Control Diagnostic Plots. Society of Petroleum Engineers // SPE Conference Paper, 30775-MS, 
+
+1995.  
+
+7.  Analysis and Interpretation of Water / Y.C. Yortsos [et al.] // Oil Ratio in Waterfloods. SPE J. –  1999. – № 4. –  
+
+Р. 413–424,  
+
+8.  Albertoni A. Inferring Interwell Connectivity from Well-Rate Fluctuations in Waterfloods. Paper SPE 75225 pre-
+
+sented  at  the  SPE/DOE  Symposium  on  Improved Oil  Recovery  /  A.  Albertoni,  L.W.  Lake.  –  Tulsa,  Oklahoma,  2002.  –                          
+13–17 April. 
+
+9.  Yousef A. Investigating Statistical Techniques to Infer Interwell Connectivity from Production and Injection Rate 
+
+Fluctuations : PhD dissertation. – U. of Texas, Austin, 2006. 
+
+10. Laochamroonvorapongse R. Advances in the Development and Application of a Capacitance-Resistance Model : 
+
+PhD dissertation. – U. of Texas, Austin, 2013. 
+
+11. Aulisa E., Ibragimov A., Valko P. and Walton J.R. Mathematical framework of the well productivity index for fast 
+
+Forchheimer  (non-Darcy)  flows  in  porous  media  //  Mathematical  Models  and  Methods  in  Applied  Sciences.  –  2009.  –                    
+№ 19(8). – Р. 1241–1275. 
+
+12. Sayarpour M. Development and Application of Capacitance-Resistive Models for Water/Co2 Flood : PhD dis-
+
+sertation. – U. of Texas, Austin, 2008. 
+
+36 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

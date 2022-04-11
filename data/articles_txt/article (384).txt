@@ -1,0 +1,1277 @@
+УДК 678 
+
+57 
+
+СИНТЕЗ И ИССЛЕДОВАНИЕ СВОЙСТВ ПЛАСТИФИКАТОРА  
+
+НА ОСНОВЕ НЕФТЕХИМИЧЕСКОГО СЫРЬЯ 
+
+SYNTHESIS AND STUDY OF PLASTICIZER PROPERTIES  
+
+BASED ON PETROCHEMICAL RAW MATERIALS 
+
+И.Н. Вихарева, Г.К. Аминова, Е.А. Буйлова,  
+
+Е.Ю. Бобылева, А.К. Мазитова 
+
+Уфимский государственный нефтяной технический университет, 
+
+ г. Уфа, Российская Федерация 
+
+Irina N. Vikhareva, Guliya K. Aminova, Еvgeniya А. Builova,  
+
+Elena Yu. Bobyleva, Aliya K. Mazitova 
+
+Ufa State Petroleum Technological University, 
+
+Ufa, Russian Federation 
+
+e-mail: irina.vikhareva2009@yandex.ru 
+
+Аннотация. Нефтехимическое сырье не теряет своей актуальности при 
+
+получении  полимерных  материалов.  Полученные  из  ископаемого  сырья 
+
+пластификаторы,  как  основная  часть  пластиката,  являются  наиболее 
+
+доступными и широко применяемыми. Их содержание в композиционных 
+
+материалах обеспечивает хорошую перерабатываемость и долговременные 
+
+эксплуатационные  свойства.  В  частности,  применение  адипинатных 
+
+пластификаторов  помимо  перечисленного  способствует  экологичности 
+
+получаемых  материалов,  а  также  увеличивает  их  биоразлагаемость  в 
+
+естественных условиях.  
+
+Данная работа является продолжением серии исследований получения 
+
+новых  нетоксичных  сложноэфирных  пластификаторов  поливинилхлорида 
+
+(ПВХ)  на  основе  адипиновой  кислоты  и  оксиалкилированных  спиртов. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+58 
+
+Разработана методика получения феноксиалкиладипинатов с применением 
+
+амфотерного  катализатора  с  оптимальными  выходами.  Показано,  что 
+
+физико-химические свойства синтезированного эфира адипиновой кислоты 
+
+приемлемы  для  использования  его  в  качестве  пластификатора  ПВХ. 
+
+Исследована  возможность  практического  применения  в  составе  ПВХ-
+
+композиций.  Термическая  стабильность  пластификатора  изучена  методом 
+
+термогравиметрии  на  приборе  совмещенного  термического  анализа  ТГА-
+
+ДСК  («Меттлер  Толедо»);  температуры  кристаллизации  и  плавления 
+
+пластификатора,  а  также  значения  энтальпии  этих  процессов  определены 
+
+методом дифференциальной сканирующей калориметрии на приборе ДСК-
+
+1 («Меттлер Толедо»); совместимость полученного пластификатора с ПВХ 
+
+оценена  по  критической 
+
+температуре  растворения  полимера 
+
+в 
+
+пластификаторе. 
+
+Установлено, 
+
+что 
+
+синтезированный 
+
+дифеноксиэтиладипинат  может  быть  использован  в  составе  композитов 
+
+ПВХ.  
+
+Abstract.  Petrochemical  raw  materials  do  not  lose  its  relevance  in  the 
+
+production of polymeric materials. Plasticizers obtained from fossil raw materials, 
+
+as the main part of plastic compound, are the most affordable and widely used. Its 
+
+content  in  composite  materials  provides  good  processability  and  long-term 
+
+operational properties. In particular, the use of adipate plasticizers, in addition to 
+
+the  above  mentioned,  contributes  to  the  environmental  friendliness  of  the 
+
+materials obtained, as well as increases its biodegradability in vivo. 
+
+This work is a continuation of a series of studies on the preparation of new 
+
+non-toxic ester plasticizers of polyvinyl chloride (PVC) based on adipic acid and 
+
+alkoxylated  alcohols.  A  procedure  has  been  developed  for  the  production  of 
+
+phenoxyalkyl  adipates  using  an  amphoteric  catalyst  with  optimal  yields.  It  is 
+
+shown that the physicochemical properties of the synthesized adipic acid ester are 
+
+acceptable for use as a plasticizer for PVC. The possibility of practical application 
+
+in  the  PVC  compositions  has  been  investigated.  The  thermal  stability  of  the 
+
+plasticizer  was  studied  by  thermogravimetry  using  a  TGA-DSC  combined 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+59 
+
+thermal  analysis  instrument  (Mettler  Toledo);  the  crystallization  and  melting 
+
+temperatures of the plasticizer, as well as the enthalpy of these processes, were 
+
+determined  by  differential  scanning  calorimetry  using  a  DSC-1  instrument 
+
+(Mettler  Toledo);  the  compatibility  of  the  obtained  plasticizer  with  PVC  was 
+
+evaluated by the critical temperature of polymer dissolution in the plasticizer. It 
+
+was  found  that  the  synthesized  diphenoxyethyl  adipate  can  be  used  in  the 
+
+composition of PVC plastics. 
+
+Ключевые 
+
+слова: 
+
+адипинатный 
+
+пластификатор; 
+
+амфотерный 
+
+катализатор; 
+
+биоразлагаемые 
+
+добавки; 
+
+нефтехимическое 
+
+сырье; 
+
+оксиалкилированный спирт; поливинилхлорид; этерификация 
+
+Key words: adipate plasticizer; amphoteric catalyst; biodegradable additives; 
+
+petrochemical  raw  materials;  oxyalkylated  alcohol;  polyvinyl  chloride; 
+
+esterification 
+
+В настоящее время основным сырьем для химической промышленности 
+
+служат полезные ископаемые в виде нефти и газа. Важным сегментом в этой 
+
+области  является  производство  пластических  масс  [1‒3].  Успешное 
+
+развитие отрасли пластмасс связано не только с доступной сырьевой базой, 
+
+а также с их универсальными прикладными свойствами [4‒6]. Увеличение 
+
+производства  и  расширение  сфер  применения  традиционных  пластиков 
+
+привели  к  накоплению  их  отходов,  из  которых  только  около  10  % 
+
+перерабатывается, остальная часть накапливается в природе, а разложение 
+
+в  естественных  условиях  происходит  в  течение  длительного  периода 
+
+времени [7‒9]. 
+
+Поэтому  важной  проблемой  в  области  производства  и  применения 
+
+пластмасс является разработка биоразлагаемых полимерных материалов. В 
+
+первую  очередь  они  могут  быть  получены  на  основе  возобновляемых 
+
+сырьевых источников.  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+ 
+60 
+
+Однако  данным  полимерам  свойственна 
+
+гидрофильность,  что 
+
+отрицательно  влияет  на  физико-механические  и  эксплуатационные 
+
+свойства  получаемых  изделий  и,  соответственно,  ограничивает  их 
+
+применение [10‒12]. Более того, в отличие от товарных пластмасс, таких как 
+
+полиолефины  и  ПВХ,  подобные  биополимеры  не  поддаются  или  плохо 
+
+поддаются  термической  обработке  [13,  14].  К  недостаткам  также  можно 
+
+отнести  применяемые  в  настоящее  время  технологии  их  производства, 
+
+которые  потребляют  значительное  количество  энергии  и  воды  и 
+
+характеризуются выбросами загрязняющих веществ в окружающую среду 
+
+[15‒18]. 
+
+Биологически разлагаемые полимеры могут быть получены не только на 
+
+основе возобновляемых источников, а также на нефтехимической основе.   
+
+С  этой  целью  используют  микробиологически  или  химически 
+
+подготовленные  полимеры  [19,  20].  Подобные  смеси  полимеров  с 
+
+биоразлагаемыми  добавками  в  естественных  условиях  полностью 
+
+компостируемы [21‒25]. 
+
+Таким  образом,  биоразложение  пластика  не 
+
+зависит  от  его 
+
+происхождения, то есть биодеградируемые пластмассы одинаково хорошо 
+
+разлагаются независимо от используемого сырья: ископаемое топливо или 
+
+растительные  ресурсы.  Учитывая  все  факторы  производства  полимеров: 
+
+доступность  сырья,  технологию  процесса,  энергоемкость,  загрязнение 
+
+окружающей  среды,  а  главное,  возможность  вторичной  переработки,  –
+
+использование нефтехимического сырья, на наш взгляд, в настоящее время 
+
+оправданно.  
+
+Из  литературных  данных  известно,  что  в  качестве  биоразлагаемых 
+
+добавок  могут  быть  использованы  сложноэфирные  пластификаторы, 
+
+полученные на основе адипиновой кислоты [26‒29]. 
+
+В 
+
+связи 
+
+с 
+
+этим 
+
+был  получен  новый  пластификатор 
+
+– 
+
+дифеноксиэтиладипинат  (ДФЭА),  обладающий  низкой  токсичностью  и 
+
+способностью к биоразложению. Затем были изучены его свойства. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+Сложный эфир адипиновой кислоты и оксиэтилированного фенола был 
+
+получен в две стадии.  
+
+61 
+
+Таблица 1. Физико-химические свойства дифеноксиэтиладипината  
+
+Показатели 
+
+Эфир 
+
+ДФЭА 
+
+Степень 
+оксиэти-
+лирования 
+1 
+
+М. м. 
+найдено 
+
+К.ч., 
+мг КОН/г 
+
+Э.ч., 
+мг КОН/г 
+
+d20
+
+4 
+
+387 
+
+0,2 
+
+289 
+
+1,1007 
+
+Затем  были  изучены  свойства  полученного  пластификатора  для  его 
+
+практического  применения  в  составе  ПВХ-композиций,  а  именно: 
+
+термостабильность, 
+
+температуры 
+
+плавления 
+
+и 
+
+кристаллизации, 
+
+совместимость с полимером.  
+
+Для  сравнения  использовали  образец  промышленного  пластификатора 
+
+ди-2-этилгексилфталата (ДОФ), широко применяемого в составе различных 
+
+ПВХ-материалов и изделий. 
+
+Термическая  стабильность  пластификатора  была  изучена  методом 
+
+термогравиметрии  на  приборе  совмещенного  термического  анализа  
+
+ТГА-ДСК  («Меттлер  Толедо»)  в  интервале  температур  20‒500  оС  при 
+
+скорости нагрева 5 оС/мин.  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+62 
+
+Для оценки термической устойчивости пластификаторов использовали 
+
+следующие параметры (таблица 2): 
+
+–  Тн  –  температура,  соответствующая  началу  снижения  массы 
+
+пластификатора  при  нагреве,  характеризующая  присутствие  в  продукте 
+
+летучих примесей; 
+
+–  Δm  –  снижение  массы  при  нагреве  пластификатора  до  температур 
+
+180 оС и 200 оС, соответствующих температурному интервалу переработки 
+
+ПВХ-композиций; 
+
+–  Тк – температура, соответствующая полному разложению продукта. 
+
+Таблица 2. Результаты термического анализа пластификаторов 
+
+Пластификатор 
+
+ДОФ 
+ДФЭА 
+
+Тн, °С 
+
+132 
+144 
+
+Δm, % 
+
+при 180 °С 
+1,0 
+0,8 
+
+при 200 °С 
+1,9 
+1,6 
+
+Тк,°С 
+
+467 
+453 
+
+Из  результатов  термического  анализа  следует,  что  разложение 
+
+полученного пластификатора ДФЭА происходит в интервале температур от 
+
+144  оС  до  453  оС.  Разработанный  пластификатор  характеризуется 
+
+относительно высоким значением температуры Тн – 144  оС. Это значение 
+
+на  12  оС  выше  аналогичного  параметра  для  промышленного  ДОФ 
+
+(таблица 2).  
+
+Следует  также  отметить  относительно  низкое  для  полученного 
+
+пластификатора ДФЭА значение параметра Δm при температурах 180 оС и 
+
+200  оС,  характеризующего  содержание  в  продукте  летучих  примесей, 
+
+которые  могут  выделяться  в  процессе  переработки  пластифицированной 
+
+ПВХ-композиции  при  формовании  материалов  и  изделий.  Так,  для 
+
+пластификатора ДФЭА полученное значение Δm при 180 оС (0,8 %) ниже, 
+
+чем у промышленного ДОФ (1,0 %) (таблица 2). 
+
+Таким образом, по термической стабильности пластификатор ДФЭА не 
+
+уступает пластификатору ДОФ.  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+ 
+63 
+
+Синтезированный  пластификатор,  в  отличие  от  ДОФ,  представляет 
+
+собой  твердый  продукт,  поэтому  важное  значение  для  его  практического 
+
+использования имеют параметры плавления и кристаллизации.  
+
+Температуры  кристаллизации  и  плавления  пластификатора,  а  также 
+
+значения 
+
+энтальпии 
+
+этих 
+
+процессов 
+
+определяли 
+
+методом 
+
+дифференциальной  сканирующей  калориметрии  на  приборе  ДСК-1 
+
+(«Меттлер Толедо») в интервале температур от минус 50 оС до 115 оС при 
+
+скорости нагрева/охлаждения 5 оС/мин. 
+
+На  термограмме  пластификатора  в  режиме  нагрева  в  интервале 
+
+температур 
+
+72‒106 
+
+оС 
+
+фиксируются 
+
+эндотермический 
+
+пик, 
+
+соответствующий процессу плавления, с максимумом Тпл = 96,7 оС.  
+
+Процесс  кристаллизации  пластификатора  при  охлаждении  образца 
+
+выражен  не  так  отчетливо:  в  области  температур  от  минус  13  оС  до  7  оС 
+
+имеется  экзотермический  пик  слабой  интенсивности  с  максимумом  
+
+Ткр = ‒3,5 оС.  
+
+Значения  энтальпии  плавления  ΔНпл  и  кристаллизации  ΔНкр, 
+
+соответствующие  указанным  пикам  на  ДСК-термограмме,  приведены  в 
+
+таблице 3. 
+
+Таблица 3. Результаты ДСК-анализа пластификатора 
+дифеноксиэтиладипината 
+
+Тпл, °С 
+
+96,7 
+
+ΔНпл, Дж/г 
+
+‒152,9 
+
+Ткр, °С 
+
+‒3,5 
+
+ΔНкр, Дж/г 
+
+3,5 
+
+Следует  отметить,  что  на  ДСК-термограмме  пластификатора 
+
+отсутствуют  какие-либо  сигналы,  соответствующие  примесям  других 
+
+соединений.  Таким  образом,  полученный  пластификатор  представляет 
+
+собой достаточно чистый продукт. 
+
+Важным  параметром,  определяющим  возможность  использования 
+
+пластификатора  в  составе  полимерных  композиций,  является  его 
+
+совместимость с полимером. Одним из методов определения совместимости 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+ 
+64 
+
+пластификатора  с  ПВХ  является  оценка  по  критической  температуре 
+
+растворения полимера в пластификаторе Ткр. 
+
+Установлено,  что  температура  растворения  ПВХ  в  пластификаторе 
+
+ДФЭА заметно (на 65 оС) выше, чем в ДОФ (таблица 4), что указывает на 
+
+меньшую 
+
+совместимость  данного  пластификатора 
+
+с  полимером.  
+
+По-видимому,  данный  пластификатор  может  быть  отнесен  к  числу 
+
+вторичных  пластификаторов,  ограниченно  совместимых  с  полимером, 
+
+которые  рекомендуется  использовать  в  виде  смеси  с  первичным 
+
+пластификатором, например с ДОФ. 
+
+Получена  смесь  ДОФ  с  синтезированным  пластификатором  ДФЭА  в 
+
+соотношении  5 
+
+:  1 
+
+(масс.),  при  этом  температура  растворения 
+
+пластификатора  в  ДОФ  составила  80  оС.  Совместимость  ПВХ  с  данной 
+
+смесью пластификаторов (Ткр = 125 оС) несколько ниже, чем с ДОФ (таблица 
+
+4),  тем  не  менее  данная  смесь  может  быть  использована  в  составе 
+
+композитов ПВХ. 
+
+Таблица 4. Результаты определения критической температуры растворения 
+пластификаторов 
+
+Пластификатор 
+
+ДОФ 
+ДФЭА 
+Смесь ДОФ + ДФЭА 
+
+Температура растворения 
+пластификатора в ДОФ, оС  
+‒ 
+‒ 
+80 
+
+Ткр, оС 
+
+113 
+178 
+125 
+
+Получены  композиции  ПВХ  со  смесью  ДОФ  –  пластификатор  ДФЭА 
+
+различного состава. Композиции обладают хорошей технологичностью при 
+
+переработке и могут быть рекомендованы для широких испытаний. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+65 
+
+Выводы 
+
+1. На  основе  нефтехимического  сырья  реакцией  этерификации 
+
+адипиновой  кислоты  феноксиэтанолом  в  присутствии  амфотерного 
+
+катализатора  оксида  цинка  ZnO  и  азеотропного  водовыносителя  получен 
+
+новый пластификатор дифеноксиэтиладипинат с выходом 96 %. 
+
+2. ПВХ-композиции 
+
+с 
+
+использованием 
+
+разработанного 
+
+дифеноксиэтиладипината  по  термической  стабильности,  температуре 
+
+плавления  и  кристаллизации  не  уступают  промышленным  пластикатам, 
+
+содержащим диоктилфталат. 
+
+3. Разработанные  ПВХ-композиции,  содержащие  ДОФ  и  вторичный 
+
+пластификатор  ДФЭА,  обладают  хорошей  технологичностью  при 
+
+переработке. 
+
+Список используемых источников 
+
+1.  Energy  Balances  of  OECD  Countries  2009.  Paris:  OECD  Publishing, 
+
+2009. 354 p. 
+
+2.  Фадина  Ю.И.  Анализ  российского  рынка  полимеров  и  дальнейшие 
+
+пути его развития // Бизнес-образование в экономике знаний. 2017. № 1 (6). 
+
+С. 99-101. 
+
+3.  Jakoby  R.  Marketing  and  Sales  in  the  Chemical  Industry.  New  York: 
+
+Wiley‐VCH, 2002. 177 p. 
+
+4.  Холден Г., Крихельдорф Х.Р., Куирк Р.П. Термоэластопласты. СПб.: 
+
+Профессия, 2011. 717 с. 
+
+5.  Мазитова  А.К.,  Аминова  Г.К.,  Нафикова  Р.Ф.,  Дебердеев  Р.Я. 
+
+Основные  поливинилхлоридные  композиции  строительного  назначения. 
+
+Уфа: Изд-во УГНТУ, 2013. 111 с. 
+
+6.  Шиллер  М.  Добавки  к  ПВХ.  Состав,  свойства,  применение.  СПб.: 
+
+Профессия, 2017. 416 с. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+66 
+
+7.  Охрана  окружающей  среды в России. Статистический сборник. М.: 
+
+Росстат,  2018.  125 
+
+с.  URL:  https://www.gks.ru/free_doc/doc_2018/ 
+
+ohrana_2018.pdf (дата обращения: 25.05.2020). 
+
+8.  The Known Unknowns of Plastic Pollution // The Economist. 03.03.2018. 
+
+URL: 
+
+https://www.economist.com/international/2018/03/03/the-known-
+
+unknowns-of-plastic-pollution (дата обращения: 26.05.2020). 
+
+9.  Hester R.E., Harrison R.M. Marine Pollution and Human Health. London: 
+
+Royal Society of Chemistry, 2011. 182 p. 
+
+10.  Chiellini F., Ferri M., Morelli A., Dipaola L., Latini G. Perspectives on 
+
+Alternatives  to  Phthalate  Plasticized  Poly(vinyl  chloride)  in  Medical  Devices 
+
+Applications // Progress in Polymer Science. 2013. Vol. 38. Issue 7. Р. 1067-1088. 
+
+DOI: 10.1016/j.progpolymsci.2013.03.001. 
+
+11.  Vieira M.G.A., Silva M.A.D., Santos L.O., Beppu M.M. Natural-Based 
+
+Plasticizers and Biopolymer Films: A Review // European Polymer Journal. 2011. 
+
+Vol. 47. Issue 3. Р. 254-263. DOI: 10.1016/j.eurpolymj.2010.12.011. 
+
+12.  Vijayendran B.R., Benecke H., Elhard J.D., McGinniss V.D., Ferris K.F. 
+
+Environmentally  Friendly  Plasticizers  for  Polyvinyl  Chloride  (PVC).  Dallas: 
+
+Resins Antec, 2001. 604 p. 
+
+13.  Шембель  Н.Л.,  Чеботарь  А.М.,  Сагалаев  Г.В.  Наполнители 
+
+полимерных материалов. М.: Знание, 1997. С. 87-91. 
+
+14.  Шериева  М.Л.,  Шустов  Г.Б.,  Шетов  Р.А.,  Бештоев  Б.З., 
+
+Канаметова  И.К.  Исследование  смесей  на  основе  кукурузного  крахмала и 
+
+полиэтилена  //  Новые  полимерные  композиционные  материалы:  матер.  II 
+
+Всеросс. 
+
+науч.-практ. 
+
+конф. 
+
+Нальчик: 
+
+Кабардино-Балкарский 
+
+государственный университет, 2005. С. 266-273. 
+
+15.  Patt R., Kordsachia O., Suttinger R., Ohtani Y., Hoesch J.F., Ehrler P., 
+
+Eichinger  R.,  Holik  H.,  Hamm  U.,  Rohmann  M.E.,  Mummenhoff  P., 
+
+Petermann  E.,  Miller  R.F.,  Frank  D.,  Wilken  R.,  Baumgarten  H.L.,  
+
+Rentrop  G.-H.  Ullmann's  Encyclopedia  of  Industrial  Chemistry.  Weinheim: 
+
+Wiley-VCH, 1995. Vol. A18. 773 p. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+67 
+
+16.  Plehn  W.  Vergleich  der  Umweltauswirkungen  von  Polyethylen-  und 
+
+Papiertragetaschen. Berlin: Umweltbundesamt, 1988. 50 s.  
+
+17.  Биоразлагаемые  полимеры  //  Сырье  и  упаковка.  2012.  №  6  (132). 
+
+URL: 
+
+https://cosmetic-industry.com/biorazlagaemye-polimery.html 
+
+(дата 
+
+обращения: 28.05.2020). 
+
+18.  Chaffee C., Yaros B.R. Final Report. Life Cycle Assessment for Three 
+
+Types  of  Grocery  Bags  –  Recyclable  Plastic;  Compostable,  Biodegradable 
+
+Plastic;  and  Recycled,  Recyclable  Paper.  Horsham:  Boustead  Consulting  and 
+
+Associates Ltd., 2007. 64 p. 
+
+19.  Kaplan D.L. Biopolymers from Renewable Resources. Berlin: Springer-
+
+Verlag Berlin Heidelberg, 1998. 420 p. DOI: 10.1007/978-3-662-03680-8. 
+
+20.  Steinbuchel  A.,  Vandamme  E.J.,  De  Baets  S.  Biopolymers.  Vol.  5: 
+
+Polysaccharides  I:  Polysaccharides  from  Prokaryotes.  Weinheim:  Wiley-VCH, 
+
+2002. 524 p. 
+
+21.  Орехов  Д.А.,  Власова  Г.М.,  Макаревич  А.В.,  Пинчук  Л.С. 
+
+Биоразлагаемые пленки на основе термопластов // Доклады Национальной 
+
+академии наук Беларуси. 2000. Т. 44. № 6. С. 100-103. 
+
+22.  Рыбкина  С.П.,  Пахаренко  В.А.,  Шостак  Т.С.,  Пахаренко  В.В. 
+
+Основные направления в области создания биоразлагаемых термопластов // 
+
+Пластические массы. 2008. № 10. С. 47-54. 
+
+23.  Суворова  А.И.,  Тюкова  И.С.  Биоразлагаемые 
+
+системы: 
+
+термодинамика, 
+
+реологические 
+
+свойства 
+
+и 
+
+биокоррозия 
+
+// 
+
+Высокомолекулярные соединения. Серия А. 2008. Т. 50. № 7. С. 1162-1171. 
+
+24.  Штильман  М.И.  Биодеградация  полимеров  //  Журнал  Сибирского 
+
+федерального университета. Серия: биология. 2015. Т. 8. № 2. С. 113-130. 
+
+DOI: 10.17516/1997-1389-2015-8-2-113-130. 
+
+25.  Бокшицкий  М.Н.  Длительная  прочность  полимеров.  М.:  Химия, 
+
+1978. 309 с. 
+
+26.  Мазитова  А.К.,  Вихарева  И.Н.,  Аминова  Г.К.,  Тимофеев  А.А., 
+
+Буйлова Е.А., Дистанов Р.Ш. Исследование влияния количества добавок на 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+68 
+
+свойства эфиров адипиновой кислоты //  Нанотехнологии в строительстве: 
+
+научный  интернет-журнал.  2019.  Т.  11.  №  4.  С.  437-446.  URL: 
+
+http://nanobuild.ru/ru_RU/journal/Nanobuild-4-2019/437-446.pdf 
+
+(дата 
+
+обращения: 30.05.2020). DOI: 10.15828/2075-8545-2019-11-4-437-446.  
+
+27.  Ермолович  О.А.,  Макаревич  А.В.,  Гончарова  Е.П.,  Власова  Г.М. 
+
+Методы 
+
+оценки 
+
+биоразлагаемости 
+
+полимерных  материалов 
+
+// 
+
+Биотехнология. 2005. № 4. С. 47-54. 
+
+28.  Мазитова  А.К.,  Вихарева  И.Н.,  Маскова  А.Р.,  Гареева  Н.Б., 
+
+Шайхуллин  И.Р.  Исследование  влияния  добавок  на  биодеградацию  ПВХ-
+
+материалов // Нанотехнологии в строительстве: научный интернет-журнал. 
+
+2020.  Т. 
+
+12.  № 
+
+2.  С. 
+
+94-99.  URL: 
+
+http://www.nanobuild.ru/ 
+
+ru_RU/journal/Nanobuild-2-2020/94-99.pdf  (дата  обращения:  30.05.2020). 
+
+DOI: 10.15828/2075-8545-2020-12-2-94-99. 
+
+29.  Vieira M.G.A., da  Silva M.A., dos Santos L.O., Beppu  M.M. Natural-
+
+Based  Plasticizers  and  Biopolymer  Films:  A  Review  //  European  Polymer 
+
+Journal. 
+
+2011. 
+
+Vol. 
+
+47. 
+
+Issue 
+
+3. 
+
+P. 
+
+254-263. 
+
+DOI: 
+
+10.1016/j.eurpolymj.2010.12.011. 
+
+References 
+
+1.  Energy  Balances  of  OECD  Countries  2009.  Paris,  OECD  Publishing, 
+
+2009. 354 p. 
+
+2.  Fadina  Yu.I.  Analiz  rossiiskogo  rynka  polimerov  i  dal'neishie  puti  ego 
+
+razvitiya  [Russian  Polymer  Market  Survey  and  Tendencies  for  Its  Further 
+
+Development]. Biznes-obrazovanie v ekonomike znanii – Business Education in 
+
+the Knowledge Economy, 2017, No. 1 (6), pp. 99-101. [in Russian]. 
+
+3.  Jakoby  R.  Marketing  and  Sales  in  the  Chemical  Industry.  New  York, 
+
+Wiley‐VCH, 2002. 177 p. 
+
+4.  Kholden  G.,  Krikhel'dorf  Kh.R.,  Kuirk  R.P.  Termoelastoplasty 
+
+[Thermoplastic  Elastomers].  Saint-Petersburg,  Professiya  Publ.,  2011.  717  p. 
+
+[in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+69 
+
+5.  Mazitova  A.K.,  Aminova  G.K.,  Nafikova  R.F.,  Deberdeev  R.Ya. 
+
+Osnovnye  polivinilkhloridnye  kompozitsii  stroitel'nogo  naznacheniya  [Basic 
+
+Polyvinyl  Chloride  Compositions  for  Construction  Purposes].  Ufa,  UGNTU 
+
+Publ., 2013. 111 p. [in Russian]. 
+
+6.  Shiller M. Dobavki k PVKh. Sostav, svoistva, primenenie [PVC Additives. 
+
+Composition, Properties, Application]. Saint-Petersburg, Professiya Publ., 2017. 
+
+416 p. [in Russian]. 
+
+7.  Okhrana  okruzhayushchei  sredy  v  Rossii.  Statisticheskii  sbornik 
+
+[Environmental Protection in Russia. Statistical Compilation]. Moscow, Rosstat 
+
+Publ., 
+
+2018. 
+
+125 
+
+p.  URL: 
+
+https://www.gks.ru/free_doc/doc_2018/ 
+
+ohrana_2018.pdf (accessed 25.05.2020). [in Russian]. 
+
+8.  The Known Unknowns of Plastic Pollution. The Economist. 03.03.2018. 
+
+Available  at:  https://www.economist.com/international/2018/03/03/the-known-
+
+unknowns-of-plastic-pollution (accessed 26.05.2020). 
+
+9.  Hester R.E., Harrison R.M. Marine Pollution and Human Health. London, 
+
+Royal Society of Chemistry, 2011. 182 p. 
+
+10.  Chiellini F., Ferri M., Morelli A., Dipaola L., Latini G. Perspectives on 
+
+Alternatives  to  Phthalate  Plasticized  Poly(vinyl  chloride)  in  Medical  Devices 
+
+Applications. Progress in Polymer Science, 2013, Vol. 38, Issue 7, pp. 1067-1088. 
+
+DOI: 10.1016/j.progpolymsci.2013.03.001. 
+
+11.  Vieira M.G.A., Silva M.A.D., Santos L.O., Beppu M.M. Natural-Based 
+
+Plasticizers and Biopolymer Films: A Review. European Polymer Journal, 2011, 
+
+Vol. 47, Issue 3, pp. 254-263. DOI: 10.1016/j.eurpolymj.2010.12.011. 
+
+12.  Vijayendran B.R., Benecke H., Elhard J.D., McGinniss V.D., Ferris K.F. 
+
+Environmentally  Friendly  Plasticizers  for  Polyvinyl  Chloride  (PVC).  Dallas, 
+
+Resins Antec, 2001. 604 p. 
+
+13.  Shembel N.L., Chebotar A.M., Sagalaev G.V.  Napolniteli polimernykh 
+
+materialov  [Fillers  for  Polymeric  Materials].  Moscow,  Znanie  Publ.,  1997. pp. 
+
+87-91. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+70 
+
+14.  Sherieva  M.L.,  Shustov  G.B.,  Shetov  R.A.,  Beshtoev  B.Z., 
+
+Kanametova  I.K.  Issledovanie  smesei  na  osnove  kukuruznogo  krakhmala  i 
+
+polietilena  [Study  of  Mixtures  Based  on  Corn  Starch  and  Polyethylene]. 
+
+Materialy II Vserossiiskoi nauchno-prakticheskoi konferentsii «Novye polimernye 
+
+kompozitsionnye  materialy»  [Materials  of  the  II  All-Russian  Scientific  and 
+
+Practical Conference «New Polymer Composite Materials»]. Nalchik, Kabardino-
+
+Balkarskii gosudarstvennyi universitet Publ., 2005, pp. 266-273. [in Russian]. 
+
+15.  Patt R., Kordsachia O., Suttinger R., Ohtani Y., Hoesch J.F., Ehrler P., 
+
+Eichinger  R.,  Holik  H.,  Hamm  U.,  Rohmann  M.E.,  Mummenhoff  P., 
+
+Petermann  E.,  Miller  R.F.,  Frank  D.,  Wilken  R.,  Baumgarten  H.L.,  
+
+Rentrop  G.-H.  Ullmann's  Encyclopedia  of  Industrial  Chemistry.  Weinheim, 
+
+Wiley-VCH, 1995. Vol. A18. 773 p. 
+
+16.  Plehn  W.  Vergleich  der  Umweltauswirkungen  von  Polyethylen-  und 
+
+Papiertragetaschen. Berlin, Umweltbundesamt Publ., 1988. 50 s.  
+
+17.  Biorazlagaemye polimery [Biodegradable Polymers]. Syr'e i upakovka – 
+
+Raw Materials and Packaging, 2012, No. 6 (132). Available at: https://cosmetic-
+
+industry.com/biorazlagaemye-polimery.html 
+
+(accessed 
+
+28.05.2020). 
+
+[in Russian]. 
+
+18.  Chaffee  C., Yaros B.R.  Final Report. Life  Cycle Assessment for Three 
+
+Types  of  Grocery  Bags  –  Recyclable  Plastic;  Compostable,  Biodegradable 
+
+Plastic;  and  Recycled,  Recyclable  Paper.  Horsham,  Boustead  Consulting  and 
+
+Associates Ltd., 2007. 64 p. 
+
+19.  Kaplan D.L. Biopolymers from Renewable Resources. Berlin, Springer-
+
+Verlag Berlin Heidelberg, 1998. 420 p. DOI: 10.1007/978-3-662-03680-8. 
+
+20.  Steinbuchel  A.,  Vandamme  E.J.,  De  Baets  S.  Biopolymers.  Vol.  5: 
+
+Polysaccharides I: Polysaccharides from Prokaryotes. Weinheim, Wiley-VCH, 
+
+2002. 524 p. 
+
+21.  Orekhov  D.A.,  Vlasova  G.M.,  Makarevich  A.V.,  Pinchuk  L.S. 
+
+Biorazlagaemye  plenki  na  osnove  termoplastov  [Biodegradable  Thermoplastic 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+71 
+
+Films]. Doklady Natsional'noi akademii nauk Belarusi – Doklady of the National 
+
+Academy of Sciences of Belarus, 2000, Vol. 44, No. 6, pp. 100-103. [in Russian]. 
+
+22.  Rybkina  S.P.,  Pakharenko  V.A.,  Shostak  T.S.,  Pakharenko  V.V. 
+
+Osnovnye napravleniya v oblasti sozdaniya biorazlagaemykh termoplastov [The 
+
+Main  Directions  in  the  Field  of  Creating  Biodegradable  Thermoplastics]. 
+
+Plasticheskie massy – Plasticheskie Massy, 2008, No. 10, pp. 47-54. [in Russian]. 
+
+23.  Suvorova  A.I.,  Tyukova  I.S.  Biorazlagaemye  sistemy:  termodinamika, 
+
+reologicheskie 
+
+svoistva 
+
+i 
+
+biokorroziya 
+
+[Biodegradable 
+
+Systems: 
+
+Thermodynamics, 
+
+Rheological 
+
+Properties 
+
+and 
+
+Biocorrosion]. 
+
+Vysokomolekulyarnye soedineniya. Seriya A – Polymer Science. Series A, 2008, 
+
+Vol. 50, No. 7, pp. 1162-1171. [in Russian]. 
+
+24.  Shtilman M.I. Biodegradatsiya polimerov [Biodegradation of Polymers]. 
+
+Zhurnal  Sibirskogo  federal'nogo  universiteta.  Seriya:  biologiya  –  Journal  of 
+
+Siberian  Federal  University.  Biology,  2015,  Vol.  8,  No.  2,  pp.  113-130.  DOI: 
+
+10.17516/1997-1389-2015-8-2-113-130. [in Russian]. 
+
+25.  Bokshitskii M.N. Dlitel'naya prochnost' polimerov [Long-Term Strength 
+
+of Polymers]. Moscow, Khimiya Publ., 1978. 309 p. [in Russian]. 
+
+26.  Mazitova  A.K.,  Vikhareva  I.N.,  Aminova  G.K.,  Timofeev  A.A., 
+
+Builova  E.A.,  Distanov  R.Sh.  Issledovanie  vliyaniya  kolichestva  dobavok  na 
+
+svoistva efirov adipinovoi kisloty [Investigation of the Effect of the Amount of 
+
+Additives  on  the  Properties  of  Adipic  Acid  Esters].  Nanotekhnologii  v 
+
+stroitel'stve:  nauchnyi  internet-zhurnal  –  Nanotechnologies  in  Construction:  A 
+
+Scientific  Internet-Journal,  2019,  Vol.  11,  No.  4,  pp.  437-446.  URL: 
+
+http://nanobuild.ru/ru_RU/journal/Nanobuild-4-2019/437-446.pdf 
+
+(accessed 
+
+30.05.2020). DOI: 10.15828/2075-8545-2019-11-4-437-446. [in Russian]. 
+
+27.  Ermolovich  O.A.,  Makarevich  A.V.,  Goncharova  E.P.,  Vlasova  G.M. 
+
+Metody  otsenki  biorazlagaemosti  polimernykh  materialov  [Methods  for 
+
+Analyzing  of  Biodegrability  of  Polymeric  Materials].  Biotekhnologiya  – 
+
+Biotechnology, 2005, No. 4, pp. 47-54. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+72 
+
+28.  Mazitova  A.K.,  Vikhareva  I.N.,  Maskova  A.R.,  Gareeva  N.B., 
+
+Shaikhullin  I.R.  Issledovanie  vliyaniya  dobavok  na  biodegradatsiyu  PVKh-
+
+materialov  [Study  of  the  Effect  of  Additives  on  Biodegradation  of  PVC 
+
+Materials].  Nanotekhnologii  v  stroitel'stve:  nauchnyi 
+
+internet-zhurnal  – 
+
+Nanotechnologies in Construction: A Scientific Internet-Journal, 2020, Vol. 12, 
+
+No.  2,  pp.  94-99.  URL:  http://www.nanobuild.ru/ru_RU/journal/Nanobuild-2-
+
+2020/94-99.pdf  (accessed  30.05.2020).  DOI:  10.15828/2075-8545-2020-12-2-
+
+94-99. [in Russian]. 
+
+29.  Vieira M.G.A., da  Silva M.A., dos Santos L.O., Beppu M.M. Natural-
+
+Based Plasticizers and Biopolymer Films: A Review. European Polymer Journal, 
+
+2011, Vol. 47, Issue 3, pp. 254-263. DOI: 10.1016/j.eurpolymj.2010.12.011. 
+
+Сведения об авторах 
+
+About the authors 
+
+Вихарева  Ирина  Николаевна,  ассистент  кафедры  «Прикладные  и 
+
+естественнонаучные дисциплины», УГНТУ, г. Уфа, Российская Федерация 
+
+Irina N. Vikhareva, Assistant of Applied and Natural Sciences Department, 
+
+USPTU, Ufa, Russian Federation 
+
+e-mail: irina.vikhareva2009@yandex.ru 
+
+Аминова  Гулия  Карамовна,  д-р  техн.  наук,  профессор,  профессор 
+
+кафедры  «Прикладные  и  естественнонаучные  дисциплины»,  УГНТУ, 
+
+г. Уфа, Российская Федерация 
+
+Guliya K. Aminova, Doctor of Engineering Sciences, Professor, Professor of 
+
+Applied and Natural Sciences Department, USPTU, Ufa, Russian Federation 
+
+e-mail: aminovagk@inbox.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+73 
+
+Буйлова  Евгения  Андреевна, канд.  хим.  наук,  доцент, доцент кафедры 
+
+«Прикладные  и  естественнонаучные  дисциплины»,  УГНТУ,  г.  Уфа, 
+
+Российская Федерация 
+
+Evgeniya A. Builova, Candidate of Chemical Sciences, Associated Professor, 
+
+Assistant Professor of Applied and Natural Sciences Department, USPTU, Ufa, 
+
+Russian Federation 
+
+e-mail: evg-builova@yandex.ru 
+
+Бобылева  Елена  Юрьевна, 
+
+старший  преподаватель 
+
+кафедры 
+
+«Автомобильные  дороги  и  технология  строительного  производства», 
+
+УГНТУ, г. Уфа, Российская Федерация 
+
+Elena Yu. Bobyleva, Senior Lecturer of Roads and Construction Technology 
+
+Department, USPTU, Ufa, Russian Federation 
+
+e-mail: ugntu_tsp@list.ru 
+
+Мазитова  Алия  Карамовна,  д-р  хим.  наук,  профессор,  заведующий 
+
+кафедрой  «Прикладные  и  естественнонаучные  дисциплины»,  УГНТУ, 
+
+г. Уфа, Российская Федерация 
+
+Aliya K. Mazitova, Doctor of Chemical Sciences, Professor, Head of Applied 
+
+and Natural Sciences Department, USPTU, Ufa, Russian Federation 
+
+e-mail: elenaasf@yandex.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+

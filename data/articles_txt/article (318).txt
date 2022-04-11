@@ -1,0 +1,1820 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+УДК 62 
+
+АНАЛИЗ ПЕРЕХОДНЫХ ХАРАКТЕРИСТИК  
+СИСТЕМЫ ШЕСТОГО ПОРЯДКА С ШЕСТЬЮ КОРНЯМИ КРАТНОСТЬЮ ОДИН  
+ХАРАКТЕРИСТИЧЕСКОГО УРАВНЕНИЯ 
+●●●●●● 
+THE ANALYSIS OF TRANSIENT CHARACTERISTICS OF A SIXTH ORDER SYSTEM 
+WITH SIX ONE-TIME SOLUTIONS OF THE CHARACTERISTIC EQUATION 
+
+Добробаба Юрий Петрович 
+кандидат технических наук, доцент,  
+доцент кафедры электроснабжения  
+промышленных предприятий, 
+Кубанский государственный  
+технологический университет 
+
+Мурлин Алексей Георгиевич 
+кандидат технических наук, доцент,  
+доцент кафедры  
+информационных систем и программирования,  
+Кубанский государственный  
+технологический университет 
+
+Печёнкин Олег Андреевич  
+студент,  
+Кубанский государственный  
+технологический университет 
+
+Dobrobaba Yury Petrovich 
+Candidate of technical sciences, 
+Associate professor,  
+Associate professor of department  
+of power supply industrial enterprises,  
+Kuban state technological university 
+
+Murlin Aleksey Georgievich 
+Candidate of technical sciences,  
+Associate professor,  
+Associate professor of department  
+of information systems and programming,  
+Kuban state technological university 
+
+Pechonkin Oleg Andreevich 
+Student,  
+Kuban state technological university 
+
+Аннотация. В статьях выполнен анализ переходных характери-
+стик систем шестого порядка: с одним корнем кратности шесть 
+характеристического уравнения [1]; с одним корнем кратностью 
+пять  и  c  одним  корнем  кратностью  один  характеристического 
+уравнения  [2];  с  одним  корнем  кратностью  четыре  и  c  одним 
+корнем  кратностью  два  характеристического  уравнения  [3];  c 
+одним  корнем  кратностью  четыре  и  c  двумя  корнями  кратно-
+стью один характеристического уравнения [4]; с двумя корнями 
+кратностью три характеристического уравнения [5]; с одним кор-
+нем  кратностью  три, с  одним  корнем  кратностью два  и  одним 
+корнем  кратностью  один  характеристического  уравнения [6];  с 
+одним  корнем  кратностью  три  и  с  тремя  корнями  кратностью 
+один характеристического уравнения [7]. В данной статье ана-
+лизируются  переходные  характеристики  системы  шестого  по-
+рядка с шестью корнями кратностью один характеристического 
+уравнения. 
+Найдены  переходные  характеристики  системы  шестого  по-
+рядка с шестью корнями кратностью один характеристического 
+уравнения с полиномом нулевой степени и с полиномом первой 
+степени в числителе передаточной функции. 
+
+Annotation.  Articles  analyze  the  transient 
+characteristics  of  a  sixth  order  systems:  with 
+six-time solution of the characteristic equation 
+[1]; with five-time solution and one-time solu-
+tions  of  the  characteristic  equation  [2];  with 
+four-time  solution  and  double  solution  of  the 
+characteristic equation [3]; with four-time solu-
+tion and two one-time solutions of the charac-
+teristic equation [4]; with two triple solutions of 
+characteristic equation [5]; with triple solution, 
+double solution and one-time solution of char-
+acteristic equation [6]; with triple solution and 
+three  one-time  solutions  of  characteristic 
+equation [7]. This article analyzes the transient 
+characteristics of a sixth order system with six 
+one-time solutions of the characteristic equa-
+tion.  
+Transitional characteristics of sixth order sys-
+tems with six one-time solutions of the charac-
+teristic equation with a zero degree polynomial 
+and a first degree polynomial in numerator of 
+transfer function are found. 
+
+Ключевые  слова:  переходная  характеристика,  характеристи-
+ческое уравнение системы шестого порядка, корни характери-
+стического уравнения. 
+
+Keywords:  transition  characteristic,  sixth  or-
+der  characteristic  equation  system,  the  solu-
+tion of the characteristic equation. 
+
+П 
+
+ередаточная функция системы шестого порядка с шестью корнями кратностью один харак-
+теристического уравнения имеет вид: 
+
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6) =
+
+1
+(cid:4)(cid:9)(cid:10)(cid:5) + 1(cid:6) ∙ (cid:4)(cid:9)(cid:13)(cid:5) + 1(cid:6) ∙ (cid:4)(cid:9)(cid:14)(cid:5) + 1(cid:6) ∙ (cid:4)(cid:9)(cid:15)(cid:5) + 1(cid:6) ∙ (cid:4)(cid:9)(cid:16)(cid:5) + 1(cid:6) ∙ (cid:4)(cid:9)(cid:2)(cid:5) + 1(cid:6)
+
+ , 
+
+где    (cid:9)(cid:10), (cid:9)(cid:13), (cid:9)(cid:14), (cid:9)(cid:15), (cid:9)(cid:16)и (cid:9)(cid:2)– постоянные времени полинома знаменателя передаточной функции шестого 
+
+порядка. При этом выполняются условия (cid:9)(cid:10) > (cid:9)(cid:13) > (cid:9)(cid:14) > (cid:9)(cid:15) > (cid:9)(cid:16) > (cid:9)(cid:2). 
+
+281 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Корни характеристического уравнения системы шестого порядка с шестью корнями кратностью 
+
+один характеристического уравнения: 
+1
+(cid:9)(cid:13)
+
+1
+(cid:9)(cid:10)
+Переходная характеристика системы шестого порядка с шестью корнями кратностью один харак-
+
+ ; (cid:5)(cid:14) = −
+
+ ; (cid:5)(cid:13) = −
+
+ ; (cid:5)(cid:15) = −
+
+ ; (cid:5)(cid:16) = −
+
+; (cid:5)(cid:2) = −
+
+(cid:5)(cid:10) = −
+
+1
+(cid:9)(cid:2) 
+
+1
+(cid:9)(cid:16) 
+
+1
+(cid:9)(cid:15) 
+
+1
+(cid:9)(cid:14)
+
+ . 
+
+теристического уравнения и её первых пяти производных соответственно равны: 
+
+ℎ(cid:2)(cid:3)(cid:4)(cid:24)(cid:6) = (cid:25)(cid:10) ∙ (cid:26)
+(cid:25)(cid:10)
+(cid:4)(cid:10)(cid:6)(cid:4)(cid:24)(cid:6) = −
+ℎ(cid:2)(cid:3)
+(cid:9)(cid:10)
+
+(cid:4)(cid:13)(cid:6)(cid:4)(cid:24)(cid:6) =
+ℎ(cid:2)(cid:3)
+
+(cid:25)(cid:10)
+(cid:9)(cid:10)
+(cid:4)(cid:14)(cid:6)(cid:4)(cid:24)(cid:6) = −
+ℎ(cid:2)(cid:3)
+
+(cid:13) ∙ (cid:26)
+(cid:25)(cid:10)
+(cid:9)(cid:10)
+
+(cid:4)(cid:15)(cid:6)(cid:4)(cid:24)(cid:6) =
+ℎ(cid:2)(cid:3)
+
+(cid:25)(cid:10)
+(cid:9)(cid:10)
+(cid:4)(cid:16)(cid:6)(cid:4)(cid:24)(cid:6) = −
+ℎ(cid:2)(cid:3)
+
+(cid:15) ∙ (cid:26)
+(cid:25)(cid:10)
+(cid:16) ∙ (cid:26)
+(cid:9)(cid:10)
+
+(cid:28)
+(cid:27)
+(cid:29)(cid:30) + (cid:25)(cid:13) ∙ (cid:26)
+(cid:25)(cid:13)
+(cid:9)(cid:13)
+
+(cid:28)
+(cid:27)
+(cid:29)(cid:30) −
+
+∙ (cid:26)
+
+(cid:28)
+(cid:27)
+(cid:29)(cid:31) + (cid:25)(cid:14) ∙ (cid:26)
+(cid:25)(cid:14)
+(cid:9)(cid:14)
+
+(cid:28)
+(cid:27)
+(cid:29)(cid:31) −
+
+∙ (cid:26)
+
+(cid:28)
+(cid:27)
+(cid:29)  + (cid:25)(cid:15) ∙ (cid:26)
+(cid:25)(cid:15)
+(cid:9)(cid:15)
+
+(cid:28)
+(cid:27)
+(cid:29)  −
+
+∙ (cid:26)
+
+(cid:28)
+(cid:27)
+(cid:29)! + (cid:25)(cid:16) ∙ (cid:26)
+(cid:25)(cid:16)
+(cid:9)(cid:16)
+
+(cid:28)
+(cid:27)
+(cid:29)! −
+
+∙ (cid:26)
+
+(cid:28)
+(cid:27)
+(cid:29)" + (cid:25)(cid:2) ∙ (cid:26)
+(cid:25)(cid:2)
+(cid:9)(cid:2)
+
+(cid:28)
+(cid:29)" −
+
+∙ (cid:26)
+
+(cid:27)
+
+(cid:28)
+(cid:27)
+(cid:29)# + (cid:25)$ ; 
+(cid:28)
+(cid:27)
+(cid:29)# ; 
+
+∙ (cid:26)
+
+(cid:27)
+
+(cid:28)
+(cid:29)(cid:30) +
+
+(cid:28)
+(cid:27)
+(cid:29)(cid:31) +
+
+(cid:28)
+(cid:27)
+(cid:29)  +
+
+(cid:28)
+(cid:27)
+(cid:29)! +
+
+(cid:28)
+(cid:27)
+(cid:29)" +
+
+(cid:28)
+(cid:27)
+(cid:29)# ; 
+
+(cid:25)(cid:13)
+(cid:9)(cid:13)
+
+(cid:13) ∙ (cid:26)
+(cid:25)(cid:13)
+(cid:9)(cid:13)
+
+(cid:25)(cid:14)
+(cid:9)(cid:14)
+
+(cid:13) ∙ (cid:26)
+(cid:25)(cid:14)
+(cid:9)(cid:14)
+
+(cid:25)(cid:15)
+(cid:9)(cid:15)
+
+(cid:13) ∙ (cid:26)
+(cid:25)(cid:15)
+(cid:9)(cid:15)
+
+(cid:27)
+
+(cid:28)
+(cid:29)(cid:30) −
+
+(cid:14) ∙ (cid:26)
+(cid:28)
+(cid:29)(cid:30) +
+
+(cid:27)
+
+(cid:25)(cid:13)
+(cid:9)(cid:13)
+
+(cid:28)
+(cid:27)
+(cid:29)(cid:31) −
+
+(cid:14) ∙ (cid:26)
+(cid:28)
+(cid:27)
+(cid:29)(cid:31) +
+
+(cid:25)(cid:14)
+(cid:9)(cid:14)
+
+(cid:28)
+(cid:27)
+(cid:29)  −
+
+(cid:14) ∙ (cid:26)
+(cid:28)
+(cid:27)
+(cid:29)  +
+
+(cid:25)(cid:15)
+(cid:9)(cid:15)
+
+(cid:28)
+(cid:27)
+(cid:29)! −
+
+(cid:14) ∙ (cid:26)
+(cid:28)
+(cid:27)
+(cid:29)! +
+
+(cid:25)(cid:16)
+(cid:9)(cid:16)
+
+(cid:28)
+(cid:27)
+(cid:29)" −
+
+(cid:14) ∙ (cid:26)
+(cid:28)
+(cid:27)
+(cid:29)" +
+
+(cid:25)(cid:2)
+(cid:9)(cid:2)
+
+(cid:27)
+
+(cid:28)
+(cid:29)(cid:30) −
+
+(cid:28)
+(cid:27)
+(cid:29)(cid:31) −
+
+(cid:28)
+(cid:27)
+(cid:29)  −
+
+(cid:28)
+(cid:27)
+(cid:29)! −
+
+(cid:28)
+(cid:27)
+(cid:29)" −
+
+(cid:15) ∙ (cid:26)
+(cid:25)(cid:15)
+(cid:16) ∙ (cid:26)
+(cid:9)(cid:15)
+
+(cid:15) ∙ (cid:26)
+(cid:25)(cid:14)
+(cid:16) ∙ (cid:26)
+(cid:9)(cid:14)
+
+(cid:15) ∙ (cid:26)
+(cid:25)(cid:13)
+(cid:16) ∙ (cid:26)
+(cid:9)(cid:13)
+
+(cid:15) ∙ (cid:26)
+(cid:25)(cid:16)
+(cid:16) ∙ (cid:26)
+(cid:9)(cid:16)
+
+(cid:25)(cid:16)
+(cid:9)(cid:16)
+
+(cid:13) ∙ (cid:26)
+(cid:25)(cid:16)
+(cid:9)(cid:16)
+
+(cid:25)(cid:2)
+(cid:9)(cid:2)
+
+(cid:13) ∙ (cid:26)
+(cid:25)(cid:2)
+(cid:9)(cid:2)
+
+(cid:28)
+(cid:27)
+(cid:29)# ; 
+
+(cid:14) ∙ (cid:26)
+(cid:28)
+(cid:27)
+(cid:29)# ; 
+
+(cid:15) ∙ (cid:26)
+(cid:25)(cid:2)
+(cid:16) ∙ (cid:26)
+(cid:9)(cid:2)
+
+(cid:28)
+(cid:27)
+(cid:29)#. 
+
+Так как начальные и конечные значения системы шестого порядка (с точки зрения физики) имеют 
+
+вид: 
+
+а начальные и конечные значения системы шестого порядка (с точки зрения математики) имеют вид: 
+ℎ(cid:2)(cid:3)(cid:4)0(cid:6) = (cid:25)(cid:10) + (cid:25)(cid:13) + (cid:25)(cid:14) + (cid:25)(cid:15) + (cid:25)(cid:16) + (cid:25)(cid:2) + (cid:25)$; 
+(cid:25)(cid:14)
+(cid:4)(cid:10)(cid:6)(cid:4)0(cid:6) = −
+ℎ(cid:2)(cid:3)
+(cid:9)(cid:14)
+
+(cid:25)(cid:15)
+(cid:9)(cid:15)
+
+(cid:25)(cid:16)
+(cid:9)(cid:16)
+
+(cid:25)(cid:13)
+(cid:9)(cid:13)
+
+(cid:25)(cid:10)
+(cid:9)(cid:10)
+
+−
+
+−
+
+−
+
+−
+
+−
+
+; 
+
+ℎ(cid:2)(cid:3)(cid:4)0(cid:6) = 0; 
+(cid:4)(cid:10)(cid:6)(cid:4)0(cid:6) = 0; 
+ℎ(cid:2)(cid:3)
+(cid:4)(cid:13)(cid:6)(cid:4)0(cid:6) = 0; 
+ℎ(cid:2)(cid:3)
+(cid:4)(cid:14)(cid:6)(cid:4)0(cid:6) = 0; 
+ℎ(cid:2)(cid:3)
+(cid:4)(cid:15)(cid:6)(cid:4)0(cid:6) = 0; 
+ℎ(cid:2)(cid:3)
+(cid:4)(cid:16)(cid:6)(cid:4)0(cid:6) = 0; 
+ℎ(cid:2)(cid:3)
+ℎ(cid:2)(cid:3)(cid:4)∞(cid:6) = 1, 
+
+(cid:25)(cid:2)
+(cid:9)(cid:2)
+
+(cid:25)(cid:2)
+(cid:9)(cid:2)
+(cid:13) ; 
+(cid:25)(cid:2)
+(cid:9)(cid:2)
+
+(cid:4)(cid:13)(cid:6)(cid:4)0(cid:6) =
+ℎ(cid:2)(cid:3)
+
+(cid:25)(cid:10)
+(cid:9)(cid:10)
+(cid:4)(cid:14)(cid:6)(cid:4)0(cid:6) = −
+ℎ(cid:2)(cid:3)
+
+(cid:13) +
+(cid:25)(cid:10)
+(cid:9)(cid:10)
+
+(cid:4)(cid:15)(cid:6)(cid:4)0(cid:6) =
+ℎ(cid:2)(cid:3)
+
+(cid:25)(cid:10)
+(cid:9)(cid:10)
+(cid:4)(cid:16)(cid:6)(cid:4)0(cid:6) = −
+ℎ(cid:2)(cid:3)
+
+(cid:15) +
+(cid:15) +
+(cid:25)(cid:13)
+(cid:25)(cid:10)
+(cid:16) −
+(cid:16) −
+(cid:9)(cid:13)
+(cid:9)(cid:10)
+ℎ(cid:2)(cid:3)(cid:4)∞(cid:6) = (cid:25)$, 
+
+(cid:25)(cid:13)
+(cid:9)(cid:13)
+
+(cid:13) +
+(cid:25)(cid:13)
+(cid:9)(cid:13)
+
+(cid:25)(cid:14)
+(cid:9)(cid:14)
+
+(cid:13) +
+(cid:25)(cid:14)
+(cid:9)(cid:14)
+
+(cid:25)(cid:15)
+(cid:9)(cid:15)
+
+(cid:13) +
+(cid:25)(cid:15)
+(cid:9)(cid:15)
+
+(cid:25)(cid:16)
+(cid:9)(cid:16)
+
+(cid:13) +
+(cid:25)(cid:16)
+(cid:9)(cid:16)
+
+(cid:14) −
+(cid:25)(cid:14)
+(cid:9)(cid:14)
+
+(cid:14) −
+(cid:25)(cid:15)
+(cid:9)(cid:15)
+
+(cid:15) +
+(cid:25)(cid:14)
+(cid:16) −
+(cid:9)(cid:14)
+
+(cid:14) −
+(cid:25)(cid:16)
+(cid:15) +
+(cid:9)(cid:16)
+(cid:25)(cid:15)
+(cid:16) −
+(cid:9)(cid:15)
+
+(cid:14) −
+(cid:25)(cid:13)
+(cid:9)(cid:13)
+
+(cid:14) ; 
+
+(cid:14) −
+(cid:25)(cid:2)
+(cid:9)(cid:2)
+
+(cid:15) +
+(cid:25)(cid:16)
+(cid:16) −
+(cid:9)(cid:16)
+
+(cid:15) ; 
+(cid:25)(cid:2)
+(cid:16) ; 
+(cid:9)(cid:2)
+
+то справедлива зависимость: (cid:25)$ = 1. 
+
+При этом справедлива система уравнений: 
+
+−
+
+−
+
+−
+
+(cid:25)(cid:10) + (cid:25)(cid:13) + (cid:25)(cid:14) + (cid:25)(cid:15) + (cid:25)(cid:16) + (cid:25)(cid:2) + 1 = 0; 
+’(cid:30)
+(cid:29)(cid:30)
+’(cid:30)
+(cid:31) +
+(cid:29)(cid:30)
+
+’ 
+(cid:29) 
+’ 
+(cid:31) +
+(cid:29) 
+
+’!
+(cid:29)!
+’!
+(cid:31) +
+(cid:29)!
+
+’(cid:31)
+(cid:29)(cid:31)
+’(cid:31)
+(cid:31) +
+(cid:29)(cid:31)
+
+’"
+(cid:29)"
+’"
+(cid:31) +
+(cid:29)"
+
+’#
+(cid:29)#
+’#
+(cid:29)#
+
+−
+
+−
+
+−
+
+(cid:31) = 0; 
+
+ = 0; 
+
+−
+
+’(cid:30)
+  −
+(cid:29)(cid:30)
+’(cid:30)
+! +
+(cid:29)(cid:30)
+
+’(cid:31)
+  −
+(cid:29)(cid:31)
+’(cid:31)
+! +
+(cid:29)(cid:31)
+
+’ 
+  −
+(cid:29) 
+’ 
+! +
+(cid:29) 
+
+’!
+  −
+(cid:29)!
+’!
+! +
+(cid:29)!
+
+’"
+  −
+(cid:29)"
+’"
+! +
+(cid:29)"
+
+’#
+(cid:29)#
+’#
+(cid:29)#
+
+! = 0; 
+
+  = 0; 
+
+−
+
+’(cid:30)
+" −
+(cid:29)(cid:30)
+
+’(cid:31)
+" −
+(cid:29)(cid:31)
+
+’ 
+" −
+(cid:29) 
+
+’!
+" −
+(cid:29)!
+
+’"
+" −
+(cid:29)"
+
+’#
+(cid:29)#
+
+" = 0. 
+
+282 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Из уравнения (2) следует, что: 
+
+(cid:25)(cid:2) = −
+
+(cid:29)#
+(cid:29)(cid:30)
+
+∙ (cid:25)(cid:10) −
+
+(cid:29)#
+(cid:29)(cid:31)
+
+∙ (cid:25)(cid:13) −
+
+(cid:29)#
+(cid:29) 
+
+∙ (cid:25)(cid:14) −
+
+(cid:29)#
+(cid:29)!
+
+∙ (cid:25)(cid:15) −
+
+(cid:29)#
+(cid:29)"
+
+∙ (cid:25)(cid:16). 
+
+Из уравнений (3) и (7) следует, что: 
+
+(cid:25)(cid:16) = −
+
+(cid:31)
+(cid:29)"
+(cid:31) ∙
+(cid:29)(cid:30)
+
+(cid:29)(cid:30)(cid:27)(cid:29)#
+(cid:29)"(cid:27)(cid:29)#
+
+∙ (cid:25)(cid:10) −
+
+(cid:31)
+(cid:29)"
+(cid:31) ∙
+(cid:29)(cid:31)
+
+(cid:29)(cid:31)(cid:27)(cid:29)#
+(cid:29)"(cid:27)(cid:29)#
+
+∙ (cid:25)(cid:13) −
+
+(cid:31)
+(cid:29)"
+(cid:31) ∙
+(cid:29) 
+
+(cid:29) (cid:27)(cid:29)#
+(cid:29)"(cid:27)(cid:29)#
+
+∙ (cid:25)(cid:14) −
+
+(cid:31)
+(cid:29)"
+(cid:31) ∙
+(cid:29)!
+
+(cid:29)!(cid:27)(cid:29)#
+(cid:29)"(cid:27)(cid:29)#
+
+∙ (cid:25)(cid:15) ,  
+
+тогда уравнение (7) примет вид: 
+
+(cid:25)(cid:2) =
+
+(cid:31)
+(cid:29)#
+(cid:31) ∙
+(cid:29)(cid:30)
+
+(cid:29)(cid:30)(cid:27)(cid:29)"
+(cid:29)"(cid:27)(cid:29)#
+
+∙ (cid:25)(cid:10) +
+
+(cid:31)
+(cid:29)#
+(cid:31) ∙
+(cid:29)(cid:31)
+
+(cid:29)(cid:31)(cid:27)(cid:29)"
+(cid:29)"(cid:27)(cid:29)#
+
+∙ (cid:25)(cid:13) +
+
+(cid:31)
+(cid:29)#
+(cid:31) ∙
+(cid:29) 
+
+(cid:29) (cid:27)(cid:29)"
+(cid:29)"(cid:27)(cid:29)#
+
+∙ (cid:25)(cid:14) +
+
+(cid:31)
+(cid:29)#
+(cid:31) ∙
+(cid:29)!
+
+(cid:29)!(cid:27)(cid:29)"
+(cid:29)"(cid:27)(cid:29)#
+
+∙ (cid:25)(cid:15) .  
+
+Из уравнений (4), (8) и (9) следует, что: 
+
+(cid:25)(cid:15) = −
+
+(cid:29)!
+  ∙
+(cid:29)(cid:30)
+
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)#(cid:6)
+(cid:4)(cid:29)!(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:10) −
+
+(cid:29)!
+  ∙
+(cid:29)(cid:31)
+
+(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)#(cid:6)
+(cid:4)(cid:29)!(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:13) −
+
+(cid:29)!
+  ∙
+(cid:29) 
+
+(cid:4)(cid:29) (cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)#(cid:6)
+(cid:4)(cid:29)!(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:14) , 
+
+тогда уравнения (8) и (9) примут вид: 
+
+(cid:25)(cid:16) =
+
+(cid:29)"
+  ∙
+(cid:29)(cid:30)
+
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)#(cid:6)
+(cid:4)(cid:29)!(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)"(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:10) +
+
+(cid:29)"
+  ∙
+(cid:29)(cid:31)
+
+(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)#(cid:6)
+(cid:4)(cid:29)!(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)"(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:13) +
+
+(cid:29)"
+  ∙
+(cid:29) 
+
+(cid:4)(cid:29) (cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)#(cid:6)
+(cid:4)(cid:29)!(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)"(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:14) ;  
+
+(cid:25)(cid:2) = −
+
+(cid:29)#
+  ∙
+(cid:29)(cid:30)
+
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)"(cid:6)
+(cid:4)(cid:29)!(cid:27)(cid:29)#(cid:6)∙(cid:4)(cid:29)"(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:10) −
+
+(cid:29)#
+  ∙
+(cid:29)(cid:31)
+
+(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)"(cid:6)
+(cid:4)(cid:29)!(cid:27)(cid:29)#(cid:6)∙(cid:4)(cid:29)"(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:13) −
+
+(cid:29)#
+  ∙
+(cid:29) 
+
+(cid:4)(cid:29) (cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)"(cid:6)
+(cid:4)(cid:29)!(cid:27)(cid:29)#(cid:6)∙(cid:4)(cid:29)"(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:14) .  
+
+Из уравнений (5), (9), (10), и (11) следует, что: 
+
+(cid:25)(cid:14) = −
+
+!
+(cid:29) 
+! ∙
+(cid:29)(cid:30)
+
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)#(cid:6)
+(cid:4)(cid:29) (cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:10) −
+
+!
+(cid:29) 
+! ∙
+(cid:29)(cid:31)
+
+(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)#(cid:6)
+(cid:4)(cid:29) (cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:13) ,  
+
+тогда уравнения (10), (11) и (12) примут вид: 
+
+(cid:25)(cid:15) =
+
+!
+(cid:29)!
+! ∙
+(cid:29)(cid:30)
+
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29) (cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)#(cid:6)
+(cid:4)(cid:29) (cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:10) +
+
+!
+(cid:29)!
+! ∙
+(cid:29)(cid:31)
+
+(cid:4)(cid:29)(cid:31)(cid:27)(cid:29) (cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)#(cid:6)
+(cid:4)(cid:29) (cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:13) ,  
+
+(cid:25)(cid:16) = −
+
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29) (cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)#(cid:6)
+(cid:4)(cid:29) (cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)"(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:10) −
+
+(cid:4)(cid:29)(cid:31)(cid:27)(cid:29) (cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)#(cid:6)
+(cid:4)(cid:29) (cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)"(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:13) ,  
+
+(cid:25)(cid:2) =
+
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29) (cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)"(cid:6)
+(cid:4)(cid:29) (cid:27)(cid:29)#(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)"(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:10) +
+
+(cid:4)(cid:29)(cid:31)(cid:27)(cid:29) (cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)"(cid:6)
+(cid:4)(cid:29) (cid:27)(cid:29)#(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)"(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:13) .  
+
+!
+(cid:29)"
+! ∙
+(cid:29)(cid:30)
+!
+(cid:29)#
+! ∙
+(cid:29)(cid:30)
+
+!
+(cid:29)"
+! ∙
+(cid:29)(cid:31)
+!
+(cid:29)#
+! ∙
+(cid:29)(cid:31)
+
+Из уравнений (6), (13), (14), (15) и (16) следует, что: 
+
+(cid:25)(cid:13) = −
+
+"
+(cid:29)(cid:31)
+" ∙
+(cid:29)(cid:30)
+
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29) (cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)#(cid:6)
+(cid:4)(cid:29)(cid:31)(cid:27)(cid:29) (cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:10) ,  
+
+тогда уравнения (13), (14), (15) и (16) примут вид: 
+
+(cid:25)(cid:14) =
+
+"
+(cid:29) 
+" ∙
+(cid:29)(cid:30)
+
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)(cid:31)(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)#(cid:6)
+(cid:4)(cid:29)(cid:31)(cid:27)(cid:29) (cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:10) ;  
+
+(cid:25)(cid:15) = −
+
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)(cid:31)(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29) (cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)#(cid:6)
+(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:10) ;  
+
+(cid:25)(cid:16) =
+
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)(cid:31)(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29) (cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)#(cid:6)
+(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)"(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:10) ;  
+
+"
+(cid:29)!
+" ∙
+(cid:29)(cid:30)
+"
+(cid:29)"
+" ∙
+(cid:29)(cid:30)
+
+(cid:25)(cid:2) = −
+
+"
+(cid:29)#
+" ∙
+(cid:29)(cid:30)
+
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)(cid:31)(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29) (cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)"(cid:6)
+(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)#(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)#(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)#(cid:6)∙(cid:4)(cid:29)"(cid:27)(cid:29)#(cid:6)
+
+∙ (cid:25)(cid:10) .  
+
+Из уравнений (1), (17), (18), (19), (20) и (21) следует, что: 
+
+(cid:25)(cid:10) = −
+
+"
+(cid:29)(cid:30)
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)(cid:31)(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29) (cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)#(cid:6)
+
+ , 
+
+тогда уравнения (17), (18), (19), (20) и (21) примут вид: 
+
+(cid:25)(cid:13) =
+
+"
+(cid:29)(cid:31)
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)(cid:31)(cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29) (cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)#(cid:6)
+
+ ;  
+
+(cid:25)(cid:14) = −
+
+(cid:25)(cid:15) =
+
+"
+(cid:29) 
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29) (cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29) (cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)#(cid:6)
+"
+(cid:29)!
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)!(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)#(cid:6)
+
+ ;  
+
+ ;  
+
+(cid:25)(cid:16) = −
+
+"
+(cid:29)"
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)"(cid:6)∙(cid:4)(cid:29)"(cid:27)(cid:29)#(cid:6)
+
+ ;  
+
+283 
+
+(7) 
+
+(8) 
+
+(9) 
+
+(10) 
+
+(11) 
+
+(12) 
+
+(13) 
+
+(14) 
+
+(15) 
+
+(16) 
+
+(17) 
+
+(18) 
+
+(19) 
+
+(20) 
+
+(21) 
+
+(22) 
+
+(23) 
+
+(24) 
+
+(25) 
+
+(26) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+(cid:25)(cid:2) =
+
+"
+(cid:29)#
+(cid:4)(cid:29)(cid:30)(cid:27)(cid:29)#(cid:6)∙(cid:4)(cid:29)(cid:31)(cid:27)(cid:29)#(cid:6)∙(cid:4)(cid:29) (cid:27)(cid:29)#(cid:6)∙(cid:4)(cid:29)!(cid:27)(cid:29)#(cid:6)∙(cid:4)(cid:29)"(cid:27)(cid:29)#(cid:6)
+
+ .  
+
+(27) 
+
+Таким образом, переходная характеристика системы шестого порядка с шестью корнями кратно-
+
+стью один характеристического уравнения и её первая производная соответственно равны: 
+
+ℎ(cid:2)(cid:3)(cid:4)(cid:24)(cid:6) = −
+
+(cid:16)
+(cid:9)(cid:10)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:13)(cid:6) ∙ (cid:4)(cid:9)(cid:10) − (cid:9)(cid:14)(cid:6) ∙ (cid:4)(cid:9)(cid:10) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:10) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:10) − (cid:9)(cid:2)(cid:6)
+
+(cid:28)
+(cid:27)
+(cid:29)(cid:30) + 
+
+∙ (cid:26)
+
+−
+
++
+
++
+
+(cid:16)
+(cid:9)(cid:13)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:13)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:14)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:2)(cid:6)
+(cid:16)
+(cid:9)(cid:14)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:14)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:14)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:2)(cid:6)
+(cid:16)
+(cid:9)(cid:15)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:15) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:15) − (cid:9)(cid:2)(cid:6)
+(cid:16)
+(cid:9)(cid:16)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:15) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:16) − (cid:9)(cid:2)(cid:6)
+(cid:16)
+(cid:9)(cid:2)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:2)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:2)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:2)(cid:6) ∙ (cid:4)(cid:9)(cid:15) − (cid:9)(cid:2)(cid:6) ∙ (cid:4)(cid:9)(cid:16) − (cid:9)(cid:2)(cid:6)
+(cid:4)(cid:10)(cid:6)(cid:4)(cid:24)(cid:6) =
+ℎ(cid:2)(cid:3)
+
++
+
+−
+
+(cid:27)
+
+∙ (cid:26)
+
+(cid:28)
+(cid:29)(cid:31) − 
+
+(cid:27)
+
+(cid:28)
+(cid:29)  + 
+
+∙ (cid:26)
+
+(cid:28)
+(cid:27)
+(cid:29)! − 
+
+∙ (cid:26)
+
+(cid:27)
+
+(cid:28)
+(cid:29)" + 
+
+∙ (cid:26)
+
+(cid:27)
+
+(cid:28)
+(cid:29)# + 1; 
+
+∙ (cid:26)
+
+(cid:15)
+(cid:9)(cid:10)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:13)(cid:6) ∙ (cid:4)(cid:9)(cid:10) − (cid:9)(cid:14)(cid:6) ∙ (cid:4)(cid:9)(cid:10) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:10) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:10) − (cid:9)(cid:2)(cid:6)
+
+(cid:28)
+(cid:27)
+(cid:29)(cid:30) − 
+
+∙ (cid:26)
+
+−
+
++
+
+−
+
++
+
+−
+
+(cid:15)
+(cid:9)(cid:13)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:13)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:14)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:2)(cid:6)
+(cid:15)
+(cid:9)(cid:14)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:14)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:14)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:2)(cid:6)
+(cid:15)
+(cid:9)(cid:15)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:15) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:15) − (cid:9)(cid:2)(cid:6)
+(cid:15)
+(cid:9)(cid:16)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:15) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:16) − (cid:9)(cid:2)(cid:6)
+(cid:15)
+(cid:9)(cid:2)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:2)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:2)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:2)(cid:6) ∙ (cid:4)(cid:9)(cid:15) − (cid:9)(cid:2)(cid:6) ∙ (cid:4)(cid:9)(cid:16) − (cid:9)(cid:2)(cid:6)
+
+(cid:27)
+
+∙ (cid:26)
+
+(cid:28)
+(cid:29)(cid:31) + 
+
+(cid:27)
+
+(cid:28)
+(cid:29)  − 
+
+∙ (cid:26)
+
+(cid:28)
+(cid:27)
+(cid:29)! + 
+
+∙ (cid:26)
+
+(cid:27)
+
+(cid:28)
+(cid:29)" − 
+
+∙ (cid:26)
+
+(cid:27)
+
+(cid:28)
+(cid:29)# . 
+
+∙ (cid:26)
+
+Передаточная функция системы шестого порядка с шестью корнями кратностью один характери-
+
+стического уравнения с полиномом первой степени в числителе передаточной функции имеет вид: 
+
+(cid:1)(cid:2)(cid:10)(cid:4)(cid:5)(cid:6) =
+
+((cid:5) + 1
+(cid:4)(cid:9)(cid:10)(cid:5) + 1(cid:6) ∙ (cid:4)(cid:9)(cid:13)(cid:5) + 1(cid:6) ∙ (cid:4)(cid:9)(cid:14)(cid:5) + 1(cid:6) ∙ (cid:4)(cid:9)(cid:15)(cid:5) + 1(cid:6) ∙ (cid:4)(cid:9)(cid:16)(cid:5) + 1(cid:6) ∙ (cid:4)(cid:9)(cid:2)(cid:5) + 1(cid:6)
+
+ , 
+
+где    τ – постоянная времени полинома числителя передаточной функции шестого порядка. 
+
+Переходная характеристика системы шестого порядка с шестью корнями кратностью один харак-
+теристического уравнения с полиномом первой степени в числителе передаточной функции принимает 
+вид: 
+
+ℎ(cid:2)(cid:10)(cid:4)(cid:24)(cid:6) = −
+
+(cid:15)(cid:4)(cid:9)(cid:10) − ((cid:6)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:13)(cid:6) ∙ (cid:4)(cid:9)(cid:10) − (cid:9)(cid:14)(cid:6) ∙ (cid:4)(cid:9)(cid:10) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:10) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:10) − (cid:9)(cid:2)(cid:6)
+
+(cid:9)(cid:10)
+
+(cid:28)
+(cid:27)
+(cid:29)(cid:30) + 
+
+∙ (cid:26)
+
++
+
+−
+
++
+
+−
+
++
+
+(cid:9)(cid:14)
+
+(cid:9)(cid:13)
+
+(cid:15)(cid:4)(cid:9)(cid:13) − ((cid:6)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:13)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:14)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:2)(cid:6)
+(cid:15)(cid:4)(cid:9)(cid:14) − ((cid:6)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:14)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:14)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:2)(cid:6)
+(cid:15)(cid:4)(cid:9)(cid:15) − ((cid:6)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:15) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:15) − (cid:9)(cid:2)(cid:6)
+(cid:15)(cid:4)(cid:9)(cid:16) − ((cid:6)
+(cid:9)(cid:16)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:15) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:16) − (cid:9)(cid:2)(cid:6)
+(cid:15)(cid:4)(cid:9)(cid:2) − ((cid:6)
+(cid:4)(cid:9)(cid:10) − (cid:9)(cid:2)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:2)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:2)(cid:6) ∙ (cid:4)(cid:9)(cid:15) − (cid:9)(cid:2)(cid:6) ∙ (cid:4)(cid:9)(cid:16) − (cid:9)(cid:2)(cid:6)
+
+(cid:9)(cid:2)
+
+(cid:9)(cid:15)
+
+(cid:27)
+
+∙ (cid:26)
+
+(cid:28)
+(cid:29)(cid:31) − 
+
+(cid:27)
+
+(cid:28)
+(cid:29)  + 
+
+∙ (cid:26)
+
+(cid:28)
+(cid:27)
+(cid:29)! − 
+
+∙ (cid:26)
+
+(cid:27)
+
+(cid:28)
+(cid:29)" + 
+
+∙ (cid:26)
+
+(cid:27)
+
+(cid:28)
+(cid:29)# + 1 . 
+
+∙ (cid:26)
+
+При этом, если ( = (cid:9)(cid:10), то: 
+
+ℎ(cid:2)(cid:10)(cid:4)(cid:24)(cid:6) = −
+
+(cid:15)
+(cid:9)(cid:13)
+(cid:4)(cid:9)(cid:13) − (cid:9)(cid:14)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:13) − (cid:9)(cid:2)(cid:6)
+
++
+
+(cid:15)
+(cid:9)(cid:14)
+(cid:4)(cid:9)(cid:13) − (cid:9)(cid:14)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:2)(cid:6)
+
+(cid:27)
+
+∙ (cid:26)
+
+(cid:28)
+(cid:29)  − 
+
+(cid:27)
+
+(cid:28)
+(cid:29)(cid:31) + 
+
+∙ (cid:26)
+
+284 
+
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+−
+
++
+
+−
+
+(cid:15)
+(cid:9)(cid:15)
+(cid:4)(cid:9)(cid:13) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:15)(cid:6) ∙ (cid:4)(cid:9)(cid:15) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:15) − (cid:9)(cid:2)(cid:6)
+(cid:15)
+(cid:9)(cid:16)
+(cid:4)(cid:9)(cid:13) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:15) − (cid:9)(cid:16)(cid:6) ∙ (cid:4)(cid:9)(cid:16) − (cid:9)(cid:2)(cid:6)
+(cid:15)
+(cid:9)(cid:2)
+(cid:4)(cid:9)(cid:13) − (cid:9)(cid:2)(cid:6) ∙ (cid:4)(cid:9)(cid:14) − (cid:9)(cid:2)(cid:6) ∙ (cid:4)(cid:9)(cid:15) − (cid:9)(cid:2)(cid:6) ∙ (cid:4)(cid:9)(cid:16) − (cid:9)(cid:2)(cid:6)
+
+(cid:28)
+(cid:27)
+(cid:29)! + 
+
+∙ (cid:26)
+
+(cid:27)
+
+(cid:28)
+(cid:29)" − 
+
+∙ (cid:26)
+
+(cid:27)
+
+(cid:28)
+(cid:29)# + 1 . 
+
+∙ (cid:26)
+
+Предположим: (cid:9)(cid:10) = 0,25(cid:9), (cid:9)(cid:13) =  0,2(cid:9), (cid:9)(cid:14) = 0,175(cid:9), (cid:9)(cid:15) = 0,15(cid:9), (cid:9)(cid:16) = 0,125(cid:9), (cid:9)(cid:2) = 0,1(cid:9). 
+Если ( = 0, то: 
+1250
+(cid:28)
+∙ (cid:26)(cid:27)(cid:15)∙
+(cid:29) +
+9
+64
+9
+
+(cid:28)
+(cid:29) + 486 ∙ (cid:26)(cid:27)
+∙
+
+16807
+18
+
+2048
+3
+
+(cid:28)
+(cid:29) + 1. 
+
+(cid:28)
+∙
+(cid:29) − 
+
+∙ (cid:26)(cid:27)(cid:16)∙
+
+(cid:28)
+(cid:29) +
+
+(cid:28)
+(cid:29) −
+
+∙ (cid:26)(cid:27)
+
+(cid:15)(cid:3)
+$
+
+(cid:13)(cid:3)
+(cid:14)
+
+ℎ(cid:2)(cid:10)(cid:4)(cid:24)(cid:6) = −
+
+−
+
+625
+6
+
+∙ (cid:26)(cid:27)(cid:10)(cid:3)∙
+∙ (cid:26)(cid:27)1 ∙
+Если ( = (cid:9)(cid:10), то: 
+
+ℎ(cid:2)(cid:10)(cid:4)(cid:24)(cid:6) = −
+
+512
+3
+
+∙ (cid:26)(cid:27)(cid:16)∙
+
+(cid:28)
+(cid:29) +
+
+2401
+6
+
+∙ (cid:26)(cid:27)
+
+(cid:15)(cid:3)
+$
+
+(cid:28)
+(cid:29) − 324 ∙ (cid:26)(cid:27)
+∙
+
+(cid:13)(cid:3)
+(cid:14)
+
+(cid:28)
+∙
+(cid:29) +
+
+625
+6
+
+∙ (cid:26)(cid:27)1∙
+
+(cid:28)
+(cid:29) − 
+
+−
+
+32
+3
+
+(cid:28)
+(cid:29) + 1. 
+
+∙ (cid:26)(cid:27)(cid:10)(cid:3)∙
+Если ( = 2(cid:9)(cid:10), то: 
+
+ℎ(cid:2)(cid:10)(cid:4)(cid:24)(cid:6) =
+625
+2
+
++
+
+1250
+9
+(cid:28)
+∙ (cid:26)(cid:27)1∙
+(cid:29) −
+Полученные зависимости изображены на рисунке 1 в относительных единицах. 
+
+(cid:28)
+(cid:29) − 1024 ∙ (cid:26)(cid:27)(cid:16)∙
+(cid:28)
+(cid:29) + 1. 
+
+(cid:28)
+(cid:29) − 1134 ∙ (cid:26)(cid:27)
+∙
+
+∙ (cid:26)(cid:27)(cid:15)∙
+256
+9
+
+31213
+18
+
+  ∙ (cid:26)(cid:27)(cid:10)(cid:3)∙
+
+(cid:28)
+∙
+(cid:29) + 
+
+(cid:28)
+(cid:29) +
+
+∙ (cid:26)(cid:27)
+
+(cid:15)(cid:3)
+$
+
+(cid:13)(cid:3)
+(cid:14)
+
+Рисунок 1 – Зависимость ℎ(cid:2)(cid:10) от (cid:28)
+
+(cid:29)
+
+ при различных τ 
+
+Вывод: получены переходные характеристики систем шестого порядка с шестью корнями крат-
+ностью один характеристического уравнения как с полиномом нулевой степени, так и с полиномом пер-
+вой степени в числителе передаточной функции. Переходная характеристика системы шестого порядка 
+с шестью корнями кратностью один характеристического уравнения с полиномом первой степени в чис-
+лителе  передаточной  функции  не  имеет  перерегулирования,  если  постоянная  времени  числителя 
+меньше или равна большей по величине постоянной времени знаменателя. 
+
+Литература 
+
+1.  Добробаба Ю.П., Мурлин А.Г., Серкин А.Д., Анализ переходных характеристик системы шестого порядка 
+с кратными корнями характеристического уравнения // Наука. Техника. Технологии (политехнический вестник). – 
+Краснодар : Издательский Дом – Юг, 2019. – № 1. – С. 430–437. 
+
+285 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+2.  Добробаба Ю.П., Мурлин А.Г., Печёнкин О.А., Анализ переходных характеристик системы шестого по-
+рядка с одним корнем кратностью пять и c одним корнем кратностью один характеристического уравнения // Наука. 
+Техника. Технологии (политехнический вестник). – Краснодар : Издательский Дом – Юг, 2019. – № 3 – С. 234–239. 
+3.  Добробаба Ю.П., Мурлин А.Г., Печёнкин О.А., Анализ переходных характеристик системы шестого по-
+рядка  с  одним  корнем  кратностью  четыре  и  c  одним  корнем  кратностью  два  характеристического  уравнения  // 
+Наука.  Техника.  Технологии  (политехнический  вестник).  –  Краснодар  :  Издательский  Дом  –  Юг,  2019.  –  №  3.  –                     
+С. 240–247. 
+
+4.  Добробаба Ю.П., Мурлин А.Г., Печёнкин О.А., Анализ переходных характеристик системы шестого по-
+рядка с одним корнем кратностью четыре и c двумя корнями кратностью один характеристического уравнения // 
+Наука.  Техника.  Технологии  (политехнический  вестник).  –  Краснодар  :  Издательский  Дом  –  Юг,  2019.  –  №  3.  –                     
+С. 248–254. 
+
+5.  Добробаба Ю.П., Мурлин А.Г., Печёнкин О.А., Анализ переходных характеристик системы шестого по-
+рядка с двумя корнями кратностью три характеристического уравнения // Наука. Техника. Технологии (политехни-
+ческий вестник). – Краснодар : Издательский Дом – Юг, 2019. – № 4. – С. 376–381. 
+
+6.  Добробаба Ю.П., Мурлин А.Г., Печёнкин О.А., Анализ переходных характеристик системы шестого по-
+рядка с одним корнем кратностью три, с одним корнем кратностью два и с одним корнем кратностью один харак-
+теристического уравнения // Наука. Техника. Технологии (политехнический вестник). – Краснодар : Издательский 
+Дом – Юг, 2019. – № 4. – С. 382–390. 
+
+7.  Добробаба Ю.П., Мурлин А.Г., Печёнкин О.А., Анализ переходных характеристик системы шестого по-
+рядка с одним корнем кратностью три и с тремя корнями кратностью один характеристического уравнения // Наука. 
+техника. технологии (политехнический вестник). – Краснодар : Издательский Дом – Юг, 2019. – № 4. – С. 391–398. 
+
+References 
+
+1.  Dobrobaba Yu.P., Murlin A.G., Serkin A.D., The analysis of transitional features of the system of the sixth order 
+with multiple roots of the characteristic equation // Science. Engineering. Technology (polytechnical bulletin). – Krasnodar : 
+Publishing House – South, 2019. – № 1. – P. 430–437. 
+
+2.  Dobrobaba Yu.P., Murlin A.G., Pechonkin O.A., The analysis of transient characteristics of a sixth order system 
+with five-time solution and one-time solution of the characteristic equation // Science. Engineering. Technology (polytech-
+nical bulletin). – Krasnodar : Publishing House – South, 2019. – № 3. – P. 234–240. 
+
+3.  Dobrobaba Yu.P., Murlin A.G., Pechonkin O.A., The analysis of transient characteristics of a sixth order system 
+with four-time solution and double solution of the characteristic equation // Science. Engineering. Technology (polytechnical 
+bulletin). – Krasnodar : Publishing House – South, 2019. – № 3. – P. 241–247. 
+
+4.  Dobrobaba Yu.P., Murlin A.G., Pechonkin O.A., The analysis of transient characteristics of a sixth order system 
+with four-time solution and two one-time solutions of the characteristic equation // Science. Engineering. Technology (pol-
+ytechnical bulletin). – Krasnodar : Publishing House – South, 2019. – № 3. – P. 248–254. 
+
+5.  Dobrobaba Yu.P., Murlin A.G., Pechonkin O.A., The analysis of transient characteristics of a sixth order system 
+with two triple solutions of the characteristic equation // Science. Engineering. Technology (polytechnical bulletin). – Kras-
+nodar : Publishing House – South, 2019. – № 4. – P. 376–381. 
+
+6.  Dobrobaba Yu.P., Murlin A.G., Pechonkin O.A., The analysis of transient characteristics of a sixth order system 
+with triple solution, double solution and one-time solution of the characteristic equation // Science. Engineering. Technology 
+(polytechnical bulletin). – Krasnodar : Publishing House – South, 2019. – № 4. – P. 382–390. 
+
+7.  Dobrobaba Yu.P., Murlin A.G., Pechonkin O.A., The analysis of transient characteristics of a sixth order system 
+with triple solution and three one-time solutions of the characteristic equation // Science. Engineering. Technology (poly-
+technical bulletin). – Krasnodar : Publishing House – South, 2019. – № 4. – P. 391–398. 
+
+286 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

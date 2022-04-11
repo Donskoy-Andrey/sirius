@@ -1,0 +1,1307 @@
+УДК 614.8 
+
+28 
+
+ИНДИВИДУАЛЬНЫЕ ТЕХНОГЕННЫЕ РИСКИ 
+
+INDIVIDUAL TECHNOGENIC RISKS 
+
+И.Р. Сунгатуллин, В.А. Гафарова, Д.Х. Махмутов, И.Р. Кузеев 
+
+Уфимский государственный нефтяной технический университет, 
+
+г. Уфа, Российская Федерация 
+
+ПАО «Уфаоргсинтез», г. Уфа, Российская Федерация 
+
+Iskander R. Sungatullin, Victoria A. Gafarova, Dinar H. Makhmutov, 
+
+Iskander R. Kuzeev 
+
+Ufa State Petroleum Technological University, Ufa, Russian Federation 
+
+PAO «Ufaorgcintes», Ufa, Russian Federation 
+
+e-mail: gafarova.vika@bk.ru 
+
+Аннотация.  Для  оценки  индивидуальных  техногенных  рисков 
+
+предлагается  использовать  объемные  диаграммы,  которые  позволяют  для 
+
+каждого  опасного  производственного  объекта  оценить  с  помощью 
+
+интегрального параметра уровень реализации прочности, долговечности и 
+
+живучести.  Поскольку  используемые  критерии  являются  зависимыми 
+
+между  собой,  объемная  поверхность  критических  состояний  является 
+
+выпуклой  и  может,  для  удобства  расчетов,  быть  заменена  плоскостью, 
+
+уравнение  которой  в  отрезках  равняется  единице.  Выход  суммарного 
+
+вектора состояния за пределы поверхности является неприемлемым даже, 
+
+если  отдельные  параметры  имеют  значения  меньше  критических.  Такой 
+
+подход к оценке индивидуальных рисков позволяет использовать в качестве 
+
+критериев  показатели,  наиболее  характерные  для  данного  вида 
+
+оборудования:  силовые,  термические,  деформационные.  Можно  также 
+
+использовать  критерии,  характеризующие  процессы  коррозии,  диффузии, 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+29 
+
+старения. Предлагаемый алгоритм хорошо сочетается с методом создания 
+
+цифровых  двойников  и  может  служить  интегральной  характеристикой 
+
+двойника.  Результаты  расчетов  интегральных  характеристик  объектов 
+
+позволяют осуществлять подбор конкретных мероприятий для уменьшения 
+
+эксплуатационных  рисков,  например  в  случае  эксплуатации  объектов  с 
+
+трещинами. Особенно это важно для объектов, при эксплуатации которых 
+
+используются  нормативные  документы,  позволяющие  функционирование 
+
+при  наличии  трещин  с  размерами  ниже  критических  значений.  Такие 
+
+нормативные документы действуют в ряде стран, в том числе и в России для 
+
+эксплуатируемых  транспортных  трубопроводных  систем.  Поскольку 
+
+трубопроводные  системы  подвержены  действию  внешних  природных 
+
+факторов,  которые  могут  привести  к  нестационарному  изменению 
+
+напряженно-деформированного  состояния  и  скачкообразному  росту 
+
+размеров дефектов, требуется разработка мероприятий, снижающих риски 
+
+разрушения.  В  качестве  такого  мероприятия  предлагается  использовать 
+
+композиционные материалы для заполнения полости трещин и закрепления 
+
+ее  берегов.  Приведены  результаты  экспериментов,  которые  показывают 
+
+возможность  восстановления  свойств  стальных  элементов  с  трещинами  с 
+
+использованием  композиционных  материалов,  в  качестве  которых 
+
+использовали гибридные композиты на основе эпоксидных смол.  Показан 
+
+пример  использования  объемных  диаграмм  для  контроля  состояния 
+
+трубопроводных  систем  с  учетом  возможности  восстановления  свойств, 
+
+обеспечивающих прочность и живучесть конструкции. 
+
+Abstract.  For  assessing  individual  technogenic  risks  it  is  suggested  to  use 
+
+stereograms, as they allow to assess each hazardous production facility with  an 
+
+integrated parameter in terms of the level of strength, durability and survivability. 
+
+As  the  used  criteria  depend  on  one  another,  the  three-axis  surface  of  critical 
+
+conditions  is  convex.  To  make  calculations  easier  it  can  be  substituted  with  a 
+
+plane  whose  intercept  form  of  equation  equals  to  one.  If  the  sum  vector  goes 
+
+beyond  the  surface limits,  it  is unacceptable,  even provided certain parameters 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+30 
+
+show under-critical values. Such an approach to assessment of individual risks 
+
+allows to use criteria that are the most typical parameters for the given type of 
+
+equipment. These parameters can be power, temperature or deformation. It is also 
+
+possible to use criteria that describe corrosion, diffusion and ageing. The assumed 
+
+algorithm effectively matches the method of creating digital twins. The algorithm 
+
+can serve as an integrated characteristics of the twin. Integrated risk calculation 
+
+outcomes  for  facilities  allow  to  select  specific  measures  that  would  decline 
+
+operational risks, for example, if there are cracks in the operated facility. It is vital 
+
+for facilities that are subject to compliance with regulatory documents allowing 
+
+functioning if there cracks of under-critical size. Such regulatory documents are 
+
+applied  in  a  number  of  states  including  Russia  to  operated  transfer  pipeline 
+
+systems. As pipeline systems are susceptible to external natural impacts that may 
+
+lead  to  transient  change  of  the  strain-stress  state  and  intermittent  growth  of 
+
+defects’ size, it is crucial to develop a range of measures that would decrease the 
+
+risk of disintegration. It is suggested to use composite materials as such a measure 
+
+to fill in the crack cavity and fix its edges.  There are experiment findings that 
+
+show that it is possible to recover the properties of cracked steel elements by using 
+
+composite  materials.  The  experiments  involved  hybrid  epoxy  resin-based 
+
+composite materials. There is an example of using stereograms to control the state 
+
+of  pipeline  systems  with  regards  to  a  possibility  to  recover  the  properties  that 
+
+would ensure strength and survivability of the structure. 
+
+Ключевые 
+
+слова: 
+
+промышленная 
+
+безопасность; 
+
+трещины; 
+
+композиционный материал; прочность; долговечность; живучесть 
+
+Keywords: industrial safety; cracks; composite material; strength; durability; 
+
+survivability 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+ 
+31 
+
+Когда  рассматривается  конкретный  объект  в  нефтегазовой  отрасли, 
+
+необходимо  учитывать  его  индивидуальные  особенности.  Особенно  это 
+
+касается  трубопроводных  систем,  которые,  являясь  протяженными 
+
+объектами, могут находиться в несопоставимых условиях. 
+
+Сложность эксплуатации протяженных объектов заключается в том, что 
+
+как  внутренние  условия,  так  и  внешние  могут  изменяться.  Изменение 
+
+внутреннего  давления  при  переключении  режимов  перекачки  создает 
+
+цикличность 
+
+воздействия 
+
+и 
+
+нестационарность 
+
+напряженно-
+
+деформированного  состояния  [1,  2].  Все  это  приводит  к  накоплению 
+
+повреждений на различных масштабных уровнях [3–5]. 
+
+Трансформация  дислокационной  структуры,  границ  зерен  в  конечном 
+
+итоге 
+
+приводят 
+
+к 
+
+изменениям  макропараметров  механических 
+
+характеристик  еще  до  возникновения  трещин.  Поэтому  авторы  [6–8] 
+
+считают необходимым развивать средства диагностики, которые способны 
+
+фиксировать 
+
+накопленные 
+
+повреждения 
+
+и 
+
+текущие 
+
+параметры 
+
+механических  характеристик,  что  затруднено  ввиду  отсутствия  таких 
+
+методов. Детерминированные методы расчета трубопроводов не позволяют 
+
+однозначно  гарантировать  их  надежность 
+
+[9]  вследствие  разброса 
+
+начальных  характеристик  стали.  Накопление  повреждений,  утонение 
+
+стенки  трубопровода  приводят  к  необходимости  пересмотра  предельных 
+
+состояний при расчете ресурса [10]. 
+
+На  стадии  образования  и  развития  трещин  современные  средства 
+
+диагностики  позволяют  идентифицировать  такие  дефекты,  которые 
+
+характерны для трубопроводного транспорта. 
+
+Эксплуатация  трубопроводов  в  различных  климатических  зонах 
+
+приводит 
+
+к 
+
+возникновению 
+
+специфических  дефектов,  например 
+
+коррозионного растрескивания под напряжением (КРН) при эксплуатации 
+
+газопроводов. КРН – явление, которое имеет множество особенностей, и нет 
+
+единого взгляда на механизмы образования множественных трещин [11]. В 
+
+работе [12] показано, что при обследовании одного из газопроводов длиной 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+32 
+
+62  км  из  изученных  5560  труб  на  1321-ой  обнаружено  КРН,  причем  в 
+
+среднем обнаружено более 170 дефектных участков на 1 км. 
+
+При  КРН  дефектная  зона  формируется  большим  числом  трещин  (до 
+
+нескольких  сотен)  [13],  размеры  которых  достигают  150  мм,  и  глубина 
+
+соизмерима с толщиной стенки. Здесь также старение материала приводит 
+
+к  снижению  времени  инкубационного  периода  КРН  [14]  и  порогового 
+
+напряжения разрушения. 
+
+Трубопроводные  системы  являются  сварными  конструкциями,  и  этот 
+
+факт 
+
+также 
+
+влияет  на  КРН.  В  некоторых 
+
+случаях  участки 
+
+трещинообразования  приурочены  к  продольным  сварным  швам  [12]. 
+
+Исследования показывают [15–17], что коррозионное воздействие вызывает 
+
+снижение ударной вязкости материала сварных швов. В тоже время не все 
+
+очаги  КРН  являются  развивающимися.  Установлено  [18],  что  трещины, 
+
+которые не превышают по глубине 30 % от толщины стенки оболочки, при 
+
+устранении  воздействия  среды  могут  быть  не  опасными  с  точки  зрения 
+
+разрушения.  Множественные  трещины  в  определенных  условиях  могут 
+
+замедлить  процесс  разрушения,  поскольку  каждая  из  трещин  может  быть 
+
+стоком вводимой в систему энергии, которой недостаточно для достижения 
+
+трещиной  критических  размеров.  Поэтому  множественные  трещины  не 
+
+всегда 
+
+являются  причиной  разрушения.  Более 
+
+того,  некоторые 
+
+исследователи фиксируют стабилизацию коротких трещин [19] в процессе 
+
+эксплуатации,  и  это  подтверждается  повторными  обследованиями 
+
+внутритрубными  дефектоскопами.  Это  явление,  названное  авторами  [19] 
+
+«стабилизированными  дефектами»,  позволяет  отслеживать  поведение 
+
+трещин с помощью закладных электромагнитных датчиков. 
+
+Для  любого  опасного  производственного  объекта 
+
+с  целью 
+
+предотвращения аварии необходимо обеспечить прочность, долговечность 
+
+и живучесть конструкции.  Рассмотрим критерии оценки этих параметров. 
+
+Для обеспечения прочности должно выполняться условие: 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+σн / σс < 1, 
+
+где σн – номинальные напряжения, МПа; 
+
+σс – критические напряжения, МПа. 
+
+33 
+
+(1) 
+
+Номинальные 
+
+напряжения 
+
+должны 
+
+учитывать 
+
+напряжения, 
+
+возникающие  от  внутреннего  давления  в  трубопроводе,  изгибные 
+
+напряжения  от  движения  грунта.  В  качестве  критических  напряжений 
+
+используются параметры материала: предел текучести и предел прочности. 
+
+Когда  напряжения  оказываются  в  упругопластической  зоне,  следует 
+
+переходить к использованию деформационных критериев. 
+
+Для  учета  накопления  повреждений  от  циклических  нагрузок  можно 
+
+использовать критерий: 
+
+Ni / Nc < 1, 
+
+(2) 
+
+где Ni – текущее количество циклов нагружения; 
+
+Nc  –  критическое  число  циклов,  соответствующее  возникновению 
+
+трещины. 
+
+Существующие  дефекты,  обнаруженные  в  процессе  дефектоскопии, 
+
+необходимо учитывать соответствующим критерием: 
+
+li /lc < 1, 
+
+(3) 
+
+где li – длина дефекта; 
+
+lc – критическая длина дефекта. 
+
+Для 
+
+цилиндрической 
+
+оболочки 
+
+номинальные 
+
+напряжения 
+
+рассчитываются по безмоментной теории: 
+
+σн = PD/2S 
+
+(4) 
+
+где P – утреннее давление, МПа; 
+
+D – внутренний диаметр, м; 
+
+s – толщина оболочки, м. 
+
+Количество  циклов  нагружения 
+
+до 
+
+возникновения 
+
+трещины 
+
+рассчитывается по уравнению Лэнджера [20]: 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+Nс = [0,25 ln(1/1-Ψ)/εa –(0,4σв/Е)]1/m, 
+
+34 
+
+(5) 
+
+где Ψ – относительное сужение; 
+
+εa – амплитуда деформаций; 
+
+σв – предел прочности; МПа; 
+
+Е – модуль упругости материала; МПа; 
+
+m – константа материала. 
+
+Критическую длину трещины можно рассчитать по формуле: 
+
+lc = 0,32 (К1с / σс)2, 
+
+(6) 
+
+где lc – критическая длина трещины, м; 
+
+К1с – критический коэффициент интенсивности напряжений, МПа м0,5; 
+
+σс – критические напряжения, МПа. 
+
+Далее  мы  используем  объемные  диаграммы,  которые  анонсировали  в 
+
+предыдущей  статья  данного  выпуска  сетевого  издания  «Нефтегазовое 
+
+дело».  В  данном  случае  диаграмму  строим  в  координатах  прочности, 
+
+долговечности  и  живучести.  Важно  обеспечить  живучесть  конструкции, 
+
+поскольку в мировой практике стали допускать возможность эксплуатации 
+
+при  наличии  трещин.  В  ряде  стран,  в  том  числе  в  России  используются 
+
+нормативные  документы,  регламентирующие  такое  положение.  Тройные 
+
+диаграммы  демонстрируют 
+
+возможность 
+
+реализации 
+
+критической 
+
+ситуации, когда отдельно все критерии меньше единицы. 
+
+В  соответствии  с  рисунком  1  можно  написать  уравнение  плоскости, 
+
+которое  и  будет  критерием  совокупной  реализации  триады  прочность  – 
+
+долговечность – живучесть для (а) и (б) (рисунок 1): 
+
+σн / σс + Ni / Nc + li /lc  ≤ 1 ; 
+
+(7) 
+
+PD/2s σс + Ni / [0,25 ln(1/1-Ψ)/εa –(0,4σв/Е)]1/m + li / 0,32 (К1с / σс)2  ≤ 1.(8) 
+
+Уравнения типа (7) могут прогнозировать поведение индивидуального 
+
+опасного объекта. И не только прогнозировать, но и регулировать. Покажем 
+
+это на примере с трубопроводом, который имеет трещину. В работах [21, 22] 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+показано,  что  закрепление  берегов  трещины  композитным  материалом 
+
+может увеличить К1с в 2 раза. Это указывает на возможность уменьшения 
+
+третьего слагаемого уравнения (7). 
+
+35 
+
+Рисунок 1. Диаграмма критических состояний объекта до (а)  
+и после (б) заделки трещины композитом 
+
+Метод вакуумирования полости трещин позволяет заполнить ее жидкой 
+
+фазой  с  последующим  переходом  в  твердую  фазу  и  адгезионным 
+
+взаимодействием  с  поверхностью  трещины.  Изменение  К1с  позволяет 
+
+трансформировать диаграмму (рисунок 1, б). 
+
+Такой подход может реализовать процедуру отслеживания целостности 
+
+композиционного материала в полости трещины по сигналам акустической 
+
+эмиссии. Исследования, которые показали возможность такого алгоритма, 
+
+проводились  при 
+
+комнатной 
+
+температуре 
+
+20 
+
+°C.  В  полость 
+
+трещиноподобных  дефектов  внедряли 
+
+гибридный  композиционный 
+
+материал.  Основа:  эпоксидная  смола  марки  ЭД20;  отвердитель  ПЭПА; 
+
+наполнители:  магнитный  порошок  оксида  железа  микронного  размера  и 
+
+магнитный  порошок  оксида  железа  наноразмеров,  стабилизированный  в 
+
+керосине  с  помощью  поверхностно-активного  вещества  –  стеариновая 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+ 
+36 
+
+кислота.  В  течение  24  ч  происходило  затвердевание  композиционного 
+
+материала непосредственно в трещиноподобных дефектах. 
+
+На  разрывной  машине  Instron  со  скоростью  4  мм/мин  провели 
+
+сравнительную  оценку  прочности  материала  (сталь  10)  бездефектного 
+
+образца,  образца  с  имитационной  трещиной  и  образца  с  имитационной 
+
+трещиной с внедренным композиционным материалом (рисунок 2). 
+
+        а)                 б)                   в) 
+а) образец с трещиной;  
+б) цельный образец;  
+в) образец с трещиной, заделанной  
+композиционным материалом 
+
+Рисунок 2. Образцы для исследований 
+
+Результаты экспериментов указаны на рисунках 3–5. 
+
+Из диаграмм (рисунки 3–5) видно, что бездефектный образец выдержал 
+
+максимальную  нагрузку  532  МПа.  Несущая  способность  образца  с 
+
+имитационной  трещиной,  заделанной  композиционным  материалом, 
+
+существенно  выше,  чем  образца  с  имитационной  трещиной  без 
+
+композиционного материала и на 5 % ниже, чем бездефектного образца. 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+ 
+37 
+
+Рисунок 3. Бездефектный образец 
+
+Рисунок 4. Образец с имитационной трещиной 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+38 
+
+Рисунок 5. Образец с имитационной трещиной, заделанной 
+композиционным материалом 
+
+Вывод 
+
+Показана  возможность  контроля  за  состоянием  объекта  при  сложном 
+
+нагружении с помощью объемных диаграмм, можно снижать уровень риска 
+
+эксплуатации  объекта  с  трещинами  с  помощью 
+
+заполнения  их 
+
+композиционным материалом. 
+
+Список используемых источников 
+
+1. Мазур И.И., Иванцов О.М. Безопасность трубопроводных систем. М.: 
+
+ИЦ «ЕЛИМА», 2004. 1104 с. 
+
+2. Павлова З.Х., Кузеев И.Р., Азметов Х.А. Безопасность эксплуатации 
+
+трубопроводных  систем  в  условиях  нестационарности  технологических 
+
+параметров перекачки. Уфа: Изд-во УГНТУ, 2015. 64 с. 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+ 
+ 
+39 
+
+3. Сыромятникова  А.С.,  Большаков  А.М.  Деградация  механических 
+
+свойств  и  структурно-фазового  состояния  металла  труб  магистрального 
+
+газопровода при длительной эксплуатации в условиях Севера // Природные 
+
+ресурсы  Арктики  и  субарктики.  2018.  Т.  23.  №  1.  С.  75-80.  DOI: 
+
+10.31242/2618-9712-2018-23-1-75-80. 
+
+4. Бутусова  Е.Н.,  Чувильдеев  В.Н.,  Нохрин  А.В.  Исследование 
+
+зарождения  и  распространения  коррозионно-усталостных  трещин  в 
+
+малоуглеродистых  низколегированных  сталях  //  Вестник  Тамбовского 
+
+университета. Серия: Естественные и технические науки. 2013. Т. 18. Вып. 
+
+4. С. 1572-1573. 
+
+5. Мирошниченко  Б.И.,  Нохрин  А.В.,  Лопатин  Ю.Г.,  Смирнов  С.И., 
+
+Мельников  Г.Ю.  Металлургические  и  эксплуатационные  аспекты 
+
+образования  дефектов  стресс-коррозии  в  магистральных  трубопроводах. 
+
+Ч. II. Влияние старения на склонность трубных сталей к зарождению стресс-
+
+коррозионных трещин // Технология металлов. 2012. № 5. С. 6-15. 
+
+6. Зорин  Е.Е.,  Ланчаков  Г.А.,  Степаненко  А.И.,  Шибнев  А.В. 
+
+Работоспособность  трубопроводов.  Ч.  1:  Расчетная  и  эксплуатационная 
+
+надежность. М.: Недра-Бизнесцентр, 2000. 243 с. 
+
+7. Зорин  Е.Е.,  Ланчаков  Г.А.,  Степаненко  А.И.,  Шибнев  А.В. 
+
+Работоспособность  трубопроводов.  Ч.  2:  Сопротивляемость  разрушению. 
+
+М.: Недра-Бизнесцентр, 2001. 350 с. 
+
+8. Зорин  Е.Е.,  Ланчаков  Г.А.,  Степаненко  А.И.,  Шибнев  А.В. 
+
+Работоспособность  трубопроводов.  Ч.  3:  Диагностика  и  прогноз  ресурса. 
+
+М.: Недра-Бизнесцентр, 2003. 291 с. 
+
+9. Неганов  Д.А.  Основы  детерминированных  нормативных  методов 
+
+обоснования прочности // Наука и технологии трубопроводного транспорта 
+
+нефти и нефтепродуктов. 2018. Т. 8. № 6. С. 608-617. 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+40 
+
+10. Неганов Д.А., Лисин Ю.В., Махутов Н.А., Варшицкий В.М Влияние 
+
+напряженно-деформированного  состояния  на  предельное  состояние 
+
+трубопровода // Наука и технологии трубопроводного транспорта нефти и 
+
+нефтепродуктов. 2017. Т. 7. № 4. С. 12-16. 
+
+11. Исламов  И.М.,  Чучкалов  М.В.,  Аскаров  Р.М.  Оценка  ресурса 
+
+магистральных  газопроводов  в  условиях  поперечного  коррозионного 
+
+растрескивания под напряжением // Транспорт и хранение нефтепродуктов 
+
+и  углеводородного  сырья.  2018.  №  2.  С.  35-38.  DOI:  10.24411/0131-4270-
+
+2018-10206. 
+
+12. Агиней  Р.В.,  Гуськов  С.С.,  Мусонов  В.В.,  Садртдинов  Р.А., 
+
+Лапин  В.А.  Исследование  геометрических  параметров  и  особенностей 
+
+расположения  стресс-коррозионных  повреждений  на  магистральных 
+
+газопроводах // Научно-технический сборник «Вести газовой науки». 2016. 
+
+№ 
+
+3 
+
+(27).  С. 
+
+102-107.  URL: 
+
+http://vesti-gas.ru/sites/default/files/ 
+
+attachments/vgn-3-27-2016-102-107.pdf (дата обращения: 04.01.2021). 
+
+13. Буклешев Д.О. Исследование интенсивности напряжений в процессе 
+
+коррозионного  растрескивания  стали  магистральных  газопроводов 
+
+// 
+
+Universum:  технические  науки.  2019.  №  2  (59).  С.  17-21.  URL: 
+
+https://7universum.com/ru/tech/archive/item/6900 
+
+(дата 
+
+обращения: 
+
+05.01.2021). 
+
+14. Болдин М.С., Нохрин А.В., Чувильдеев В.Н., Чегуров М.К., Бутусова 
+
+Е.Н., Степанов С.П., Козлова Н.А., Лопатин Ю.Г. Котков Д.Н. Исследование 
+
+процесса 
+
+зарождения 
+
+трещин 
+
+коррозионного 
+
+растрескивания  под 
+
+напряжением  в  малоуглеродистых  низколегированных  сталях  //  Вестник 
+
+Нижегородского университета им. Н.И. Лобачевского. 2010. № 5-2. С. 186-189. 
+
+15. Кузеев И.Р., Диньмухаметова Л.С., Пояркова Е.В. Прогнозирование 
+
+безопасности 
+
+эксплуатации 
+
+сварных 
+
+конструкций 
+
+в 
+
+условиях 
+
+нефтесодержащих  сред  //  Электронный  научный  журнал  «Нефтегазовое 
+
+дело».  2011.  №  6.  С.  254-262.  URL:  http://ogbus.ru/files/ogbus/ 
+
+authors/Kuzeev/Kuzeev_7.pdf (дата обращения: 05.01.2021). 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+41 
+
+16. Пояркова Е.В., Кузеев И.Р., Грызунов В.И., Пояркова Т.В. Влияние 
+
+агрессивных сред на комплекс механических свойств сварных элементов // 
+
+Инновационная  деятельность  предприятий  по  исследованию,  обработке  и 
+
+получению  современных  конструкционных  материалов  и  технологий: 
+
+матер. межд. науч. конф. М.: Машиностроение, 2009. С. 450-455. 
+
+17. Кузеев  И.Р.,  Пояркова  Е.В.,  Диньмухаметова  Л.С.  Исследование 
+
+коррозионного поведения сварных соединений технологических установок 
+
+с целью оценки их остаточного ресурса // Промышленная безопасность на 
+
+взрывопожароопасных и химически опасных производственных объектах: 
+
+матер. III межд. науч.-практ. конф / Отв. ред. проф. Н.Х. Абдрахманов. Уфа: 
+
+Изд-во УГНТУ, 2009. С. 156-160. 
+
+18. Арабей  А.Б.,  Мелёхин  О.Н.,  Ряховских  И.В.,  Богданов  Р.И., 
+
+Абросимов  П.В.,  Штайнер  М.,  Маревски  У.  Исследование  возможности 
+
+длительной эксплуатации труб с незначительными стресс-коррозионными 
+
+повреждениями  //  Научно-технический  сборник  «Вести  газовой  науки». 
+
+2016. № 3 (27). С. 4-11. 
+
+19. Рыбалко  С.В.,  Рыбалко  В.Г.,  Ефремов  Т.А.  Опыт  мониторинга 
+
+технического  состояния  труб,  оставленных  в  эксплуатации  со  стресс-
+
+коррозионными  повреждениями  //  Научно-технический  сборник  «Вести 
+
+газовой науки». 2016. № 3 (27). С. 97-101. 
+
+20. Гареев  А.Г.,  Худяков  М.А.,  Абдуллин  И.Г.,  Мостовой  А.В., 
+
+Тимошкин Ю.В. Особенности разрушения материалов нефтегазопроводов. 
+
+Уфа: Гилем, 2006. 155 с. 
+
+21. Гафарова  В.А.  Применение  композиционных  материалов  для 
+
+сдерживания  роста трещин в нефтегазовом  оборудовании // Нефтегазовое 
+
+дело. 2018. Т. 16. № 5. С. 99-107. DOI: 10.17122/ngdelo-2018-5-99-107. 
+
+22. Гафарова В.А. Материалы и способ заделки трещин в нефтегазовом 
+
+оборудовании  в  межремонтный  период  эксплуатации:  дис.  …  канд.  техн. 
+
+наук. Уфа: Изд-во УГНТУ, 2019. 145 с. 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+42 
+
+References  
+
+1. Mazur I.I., Ivantsov O.M. Bezopasnost' truboprovodnykh sistem [Pipeline 
+
+Safety]. Moscow, ITs «ELIMA» Publ., 2004. 1104 p. [in Russian]. 
+
+2. Pavlova  Z.Kh.,  Kuzeev  I.R.,  Azmetov  Kh.A.  Bezopasnost'  ekspluatatsii 
+
+truboprovodnykh  sistem  v  usloviyakh  nestatsionarnosti  tekhnologicheskikh 
+
+parametrov perekachki [Operational Safety of Pipeline Systems in Conditions of 
+
+Non-Stationarity  of  Pumping  Technological  Parameters].  Ufa,  UGNTU  Publ., 
+
+2015. 64 p. [in Russian]. 
+
+3. Syromyatnikova  A.S.,  Bolshakov  A.M.  Degradatsiya  mekhanicheskikh 
+
+svoistv 
+
+i  strukturno-fazovogo  sostoyaniya  metalla 
+
+trub  magistral'nogo 
+
+gazoprovoda  pri  dlitel'noi  ekspluatatsii  v  usloviyakh  Severa  [Degradation  of 
+
+Mechanical  Properties  and  Structural-Phase  State  of  the  Metal  of  a  Main  Gas 
+
+Pipeline  at  Long  Operation in the  Conditions  of the  North].  Prirodnye  resursy 
+
+Arktiki i subarktiki – Arctic and Subarctic Natural Resources, 2018, Vol. 23, No. 
+
+1, pp. 75-80. DOI: 10.31242/2618-9712-2018-23-1-75-80. [in Russian]. 
+
+4. Butusova E.N., Chuvildeev V.N., Nokhrin A.V. Issledovanie zarozhdeniya 
+
+i  rasprostraneniya  korrozionno-ustalostnykh  treshchin  v  malouglerodistykh 
+
+nizkolegirovannykh  stalyakh  [Initiation  and  Propagation  of  Corrosion  Fatigue 
+
+Cracks  in  Low-Carbon  Steels].  Vestnik  Tambovskogo  universiteta.  Seriya: 
+
+Estestvennye i tekhnicheskie nauki – Tambov University Reports. Series: Natural 
+
+and Technical Sciences, 2013, Vol. 18, Issue 4, pp. 1572-1573. [in Russian]. 
+
+5. Miroshnichenko  B.I.,  Nokhrin  A.V.,  Lopatin  Yu.G.,  Smirnov  S.I., 
+
+Mel'nikov  G.Yu.  Metallurgicheskie  i  ekspluatatsionnye  aspekty  obrazovaniya 
+
+defektov  stress-korrozii  v  magistral'nykh  truboprovodakh.  Ch.  II.  Vliyanie 
+
+stareniya  na  sklonnost'  trubnykh  stalei  k  zarozhdeniyu  stress-korrozionnykh 
+
+treshchin 
+
+[Solid  Solution  Decomposition  Mechanisms 
+
+in  Cast  and 
+
+Microcrystalline Al-Sc Alloys: I. Experimental Studies]. Tekhnologiya metallov 
+
+– Tehnologia Metallov, 2012, No. 5, pp. 6-15. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+43 
+
+6. Zorin  E.E.,  Lanchakov  G.A.,  Stepanenko  A.I.,  Shibnev  A.V. 
+
+Rabotosposobnost'  truboprovodov.  Ch.  1:  Raschetnaya  i  ekspluatatsionnaya 
+
+nadezhnost'  [Serviceability  of  Pipelines.  Part  1:  Design  and  Operational 
+
+Reliability]. Moscow, Nedra-Biznestsentr Publ., 2000. 243 p. [in Russian]. 
+
+7. Zorin  E.E.,  Lanchakov  G.A.,  Stepanenko  A.I.,  Shibnev  A.V. 
+
+Rabotosposobnost'  truboprovodov.  Ch.  2:  Soprotivlyaemost'  razrusheniyu 
+
+[Serviceability of Pipelines. Part 2: Resistance to Destruction]. Moscow, Nedra-
+
+Biznestsentr Publ., 2001. 350 p. [in Russian]. 
+
+8. Zorin  E.E.,  Lanchakov  G.A.,  Stepanenko  A.I.,  Shibnev  A.V. 
+
+Rabotosposobnost'  truboprovodov.  Ch.  3:  Diagnostika  i  prognoz  resursa 
+
+[Serviceability of Pipelines. Part 3: Diagnostics and Resource Forecast]. Moscow, 
+
+Nedra-Biznestsentr Publ., 2003. 291 p. [in Russian]. 
+
+9. Neganov  D.A.  Osnovy  determinirovannykh  normativnykh  metodov 
+
+obosnovaniya prochnosti [Basics of Deterministic Normative Methods of Pipeline 
+
+Strength Substantiation]. Nauka i tekhnologii truboprovodnogo transporta nefti i 
+
+nefteproduktov  –  Science  and  Technologies:  Oil  and  Oil  Products  Pipeline 
+
+Transportation, 2018, Vol. 8, No. 6, pp. 608-617. [in Russian]. 
+
+10. Neganov D.A., Lisin Yu.V., Makhutov N.A., Varshitskii V.M Vliyanie 
+
+napryazhenno-deformirovannogo 
+
+sostoyaniya  na  predel'noe 
+
+sostoyanie 
+
+truboprovoda [Impact of Stress-Strain State of the Pipeline on the Limit State of 
+
+the  Pipeline].  Nauka 
+
+i 
+
+tekhnologii 
+
+truboprovodnogo 
+
+transporta  nefti 
+
+i 
+
+nefteproduktov  –  Science  and  Technologies:  Oil  and  Oil  Products  Pipeline 
+
+Transportation, 2017, Vol. 7, No. 4, pp. 12-16. [in Russian]. 
+
+11. Islamov  I.M.,  Chuchkalov  M.V.,  Askarov  R.M.  Otsenka  resursa 
+
+magistral'nykh  gazoprovodov  v  usloviyakh  poperechnogo  korrozionnogo 
+
+rastreskivaniya pod napryazheniem [Life Cycle Assessment of Gas Pipelines in 
+
+Terms  of  the  Transverse  Stress  Corrosion  Cracking].  Transport  i  khranenie 
+
+nefteproduktov i uglevodorodnogo syr'ya – Transport and Storage of Oil Products 
+
+and  Hydrocarbons,  2018,  No.  2,  pp.  35-38.  DOI:  10.24411/0131-4270-2018-
+
+10206. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+44 
+
+12. Aginei R.V., Guskov S.S., Musonov V.V., Sadrtdinov R.A., Lapin V.A. 
+
+Issledovanie geometricheskikh parametrov i osobennostei raspolozheniya stress-
+
+korrozionnykh povrezhdenii na magistral'nykh gazoprovodakh [Investigation of 
+
+Dimensional Properties and Location of Stress Corrosion Cracks in Trunk Gas 
+
+Pipelines].  Nauchno-tekhnicheskii  sbornik  «Vesti  gazovoi  nauki»  –  Scientific-
+
+Technical Collection Book «Vesti Gazovoy Nauki», 2016, No. 3 (27), pp. 102-
+
+107.  URL:  http://vesti-gas.ru/sites/default/files/attachments/vgn-3-27-2016-102-
+
+107.pdf (accessed 04.01.2021). [in Russian]. 
+
+13. Bukleshev  D.O.  Issledovanie  intensivnosti  napryazhenii  v  protsesse 
+
+korrozionnogo rastreskivaniya stali magistral'nykh gazoprovodov [Study of the 
+
+Intensity of Stresses in the Process of Corrosive Strainsing of Steel of Main Gas 
+
+Pipelines]. Universum: tekhnicheskie nauki – Universum: Engineering Sciences, 
+
+2019,  No.  2  (59),  pp.  17-21.  Available  at:  https://7universum.com/ru/ 
+
+tech/archive/item/6900 (accessed 05.01.2021). [in Russian]. 
+
+14. Boldin  M.S.,  Nokhrin  A.V.,  Chuvildeev  V.N.,  Chegurov  M.K., 
+
+Butusova  E.N.,  Stepanov  S.P.,  Kozlova  N.A.,  Lopatin  Yu.G.  Kotkov  D.N. 
+
+Issledovanie protsessa zarozhdeniya treshchin korrozionnogo rastreskivaniya pod 
+
+napryazheniem v malouglerodistykh nizkolegirovannykh stalyakh [Investigation 
+
+of  Stress-Corrosion  Crack  Origin  in  Low-Carbon,  Low-Alloy  Steels].  Vestnik 
+
+Nizhegorodskogo universiteta im. N.I. Lobachevskogo – Vestnik of Lobachevsky 
+
+University of Nizhni Novgorod, 2010, No. 5-2, pp. 186-189. [in Russian]. 
+
+15. Kuzeev  I.R.,  Dinmukhametova  L.S.,  Poyarkova  E.V.  Prognozirovanie 
+
+bezopasnosti 
+
+ekspluatatsii 
+
+svarnykh 
+
+konstruktsii 
+
+v 
+
+usloviyakh 
+
+neftesoderzhashchikh sred [Forecasting the Operation Safety of Welded Designs 
+
+in the Conditions of Oilcontaining Environments]. Elektronnyi nauchnyi zhurnal 
+
+«Neftegazovoe  delo»  –  Electronic  Scientific  Journal  «Oil  and  Gas  Business», 
+
+2011,  No.  6,  pp.  254-262.  URL:  http://ogbus.ru/files/ogbus/authors/ 
+
+Kuzeev/Kuzeev_7.pdf (accessed 05.01.2021). [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+45 
+
+16. Poyarkova E.V., Kuzeev I.R., Gryzunov V.I., Poyarkova T.V. Vliyanie 
+
+agressivnykh  sred  na  kompleks  mekhanicheskikh  svoistv  svarnykh  elementov 
+
+[Influence  of  Corrosive  Media  on  the  Complex  of  Mechanical  Properties  of 
+
+Welded  Elements].  Materialy  mezhdunarodnoi  nauchnoi 
+
+konferentsii 
+
+«Innovatsionnaya  deyatel'nost'  predpriyatii  po  issledovaniyu,  obrabotke  i 
+
+polucheniyu  sovremennykh  konstruktsionnykh  materialov 
+
+i 
+
+tekhnologii» 
+
+[Materials  of  the  International  Scientific  Conference  «Innovative  Activities  of 
+
+Enterprises  for  the  Research,  Processing  and  Production  of  Modern  Structural 
+
+Materials and Technologies»]. Moscow, Mashinostroenie Publ., 2009, pp. 450-
+
+455. [in Russian]. 
+
+17. Kuzeev  I.R.,  Poyarkova  E.V.,  Dinmukhametova  L.S.  Issledovanie 
+
+korrozionnogo povedeniya svarnykh soedinenii tekhnologicheskikh ustanovok s 
+
+tsel'yu otsenki ikh ostatochnogo resursa [Investigation of the Corrosion Behavior 
+
+of Welded Joints of Technological Units in Order to Assess Their Residual Life]. 
+
+Materialy 
+
+III  Mezhdunarodnoi 
+
+nauchno-prakticheskoi 
+
+konferentsii 
+
+«Promyshlennaya  bezopasnost'  na  vzryvopozharoopasnykh 
+
+i  khimicheski 
+
+opasnykh  proizvodstvennykh  ob"ektakh»  [Materials  of  the  III  International 
+
+Scientific  and  Practical  Conference  «Industrial  Safety  at  Explosive,  Fire  and 
+
+Chemically  Hazardous  Production  Facilities»].  Managing  Ed.  Prof. 
+
+N.Kh. Abdrakhmanov. Ufa, UGNTU Publ., 2009, pp. 156-160. [in Russian]. 
+
+18. Arabei  A.B.,  Melekhin  O.N.,  Ryakhovskikh  I.V.,  Bogdanov  R.I., 
+
+Abrosimov P.V., Shtainer M., Marevski U. Issledovanie vozmozhnosti dlitel'noi 
+
+ekspluatatsii  trub  s  neznachitel'nymi  stress-korrozionnymi  povrezhdeniyami 
+
+[Studying  a  Possibility  of  Continuous  Service  of  Pipes  with  Minor  Stress-
+
+Corrosion  Cracks].  Nauchno-tekhnicheskii  sbornik  «Vesti  gazovoi  nauki»  – 
+
+Scientific-Technical Collection Book «Vesti Gazovoy Nauki», 2016, No. 3 (27), 
+
+pp. 4-11. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+46 
+
+19. Rybalko  S.V.,  Rybalko  V.G.,  Efremov  T.A.  Opyt  monitoringa 
+
+tekhnicheskogo  sostoyaniya  trub,  ostavlennykh  v  ekspluatatsii  so  stress-
+
+korrozionnymi  povrezhdeniyami  [Practice  of  Monitoring  Technical  State  of 
+
+Tubes Left in Operation with Stress-Corrosion Cracks].  Nauchno-tekhnicheskii 
+
+sbornik  «Vesti  gazovoi  nauki»  –  Scientific-Technical  Collection  Book  «Vesti 
+
+Gazovoy Nauki», 2016, No. 3 (27), pp. 97-101. [in Russian]. 
+
+20. Gareev A.G., Khudyakov M.A., Abdullin I.G., Mostovoi A.V., Timoshkin 
+
+Yu.V.  Osobennosti  razrusheniya  materialov  neftegazoprovodov  [Features  of 
+
+Destruction of Materials of Oil and Gas Pipelines]. Ufa, Gilem Publ., 2006. 155 p. 
+
+[in Russian]. 
+
+21. Gafarova  V.A.  Primenenie  kompozitsionnykh  materialov  dlya 
+
+sderzhivaniya  rosta  treshchin  v  neftegazovom  oborudovanii  [Application  of 
+
+Composite  Materials  for  Fracture  Growth  Control  in  Oil  and  Gas  Equipment]. 
+
+Neftegazovoe delo – Petroleum Engineering, 2018, Vol. 16, No. 5, pp. 99-107. 
+
+DOI: 10.17122/ngdelo-2018-5-99-107. [in Russian]. 
+
+22. Gafarova  V.A.  Materialy  i  sposob  zadelki  treshchin  v  neftegazovom 
+
+oborudovanii v mezhremontnyi period ekspluatatsii: dis. kand. tekhn. nauk [Materials 
+
+and Method of Sealing Cracks in Oil and Gas Equipment During the Overhaul Period: 
+
+Cand. Engin. Sci. Diss.]. Ufa, UGNTU Publ., 2019. 145 p. [in Russian]. 
+
+Сведения об авторах 
+
+About the authors 
+
+Сунгатуллин  Искандер  Равилевич,  соискатель  ученой  степени 
+
+кандидата  технических  наук  кафедры  «Технологические  машины  и 
+
+оборудование»,  УГНТУ,  председатель  совета  директоров  холдинга 
+
+«ПЕГАЗ», г. Уфа, Российская Федерация 
+
+Iskander R. Sungatullin, Applicant at Technological Machines and Equipment 
+
+Department, USPTU, Chairman of the Board of Directors of PEGAZ Holding, 
+
+Ufa, Russian Federation 
+
+e-mail: irsungatullin@gmail.com 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+47 
+
+Гафарова  Виктория  Александровна,  канд.  техн.  наук,  доцент  кафедры 
+
+«Технологические машины  и  оборудование»,  УГНТУ,  г.  Уфа,  Российская 
+
+Федерация 
+
+Victoria A. Gafarova, Candidate of Engineering Sciences, Assistant Professor 
+
+of Technological Machines and Equipment Department,  USPTU,  Ufa, Russian 
+
+Federation 
+
+e-mail: gafarova.vika@bk.ru 
+
+Махмутов  Динар  Хадисович,  заместитель  начальника  управления 
+
+технического надзора ПАО «Уфаоргсинтез», г. Уфа, Российская Федерация 
+
+Dinar H. Makhmutov, Deputy Head of the Technical Supervision Department 
+
+of PAO « Ufaorgcintes», Ufa, Russian Federation 
+
+e-mail: MakhmutovDKh@bashneft.ru 
+
+Кузеев  Искандер  Рустемович,  д-р  техн.  наук,  профессор,  заведующий 
+
+кафедрой  «Технологические  машины  и  оборудование»,  УГНТУ,  г.  Уфа, 
+
+Российская Федерация 
+
+Iskander  R.  Kuzeev,  Doctor  of  Engineering  Sciences,  Professor,  Head  of 
+
+Technological  Machines  and  Equipment  Department,  USPTU,  Ufa,  Russian 
+
+Federation 
+
+e-mail: kuzeev2002@mail.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2021. №2 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+

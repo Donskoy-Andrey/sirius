@@ -1,0 +1,1478 @@
+71 
+
+УДК 502.22:004.42 
+
+ОБЗОР СОВРЕМЕННЫХ ПРОГРАММНЫХ КОМПЛЕКСОВ  
+
+И КОНЦЕПЦИИ ЦИФРОВОГО ДВОЙНИКА  
+
+ДЛЯ ПРОГНОЗИРОВАНИЯ АВАРИЙНЫХ СИТУАЦИЙ  
+
+НА ОБЪЕКТАХ НЕФТЕГАЗОВОЙ ОТРАСЛИ 
+
+REVIEW OF MODERN SOFTWARE COMPLEXES  
+
+AND DIGITAL TWIN CONCEPT  
+
+FOR FORECASTING EMERGENCY SITUATIONS  
+
+IN OIL AND GAS INDUSTRY 
+
+К.Н. Абдрахманова, А.В. Федосов, К.Р. Идрисова, И.Р. Даниева,  
+
+Р.Р. Валеева 
+
+Уфимский государственный нефтяной технический университет,  
+
+г. Уфа, Российская Федерация 
+
+Karina N. Abdrakhmanova, Artem V. Fedosov, Karina R. Idrisova,  
+
+Ilida R. Danieva, Regina R. Valeeva 
+
+Ufa State Petroleum Technological University, Ufa, Russian Federation 
+
+e-mail: fedsv-artem@rambler.ru 
+
+Аннотация.  Количество  и  масштаб  аварий  в  виду  усложнения 
+
+технологических  процессов  возрастает,  что  негативно  влияет  на  людей, 
+
+окружающую  среду  и  не  выгодно  с  экономической  точки  зрения  для 
+
+предприятия.  В  связи  с  этим  возникает  необходимость  в  качественном 
+
+применении уже имеющихся методов управления рисками на предприятии 
+
+и  модернизации  организации  безопасной  работы  с  учетом  реального 
+
+состояния опасного производственного объекта.  
+
+Одним из способов снижения  уровня опасности предприятия  является 
+
+анализ  имеющихся  рисков,  который  состоит  из  идентификации  рисков, 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+72 
+
+оценки  величины  последствий  и  создания  превентивных  мероприятий, 
+
+мероприятий  по  снижению  имеющегося  уровня  риска.  Разработка 
+
+всевозможных сценариев протекания аварии, установление последствий и 
+
+вероятностей  реализации  негативных  происшествий  являются  базой  для 
+
+управления опасностями. 
+
+В  данной  работе  проанализировано  применение  метода  анализа 
+
+опасностей  «Дерево  последствий».  Метод  широко  применяется  для 
+
+объектов  нефтегазовой 
+
+промышленности, 
+
+оказывая 
+
+влияние 
+
+на 
+
+уменьшение  аварийных  ситуаций  и  позволяя  обнаружить  явления, 
+
+приводящие  к  серьезным  последствиям.  В  процессе  построения  дерева 
+
+используется 
+
+система  количественных  и  качественных 
+
+способов 
+
+определения  опасностей  для  обнаружения  вероятностных  результатов 
+
+начального действия.  
+
+В  статье  представлен  обзор  некоторых  программных  комплексов, 
+
+позволяющих 
+
+визуализировать 
+
+этапы 
+
+вычисления 
+
+рисков 
+
+и 
+
+минимизировать  процесс  расчетов  на  основе  3D  моделирования.  В 
+
+нефтегазовой 
+
+и 
+
+нефтеперерабатывающей 
+
+промышленности 
+
+для 
+
+симулирования  в  наземных  условиях  наиболее  известных  сценариев 
+
+воспламенения  и  токсического  выброса  используется  программный 
+
+инструмент  FLACS.  Произвести  оценку  влияния  опасных  или  вредных 
+
+веществ  на  производственный  объект  можно  благодаря  отечественному 
+
+программному  комплексу  «TOXI+Risk».  Для  имитации  последствий 
+
+аварий  с  возможностью  моделирования  угроз,  позволяющих  изучить  всю 
+
+последовательность  событий  от  самой  аварии  до  ущерба,  применяется 
+
+Phast Lite.  
+
+Кроме того, в статье дано определение цифрового двойника. Цифровой 
+
+двойник 
+
+является  интегрированной  моделью 
+
+реального 
+
+объекта 
+
+наблюдения,  обеспечивающей  постоянное  взаимодействие  и  обмен 
+
+данными  с  реальным  объектом  для  моделирования  поведения  объекта, 
+
+прогнозирования и выбора наиболее адекватного и эффективного сценария 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+73 
+
+проведения 
+
+технологического 
+
+процесса. 
+
+Технология 
+
+является 
+
+перспективной  для  управления  производством  и  продления  безопасного 
+
+эксплуатационного ресурса.  
+
+Abstract.  Number  and  scale  of  accidents  is  increasing  because  of 
+
+technological processes complexity, this negatively affects people, environment, 
+
+and is not economically beneficial for enterprises. In this regard, there is a need 
+
+for  good  application  of  existing  risk  management  methods  at  enterprises  and 
+
+modernization  of  safe  work  organization,  taking  into  account  real  state  of  a 
+
+hazardous production facility. 
+
+One of the ways to reduce risk level of an enterprise is to analyze existing 
+
+risks,  which  consists  of  risks  identification,  consequences  assessment  and 
+
+creation  of  preventive  measures,  measures  to  reduce  existing  risk  level. 
+
+Development of various scenarios of an accident, establishment of consequences 
+
+and  probabilities  of  negative  incidents  implementation  is  the  basis  for  hazard 
+
+management. 
+
+In 
+
+this  paper, 
+
+is  analyzed  application  of  hazard  analysis  method 
+
+«Consequence  Tree».  The  method  is  widely  used  for  oil  and  gas  facilities, 
+
+influencing  reduction  of  emergency  situations  and  allowing  detection  of 
+
+situation leading to serious consequences. In process of constructing tree, is used 
+
+a  system  of  quantitative  and  qualitative  methods  of  hazards  determining  to 
+
+define probability of the initial action. 
+
+The  article  provides  an  overview  of  some  software  systems  that  allow  to 
+
+visualize  risks  analyzing  steps  and  minimize  calculation  process  based  on  3D 
+
+modeling.  In  oil  and  gas  and  refining  industries,  the  FLACS  software  tool  is 
+
+used  to  simulate  most  well-known  ignition  and  toxic  emission  scenarios  in 
+
+terrestrial  conditions.  It  is  possible  to  assess  effect  of  hazardous  or  harmful 
+
+substances  on  production  facility  in  domestic  TOXI+Risk  software  package. 
+
+Phast  Lite  is  used  to  simulate  consequences  of  accidents  with  ability  to  create 
+
+danger  that  allow  to  study  entire  sequence  of  events  from  accident  itself  to 
+
+damage. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+74 
+
+In addition, the article defines digital twin. The digital twin is an integrated 
+
+model of a real object, providing constant interaction and data exchange with a 
+
+real  object,  for  object  behavior  modeling,  forecasting  and  choosing  the  most 
+
+appropriate  and  effective scenario of technological process.  This technology  is 
+
+promising  for  production  management  and  for  safe  operational  resource 
+
+extension. 
+
+Ключевые слова: анализ риска; аварии на опасном производственном 
+
+объекте;  дерево  событий;  моделирование  аварийных  последствий; 
+
+цифровой двойники; FLACS; TOXI+Risk  
+
+Key  words:  risk  analysis;  accidents  at  the  hazardous  location;  event  tree; 
+
+modeling of emergency consequences; digital twin; FLACS; TOXI+Risk 
+
+Промышленность  находится  в  постоянном  развитии,  создаются  новые 
+
+технологии,  усложняются  процессы,  позволяющие  повысить  качество 
+
+получаемого  продукта,  что,  в  свою  очередь,  приводит  и  к  повышению 
+
+уровня  опасности  на  объекте.  Ранее  применяемые  технологии  на  разных 
+
+этапах жизненного цикла объекта теряют свою актуальность.  
+
+За  последние  несколько  лет  в  различных  отраслях  промышленности 
+
+произошло  много  разрушительных  техногенных  катастроф.  В  связи  с 
+
+подобными  ситуациями  постоянно  разрабатываются  новые  подходы  в 
+
+области  управления  безопасностью  и  рисками,  которые  способствуют 
+
+повышению  уровня  обеспечения  безопасности  людей  и  окружающей 
+
+среды.  В  настоящее  время  опасности,  которые  могут  привести  к 
+
+негативным  ситуациям,  анализируются  с  помощью  различных  методов 
+
+оценки риска. 
+
+Согласно нормативным документам риск возникновения аварии  – это 
+
+мера опасности, характеризующая возможность возникновения аварии на 
+
+опасном  производственном  объекте  и  соответствующую  ей  тяжесть 
+
+последствия [1, 2]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+ 
+75 
+
+При  разработке  проектной  документации,  документации  на 
+
+техническое  перевооружение,  декларации  промышленной  безопасности, 
+
+обосновании  безопасности  опасного  производственного  объекта,  плана 
+
+мероприятий по локализации и ликвидации последствий аварий, а также в 
+
+целях  разработки  мероприятий  по  снижению  количества  аварий 
+
+проводится  анализ  риска.  Комплексный  анализ  риска  позволяет 
+
+обнаружить  все  опасные  ситуации  и  разработать  превентивные 
+
+мероприятия  и  на  объектах  нефтепереработки,  и  на  объектах 
+
+транспортировки – магистральных трубопроводах [3]. 
+
+Термин «риск» сочетает в себе как вероятность события, так и тяжесть 
+
+его  последствий.  В  области  производственной  безопасности  после 
+
+идентификации опасностей необходимо оценить степень их последствий в 
+
+случае  какой-либо  негативной  ситуации.  С  этой  целью  применяются 
+
+различные  методы  качественной  и  количественной  оценки  риска.  Они 
+
+способствуют правильной организации мероприятий по снижению уровня 
+
+опасности 
+
+на 
+
+производстве.  Наиболее 
+
+систематизированным 
+
+и 
+
+комплексным  из  этих  методов  на  данный  момент  является  метод 
+
+вероятностной оценки риска [4].  
+
+Целью  вероятностной  оценки  риска  является  выявление  компонентов, 
+
+образующих  риск,  а  также  установление  ориентиров  для  разработки 
+
+мероприятий по его снижению до уровня, принимаемого обществом [5–7]. 
+
+Вероятностный  способ  анализа  опасностей  для  технических  систем 
+
+способствует выявлению различных путей развития процессов, выстраивая 
+
+дерево  последствий  или  деревьев  отказов  технических  устройств  и 
+
+сооружений для формирования логических цепей нежеланных результатов 
+
+нарушения требований безопасности. 
+
+Результатом  анализа  риска  являются  сценарии  аварий,  применяемые 
+
+для  оценки  степени  опасности  аварий  на  промышленных  объектах  и 
+
+разработки превентивных мероприятий. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+76 
+
+Дерево  последствий  (дерево  событий)  –  это  метод  для  определения 
+
+развития  аварийной  ситуации.  Цель  этого  метода  состоит  в  изучении 
+
+формирований  ситуаций  (начиная  от  аварии)  с  учетом  результативности 
+
+сопротивления  устройств  безопасности  до  заключительного  состояния 
+
+сооружения.  В  итоге  изучения  всех  возможных  вариаций  протекания 
+
+ситуаций обнаруживаются такие состояния, которые воспринимаются как 
+
+аварийная  ситуация.  Например,  распространенные  прогнозы  вероятных 
+
+аварийных  ситуаций  на  нефтепроводах  возникают  вследствие  полной 
+
+разгерметизации  труб  и  попадания  продукта  в  атмосферу  в  критическом 
+
+режиме [8]. Пример дерева событий для последствий аварийных ситуаций 
+
+с разгерметизацией нефтепровода приведен на рисунке 1.  
+
+Рисунок 1. Дерево событий при авариях в случае разгерметизации 
+линейной части магистрального нефтепровода 
+
+Построение  дерева  событий  даёт  возможность  предусматривать 
+
+причины аварийных ситуаций и минимизировать затраты на  локализацию 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+ 
+77 
+
+и 
+
+ликвидацию 
+
+результатов, 
+
+способствуя 
+
+повышению 
+
+уровня 
+
+промышленной безопасности. 
+
+Все  фундаментальные  методы  оценки  рисков  лежат  в  основе 
+
+моделирования  негативных  явлений  на  опасном  производственном 
+
+объекте. 
+
+Модель  –  это  визуализация  реального  процесса,  структурированное  в 
+
+установленном порядке знание. 
+
+С  быстрым  развитием  новых  технологий,  таких  как  облачные 
+
+технологии,  интернет  вещей,  Big  Data,  искусственного  интеллекта, 
+
+приблизилась  эра  «умного»  производства,  ключевым  элементом  которого 
+
+становятся  «умные»  математические  модели  и  «умные»  цифровые 
+
+двойники.  
+
+Концепция  цифрового  двойника,  как  виртуального  представления 
+
+физического  объекта  используется  более  30  лет,  преимущественно  в 
+
+космической  отрасли.  Впервые  же  концепция  цифрового  двойника  была 
+
+создана  программой  NASA  Apollo,  где  были  созданы  две  одинаковые 
+
+модели космического аппарата, один аппарат был отправлен в космос для 
+
+выполнения  своей  миссии,  другой  –  остался  на  Земле  для  наблюдений, 
+
+лучшего понимания возникших ситуации и принятия решений [9, 10].  
+
+В связи с тотальной цифровизацией мира и отраслей промышленности, 
+
+например  в  нефтяной  отрасли,  наметились  быстрые  темпы  в  развитии  и 
+
+применении этой технологии.  
+
+Цифровой  двойник  является  виртуальным  прототипом  реального 
+
+объекта  исследования,  он  не  ограничивается  сбором  данных,  на  стадии 
+
+разработки  и  изготовления  продукта  он  продолжает  собирать  и 
+
+анализировать  данные  во  время  всего  жизненного  цикла  реального 
+
+объекта,  в  том  числе  с  помощью  многочисленных  датчиков,  образуя 
+
+киберфизическую систему [11, 12].  
+
+Данная 
+
+технология 
+
+является  перспективной 
+
+для 
+
+управления 
+
+производством  и  продления  безопасного  эксплуатационного  ресурса, 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+78 
+
+анализируя  накопленные  данные,  симулируя  поведение  объекта  в 
+
+заданных  условиях,  прогнозируя  определение  наиболее  эффективного  и 
+
+адекватного  сценария  проведения  технологического  процесса  и  других 
+
+мероприятий. Это особенно важно для тех предприятий, которые проводят 
+
+техническое  обслуживание  и  ремонт  по  фактическому  состоянию 
+
+оборудования. 
+
+Значимость 
+
+технологий 
+
+цифровых 
+
+двойников 
+
+в 
+
+вопросах 
+
+промышленной  безопасности  и  управления  производством  осознают  в 
+
+энергетическом  секторе,  так  планируется  создание  цифровых  двойников 
+
+АЭС. Это позволит не только собирать и эффективно применять данные о 
+
+работе  каждой  отдельной  единицы  оборудования,  но  и  создаст 
+
+возможность  для  моделирования  и  прогнозирования  работы  объектов  в 
+
+различных  режимах.  ПАО  «Газпром  нефть»  также  проявляет  интерес  к 
+
+данной  технологии,  создав  цифровые  двойники  установки  гидроочистки 
+
+бензина 
+
+каталитического 
+
+крекинга 
+
+на 
+
+Московском 
+
+нефтеперерабатывающем 
+
+заводе 
+
+(НПЗ) 
+
+и 
+
+установки  первичной 
+
+переработки нефти на Омском НПЗ [13].  
+
+Для  построения  комплексной  модели  двойника  используются 
+
+численные  методы  моделирования  физических  процессов  в  материалах 
+
+объекта.  Это 
+
+помогает 
+
+прогнозировать 
+
+реакцию 
+
+изделия 
+
+на 
+
+эксплуатационные  нагрузки,  например  с  помощью  метода  конечных 
+
+элементов  (FEA  —  Finite  Element  Analysis).  С  помощью  этого  метода 
+
+можно  моделировать  поведение  сложных  систем  путём  разбиения  их  на 
+
+множество  элементов  (клеток),  достаточно  малых  для  того,  чтобы 
+
+рассматривать  их  свойства  как  однородные.  Метод  широко  используется 
+
+для решения задач механики деформируемого твёрдого тела, теплообмена, 
+
+гидродинамики и электродинамики [14]. 
+
+Научно-технический  прогресс  вызывает  необходимость  в  применении 
+
+специальных  программных  продуктов  для  моделирования  последствий 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+79 
+
+аварийных ситуаций. С появлением более мощных компьютеров возникли 
+
+и новые программы.  
+
+Рассмотрим зарубежный программный комплекс FLACS.  
+
+FLACS  –  это  программный  инструмент,  целью  которого  является 
+
+моделирование  в  наземных  условиях  (рассеивания,  пожара  и  взрыва) 
+
+наиболее известных сценариев воспламенения и токсического выброса. Он 
+
+широко 
+
+используется 
+
+в 
+
+нефтегазовой 
+
+и 
+
+перерабатывающей 
+
+промышленности, а также в большей степени в ядерной промышленности, 
+
+на  объектах  с  потенциалом  взрыва  пыли  и  во  многих  других  областях. 
+
+Моделируя  с  помощью  CFD  (Computational  Fluid  Dynamics),  можно 
+
+намного  точнее  прогнозировать  последствия  и  тем  самым  учитывать 
+
+влияние всех способствующих и смягчающих факторов [15, 16].  
+
+Применение 
+
+3 D  моделирования 
+
+для 
+
+оценки 
+
+рисков 
+
+дает 
+
+дополнительные  возможности,  например,  прогнозирование  рассеивания 
+
+дыма, проверка  гипотезы при расследовании происшествия, визуализация 
+
+результатов  в  трех  измерениях,  определение  местоположения  газа, 
+
+оптимизированное  разделение  между  оборудованиями,  спецификация 
+
+пассивного  пожара  и  защита,  размещение  оборудования  для  обеспечения 
+
+безопасности [17].  
+
+На  рисунке  2  показан  пример  вывода  FLACS-Risk:  новая  трехмерная 
+
+визуализация риска избыточных давлений взрыва [18].  
+
+Оценить  результаты  влияния  опасных  или  вредных  веществ  на 
+
+производственный 
+
+объект 
+
+можно 
+
+благодаря 
+
+отечественному 
+
+программному  комплексу  «TOXI+Risk»  (разработчик  ЗАО  НТЦ  ПБ, 
+
+г. Москва)  [19].   Программа  является  альтернативным  решением  расчетов 
+
+последствий  частных  сценариев  аварий,  также  имеется  возможность 
+
+построения  зоны  риска  и  расчета  показателей  риска  (индивидуального, 
+
+коллективного, социального).  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+80 
+
+Рисунок 2. Пример трехмерной визуализации риска  
+избыточных давлений взрыва 
+
+Особенность TOXI+Risk – это ещё один путь для учёта: 
+
+–  распределения  и  параметров  технических  конструкций  и  объектов, 
+
+подверженных опасности (люди, окружающая среда, оборудование); 
+
+– сценариев аварийных ситуаций и вероятности их образования. 
+
+Программный  комплекс  предоставляет  возможность  сформировать 
+
+величину  опасного  вещества,  проникшего  в  атмосферу  в  результате 
+
+аварийной  ситуации,  и  наглядно  представить  результаты  расчетов  на 
+
+планах окрестности, осуществить оценку количества людей, оказавшихся в 
+
+зонах  воздействия  опасностей,  пострадавших  для  различных  сценариев 
+
+аварийных ситуаций.  
+
+В  результате  имеется  возможность  построения  поля  потенциального 
+
+риска, пример которого изображен на рисунке 3 [20]. 
+
+При  анализе  последствий  аварий  также  применяется  программный 
+
+инструмент Phast Lite (разработчик Det Norske Veritas). Это программное 
+
+обеспечение позволяет анализировать сценарии аварийных последствий с 
+
+возможностями  моделирования  угроз,  позволяющий  изучать  развития 
+
+событий  от  первоначального  (авария)  до  заключительного  (нанесение 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+ 
+ущерба).  Phast  Lite  разработана  для  анализа  рисков  возникновения 
+
+аварийных  ситуаций  на  всех  этапах  проектирование  и  эксплуатации. 
+
+Основа  программного  инструмента  –  моделирование  различных 
+
+сценариев выбросов вредных и опасных веществ [21].  
+
+81 
+
+Рисунок 3. Пример поля потенциального риска 
+
+Программное обеспечение Phast Lite позволяет получить: 
+
+– достоверные результаты анализа опасности действий; 
+
+– широкие возможности создания подробных отчетов и диаграмм для 
+
+удобного и наглядного отображения результатов; 
+
+– широкое применение программного обеспечения анализа опасности 
+
+на  производстве.  Имеется  возможность  моделировать  различные 
+
+источники  выбросов,  например,  разгерметизации 
+
+трубопроводов, 
+
+разрывов сосудов и так далее; 
+
+– оценку целого спектра опасностей при производстве [22].  
+
+Программа  также  позволяет  визуализировать  контуры  избыточного 
+
+давления при аварии. Пример визуализации представлен на рисунке 4. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+ 
+82 
+
+Рисунок 4. Пример визуализации контуров избыточного давления 
+
+В целом рассмотренные выше программы дают возможность  создания 
+
+«реального  пространства»  в  месте  неконтролируемого  выброса  опасного 
+
+или  вредного  вещества,  установления  параметров  выброса,  наглядного 
+
+изображения результатов проделанных расчётов рисков [23].  
+
+Выводы  
+
+В  статье  рассмотрены  современные  программные  комплексы, 
+
+применяемые  в  области  обеспечения  промышленной  безопасности  на 
+
+опасных производственных объектах нефтегазового комплекса. Разработка 
+
+оптимального 
+
+набора  моделей 
+
+позволит 
+
+сформировать 
+
+четкое 
+
+представление  негативной  ситуации,  обеспечить  корректный  прогноз 
+
+развития ситуации и визуально представить последствия аварии.  
+
+Каждый  программный  продукт  ориентирован  на 
+
+симуляцию 
+
+определенных ситуаций, моделирование сценариев воспламенения, оценку 
+
+влияния  опасных  и  вредных  веществ  на  производство  и  так  далее. 
+
+Основывая  свою  работу  на  3D  моделировании,  они  способствуют 
+
+минимизации  процесса  расчета  и  обеспечивают  комплексное  понимание 
+
+ситуации для рассмотрения всех возможных сценариев протекания аварии. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+ 
+При  корректном  использовании  программ  обеспечивается  более 
+
+качественное  приближение  модели  к  фактической  ситуации  и  более 
+
+глубокий учет анализируемых параметров.  
+
+83 
+
+Список используемых источников 
+
+1.  Федосов  А.В.,  Идрисова  К.Р.,  Абдрахманов  Н.Х.,  Ефимова  А.В., 
+
+Градобоева  К.В.,  Расулов  С.Р.  Теоретические  основы  промышленной 
+
+безопасности. Уфа: Изд-во УГНТУ, 2018. 129 с. 
+
+2.  Абдрахманов  Н.Х.  Научно-методические  основы  обеспечения 
+
+безопасной 
+
+эксплуатации 
+
+опасных 
+
+производственных 
+
+объектов 
+
+нефтегазового комплекса на основе управления системными рисками: дис. 
+
+... д-ра техн. наук. Уфа, 2014. 266 с. 
+
+3.  Karasan A., Ilbahar E., Cebi S., Kahraman C. A New Risk Assessment 
+
+Approach:  Safety  and  Critical  Effect  Analysis  (SCEA)  and  Its  Extension  with 
+
+Pythagorean  Fuzzy  Sets  //  Safety  Science.  2018.  Vol.  108.  P.  173-187.  DOI: 
+
+10.1016/j.ssci.2018.04.031. 
+
+4.  Федосов  А.В., 
+
+Бадртдинова  И.И.,  Абдрахманова  К.Н., 
+
+Валекжанин Д.Ю.  Количественная  оценка  неопределенности  результатов 
+
+анализа  риска  техногенных  аварий  //  Сетевое  издание  «Нефтегазовое 
+
+дело». 
+
+2019.  № 
+
+3.  С. 
+
+46-66.  URL: 
+
+http://ogbus.ru/files/ogbus/ 
+
+issues/3_2019/ogbus_3_2019_p46-66.pdf (дата обращения: 19.04.2020).  DOI: 
+
+10.17122/ogbus-2019-3-46-66.  
+
+5.  Абдрахманов  Н.Х.,  Шутов  Н.В.,  Абдрахманова  К.Н.,  Ворохобко 
+
+В.В.,  Шайбаков  Р.А.  Исследование  и 
+
+анализ  нестационарности 
+
+возникновения  и  развития  потенциально  опасных 
+
+ситуаций  при 
+
+эксплуатации опасных производственных объектов // Электронный научный 
+
+журнал  «Нефтегазовое  дело».  2015.  №  1.  С.  292–306.  URL:  http://ogbus.ru/ 
+
+files/ogbus/issues/1_2015/ogbus_1_2015_p292-306_AbdrakhmanovNKH_ru.pdf 
+
+(дата обращения: 19.04.2020). 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+84 
+
+6.  Павлова  Ю.А.,  Проскура  В.С.,  Федосов  А.В.  Анализ  риска  и 
+
+методические  аспекты  оценки  ущерба  при  авариях  на  предприятиях 
+
+нефтеперерабатывающего  комплекса  //  Проблемы  сбора,  подготовки  и 
+
+транспорта нефти и нефтепродуктов. 2017. Вып. 2 (108). С. 138-146. 
+
+7.  Гаскарова  Г.Ф.,  Шарафутдинова  Г.М.  Проблемы 
+
+оценки 
+
+профессиональных  рисков  //  Актуальные  проблемы  науки  и  техники  – 
+
+2017: матер. X Междунар. науч.-практ. конф. молодых ученых: В 2 т. Уфа: 
+
+Изд-во УГНТУ, 2017. Т. 2. С. 133-135. 
+
+8.  Гарипов Р.Ф., Шарафутдинова Г.М., Барахнина В.Б. Анализ рисков на 
+
+основе  результатов  оценки  культуры  безопасности  //  Безопасность  труда  в 
+
+промышленности. 2019. № 9. С. 82-88. DOI: 10.24000/0409-2961-2019-9-82-88. 
+
+9.  Grieves  M.  Digital  Twin:  Manufacturing  Excellence  through  Virtual 
+
+Factory  Replication  //  Apriso.  URL:  http://www.apriso.com/library/video/ 
+
+dr_grieves_digital_twin_webcast_en.php (дата обращения: 20.04.2020). 
+
+10. Glaessgen  E.H.,  Stargel  D.S.  The  Digital  Twin  Paradigm  for  Future 
+
+NASA  and  U.S.  Air  Force  Vehicles  //  Structures,  Structural  Dynamics  and 
+
+Materials:  Proceeding  of  53rd  AIAA/ASME/ASCE/AHS/ASC  Conference. 
+
+Honolulu, Hawaii, USA. 2012. P. 1-14. DOI: 10.2514/6.2012-1818. 
+
+11. Rajkumar R.R., Lee I., Sha L., Stankovic J. Cyber-Physical Systems: the 
+
+Next  Computing  Revolution  //  Proceeding  of  the  47th  Design  Automation 
+
+Conference.  Anaheim,  California,  USA.  2010.  P.  731-736.  DOI: 
+
+10.1145/1837274.1837461. 
+
+12. Grieves  M.  Product  Lifecycle  Management:  the  New  Paradigm  for 
+
+Enterprises  //  International  Journal  of  Product  Development.  2005.  Vol.  2. 
+
+No. 1-2. P. 71-84. DOI: 10.1504/IJPD.2005.006669. 
+
+13. Боровков  А.И.,  Рябов  Ю.А.,  Марусева  В.М.  Новая  парадигма 
+
+цифрового 
+
+проектирования 
+
+и 
+
+моделирования 
+
+глобально 
+
+конкурентоспособной 
+
+продукции 
+
+нового 
+
+поколения 
+
+//  Центр 
+
+компьютерного 
+
+инжиниринга 
+
+СПбПУ. 
+
+08.04.2018. 
+
+URL: 
+
+http://fea.ru/news/6721(12.06.2018. (дата обращения: 21.04.2020). 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+85 
+
+14. Абдрахманова  К.Н.  Применение  цифрового  двойника  в  целях 
+
+обеспечения  промышленной  безопасности  в  нефтегазовой  отрасли  // 
+
+Актуальные проблемы и тенденции развития техносферной безопасности в 
+
+нефтегазовой отрасли: матер. II Междунар. науч.-практ. конф. Уфа: Изд-во 
+
+УГНТУ, 2019. С. 152-153. 
+
+15. Соловьев  С.  Цифровые  двойники  в  промышленности:  сегодня  и 
+
+завтра  //  ИнформКурьер-Связь  (ИКС).  2019.  №  2.  С.  81-83.  URL: 
+
+http://www.iksmedia.ru/articles/5585041-Czifrovye-dvojniki-v-promyshlennost. 
+
+html#ixzz65XrvkZi1 (дата обращения: 21.04.2020). 
+
+16. Банников  В.В.,  Савицкая  Т.В.  Моделирование  последствий  аварий 
+
+на  опасных  производственных  объектах  с  использованием  программного 
+
+комплекса FLACS // Успехи в химии и химической технологии. 2016. № 4. 
+
+С. 24-26. 
+
+17. Марухленко  А.Л.,  Агапов  А.А.  Учебные  курсы  по  3D-
+
+моделированию  последствий  аварий  c  использованием  программного 
+
+комплекса  FLACS  //  Безопасность  труда  в  промышленности.  2014.  №  2. 
+
+С. 78-79. 
+
+18. Success  Factors  for  Computational  Fluid  Dynamics  (CFD)  based  Fire 
+
+and  Explosion  Studies  //  Bell  Energy.  URL:  https://bell-energy.com/business-
+
+analytics/cfd-success-factor (дата обращения: 22.04.2020). 
+
+19. Официальный сайт ЗАО «Научно-технический центр исследований 
+
+проблем  промышленной  безопасности.  URL:  https://www.safety.ru/org-zao 
+
+(дата обращения: 22.04.2020). 
+
+20. Программные  средства  по  промышленной  безопасности  Toxi+: 
+
+Официальный сайт. URL: https://toxi.ru (дата обращения: 22.04.2020). 
+
+21. Consequence  Analysis  Software  –  Phast  Lite  //  Det  Norske  Veritas 
+
+(DNV).  URL:  https://www.dnvgl.com/services/consequence-analysis-software-
+
+phast-lite-1695 (дата обращения: 23.04.2020).  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+86 
+
+22. Gul  M.,  Guven  B.,  Guneri  A.F.  A  New  Fine-Kinney-Based  Risk 
+
+Assessment Framework Using FAHP-FVIKOR Incorporation // Journal of Loss 
+
+Prevention 
+
+in 
+
+the  Process  Industries.  2018.  Vol.  53.  P.  3-16.  DOI: 
+
+10.1016/j.jlp.2017.08.014. 
+
+23. Oilfield 
+
+Technology: 
+
+Официальный 
+
+сайт. 
+
+URL: 
+
+https://www.oilfieldtechnology.com (дата обращения: 24.04.2020). 
+
+References 
+
+1.  Fedosov  A.V.,  Idrisova  K.R.,  Abdrakhmanov  N.Kh.,  Efimova  A.V., 
+
+Gradoboeva  K.V.,  Rasulov  S.R.  Teoreticheskie  osnovy  promyshlennoi 
+
+bezopasnosti [Theoretical Foundations of Industrial Safety]. Ufa, UGNTU Publ., 
+
+2018. 129 p. [in Russian]. 
+
+2.  Abdrakhmanov  N.Kh.  Nauchno-metodicheskie  osnovy  obespecheniya 
+
+bezopasnoi  ekspluatatsii  opasnykh  proizvodstvennykh  ob"ektov  neftegazovogo 
+
+kompleksa  na  osnove  upravleniya  sistemnymi  riskami:  dis.  d-ra  tekhn.  Nauk 
+
+[Scientific and Methodological Foundations for Ensuring the Safe Operation of 
+
+Hazardous Production Facilities of the Oil and Gas Complex Based on Systemic 
+
+Risk Management: Doct. Engin. Sci. Diss.]. Ufa, 2014. 266 p. [in Russian]. 
+
+3.  Karasan A., Ilbahar E., Cebi S., Kahraman C. A New Risk Assessment 
+
+Approach:  Safety  and  Critical  Effect  Analysis  (SCEA)  and  Its  Extension  with 
+
+Pythagorean  Fuzzy  Sets.  Safety  Science,  2018,  Vol.  108,  pp.  173-187.  DOI: 
+
+10.1016/j.ssci.2018.04.031. 
+
+4.  Fedosov 
+
+A.V., 
+
+Badrtdinova 
+
+I.I., 
+
+Abdrakhmanova 
+
+K.N., 
+
+Valekzhanin D.Yu.  Kolichestvennaya  otsenka  neopredelennosti  rezul'tatov 
+
+analiza riska tekhnogennykh avarii [Quantitative Assessment of Uncertainty of 
+
+Technogenic Accidents Risk Analysis]. Setevoe izdanie «Neftegazovoe delo»  – 
+
+Online  Edition  «Oil  and  Gas  Business»,  2019,  No.  3,  pp.  46-66.  URL: 
+
+http://ogbus.ru/files/ogbus/issues/3_2019/ogbus_3_2019_p46-66.pdf 
+
+(accessed 
+
+19.04.2020). DOI: 10.17122/ogbus-2019-3-46-66. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+87 
+
+5.  Abdrakhmanov  N.Kh.,  Shutov  N.V.,  Abdrakhmanova  K.N., 
+
+Vorokhobko V.V.,  Shaibakov  R.A.  Issledovanie  i  analiz  nestatsionarnosti 
+
+vozniknoveniya  i  razvitiya  potentsial'no  opasnykh  situatsii  pri  ekspluatatsii 
+
+opasnykh  proizvodstvennykh  ob"ektov  [Research  and  the  Analysis  of  Not 
+
+Stationarity of Emergence and Development of Potentially Dangerous Situations 
+
+at Operation of Hazardous Production Facilities]. Elektronnyi nauchnyi zhurnal 
+
+«Neftegazovoe  delo»  –  Electronic  Scientific  Journal  «Oil  and  Gas  Business», 
+
+2015,  No. 
+
+1, 
+
+pp. 
+
+292-306.  URL: 
+
+http://ogbus.ru/files/ogbus/ 
+
+issues/1_2015/ogbus_1_2015_p292-306_AbdrakhmanovNKH_ru.pdf  (accessed 
+
+19.04.2020). [in Russian]. 
+
+6.  Pavlova  Yu.A.,  Proskura  V.S.,  Fedosov  A.V.  Analiz 
+
+riska 
+
+i 
+
+metodicheskie  aspekty  otsenki  ushcherba  pri  avariyakh  na  predpriyatiyakh 
+
+neftepererabatyvayushchego  kompleksa  [Risk  Analysis  and  Methodological 
+
+Aspects of Accidents Damage Evaluation at Oil Refining Complex]. Problemy 
+
+sbora, podgotovki i transporta nefti i nefteproduktov  – Problems of Gathering, 
+
+Treatment  and  Transportation  of  Oil  and  Oil  Products,  2017,  Issue  2  (108), 
+
+pp. 138-146. [in Russian]. 
+
+7.  Gaskarova  G.F., 
+
+Sharafutdinova  G.M. 
+
+Problemy 
+
+otsenki 
+
+professional'nykh  riskov  [Professional  Risk  Assessment  Issues].  Materialy  X 
+
+Mezhdunarodnoi  nauchno-prakticheskoi  konferentsiya  molodykh  uchenykh 
+
+«Aktual'nye  problemy  nauki  i  tekhniki  –  2017»:  V  2  t.  [Materials  of  the  X 
+
+International  Scientific-Practical  Conference  of  Young  Scientists  «Actual 
+
+Problems  of  Science  and  Technology  –  2017»:  in  2  Volumes].  Ufa,  UGNTU 
+
+Publ., 2017, Vol. 2, pp. 133-135. [in Russian]. 
+
+8.  Garipov  R.F.,  Sharafutdinova  G.M.,  Barakhnina  V.B.  Analiz  riskov  na 
+
+osnove rezul'tatov otsenki kul'tury bezopasnosti [Risk Analysis Based on Safety 
+
+Culture  Assessment  Results].  Bezopasnost' 
+
+truda  v  promyshlennosti  – 
+
+Occupational Safety in Industry, 2019, No. 9, pp. 82-88. DOI: 10.24000/0409-
+
+2961-2019-9-82-88. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+88 
+
+9.  Grieves  M.  Digital  Twin:  Manufacturing  Excellence  Through  Virtual 
+
+Factory  Replication.  Apriso.  Available 
+
+at: 
+
+http://www.apriso.com/ 
+
+library/video/dr_grieves_digital_twin_webcast_en.php (accessed 20.04.2020). 
+
+10. Glaessgen  E.H.,  Stargel  D.S.  The  Digital  Twin  Paradigm  for  Future 
+
+NASA 
+
+and  U.S.  Air 
+
+Force  Vehicles.  Proceeding 
+
+of 
+
+53rd 
+
+AIAA/ASME/ASCE/AHS/ASC Conference «Structures, Structural Dynamics and 
+
+Materials».  Honolulu,  Hawaii,  USA,  2012,  pp.  1-14.  DOI:  10.2514/6.2012-
+
+1818. 
+
+11. Rajkumar R.R., Lee I., Sha L., Stankovic J. Cyber-Physical Systems: the 
+
+Next  Computing  Revolution.  Proceeding  of  the  47th  Design  Automation 
+
+Conference.  Anaheim,  California,  USA,  2010,  pp.  731-736.  DOI: 
+
+10.1145/1837274.1837461. 
+
+12. Grieves  M.  Product  Lifecycle  Management:  the  New  Paradigm  for 
+
+Enterprises. International Journal of Product Development, 2005, Vol. 2, No. 1-
+
+2, pp. 71-84. DOI: 10.1504/IJPD.2005.006669. 
+
+13. Borovkov  A.I.,  Ryabov  Yu.A.,  Maruseva  V.M.  Novaya  paradigma 
+
+tsifrovogo  proektirovaniya  i  modelirovaniya  global'no  konkurentosposobnoi 
+
+produktsii  novogo  pokoleniya  [The  New  Paradigm  of  Digital  Design  and 
+
+Modeling  of  Globally  Competitive  Next-Generation  Products].  Tsentr 
+
+komp'yuternogo 
+
+inzhiniringa 
+
+SPbPU. 
+
+08.04.2018.  Available 
+
+at: 
+
+http://fea.ru/news/6721(12.06.2018. (accessed 21.04.2020). [in Russian]. 
+
+14. Abdrakhmanova  K.N.  Primenenie  tsifrovogo  dvoinika  v  tselyakh 
+
+obespecheniya  promyshlennoi bezopasnosti  v  neftegazovoi  otrasli  [The  Use  of 
+
+the  Digital  Double  to  Ensure  Industrial  Safety  in  the  Oil  and  Gas  Industry]. 
+
+Materialy  II  Mezhdunarodnoi  nauchno-prakticheskoi  konferentsii  «Aktual'nye 
+
+problemy  i  tendentsii  razvitiya  tekhnosfernoi  bezopasnosti  v  neftegazovoi 
+
+otrasli»  [Materials  of  the  II  International  Scientific-Practical  Conference 
+
+«Actual  Problems  and  Development  Trends  of  Technosphere Safety  in  the  Oil 
+
+and Gas Industry»]. Ufa, UGNTU Publ., 2019, pp. 152-153. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+89 
+
+15. Solovev  S.  Tsifrovye  dvoiniki  v  promyshlennosti:  segodnya  i  zavtra 
+
+[Digital  Doubles  in  the  Industry:  Today  and  Tomorrow].  InformKur'er-Svyaz' 
+
+(IKS) – InformCourier-Communication (IKS), 2019, No. 2, pp. 81-83. Available 
+
+at:  http://www.iksmedia.ru/articles/5585041-Czifrovye-dvojniki-v-promyshlen-
+
+nost.html#ixzz65XrvkZi1 (accessed 21.04.2020). [in Russian]. 
+
+16. Bannikov  V.V.,  Savitskaya  T.V.  Modelirovanie  posledstvii  avarii  na 
+
+opasnykh  proizvodstvennykh  ob"ektakh  s 
+
+ispol'zovaniem  programmnogo 
+
+kompleksa  FLACS  [Modeling  Consequences  of  Accidents  on  Especially 
+
+Dangerous  Industrial  Objects  by  Using  Flacs  Software  System].  Uspekhi  v 
+
+khimii  i  khimicheskoi  tekhnologii  –  Success  in  Chemistry  and  Chemical 
+
+Technology, 2016, No. 4, pp. 24-26. [in Russian]. 
+
+17. Marukhlenko  A.L.,  Agapov  A.A.  Uchebnye  kursy  po  3D-
+
+modelirovaniyu  posledstvii  avarii  c  ispol'zovaniem  programmnogo  kompleksa 
+
+FLACS  [Training  Courses  on  3D  Modeling  of  Accident  Consequences  Using 
+
+the  FLACS  Software  Package].  Bezopasnost'  truda  v  promyshlennosti  – 
+
+Occupational Safety in Industry, 2014, No. 2, pp. 78-79. [in Russian]. 
+
+18. Success  Factors  for  Computational  Fluid  Dynamics  (CFD)  Based  Fire 
+
+and  Explosion  Studies.  Bell  Energy.  Available 
+
+at: 
+
+https://bell-
+
+energy.com/business-analytics/cfd-success-factors (accessed 22.04.2020). 
+
+19. Official Website of Scientific and Technical Center of Industrial Safety 
+
+Problems Research CJSC. Available at: https://www.safety.ru/org-zao (accessed 
+
+22.04.2020). 
+
+20. Industrial  Safety  Software  Toxi+:  Official  Website.  Available  at: 
+
+https://toxi.ru (accessed 22.04.2020). [in Russian]. 
+
+21. Consequence Analysis Software – Phast Lite. Det Norske Veritas (DNV). 
+
+Available  at:  https://www.dnvgl.com/services/consequence-analysis-software-
+
+phast-lite-1695 (accessed 23.04.2020). 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+90 
+
+22. Gul  M.,  Guven  B.,  Guneri  A.F.  A  New  Fine-Kinney-Based  Risk 
+
+Assessment  Framework  Using  FAHP-FVIKOR  Incorporation.  Journal  of  Loss 
+
+Prevention  in  the  Process  Industries,  2018,  Vol.  53,  pp.  3-16.  DOI: 
+
+10.1016/j.jlp.2017.08.014. 
+
+23. Oilfield 
+
+Technology: 
+
+Official  Website. 
+
+Available 
+
+at: 
+
+https://www.oilfieldtechnology.com (accessed 24.04.2020). 
+
+Сведения об авторах  
+
+About the authors 
+
+Абдрахманова  Карина  Наилевна,  аспирант  кафедры  «Пожарная  и 
+
+промышленная безопасность», УГНТУ, г. Уфа, Российская Федерация  
+
+Karina  N.  Abdrakhmanova,  Post-graduate  Student  of  Fire  and  Industrial 
+
+Safety Department, USPTU, Ufa, Russian Federation 
+
+e-mail: akarinan@mail.ru 
+
+Федосов  Артём  Васильевич,  кандидат  технических  наук,  доцент 
+
+кафедры  «Промышленная  безопасность  и  охрана  труда»,  УГНТУ,  г.  Уфа, 
+
+Российская Федерация  
+
+Artem V. Fedosov, Candidate of Engineering Sciences, Assistant Professor 
+
+of  Industrial  Safety  and  Labor  Protection  Department,  USPTU,  Ufa,  Russian 
+
+Federation  
+
+e-mail: fedsv-artem@rambler.ru 
+
+Идрисова  Карина  Робертовна,  кандидат  технических  наук,  доцент 
+
+кафедры  «Промышленная  безопасность  и  охрана  труда»,  УГНТУ,  г.  Уфа, 
+
+Российская Федерация  
+
+Karina R. Idrisova, Candidate of Engineering Sciences, Assistant Professor 
+
+of  Industrial  Safety  and  Labor  Protection  Department,  USPTU,  Ufa,  Russian 
+
+Federation  
+
+e-mail: pbot@mail.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+91 
+
+Даниева  Илида  Рустамовна,  студент  кафедры  «Промышленная 
+
+безопасность и охрана труда», УГНТУ, г. Уфа, Российская Федерация  
+
+Ilida  R.  Danieva,  Student  of  Industrial  Safety  and  Labor  Protection 
+
+Department, USPTU, Ufa, Russian Federation  
+
+e-mail: ilida.danieva@yandex.ru 
+
+Валеева  Регина  Рустэмовна,  студент  кафедры  «Промышленная 
+
+безопасность и охрана труда», УГНТУ, г. Уфа, Российская Федерация  
+
+Regina  R.  Valeeva,  Student  of  Industrial  Safety  and  Labor  Protection 
+
+Department, USPTU, Ufa, Russian Federation  
+
+e-mail: Lyalya.val@mail.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+

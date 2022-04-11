@@ -1,0 +1,326 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+УДК 621.31, 62-83, 621.313.33 
+
+УПРАВЛЯЕМЫЙ КАСКАДНЫЙ ЭЛЕКТРИЧЕСКИЙ ПРИВОД  
+КАК СПОСОБ МОДЕРНИЗАЦИИ СИСТЕМ ВЕРХНЕГО ПРИВОДА БУРЕНИЯ  
+●●●●●● 
+CONTROLLED CASCADE ELECTRIC DRIVE  
+AS A METHOD OF MODERNIZATION OF DRILLING UPPER DRIVE SYSTEMS 
+
+Карандей Владимир Юрьевич 
+кандидат технических наук, доцент,  
+заведующий кафедрой  
+электроснабжения промышленных предприятий, 
+Кубанский государственный  
+технологический университет 
+
+Афанасьев Виктор Леонидович 
+аспирант, 
+Кубанский государственный  
+технологический университет 
+
+Афанасьева Инна Андреевна 
+магистрант, 
+Кубанский государственный  
+технологический университет 
+
+Karandey Vladimir Yuryevich 
+Candidate of technical sciences,  
+Associate Professor,  
+Head of department of Power supply  
+of the industrial enterprises, 
+Kuban state technological university 
+
+Afanasiev Viktor Leonidovich 
+Graduate student, 
+Kuban state technological university 
+
+Afanasievа Inna Andreevna 
+Master 's degree, 
+Kuban state technological university 
+
+Аннотация. Проведенные исследования буровых систем пока-
+зали  растущий  спрос  на  системы  верхнего  привода  бурения, 
+связанный с преимуществами над другими системами бурения 
+заключающийся  в:  экономии  времени  за  счет  избегания  при-
+хвата  буровой  колонны,  безопасность  проведения  работ,  воз-
+можность  быстрой  подачи  бурового  раствора  в  скважину  при 
+спуске подъемных операций и д.р. Большинство СВП представ-
+лены гидравлическими и электрическими приводами. В связи в 
+возросшим спросом на системы верхнего привода бурения тре-
+буется разработка усовершенствованных устройств. 
+
+Annotation.  Research  of  drilling  systems 
+have  shown  a  growing  demand  for  top  drive 
+drilling  systems  associated  with  advantages 
+over other drilling systems consisting in: sav-
+ing time by avoiding sticking of the drill string, 
+safety of work, the ability to quickly supply drill-
+ing fluid to the well during the launch of lifting 
+operations,  etc.  R.  Most  SVPs  are  repre-
+sented by hydraulic and electric drives. Due to 
+the  increased  demand  for  top  drive  drilling 
+systems,  the  development  of  advanced  de-
+vices is required. 
+
+Ключевые слова: специальный электрический привод, управ-
+ляемый асинхронный каскадный электропривод, система верх-
+него  привода  бурения,  электромеханическое  преобразование 
+энергии, электромагнитная система. 
+
+Keywords:  special  electric  drive,  controlled 
+by  asynchronous  cascade  electric  drive,  top 
+drilling  drive  system,  electromechanical  en-
+ergy transformation, electromagnetic system. 
+
+К 
+
+буровым  установкам  предъявляется  особые  требования [1,  2],  особенно  к  основному  эле-
+менту – системе силового верхнего привода [3, 4]. К нему предъявляются особые требова-
+ния: соответствие мощности [5, 6] и гибкости характеристики условиям работы исполнительных меха-
+низмов [7, 8], достаточная надежность, долговечность, небольшая масса и экономическая эффектив-
+ность [9, 10]. Под гибкостью характеристики понимают способность силового привода автоматически 
+или  при  участии  оператора  быстро  приспосабливаться  в  процессе  работы  к  изменениям  нагрузок  и 
+частот вращения исполнительных механизмов [11, 12]. Гибкость характеристики определяется коэф-
+фициентом  приспособляемости,  диапазоном  собственного  регулирования,  частотой  вращения  валов 
+силового привода и приемистостью двигателей. Приемистостью называют интенсивность протекания 
+переходных процессов, т.е. время, в течение которого двигатель и силовой привод реагируют на изме-
+нение нагрузки.  
+
+В ходе анализа конструкции системы верхнего привода бурения (рис. 1) выявлены конструктив-
+
+ные элементы, которые можно подвергнуть модернизации: электрический привод, трансмиссия. 
+
+Применение управляемого каскадного электрического привода взамен классического однодвига-
+тельного  электрического  привода  позволит  улучшить  механические  характеристики  электрического 
+привода, так как управляемый каскадный электрический привод состоит из двух электродвигателей, и 
+может  найти  применение  при  создании  приводов  с  регулируемой  частой  вращения  от  0  до  двойной 
+номинальной  при  постоянном  моменте  или  приводов  с  удвоенным  моментом  при  постоянной  номи-
+нальной скорости вращения (рис. 2), в том числе реверсивных, а также при использовании любых дру-
+гих типов электрических приводов [13] . 
+
+287 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Рисунок 1 – Система СВП в разрезе 
+
+Рисунок 2 – Характеристики управляемого каскадного электрического привода  
+
+Разработаны  два  типа  конструкции  представленного  электропривода:  цилиндрическая  и  акси-
+альная. В ходе анализа разработанных конструкций наиболее приемлемой является аксиальная кон-
+струкция в виду своих компактных габаритов и равномерно направленных осевых усилий, что позволит 
+снизить износ толевого троса.  
+
+Для расширения диапазона регулирования системы верхнего привода бурения необходимо раз-
+работать  новые  подходы  к  моделированию  специальных  электрических  приводов  [14,  15]  и  расчету 
+электромагнитных параметров [16, 17]. Механически требуется отказаться от классического редуктора 
+в пользу многоступенчатого планетарного редуктора, так как данные редуктор обладает рядом преиму-
+ществ: компактность; малая нагрузка, оказываемая на опоры; длительный эксплуатационный срок; по-
+вышенное передаточное отношение, большой диапазон регулирования. 
+
+Но главным преимуществом применения планетарного редуктора в связке с управляемым кас-
+кадным электрическим приводом – это способность планетарного редуктора, при взаимной блокировке 
+звеньев  превращаться  впрямую  передачу,  что  позволит  в  полной  мере  реализовать  возможности 
+управляемого каскадного электрического привода. 
+
+Исследование  выполнено  при финансовой поддержке  Фонда  содействия  инновациям, договор 
+
+№ 14695ГУ/201. 
+
+288 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Литература 
+
+1.  Бакиров  А.Т.  Системы  силового  верхнего привода  электрического  и  гидравлического  исполнения. Ос-
+
+новные  характеристики,  преимущества  и  недостатки  :  Современные  проблемы  нефтегазового  оборудования  /                
+А.Т. Бакиров, В.Ф. Нуриахметов // Материалы Международной научно-технической конференции. – 2019. – С. 59–62. 
+
+2.  Козярук А.Е. Энергоэффективные электромеханические комплексы горно-добывающих и транспортных 
+
+машин // Записки Горного института. – 2016. – Т. 218. – С. 261–269. 
+
+3.  Osipov O.I. Problems of implementation and adjustment of the modern electric drives // Russian Electrical En-
+
+gineering. – 2015. – Vol. 86. – № 1. – С. 5–8. 
+
+4.  Карандей  В.Ю.  Mathematical  modeling  of  special  electric  drives  for  the  equipment  of  oil  and  gas  branch  /              
+
+В.Ю. Карандей, В.Л. Афанасьев // Политематический сетевой электронный научный журнал Кубанского государ-
+ственного аграрного университета. – 2017. – № 08 (132). – С. 926–940. – Doi: 10.21515/1990-4665-132-072.  
+
+5.  Karandey  V.Yu.  Determination  of  power  and  moment  on  shaft  of  special  asynchronous  electric  drives  /                     
+
+V.Yu. Karandey, B.K. Popov, O.B. Popova, V.L. Afanasyev // IOP Conf. Series: Materials Science and Engineering, Vol. 
+327, 052003, 2018. doi: 10.1088/1757-899X/327/5/052003. 
+
+6.  Karandey V.Yu. Optimization of parameters of special asynchronous electric drives / V.Yu. Karandey, B.K. Po-
+pov, O.B. Popova, V.L. Afanasyev // IOP Conf. Series: Materials Science and Engineering, Vol. 327, 052002, 2018. doi: 
+10.1088/1757-899X/327/5/052002. 
+
+7.  Ахметгаряев Р.Т., Андреев Н.К. Прямое управление моментом в электроприводе скважинных штанговых 
+насосных установок // Известия высших учебных заведений. Проблемы энергетики. – 2011. – № 9–10. – С. 100–104. 
+8.  Никулин  О.В.  Разработка  алгоритма  управления  верхним  приводом  для  бурения  скважин  с  большим 
+отклонением  от  вертикали  /  О.В.  Никулин,  А.А.  Удовенко,  В.С.  Карабута  //  Газовая  промышленность.  –  2019.  –              
+№ 1 (779). – С. 30–34. 
+
+9.  Karandey V.Yu. Research of electrical power processes for optimum modeling and design of special electric 
+drives  /  V.Yu.  Karandey,  B.K.  Popov,  O.B.  Popova,  V.L.  Afanasyev  //  Advances  in  Engineering  Research  conference 
+proceedings. Vol. 157, 242–247 pp., 2018. doi: 10.2991/aime-18.2018.47. 
+
+10. Karandey V.Yu. Research of electromagnetic parameters for improvement of efficiency of special electric drives 
+and  components  /  V.Yu.  Karandey,  B.K.  Popov,  O.B.  Popova,  V.L.  Afanasyev  5th  International  Conference  on  Power 
+Generation Systems and Renewable Energy Technologies 2019, 69–74 pp., 2016. Doi: 10.1109/PGSRET.2019.8882689. 
+
+11. Karandey  V.Yu.  Research  and  analysis  of  force and moment  of the  cascade  asynchronous electric  drives /                 
+
+V.Yu. Karandey, B.K. Popov, O.B. Popova, V.L. Afanasyev // IOP Conference Series: Earth and Environmental Science 
+electronic edition. Saint-Petersburg Mining University. Vol. 194, Т. 5, 052009, 2018. doi: 10.1088/1755-1315/194/5/052009. 
+12. Karandey V.Yu. Research of change of parameters of a magnetic flux of the stator and rotor of special electric 
+drives / V.Yu. Karandey, B.K. Popov, V.L. Afanasyev // 2018 International Multi-Conference on Industrial Engineering and 
+Modern Technologies (FarEastCon) 2018. p. 8602911. Doi: 10.1109/FarEastCon.2018.8602911. 
+
+13. Афанасьев  В.Л.  Управляемый  каскадный  электрический  привод  /  В.Л.  Афанасьев,  В.Ю.  Карандей,                 
+
+Б.К. Попов // патент на полезную модель RU 191959 U1, 28.08.2019, заявка № 2019111630 от 16.04.2019. 
+
+14. Анучин А.С., Ханова Ю.М., Гуляев И.В. Разработка метода быстрого и точного моделирования электро-
+
+приводов // Промышленная энергетика. – 2016. – № 4. – С. 28–33. 
+
+15. Karandey  V.Yu.  Research  dynamics  of  change  of  electromagnetic  parameters  of  controlled  special  electric 
+drives / V.Yu. Karandey, O.B. Popova, B.K. Popov, V.L. Afanasyev // 2019 International Multi-Conference on Industrial 
+Engineering and Modern Technologies (FarEastCon-2019) 2019. p. 8934751. Doi: 10.1109/FarEastCon.2019.8934751. 
+16. Карандей  В.Ю. Определение  магнитных  параметров  модели  статора компонента  управляемого асин-
+хронного каскадного электрического привода аксиальной конструкции / В.Ю. Карандей, В.Н. Кишко, В.Л. Афана-
+сьев, В.В. Квочкин // Политематический сетевой электронный научный журнал Кубанского государственного аграр-
+ного университета. – 2017. – № 10 (134). – С. 1135–1151. – Doi: 10.21515/1990-4665-134-092. 
+
+17. Карандей  В.Ю. Определение  магнитных  параметров  модели  статора компонента  управляемого асин-
+
+хронного  каскадного  электрического  привода  цилиндрической  конструкции  /  В.Ю.  Карандей,  В.В.  Квочкин,                       
+В.Л. Афанасьев, В.Н. Кишко // Политематический сетевой электронный научный журнал Кубанского государствен-
+ного аграрного университета. – 2017. – № 09 (133). – С. 1231–1248. – Doi: 10.21515/1990-4665-133-105. 
+
+References  
+
+1.  Bakirov A.T. Power top drive systems of electric and hydraulic execution. Main characteristics, advantages and 
+disadvantages : Modern problems of the oil and gas equipment / A.T. Bakirov, V.F. Nuriakhmetov // Proc. of International 
+scientific and technical conference. – 2019. – Р. 59–62. 
+
+2.  Koziaruk, A.E. Energy effective electromechanical complexes of the mining and transport machines // Notes of 
+
+the Mining Institute. – 2016. – Vol. 218. – Р. 261–269. 
+
+3.  Osipov O.I. Problems of the modern electric drives and adjustment / Russian Electrical Engineering. – 2015. – 
+
+Vol. 86. – № 1. – Р. 5–8. 
+
+4.  Karandey  V.Yu.  Mathematical  modeling  of  special  electric  drives  for  the  equipment  of  oil  and  gas  branch  /                
+
+V.Yu. Karandey, V.L. Afanas'ev // Polythematic network electronic scientific journal of Kuban state agrarian university. – 
+2017. – № 08 (132). – Р. 926–940. – Doi: 10.21515/1990-4665-132-072.  
+
+5.  Karandey  V.Yu.  Determination  of  power  and  moment  on  shaft  of  special  asynchronous  electric  drives  /                     
+
+V.Yu. Karandey, B.K. Popov, O.B. Popova, V.L. Afanasyev // IOP Conf. Series: Materials Science and Engineering, Vol. 
+327, 052003, 2018. doi: 10.1088/1757-899X/327/5/052003. 
+
+6.  Karandey V.Yu. Optimization of parameters of special asynchronous electric drives / V.Yu. Karandey, B.K. Po-
+pov, O.B. Popova, V.L. Afanasyev // IOP Conf. Series: Materials Science and Engineering, Vol. 327, 052002, 2018. doi: 
+10.1088/1757-899X/327/5/052002. 
+
+289 
+
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+7.  Akhmetgariaev  R.T.,  Andreev  N.K.  Direct  torque  control  in  the  electric  drive  of  the  downhole  downhole  rod 
+
+pumping units // Izvestia vysokhraneniya. Problems of power engineering. – 2011. – № 9–10. – Р. 100–104. 
+
+8.  Nikulin O.V. Development of the upper drive control algorithm for the wells with a large deviation from the vertical / 
+
+O.V. Nikulin, A.A. Udovenko, V.S. Karabuta // Gas Industry. – 2019. – № 1 (779). – Р. 30–34. 
+
+9.  Karandey V.Yu. Research of electrical power processes for optimum modeling and design of special elec-tric 
+drives  /  V.Yu.  Karandey,  B.K.  Popov,  O.B.  Popova,  V.L.  Afanasyev  //  Advances  in  Engineering  Research  conference 
+proceedings. Vol. 157, 242-247 pp., 2018. doi: 10.2991/aime-18.2018.47. 
+
+10. Karandey V.Yu. Research of electromagnetic parameters for improvement of efficiency of special electric drives 
+and  components  /  V.Yu.  Karandey,  B.K.  Popov,  O.B.  Popova,  V.L.  Afanasyev  5th  International  Conference  on  Power 
+Generation Systems and Renewable Energy Technologies 2019, 69–74 pp., 2016. Doi: 10.1109/PGSRET.2019.8882689. 
+11. Karandey  V.Yu.  Research  and  analysis  of  force and moment  of the  cascade  asynchronous electric  drives / 
+V.Yu. Karandey, B.K. Popov, O.B. Popova, V.L. Afanasyev // IOP Conference Series: Earth and Environmental Science 
+electronic  edition.  Saint-Petersburg  Mining  University.  Vol.  194,  T.  5,  052009,  2018.  doi:  10.1088/1755-
+1315/194/5/052009. 
+
+12. Karandey V.Yu. Research of change of parameters of a magnetic flux of the stator and rotor of special elec-tric 
+drives / V.Yu. Karandey, B.K. Popov, V.L. Afanasyev // 2018 International Multi-Conference on Industrial Engineer-ing and 
+Modern Technologies (FarEastCon) 2018. p. 8602911. Doi: 10.1109/FarEastCon.2018.8602911. 
+
+13. Afanasiev,  V.L.  Controlled  cascade  electric  drive /  V.L.  Afanasiev,  V.Yu.  Karandey,  B.K.  Popov //  Patent  for 
+
+useful model RU 191959 U1, 28.08.2019, application No. 2019111630 of 16.04.2019. 
+
+14. Anuchin  A.S.,  Khanova  Yu.M., Gulyaev I.V.  Development  of  the  fast  and accurate modeling method  for the 
+
+electric power-electric drives // Industrial power engineering. – 2016. – № 4. – Р. 28–33. 
+
+15. Karandey  V.Yu.  Research  dynamics  of  change  of  electromagnetic  parameters  of  controlled  special  electric 
+drives / V.Yu. Karandey, O.B. Popova, B.K. Popov, V.L. Afanasyev // 2019 International Multi-Conference on Industrial 
+Engineering and Modern Technologies (FarEastCon-2019) 2019. p. 8934751. Doi: 10.1109/FarEastCon.2019.8934751. 
+
+16. Karandey V.Yu. Determination of the magnetic parameters of the stator model of the controlled asynchronous 
+cascade  electric  drive  component  of  the  axial  design  /  V.Yu.  Karandey,  V.N.  Kishko,  V.L.  Afanasiev,  V.V.  Kvochkin  // 
+Polythematic  network  electronic  scientific  journal  of  the  Kuban  state  agrarian  university.  –  2017.  –  №  10  (134).  –                              
+Р. 1135–1151. – Doi: 10.21515/1990-4665-134-092. 
+
+17. Karandey V.Yu. Determination of the magnetic parameters of the stator model of the controlled asynchronous 
+cascade electric drive component of the cylindrical design / V.Yu. Kvochkin, V.L. Afanas'ev, V.N. Kishko // Polythematic 
+network electronic scientific journal of the Kuban State Agrarian University. – 2017. – № 09 (133). – Р. 1231–1248. – Doi: 
+10.21515/1990-4665-133-105. 
+
+290 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

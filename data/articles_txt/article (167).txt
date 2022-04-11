@@ -1,0 +1,510 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+УДК 621.31, 62-83, 621.313.33 
+
+ОПРЕДЕЛЕНИЕ МИНИМИЗИРУЮЩЕЙ ТОЧКИ 
+МЕТОДА ГЕОМЕТРИЧЕСКОГО ПРОГРАММИРОВАНИЯ 
+ДЛЯ ОПТИМИЗАЦИИ СПЕЦИАЛЬНЫХ ЭЛЕКТРИЧЕСКИХ ПРИВОДОВ 
+––––––– 
+DETERMINATION OF MINIMIZING POINT OF 
+GEOMETRIC PROGRAMMING METHOD 
+FOR OPTIMIZATION OF SPECIAL ELECTRIC DRIVES 
+
+Карандей Владимир Юрьевич 
+Кандидат технических наук, доцент, заведующий 
+кафедрой электроснабжения промышленных предприятий, 
+Кубанский государственный технологический университет  
+
+Karandey Vladimir Yuryevich 
+Candidate оf Technical Sciences, 
+Associate Professor, Head оf Department оf 
+Power Supply оf the Industrial Enterprises, 
+Kuban State Technological University 
+
+Аннотация.  В  статье  показано  решение  задачи  минимизации 
+метода  геометрического  программирования  для  оптимизации 
+специальных  электрических  приводов.  Приведено  решение  для 
+определения  минимизирующей  точки.  Использование  решенной 
+задачи метода геометрического программирования по определе-
+нию  минимизирующей  точки  дает  возможности  решать  задачи 
+оптимизации специальных электрических приводов. 
+
+Annotation. The article shows the solution of 
+the task of minimizing the method of geomet-
+ric  programming  for  optimizing  special  elec-
+tric  drives.  The  solution  for  determining  the 
+minimizing  point  is  given.  Using  the  solved 
+task of the geometric programming method to 
+determine the  minimizing  point makes  it pos-
+sible  to  solve  problems  of  optimizing  special 
+electric drives. 
+
+Ключевые  слова:  специальный  электрический  привод, 
+управляемый  асинхронный  каскадный  электропривод,  методы 
+оптимизации,  электромеханическое  преобразование  энергии, 
+электромагнитная система. 
+
+Keywords:  special  electric  drive,  controlled 
+asynchronous  cascade  electric  drive,  optimi-
+zation  methods,  electromechanical  transfor-
+mation of energy, electromagnetic system. 
+
+Р 
+
+ешение  задач  по  разработке  электрических  приводов  [1,  2]  и  исследованию  параметров 
+статике [3, 4] и динамике [5, 6] предполагает использование синтеза классических и новых 
+
+методов  исследования  [7,  8]  и  подходов  к  определению  параметров  исследуемых  устройств  [9,  10].        
+В одном ряду с такими методами исследования [11, 12] находятся методы оптимизации. С использо-
+ванием метода геометрического программирования решается задача исследования и проектирования 
+электрических  приводов  с  оптимальными  массогабаритными  параметрами.  Решенная  задача  мини-
+мизации метода геометрического программирования применена для оптимизации специальных элек-
+трических приводов [13, 14]. 
+
+Чтобы  показать,  как  из  решения  двойственной  программы  определяются  t'j,  достаточно  рас-
+
+смотреть такой частный случай. В задаче было установлено, что: 
+
+=¢
+δ
+1
+
+2
+5
+
+δ,
+
+1
+5
+
+=¢
+2
+
+1
+5
+( )
+=¢
+tu
+i
+
+=¢
+3
+
+δ,
+)
+(
+,δδv
+i
+
+δ,
+
+=¢
+4
+
+1
+5
+
+Mи
+
+=
+
+100
+
+. 
+
+=
+
+i
+
+2,1,
+
+…
+
+n,
+
+(1) 
+
+Поэтому из формулы (1) видно, что t’ удовлетворяет системе 
+
+
+
+2
+
+
+100
+5
+
+
+
+
+1
+
+
+100
+5
+
+
+
+
+1
+
+
+100
+5
+
+
+
+
+1
+
+
+100
+5
+
+
+
+=
+
+u
+1
+
+=
+
+40t
+
+1
+t
+
+1
+t
+
+2
+
+3
+
+1
+
+1
+
+=
+
+u
+
+2
+
+=
+
+40t
+
+t
+32
+
+=
+
+u
+3
+
+=
+
+20t
+
+t
+31
+
+=
+
+u
+
+4
+
+=
+
+10t
+
+t
+21
+
+Взяв логарифм каждого из этих уравнений и полагая 
+
+=
+
+z
+1
+
+ln
+
+z,t
+1
+
+2
+
+=
+
+ln
+
+z,t
+2
+
+3
+
+=
+
+ln
+
+t
+
+3
+
+, 
+
+Видим, что (z’
+
+1, z’
+
+2, z’
+
+3) удовлетворяет линейной системе 
+
+155 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+¢
+¢
+ 
+ 
+-
+-
+-
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+,z
+3
+
+-=
+0
+ln2
+0
+=
+
+z
+2
++
+,z
+3
++
+,z
+3
+
+z
+1
+=
+z
+2
+=
+z
+1
++
+.z
+2
+
+z
+1
+
+ln2
+
+Ясно, что эта система имеет единственное решение z’
+
+1=ln2, z’
+
+2=0, z’
+
+3= –ln2. Отсюда следует, что 
+
+минимизирующей точкой является t'1 = 2, t'2 = 1 и t'3 = 1/2. 
+
+Применение  метода  геометрического  программирования  позволит  правильно  исследовать 
+
+электромеханические процессы [15, 16], происходящие в специальных электрических приводах [17]. 
+
+Литература: 
+
+1.  Avdeev  A.,  Osipov  O.  PMSM  identification  using  genetic  algorithm  26th  International Workshop  on  Electric 
+
+Drives:  Improvement  in  Efficiency  of  Electric  Drives,  IWED  2019  –  Proceedings.  26,  2019,  Publisher:  IEEE,                  
+doi: 10.1109/IWED.2019.8664250.  
+
+2.  А.Е.  Козярук,  Современные  эффективные  электроприводы  производственных  и  транспортных  меха-
+
+низмов // Электротехника. – 2019. – № 3. – С. 33–37. 
+
+3.  Blyuk V., Ershov M., Komkov A. Models and algorithms for quick calculation of electromechanical transition 
+processes of multi-machine electrotechnical systems. Proceedings – 2019 1st International Conference on Control Sys-
+tems, Mathematical Modelling, Automation and Energy Efficiency // SUMMA 2019. – 2019. – Р. 686–689. 
+
+4.  Samoseiko V.F., Saushev A.V., Belousova N.V. Asynchronous motor control algorithm with parameter identifi-
+cation.  Proceedings  –  2019  International  Ural  Conference  on  Electrical  Power  Engineering  //  UralCon.  –  2019.  –             
+Р. 284–289. – Publisher: IEEE, doi: 10.1109/URALCON.2019.8877625. 
+
+5.  Abdulhy Al-Ali M.A., Kornilov V.Yu., Gorodnov A.G. Optimize the performance of electrical equipment in gas 
+separation stations (degassing station ds ) and electrical submersible pumps of oil equipment for oil rumaila field // Power 
+engineering: research, equipment, technology. – 2019. – Vol. 21. – № 1–2. – Р. 141–145. 
+
+6.  Andreev N.K. Influence of sensitivity and specifity of measuring methods on their informativity and hardware 
+requirements.  E3S Web  of  Conferences  //  2019  International  Scientific  and  Technical  Conference  Smart  Energy  Sys-
+tems, SES 2019. – 2019. – №. 05043. doi: https://doi.org/10.1051/e3sconf/201912405043. 
+
+7.  Бабанова И.С., Жуковский Ю.Л., Королев Н.А. Управление режимами работы электроприводного агре-
+гата на основе нейросетевого диагностирования и оценки технического состояния // Электрооборудование: экс-
+плуатация и ремонт. – 2018. – № 1–2. – С. 26–36. 
+
+8.  Определение  влияния  способов  широтно-импульсной модуляции на потери  мощности  в  асинхронном 
+
+двигателе / А.В. Гуляев [и др.] // Электротехника. – 2018. – № 9. – С. 74–76. 
+
+9.  Жуковский  Ю.Л.,  Бабанова  И.С.,  Королёв  Н.А.  Способ  диагностики  технического  состояния  и  оценки 
+остаточного  ресурса  электромеханического  агрегата  с  асинхронным  двигателем  //  Патент  на  изобретение          
+RU 2626231 C1, 24.07.2017. Заявка № 2016144271 от 10.11.2016. 
+
+10. Комков А.Н., Чернев М.Ю., Блюк В.В. Исследование взаимного влияния асинхронных электроприводов 
+центробежных насосов в составе электротехнической системы // Известия высших учебных заведений. Электро-
+механика. – 2019. – Т. 62. – № 5. – С. 62–67. 
+
+11. Власьевский  С.В.,  Малышева  О.А.,  Мельниченко  О.В.  Сравнение  расчетных  сил  тяги  по  сцеплению 
+электровозов переменного тока с асинхронным и коллекторным приводом // Электроника и электрооборудование 
+транспорта. – 2018. – № 5. – С. 30–36. 
+
+12. V.R. Gasiyarov [et al.] Dynamic torque limitation principle in the main line of a mill stand: explanation and ra-
+
+tionale for use // Machines. – 2019. – Vol. 7. – № 4. – Р. 76. doi: 10.3390/machines7040076. 
+
+13. Афанасьев  В.Л.,  Карандей  В.Ю.,  Попов  Б.К.  Управляемый  каскадный  электрический привод  //  Патент 
+
+на полезную модель RU 191959 U1, 28.08.2019, заявка № 2019111630 от 16.04.2019. 
+
+14. Попов  Б.К.,  Карандей  В.Ю.,  Попова  О.Б.  Аксиальный каскадный  электрический  привод  с  жидкостным 
+
+токосъемом // Патент на изобретение RU 2483415 C1, 27.05.2013. Заявка № 2012109118/07 от 11.03.2012. 
+
+15. Research of electromagnetic parameters for improvement of efficiency of special electric drives and compo-
+nents  /  V.Yu.  Karandey  [et  al.] //  5th  International  Conference  on  Power  Generation  Systems  and  Renewable  Energy 
+Technologies. – 2016. – Р. 69–74. Doi: 10.1109/PGSRET.2019.8882689. 
+
+16. Research  dynamics  of  change  of  electromagnetic  parameters  of  controlled  special  electric  drives  /             
+
+V.Yu.  Karandey  [et  al.]  //  2019  International  Multi-Conference  on  Industrial  Engineering  and  Modern  Technologies      
+(FarEastCon-2019). – 2019. – Р. 8934751. Doi: 10.1109/FarEastCon.2019.8934751. 
+
+17. Карандей В.Ю., Карандей Ю.Ю., Базык А.В. Программа расчета параметров и самоанимационного по-
+строения потокораспределения компонента асинхронного каскадного электропривода // Свидетельство об офи-
+циальной регистрации программы для ЭВМ №2015615826 от 25 мая 2015 г. 
+
+References: 
+
+1.  Avdeev  A.,  Osipov  O.  PMSM  identification  using  genetic  algorithm  26th  International Workshop  on  Electric 
+
+Drives:  Improvement  in  Efficiency  of  Electric  Drives,  IWED  2019  –  Proceedings.  26,  2019,  Publisher:  IEEE,                  
+doi: 10.1109/IWED.2019.8664250. 
+
+2.  A.E.  Koziaruk,  Modern  efficient  electric  drives  of  production  and  transport mechanisms  //  Electrotekhnika.  – 
+
+2019. – № 3. – Р. 33–37. 
+
+156 
+
+ 
+ 
+ 
+ 
+-
+-
+-
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+3.  Blyuk V., Ershov M., Komkov A. Models and algorithms for quick calculation of electromechanical transition 
+processes of multi-machine electrotechnical systems. Proceedings – 2019 1st International Conference on Control Sys-
+tems, Mathematical Modelling, Automation and Energy Efficiency // SUMMA 2019. – 2019. – Р. 686–689. 
+
+4.  Samoseiko V.F., Saushev A.V., Belousova N.V. Asynchronous motor control algorithm with parameter identifi-
+cation.  Proceedings  –  2019  International  Ural  Conference  on  Electrical  Power  Engineering  //  UralCon.  –  2019.  –             
+Р. 284–289. – Publisher: IEEE, doi: 10.1109/URALCON.2019.8877625. 
+
+5.  Abdulhy Al-Ali M.A., Kornilov V.Yu., Gorodnov A.G. Optimize the performance of electrical equipment in gas 
+separation stations (degassing station ds ) and electrical submersible pumps of oil equipment for oil rumaila field // Power 
+engineering: research, equipment, technology. – 2019. – Vol. 21. – № 1–2. – Р. 141–145. 
+
+6.  Abdulhy Al-Ali M.A., Kornilov V.Yu., Gorodnov A.G. Optimize the performance of electrical equipment in gas 
+separation stations (degassing station ds ) and electrical submersible pumps of oil equipment for oil rumaila field // Power 
+engineering: research, equipment, technology. – 2019. – Vol. 21. – № 1–2. – Р. 141–145. 
+
+7.  Babanova I.S., Zhukovsky Y.L., Korolev N.A. Management of operation modes of electric drive unit based on 
+neural network diagnostics and assessment of technical condition // Electrical Equipment: Operation and Repair. – 2018. – 
+№ 1–2. – Р. 26–36. 
+
+8.  Determination of the influence of pulse-width modulation methods on power losses in an asynchronous motor / 
+
+A.V. Gulyaev [et al.] // Electrotekhnika. – 2018. – № 9. – Р. 74–76. 
+
+9.  Zhukovsky Y.L., Babanova I.S., Korolev N.A. Method for diagnosing the technical condition and evaluating the 
+residual life of an electromechanical unit with an induction motor // Patent for the invention RU 2626231 C1, 24.07.2017. 
+Application № 2016144271 of 10.11.2016. 
+
+10. Komkov A.N., Chernev M.Y., Bluk V.V. Study of mutual influence of asynchronous electric drives of centrifugal 
+
+pumps  as  a  part  of  electrical  system  //  Proceedings  of  higher  educational  institutions.  Electromechanics.  –  2019.  –       
+Vol. 62. – № 5. – Р. 62–67. 
+
+11. Vlasievsky S.V., Malysheva O.A., Melnichenko O.V. Comparison of calculated traction forces on AC electric 
+locomotive coupling with asynchronous and collector drive // Electronics and electrical equipment of transport. – 2018. – 
+№ 5. – Р. 30–36. 
+
+12. V.R. Gasiyarov [et al.] Dynamic torque limitation principle in the main line of a mill stand: explanation and ra-
+
+tionale for use // Machines. – 2019. – Vol. 7. – № 4. – Р. 76. Doi: 10.3390/machines7040076. 
+
+13. Afanasiev  V.L.,  Karandey  V.Y.,  Popov  B.K.  Controllable  cascade  electric  drive  //  Useful  model  patent  RU 
+
+191959 U1, 28.08.2019, application number 2019111630 of 16.04.2019. 
+
+14. Popov B.K., Karandei V.Yu., Popova O.B. Axial cascade electric actuator with fluid current draw // Patent for 
+
+the invention RU 2483415 C1, 27.05.2013. Application № 2012109118/07 of 11.03.2012. 
+
+15. Research of electromagnetic parameters for improvement of efficiency of special electric drives and compo-
+nents  /  V.Yu.  Karandey  [et  al.] //  5th  International  Conference  on  Power  Generation  Systems  and  Renewable  Energy 
+Technologies. – 2016. – Р. 69–74. Doi: 10.1109/PGSRET.2019.8882689. 
+
+16. Research  dynamics  of  change  of  electromagnetic  parameters  of  controlled  special  electric  drives  /             
+
+V.Yu.  Karandey  [et  al.]  //  2019  International  Multi-Conference  on  Industrial  Engineering  and  Modern  Technologies 
+(FarEastCon-2019). – 2019. – Р. 8934751. Doi: 10.1109/FarEastCon.2019.8934751. 
+
+17. Karandei V., Karandei Yu., Bazyk A.V. Program for calculating parameters and self-animated construction of 
+the flux distribution of the asynchronous cascade electric drive component // Certificate of official registration of computer 
+software № 2015615826 from May 25, 2015. 
+
+157 
+
+ 
+ 
+ 
+ 
+ 
+

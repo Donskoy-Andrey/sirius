@@ -1,0 +1,1247 @@
+231 
+
+УДК 519.673 
+
+CFD-МОДЕЛИРОВАНИЕ СТАТИЧЕСКОГО СМЕСИТЕЛЯ  
+
+ДЛЯ ОБЕССОЛИВАНИЯ НЕФТИ 
+
+CFD-MODELING OF A STATIC MIXER FOR OIL DESALTING 
+
+Р.Ф. Ахметов, А.Х. Мухаметьянова, Г.М. Сидоров, 
+
+Б.А. Яхин, А.Р. Набиева, Р.Ю. Кондратьев 
+
+Уфимский государственный нефтяной технический университет, 
+
+г. Уфа, Российская Федерация 
+
+Rustam F. Akhmetov, Albina H. Mukhametyanova, Georgij M. Sidorov, 
+
+Bulat A. Yakhin, Albina R. Nabieva, Roman Yu. Kondratyev 
+
+Ufa State Petroleum Technological University, Ufa, Russian Federation 
+
+e-mail: albina-m1996@mail.ru 
+
+Аннотация.  Одним  из  способов  увеличения  глубины  обессоливания 
+
+нефти  является  применение  статических  смесителей.  Работа  смесителей 
+
+заключается  в  интенсивном  перемешивании  нефти  и  воды.  Статические 
+
+смесители  широко  применяются  в  процессах  подготовки  нефти  за  счет 
+
+простоты конструкции и низкой стоимости. 
+
+Процесс 
+
+численного 
+
+анализа 
+
+гидродинамики  используется 
+
+в 
+
+статических  смесителях  для  расчета  скоростей  потока,  перепада  давления 
+
+и  подбора  оптимальной  конструкции  винтового 
+
+закручивающего 
+
+устройства. 
+
+Статья  посвящена  исследованию 
+
+гидродинамики 
+
+статического 
+
+смесителя  для  обессоливания  нефти  в  рабочих  условиях,  представлены 
+
+результаты  разработки  модели  для  исследования  гидродинамики  работы 
+
+статического  смесителя  с  закручивающим  устройством  с  применением 
+
+CFD  (Computational  Fluid  Dynamics).  Приведены  данные  краткого  обзора 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+232 
+
+использования  CFD-метода 
+
+для 
+
+расчета 
+
+кинетической 
+
+энергии 
+
+турбулизации  и  перепада  давления  для  статических  смесителей, 
+
+результаты  исследования  гидродинамики  статического  смесителя  в 
+
+рабочих  условиях,  моделирования  процесса  смешивания  нефти  и  воды. 
+
+Задача  исследования  заключается  в  изучении  перепада  давления  и 
+
+генерации  турбулентной  энергии  в  смесителях  с  различной  геометрией 
+
+закручивающего  устройства.  Моделирование  проводилось  с  изменением 
+
+геометрических  размеров  прорезей,  а  именно  с  изменением  соотношения 
+
+сторон  прямоугольных  прорезей  закручивающего  устройства  нефти  в 
+
+статическом  смесителе  в  2–5  раз.  В  результате  CFD-моделирования 
+
+изучены  изменения  показателей  турбулизации  потока  и  перепад  давления 
+
+на  смесителе  в  зависимости  от  соотношения  сторон  прямоугольных 
+
+прорезей в закручивающемся устройстве. 
+
+В  результате  анализа  экспериментальных  данных  показано,  что  с 
+
+увеличением 
+
+соотношения 
+
+сторон 
+
+прямоугольных 
+
+прорезей 
+
+закручивающего  устройства  нефти  с  2  до  5  кинетическая  энергия 
+
+турбулизации увеличивается на 57,5 %. 
+
+Использование CFD-моделирования позволяет моделировать процессы 
+
+с  высокой  точностью,  значительно  сокращает  время  и  материальные 
+
+ресурсы  на  разработку  высокоэффективных  статических  смесителей  для 
+
+обессоливания нефти. 
+
+Abstract. One of the ways to increase the depth of oil desalination is the use 
+
+of static mixers. The work of the  mixers consists in the intensive  mixing of oil 
+
+and  water.  Static  mixers  are  widely  used  in  oil  treatment  processes  due  to  the 
+
+simplicity of design and low cost. 
+
+The process of numerical analysis of hydrodynamics is used in static mixers 
+
+to  calculate  flow  rates,  differential  pressure  and  the  selection  of  the  optimal 
+
+design of a screw twisting device. 
+
+The  work  is  devoted  to  the  study  of  the  hydrodynamics  of  a  static  mixer  for 
+
+desalting  oil  under  operation,  the  results  of  the  development  of  a  model  for 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+233 
+
+studying  the  hydrodynamics  of  a  static  mixer  with  a  swirling  device  using  CFD 
+
+(Computational  Fluid  Dynamics) are presented. The data  of a  brief  review of the 
+
+use  of  the  CFD  method  for  calculating  the  kinetic  energy  of  turbulization  and 
+
+pressure  drop  for  static  mixers,  the  results  of  a  study  of  the  hydrodynamics  of  a 
+
+static mixer under operating conditions, and modeling the process of mixing oil and 
+
+water are presented. The objective is to study the pressure drop and the generation 
+
+of turbulent energy in mixers with different geometry of the swirling device. The 
+
+simulation was carried out with a change in the geometric dimensions of the slots, 
+
+namely, with a change in the aspect ratio of the rectangular slots of the oil swirling 
+
+device in a static mixer by 2–5 times. As a result of CFD modeling, the changes in 
+
+flow turbulence and the pressure drop on the mixer depending on the aspect ratio of 
+
+the rectangular slots in the swirling device were studied. 
+
+Ключевые 
+
+слова: 
+
+CFD; 
+
+гидродинамика; 
+
+моделирование; 
+
+обессоливание; 
+
+статический 
+
+смеситель; 
+
+твердотельная 
+
+модель; 
+
+закручивающее устройство; турбулизация; перепад 
+
+Key  words:  CFD;  hydrodynamics;  мodeling;  desalination;  static  mixer; 
+
+solid state model; spinning device; turbulence; delta 
+
+На  сегодняшний  день  актуальной  проблемой  является  уменьшение 
+
+содержания минеральных солей при подготовке нефти. Хлористые соли, в 
+
+особенности  хлориды  кальция  и  магния,  гидролизуются  с  образованием 
+
+соляной  кислоты,  под  действием  которой  происходит  коррозия 
+
+оборудования,  в  результате  на  внутренней  поверхности  трубопроводов, 
+
+теплообменников  в 
+
+змеевиках  нагревательных  печей  образуются 
+
+отложения  солей.  Отложения  в  трубопроводах  уменьшают  их  проходное 
+
+сечение,  что  приводит  к  снижению  производительности.  Одним  из 
+
+способов  увеличения  глубины  обессоливания  нефти  является  применение 
+
+статических смесителей [1–3]. Работа статических смесителей заключается 
+
+в  интенсивном  перемешивании  нефти  и  воды.  Эти  смесители  широко 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+ 
+234 
+
+применяются в процессах подготовки нефти за счет простоты конструкции 
+
+и низкой стоимости. 
+
+За  последние  20  лет  с  развитием  вычислительной  гидродинамики 
+
+(Computational Fluid Dynamic) и увеличением вычислительных мощностей 
+
+компьютеров стало  возможным численно анализировать гидродинамику  в 
+
+статических смесителях для перемешивания различных компонентов. Так, 
+
+в  работе  П.  Пианко-Опрух,  З.  Джаворски 
+
+[4]  представлен  обзор 
+
+применения  средств  вычислительной 
+
+гидродинамики  для  расчета 
+
+скоростей потока и перепада давления для статических смесителей SMX. В 
+
+работе Ф. Ферон, Н. Саузе [5] проведено сравнение по перепаду давления в 
+
+турбулентном  режиме  течения  для  трех  статических  смесителей  фирмы 
+
+SMX. М. Шабани, М. Ализадех, А. Мазахери [6, 7] разработали модель на 
+
+основе  вычислительной 
+
+гидродинамики  для  смесителя-отстойника, 
+
+согласно которой предложена оптимальная геометрия данного смесителя с 
+
+более  высокой  эффективностью.  З.  Джаворски,  Х. Муразиевич  [8]  с 
+
+помощью CFD-метода исследовали смешивание нефти и воды в смесителе 
+
+Kenics.  И.  Гаспар,  П.  Текич 
+
+[9]  по  результатам  CFD-метода 
+
+оптимизировали  геометрию  статического  смесителя.  Г.  Чен,  З.  Луи  [10] 
+
+продолжали изучение смесителей фирмы  Kenics с использованием метода 
+
+вычислительной  гидродинамики  о  влиянии  соотношения  сторон  и  угла 
+
+закрутки на перепад давления в смесителях. М. Стек, П. Синовиек [11, 12] 
+
+разработали  численную  модель  для  статического  смесителя  фирмы  Koflo 
+
+для прогнозирования перепада давления при турбулентном течении.  
+
+В  работах  [13–15]  показано,  что  с  помощью  CFD-метода  можно 
+
+получить  подробную  информацию  об  эффективности  перемешивания 
+
+нефти  с  пресной  водой  и  разработать  конструкцию  высокоэффективного 
+
+статического 
+
+смесителя 
+
+для  процесса 
+
+обессоливания  нефти 
+
+и 
+
+усовершенствовать  газодинамический  метод  разделения  углеводородных 
+
+газов 
+
+за 
+
+счет 
+
+подбора 
+
+оптимальной 
+
+конструкции 
+
+винтового 
+
+закручивающего  устройства  [16].  Опытно-промышленными  испытаниями 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+235 
+
+струйного  гидравлического  смесителя,  разработанного  на  основе  данных 
+
+моделирования,  подтверждена  высокая  эффективность  в  промысловых 
+
+условиях и достоверность CFD-метода. 
+
+Большое  количество  работ  посвящено  применению  вычислительной 
+
+гидродинамики в статических смесителях с точки зрения интенсификации 
+
+процесса,  основываясь  на  характеристиках  смешивания  и  массопереноса 
+
+[17–21]. 
+
+Данная  статья  посвящена  исследованию  гидродинамики  статического 
+
+смесителя  для  обессоливания  нефти  в  рабочих  условиях.  Моделирование 
+
+проводилось  с  изменением  геометрических  размеров  тангенсальных 
+
+прорезей,  а  именно  с  изменением  соотношения  сторон  а/b  прорези 
+
+закручивающего устройства нефти в статическом смесителе в 2–5 раз.  
+
+Объекты и методы исследования 
+
+Для  моделирования  работы  статического  смесителя  была  построена 
+
+твердотельная  модель.  Созданная  в  CAD-системе  модель  была 
+
+импортирована  в  модуль  ANSYS  Design  Modeler,  где  было  произведено 
+
+извлечение  расчетного  домена.  Для 
+
+создания  расчетной 
+
+сетки 
+
+использовался 
+
+модуль  ANSYS  Meshing.  Для 
+
+моделирования 
+
+гидродинамики использовался инструмент ANSYS CFX. 
+
+Трехмерная 
+
+твердотельная  модель 
+
+статического 
+
+смесителя 
+
+с 
+
+закручивающим устройством представлена на рисунке 1. 
+
+Рисунок 1. Твердотельная модель статического смесителя 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+ 
+236 
+
+Твердотельная  модель 
+
+статического 
+
+смесителя 
+
+состоит 
+
+из 
+
+цилиндрического  корпуса,  внутри  которого  установлено  закручивающее 
+
+устройство.  Закручивающее  устройство  состоит  из  конической  заглушки, 
+
+направленной  острием  навстречу  потока,  цилиндрического  корпуса  с 
+
+прямоугольными прорезами и конического перехода. 
+
+Твердотельная  модель  закручивающего  устройства  с  прорезями 
+
+представлена на рисунке 2.  
+
+Рисунок 2. Твердотельная модель закручивающего устройства 
+
+В  гидродинамических  расчетах  была  использована  полуэмпирическая 
+
+k–ε  модель  турбулентности,  где  k  учитывает  кинетическую  энергию 
+
+турбулентности  и  ε  –  скорость  диссипации  турбулентности.  Согласно 
+
+работам  [22–24],  использование  турбулентных  моделей  приводит  к  более 
+
+точным  результатам,  чем  модель  ламинарного  потока  для  исследования 
+
+сложных  процессов  взаимодействия  нефти  и  воды  в  статических 
+
+смесителях. 
+
+Количество  элементов  конечно-элементной  сетки  составило  626878. 
+
+Расчетная сетка сгенерирована в модуле ANSYS Meshing. 
+
+Результаты и их обсуждение 
+
+Одним  из  способов  уменьшения  содержания  хлористых  солей  при 
+
+подготовке  нефти  является  интенсивная  промывка  нефти  пресной  водой. 
+
+Высокая  степень  диспергирования  воды  в  нефти  достигается  за  счет 
+
+турбулизации потока. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+ 
+237 
+
+Моделирование  процесса  турбулизации  проводилось  при  скорости 
+
+потока жидкости, поступающей в смеситель, равной 2,5 м/с. 
+
+В 
+
+результате  CFD-моделирования 
+
+анализировали 
+
+показатели 
+
+турбулизации  потока  и  перепада  давления  в  смесителе  в  зависимости  от 
+
+соотношения сторон a/b в закручивающемся устройстве.  
+
+Результаты  симуляции  работы  статического  смесителя  приведены  на 
+
+рисунке 3.  
+
+Из  анализа  рисунка  3  видно,  что  при  соотношении  сторон  прорези  
+
+a/b  =  5  распределение  кинетической  энергии  турбулизации  потока 
+
+жидкости  в  статическом  смесителе  с  закручивающим  устройством 
+
+увеличивается. 
+
+при соотношении a/b = 2 
+
+при соотношении a/b = 5 
+
+Рисунок 3. Распределение кинетической энергии турбулизации потока 
+жидкости в статическом смесителе с закручивающим устройством 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+На  рисунке  4  приведено  сравнение  скорости  потока  при  разных 
+
+соотношениях сторон a и b в закручивающем устройстве. 
+
+238 
+
+a/b = 2                                                   a/b = 5 
+
+Рисунок 4. Распределение скорости потока в закручивающем устройстве 
+при разных соотношениях a/b 
+
+При  соотношении  a/b  =  5  распределение  скорости  потока  в 
+
+закручивающем устройстве более равномерно по всему сечению смесителя 
+
+(рисунок  4),  что  положительно  влияет  на  интенсивность  перемешивания 
+
+нефти и пресной воды. 
+
+Перепад  давления  в  смесителе  возникает  при  прохождении  жидкости 
+
+через  прорези  закручивающего  устройства.  Величина  перепада  давления 
+
+зависит от размера прорези и соотношения сторон.  Увеличение перепада 
+
+давления  приводит  к  повышению  турбулизации  потока  и  интенсивности 
+
+перемешивания нефти с пресной водой при обессоливании.   
+
+График  изменения  перепада  давления  в  закручивающем  устройстве 
+
+приведен на рисунке 5.  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+ 
+239 
+
+Рисунок 5. График изменения перепада давления в закручивающем 
+устройстве нефти 
+
+Из  анализа  рисунка  5  видно,  что  наибольшее  давление  перед  вводом 
+
+жидкости в закручивающее устройство.  При вводе жидкости в кольцевое 
+
+сечение  между  корпусом  смесителя  и  закручивающим  устройством 
+
+скорость  потока  увеличивается  из-за  уменьшения  площади  сечения, 
+
+следовательно, снижается давление. Скорость потока также увеличивается, 
+
+когда  жидкость  проходит  через  прорези  закручивающего  устройства,  и, 
+
+как  следствие,  снижается  давление.  При  прохождении  жидкости  внутри 
+
+закручивающего  устройства  и  на  выходе  в  корпус  смесителя  скорость 
+
+потока снижается, следовательно, увеличивается перепад давления.  
+
+На  рисунке  6  представлены  экспериментальные  данные  (перепад 
+
+давления  кинетическая  и  энергия  турбулизации)  в  зависимости  от 
+
+соотношения сторон a/b в закручивающем устройстве. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+ 
+240 
+
+а) 
+
+б) 
+
+Рисунок 6. Результаты CFD-моделирования:  
+график зависимости перепада давления на устройстве от соотношения 
+сторон a/b (а) и график зависимости кинетической энергии турбулизации 
+от соотношения сторон a/b (б) 
+
+Для  обеспечения  высокой  степени  диспергирования  воды  в  нефти  и 
+
+повышения 
+
+эффективности  обессоливания  необходимо  обеспечить 
+
+интенсивную  турбулизацию  потока.  Анализ  экспериментальных  данных, 
+
+приведенных  на  рисунке  6,  показывает,  что  с  увеличением  соотношения 
+
+сторон  а/b  прорези  закручивающего  устройства  нефти  с  2  до  5 
+
+кинетическая 
+
+энергия 
+
+турбулизации  увеличивается 
+
+с  0,1636  до 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+ 
+ 
+0,2577 Дж/кг  (на  57,5  %).  Это  оказывает  положительное  влияние  на 
+
+процесс  обессоливания  нефти,  но  при  этом  повышается  и  перепад 
+
+давления в закручивающем устройстве с 86,12 до 99,57 Па (на 15,6 %).  
+
+241 
+
+Вывод  
+
+Использование  современных  методов  вычислительной  гидродинамики 
+
+и  проведение  сравнительного  анализа  влияния  соотношения  сторон 
+
+прямоугольных  прорезей  закручивающего  устройства  в  статическом 
+
+смесителе  на  турбулизацию  потока  позволяет  моделировать  процессы 
+
+смешения нефти и воды с высокой точностью, что значительно сокращает 
+
+время  и  материальные  ресурсы  на  разработку  высокоэффективных 
+
+статических смесителей с закручивающим устройством для обессоливания 
+
+нефти. 
+
+При  конструировании  статического  смесителя  соотношение  размеров 
+
+прямоугольных  прорезей 
+
+закручивающего  устройства  необходимо 
+
+выбирать  между  показателями  наибольшей  кинетической  энергии 
+
+турбулизации  и  допустимым  перепадом  давления  в  технологической 
+
+цепочке  с  учетом  конкретных  условий  работы  установки  подготовки 
+
+нефти.  
+
+Список используемых источников 
+
+1.  Жолобова Г.Н., Хисаева  Е.М., Сулейманов  А.А., Галиакбаров  В.Ф. 
+
+Совершенствование процессов подготовки нефти // Электронный научный 
+
+журнал 
+
+«Нефтегазовое 
+
+дело». 
+
+2010.  № 
+
+1.  С. 
+
+76-83.  URL: 
+
+http://ogbus.ru/files/ogbus/authors/Zholobova/Zholobova_1.pdf 
+
+(дата 
+
+обращения: 15.11.2019). 
+
+2.  Хуторянский  Ф.М.  Современное 
+
+состояние 
+
+и 
+
+варианты 
+
+совершенствования  установок  подготовки  нефти.  Основные  направления 
+
+перспективных  научно-исследовательских  работ  в  области  глубокого 
+
+обессоливания нефти // Технологии нефти и газа. 2010. № 6. С. 33-39. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+242 
+
+3.  Кондрашева  Н.К.,  Дубовиков  О.А.,  Иванов  И.И.,  Зырянова  О.В.  К 
+
+вопросу  о  предварительной  подготовке  нефти  к  первичной  переработке  // 
+
+Записки Горного института. 2014. Т. 201. С. 21-29. 
+
+4.  Pianko-Opruch P., Jaworski Z. CFD Modeling of Liquid-Liquid Flow in 
+
+a  SMX  Static  Mixer  //  Polish  Journal  of  Chemical  Technology.  2009.  Vol.  3. 
+
+P. 41-49. DOI: 10.2478/v10026-009-0034-x. 
+
+5.  Theron  F.,  Le  Sauze  N.  Comparison  between  Three  Static  Mixers  for 
+
+Emulsification  in  Turbulent  Flow  //  International  Journal  of  Multiphase  Flow. 
+
+2011. Vol. 5. P. 488-500. DOI: 10.1016/J.IJMULTIPHASEFLOW.2011.01.004. 
+
+6.  Shabani  M.,  Alizadeh  M.,  Mazahery  A.  Fluid  Flow  Characterization  of 
+
+Liquid-Liquid  Mixing  in  Mixer-Settler  //  Engineering  with  Computers.  2011. 
+
+Vol. 4. P. 373-379. DOI: 10.1007/s00366-011-0209-y. 
+
+7.  Shabani  M.,  Mazahery  A.  Evaluation  of  the  Effect  of  Mixer  Settler 
+
+Baffles  on  Liquid-Liquid  Extraction  via  CFD  Simulation  //  UPB  Scientific 
+
+Bulletin  Series  D.  2011.  Vol.  73. 
+
+Issue  4.  P.  55-63.  URL: 
+
+https://www.scientificbulletin.upb.ro/rev_docs_arhiva/full95010.pdf 
+
+(дата 
+
+обращения: 15.11.2019). 
+
+8.  Jaworski  Z.,  Murasiewicz  H.  Numerical  and  Experimental  Studies  of 
+
+Liquid-Liquid Mixing in a Kenics Static Mixer // Proceedings the 14th European 
+
+Conference  on  Mixing.  Warsaw,  Poland.  2012.  Vol.  14.  P.  181-186.  URL: 
+
+http://mixing14.eu/p/mixing14eu_28.pdf (дата обращения: 17.11.2019). 
+
+9.  Gaspar  I.,  Tekic  P.,  Koris  A.,  Krisztina  A.,  Popovic  S.,  Vatai  G.  CFD 
+
+and  Laboratory Analysis of Axial Cross-Flow Velocity  in Porous Tube Packed 
+
+with  Differently  Structured  Static  Turbulence  Promoters  //  Chemical  Industry. 
+
+2015. Vol. 69. P. 713-718. DOI: 10.2298/HEMIND140312001G. 
+
+10. Chen G.,  Liu Z. Numerical Research of  Pressure Drop  in  Kenics Static 
+
+Mixer 
+
+//  Advanced  Materials  Research.  2013.  P.  547-551.  DOI: 
+
+10.4028/www.scientific.net/AMR.694-697.547. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+243 
+
+11. Stec  M.,  Synowiec  P.  Numerical  Method  Effect  on  Pressure  Drop 
+
+Estimation in the Koflo Static Mixer // Inzynieria I Aparatura Chemiczna. 2015. 
+
+Vol. 2. P. 48-50. 
+
+12. Stec M., Synowiec P. Analysis of the Pressure Drop Calculation Method 
+
+Impact on the Accuracy of the Experimental Results in the Koflo Static Mixer // 
+
+Inzynieria I Aparatura Chemiczna. 2015. Vol. 4. P. 201-203. 
+
+13. Сидоров  Г.М.,  Яхин  Б.А.,  Ахметов  Р.Ф.  Моделирование  работы 
+
+статического  смесителя  (нефть-вода)  для  обессоливания  нефти  и  опытно-
+
+промышленное  испытание  //  Успехи  современного  естествознания.  2017. 
+
+№ 2. С. 152-156. 
+
+14. Кашапова  Л.А.,  Марушкин  А.Б.,  Сидоров  Г.М.,  Яхин  Б.А.  Опыт 
+
+использования  струйных  гидравлических  смесителей  при  подготовке 
+
+нефти  на  промыслах  Татарстана 
+
+//  Мир  нефтепродуктов.  Вестник 
+
+нефтяных компаний. 2017. № 11. С. 37-39. 
+
+15. Пат.  180014  РФ,  МПК  B  01  F  5/06.  Струйный  смеситель  / 
+
+Г.М. Сидоров,  Р.Н.  Бахтизин,  Б.А.  Яхин,  Р.З.  Нургалиев.  2018106628, 
+
+Заявлено 21.02.2018; Опубл. 03.05.2018. Бюл. 16. 
+
+16. Ахметов  Р.Ф.,  Сидоров  Г.М.,  Рахимов  М.Н.,  Беркань  В.О. 
+
+Совершенствование  конструкции  винтового  закручивающего  устройства 
+
+методом  CFD-анализа  //  Фундаментальные  исследования.  2015.  №  11-4. 
+
+С. 647-653. 
+
+17. Yang  A.,  Hsieh  Y.,  Kuo  L.,  Tseng  L.,  Liao  S.  A  Novel  Vortex  Mixer 
+
+Actuated  One-Shot  Electricity-Free  Pumps  //  Chemical  Engineering  Journal. 
+
+2013. Vol. 228. P. 882-888. DOI: 10.1016/j.cej.2013.05.053. 
+
+18. Abdolkarimi  V.,  Ganji  H.  CFD  Modeling  of  Two  Immiscible  Fluids 
+
+Mixing  in  a  Commercial  Scale  Static  Mixer  //  Brazilian  Journal  of  Chemical 
+
+Engineering. 
+
+2014.  Vol. 
+
+4. 
+
+P. 
+
+949-957.  DOI: 
+
+10.1590/0104-
+
+6632.20140314s00002857. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+244 
+
+19. Konopacki  M.,  Kordas  M.,  Fijalkowski  K.,  Rakoczy  R.  Computational 
+
+Fluid Dynamics and Experimental Studies of a New Mixing Element in a Static 
+
+Mixer as a Heat Exchanger // Chemical and Process Engineering.  2015. Vol. 6. 
+
+P. 59-72. DOI: 10.1515/cpe-2015-0005. 
+
+20. Chanem  A.,  Lemenand  T.,  Valle  D.D.,  Peerhossaini  H.  Static  Mixers: 
+
+Mechanisms,  Applications  and  Characterization  Methods  –  A  Review  // 
+
+Chemical  Engineering  Research  and  Design.  2014.  Vol.  92.  P.  205-228.  DOI: 
+
+10.1016/j.cherd.2013.07.013. 
+
+21. Vasilev  M.P.,  Abiev  R.Sh.  Turbulent  Droplets  in  a  Flow  Type 
+
+Apparatuses – New Type Static Disperser // Chemical and Process Engineering. 
+
+2018. Vol. 349. P. 646-661. 
+
+22. Irfan  M.,  Kailash  B.,  Subramanya  G.  CFD  Analysis  of  a  Single  Phase 
+
+Mixing of Fluids without the Aid of Stirrers // International Research Journal of 
+
+Engineering and Technology. 2015. Vol. 2. Issue 9. P. 134-137. 
+
+23. Abdulmumuni A., Marhaendrajana T., Bindar Y. Application of CFD for 
+
+Numerical  Analysis  of  Liquid-Liquid  Mixing  in  T-Shape  Mixer  Using  Ansys 
+
+Fluent  //  Preprints.  27.07.2018.  URL:  https://www.preprints.org/manuscript/ 
+
+201807.0548/v1 
+
+(дата 
+
+обращения: 
+
+19.11.2019). 
+
+DOI: 
+
+10.20944/preprints201807.0548.v1. 
+
+24. Murasiewicz  H.,  Zakrzewska  B.  Large  Eddy  Simulation  of  Turbulent 
+
+Flow  and  Heat  Transfer  in  a  Kenics  Static  Mixer  //  Chemical  and  Process 
+
+Engineering. 2019. Vol. 40. P. 87-99. DOI: 10.24425/cpe.2019.126103. 
+
+References 
+
+1.  Zholobova  G.N.,  Khisaeva  E.M.,  Suleimanov  A.A.,  Galiakbarov  V.F. 
+
+Sovershenstvovanie  protsessov  podgotovki  nefti  [Improving  Oil  Preparation 
+
+Processes].  Elektronnyi  nauchnyi  zhurnal  «Neftegazovoe  delo»  –  Electronic 
+
+Scientific  Journal  «Oil  and  Gas  Business»,  2010,  No.  1,  pp.  76-83.  URL: 
+
+http://ogbus.ru/files/ogbus/authors/Zholobova/Zholobova_1.pdf 
+
+(accessed 
+
+15.11.2019). [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+245 
+
+2.  Khutoryanskii 
+
+F.M. 
+
+Sovremennoe 
+
+sostoyanie 
+
+i 
+
+varianty 
+
+sovershenstvovaniya  ustanovok  podgotovki  nefti.  Osnovnye  napravleniya 
+
+perspektivnykh  nauchno-issledovatel'skikh 
+
+rabot  v  oblasti  glubokogo 
+
+obessolivaniya  nefti  [The  Current  State  and  Ways  of  Retrofitting  of  Crude 
+
+Treatment  Plants.  The  Main  Tendencies  of  Advanced  Research  Work  in  Deep 
+
+Crude  Desalting].  Tekhnologii  nefti  i  gaza  –  Science  and  Technology  of 
+
+Hydrocarbons, 2010, No. 6, pp. 33-39. [in Russian]. 
+
+3.  Kondrasheva  N.K.,  Dubovikov  O.A.,  Ivanov  I.I.,  Zyryanova  O.V.  K 
+
+voprosu  o  predvaritel'noi  podgotovke  nefti  k  pervichnoi  pererabotke  [On  the 
+
+Issue  of  Preliminary  Preparation  of  Oil  for  Primary  Processing].  Zapiski 
+
+Gornogo  instituta  –  Journal  of  Mining  Institute,  2014,  Vol.  201,  pp.  21-29. 
+
+[in Russian]. 
+
+4.  Pianko-Opruch P., Jaworski Z. CFD Modeling of Liquid-Liquid Flow in 
+
+a  SMX  Static  Mixer.  Polish  Journal  of  Chemical  Technology,  2009,  Vol.  3, 
+
+pp. 41-49. DOI: 10.2478/v10026-009-0034-x. 
+
+5.  Theron  F.,  Le  Sauze  N.  Comparison  between  Three  Static  Mixers  for 
+
+Emulsification  in  Turbulent  Flow.  International  Journal  of  Multiphase  Flow, 
+
+2011, 
+
+Vol. 
+
+5, 
+
+pp. 
+
+488-500. 
+
+DOI: 
+
+10.1016/ 
+
+J.IJMULTIPHASEFLOW.2011.01.004. 
+
+6.  Shabani  M.,  Alizadeh  M.,  Mazahery  A.  Fluid  Flow  Characterization  of 
+
+Liquid-Liquid  Mixing  in  Mixer-Settler.  Engineering  with  Computers,  2011, 
+
+Vol. 4, pp. 373-379. DOI: 10.1007/s00366-011-0209-y. 
+
+7.  Shabani  M.,  Mazahery  A.  Evaluation  of  the  Effect  of  Mixer  Settler 
+
+Baffles  on  Liquid-Liquid  Extraction  via  CFD  Simulation.  UPB  Scientific 
+
+Bulletin  Series  D,  2011,  Vol.  73, 
+
+Issue  4,  pp.  55-63.  URL: 
+
+https://www.scientificbulletin.upb.ro/rev_docs_arhiva/full95010.pdf 
+
+(accessed 
+
+15.11.2019). 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+246 
+
+8.  Jaworski  Z.,  Murasiewicz  H.  Numerical  and  Experimental  Studies  of 
+
+Liquid-Liquid Mixing in a Kenics Static Mixer. Proceedings the 14th European 
+
+Conference  on  Mixing.  Warszawa,  Poland,  2012,  Vol.  14,  pp.  181-186.  URL: 
+
+http://mixing14.eu/p/mixing14eu_28.pdf (accessed 17.11.2019). 
+
+9.  Gaspar  I.,  Tekic  P.,  Koris  A.,  Krisztina  A.,  Popovic  S.,  Vatai  G.  CFD 
+
+and  Laboratory Analysis of Axial Cross-Flow Velocity  in Porous Tube Packed 
+
+with  Differently  Structured  Static  Turbulence  Promoters.  Chemical  Industry, 
+
+2015, Vol. 69, pp. 713-718. DOI: 10.2298/HEMIND140312001G. 
+
+10. Chen G.,  Liu Z. Numerical Research of  Pressure Drop  in  Kenics Static 
+
+Mixer.  Advanced  Materials  Research, 
+
+2013, 
+
+pp. 
+
+547-551.  DOI: 
+
+10.4028/www.scientific.net/AMR.694-697.547. 
+
+11. Stec  M.,  Synowiec  P.  Numerical  Method  Effect  on  Pressure  Drop 
+
+Estimation in the Koflo Static Mixer. Inzynieria I Aparatura Chemiczna, 2015, 
+
+Vol. 2, pp. 48-50. 
+
+12. Stec M., Synowiec P. Analysis of the Pressure Drop Calculation Method 
+
+Impact on the Accuracy of the Experimental Results in the Koflo Static Mixer. 
+
+Inzynieria I Aparatura Chemiczna, 2015, Vol. 4, pp. 201-203. 
+
+13. Sidorov  G.M.,  Yakhin  B.A.,  Akhmetov  R.F.  Modelirovanie  raboty 
+
+staticheskogo  smesitelya  (neft'-voda)  dlya  obessolivaniya  nefti  i  opytno-
+
+promyshlennoe  ispytanie  [Modeling  Process  of  Static  Mixers  (Oil-Water)  for 
+
+Desalting  Crude  Oil  and  Pilot-Industrial  Testing].  Uspekhi  sovremennogo 
+
+estestvoznaniya – Advances in Current Natural Sciences, 2017, No. 2, pp. 152-
+
+156. [in Russian]. 
+
+14. Kashapova  L.A.,  Marushkin  A.B.,  Sidorov  G.M.,  Yakhin  B.A.  Opyt 
+
+ispol'zovaniya  struinykh  gidravlicheskikh  smesitelei  pri  podgotovke  nefti  na 
+
+promyslakh  Tatarstana  [Experience  of  Using  Jetting  Hydraulic  Mixer  for 
+
+Treatment  Crude  Oil  in  Tatarstan].  Mir  nefteproduktov.  Vestnik  neftyanykh 
+
+kompanii – World of Oil Products. The Oil Companies’ Bulletin, 2017, No. 11, 
+
+pp. 37-39. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+247 
+
+15. Sidorov  G.M.,  Bakhtizin  R.N.,  Yakhin  B.A.,  Nurgaliev  R.Z.  Struinyi 
+
+smesitel' [Jet Mixer]. Patent RF, No. 180014, 2018. [in Russian]. 
+
+16. Akhmetov  R.F.,  Sidorov  G.M.,  Rakhimov  M.N.,  Berkan'  V.O. 
+
+Sovershenstvovanie  konstruktsii  vintovogo  zakruchivayushchego  ustroistva 
+
+metodom CFD-analiza [Improving the Design of Helical Vortex Generator with 
+
+CFD-Analysis]. Fundamental'nye issledovaniya – Fundamental Research, 2015, 
+
+No. 11-4, pp. 647-653. [in Russian]. 
+
+17. Yang  A.,  Hsieh  Y.,  Kuo  L.,  Tseng  L.,  Liao  S.  A  Novel  Vortex  Mixer 
+
+Actuated  One-Shot  Electricity-Free  Pumps.  Chemical  Engineering  Journal, 
+
+2013, Vol. 228, pp. 882-888. DOI: 10.1016/j.cej.2013.05.053. 
+
+18. Abdolkarimi  V.,  Ganji  H.  CFD  Modeling  of  Two  Immiscible  Fluids 
+
+Mixing  in  a  Commercial  Scale  Static  Mixer.  Brazilian  Journal  of  Chemical 
+
+Engineering, 
+
+2014,  Vol. 
+
+4, 
+
+pp. 
+
+949-957.  DOI: 
+
+10.1590/0104-
+
+6632.20140314s00002857. 
+
+19. Konopacki  M.,  Kordas  M.,  Fijalkowski  K.,  Rakoczy  R.  Computational 
+
+Fluid Dynamics and Experimental Studies of a New Mixing Element in a Static 
+
+Mixer as a  Heat  Exchanger.  Chemical and  Process Engineering, 2015, Vol. 6, 
+
+pp. 59-72. DOI: 10.1515/cpe-2015-0005. 
+
+20. Chanem  A.,  Lemenand  T.,  Valle  D.D.,  Peerhossaini  H.  Static  Mixers: 
+
+Mechanisms, Applications and Characterization Methods – A Review. Chemical 
+
+Engineering  Research  and  Design,  2014,  Vol.  92,  pp.  205-228.  DOI: 
+
+10.1016/j.cherd.2013.07.013. 
+
+21. Vasilev  M.P.,  Abiev  R.Sh.  Turbulent  Droplets  in  a  Flow  Type 
+
+Apparatuses – New Type Static Disperser. Chemical and Process Engineering, 
+
+2018, Vol. 349, pp. 646-661. 
+
+22. Irfan  M.,  Kailash  B.,  Subramanya  G.  CFD  Analysis  of  a  Single  Phase 
+
+Mixing of Fluids without the Aid of Stirrers. International Research Journal of 
+
+Engineering and Technology, 2015, Vol. 2, Issue 9, pp. 134-137. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+248 
+
+23. Abdulmumuni A., Marhaendrajana T., Bindar Y. Application of CFD for 
+
+Numerical  Analysis  of  Liquid-Liquid  Mixing  in  T-Shape  Mixer  Using  Ansys 
+
+Fluent.  Preprints.  27.07.2018.  Available  at:  https://www.preprints.org/ 
+
+manuscript/201807.0548/v1 
+
+(accessed 
+
+19.11.2019). 
+
+DOI: 
+
+10.20944/preprints201807.0548.v1. 
+
+24. Murasiewicz  H.,  Zakrzewska  B.  Large  Eddy  Simulation  of  Turbulent 
+
+Flow  and  Heat  Transfer  in  a  Kenics  Static  Mixer.  Chemical  and  Process 
+
+Engineering, 2019, Vol. 40, pp. 87-99. DOI: 10.24425/cpe.2019.126103. 
+
+Сведения об авторах 
+
+About the authors  
+
+Ахметов  Рустам  Фаритович,  канд.  техн.  наук,  доцент  кафедры 
+
+«Технология нефти и газа», УГНТУ, г. Уфа, Российская Федерация  
+
+Rustam  F.  Akhmetov,  Candidate  of  Engineering  Sciences,  Assistant 
+
+Professor  of  Oil  and  Gas  Processing  Department,  USPTU,  Ufa,  Russian 
+
+Federation 
+
+e-mail: ahmetov.rustam2011@gmail.com 
+
+Мухаметьянова Альбина Халитовна, магистрант кафедры «Технология 
+
+нефти и газа», УГНТУ, г. Уфа, Российская Федерация 
+
+Albina  H.  Mukhametyanova,  Undergraduate  Student  of  Oil  and  Gas 
+
+Processing Department, USPTU, Ufa, Russian Federation 
+
+e-mail: albina-m1996@mail.ru 
+
+Сидоров  Георгий  Маркелович,  д-р  техн.  наук,  профессор  кафедры 
+
+«Технология нефти и газа», УГНТУ, г. Уфа, Российская Федерация 
+
+Georgij  M.  Sidorov,  Doctor  of  Engineering  Sciences,  Professor  of  Oil  and 
+
+Gas Processing Department, USPTU, Ufa, Russian Federation 
+
+e-mail: kaskad@ufanet.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+249 
+
+Яхин Булат Ахметович, аспирант кафедры «Разработка и эксплуатация 
+
+нефтяных  и  газонефтяных  месторождений»,  УГНТУ,  г.  Уфа,  Российская 
+
+Федерация 
+
+Bulat  A.  Yakhin,  Post-graduate  Student  of  Oil  and  Gas  &  Oil  Field  of 
+
+Development and Operation Department, USPTU, Ufa, Russian Federation 
+
+e-mail: bulattrading@yahoo.com 
+
+Набиева  Альбина  Римовна,  канд.  техн.  наук,  доцент  кафедры 
+
+«Технология нефти и газа», УГНТУ, г. Уфа, Российская Федерация  
+
+Albina R. Nabieva, Candidate of Engineering  Sciences, Assistant Professor 
+
+of Oil and Gas Processing Department, USPTU, Ufa, Russian Federation 
+
+e-mail: albena90@mail.ru 
+
+Кондратьев  Роман  Юрьевич,  студент  кафедры  «Газохимия  и 
+
+моделирование  химико-технологических  процессов»,  УГНТУ,  г. Уфа, 
+
+Российская Федерация  
+
+Roman  Yu.  Kondratyev,  Student  of  Gas  Chemistry  and  Modeling  of 
+
+Chemical Engineering Processes Department, USPTU, Ufa, Russian Federation 
+
+e-mail: rku-10@mail.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №1 
+
+http://ogbus.ru 
+
+ 
+ 
+

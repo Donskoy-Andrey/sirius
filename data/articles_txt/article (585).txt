@@ -1,0 +1,644 @@
+УДК 598 
+
+IN CORROSIVE ENVIRONMENTS, CORROSION INHIBITORS CONTAINING 
+NITROGEN, SULFUR AND PHOSPHORUS BASED ON RECYCLED MATERIALS 
+IMPACT ON METAL ST 20 
+
+Narzullaev Akmal Kнollinorovich 
+Graduate student, 
+Tashkent Scientific-Research Institute of Chemical Technology LLC, Republic of Uzbekistan, 
+
+Beknazarov Кhasan Soyibnazarovich 
+Dr. Tech. sciences, leading researcher, 
+Tashkent research institute of chemical technology, Republic of Uzbekistan 
+
+Jalilov Abdulahat Turapovich 
+Dr. Chem. sciences, 
+Academician of the Academy of Sciences of the Republic of Uzbekistan, 
+Tashkent Research Institute of Chemical Technology, Republic of Uzbekistan 
+
+Аnnоtаtiоn. In the world, corrosion of metals, including carbon steel, is a serious problem in many in-
+dustries, especially during processes such as pickling and acid washing of steel. Therefore, the development 
+of inhibitory compositions is of great theoretical and practical importance. One of the ways to protect metals 
+from  corrosion  is  the  use  of  organic  inhibitors,  which  are  heterocyclic  compounds  containing  phosphorus, 
+sulfur, nitrogen and having π bonds. 
+
+Keywords: inhibitory compositions, alcanolamin, Incorgaz T 21, adsorption free energies, gravimetric 
+
+detection. 
+
+P 
+
+urpose of work. Development of a technology for the production of phosphorus, nitrogen, metal-
+containing new oligomers based on compounds containing inhibitory compositions and their use 
+
+to obtain polymer composite materials. 
+
+Methods. Studies were carried out by methods of chromium-mass spectroscopy, NMR, NMR, electron 
+microscopy, elemental analysis, spectroscopy of electrochemical impedance. Data on the mechanism of the 
+corrosion process in the studied media were obtained depending on the duration of the experiment and the 
+concentration of inhibitory compositions and their adsorption characteristics were determined. 
+
+Obtaining a corrosion inhibitor is that they carry out the reaction of alcanolamin with an adduct (a mixture of 
+
+phosphoric acid and urea) in a certain ratio of the components taken and in the presence of vegetable oil. 
+
+In a three-necked flask equipped with a stirrer, reflux condenser and thermometer, 20 g of adduct was 
+charged. The resulting mixture was heated to a temperature of 120 °C until a homogeneous liquid mixture 
+was formed and 10 g of alcanolamin was added with stirring. The mixture was then heated until completely 
+homogeneous (1 hour, 120 °C). Then the temperature of the reaction mixture was cooled to 90 °C and 5.5 g 
+of  vegetable  oil  was  added.  The  reaction  mixture  with  continuous  stirring  at  a  temperature  of  110  °C  was 
+kept for 2 hours. Then the product was cooled to room temperature. 
+
+Scientific  novelty.  Effective  and  cost-effective  metal  corrosion  inhibitors  based  on  organic  com-
+pounds have been synthesized. The effectiveness of inhibitors in various aqueous media has been investi-
+gated.  Corrosion  current  and  corrosion  rate,  degree  of  protection,  temperature  dependence  of  the  braking 
+coefficient, concentration and conditions necessary for optimal protection are determined. 
+
+Practical value. The results of the study expand the  protective mechanism of organic inhibitors and 
+help establish a new direction for the effective protection of inhibitor metals. The inhibitors studied have good 
+prospects for use in water supply, recycled water, as well as in the oil, petrochemical and gas chemical in-
+dustries due to their low toxicity and high efficiency. 
+
+Introduction. The modern protection of metals from corrosion is the introduction into the hostile environ-
+ment  of  specially  selected  inhibitor  compounds.  Corrosion  inhibitors  are  organic  and  inorganic  substances,  the 
+presence of which in small quantities dramatically reduces the dissolution rate of the metal and reduces its possi-
+ble harmful effects. Inhibitor corrosion protection is widely used in many sectors of modern industrial production 
+and  agriculture:  when  transporting  gas  and  oil  through  pipelines,  to  preserve  metal  products  in  the  inter-
+operational period, to protect against corrosion by fuels and lubricants, as well as in water-salt, acid, alkaline, wa-
+ter-organic and organic environments, in fresh, sea water, and corrosion in atmospheric conditions and soil. 
+
+Based on the foregoing, we synthesized oligomeric corrosion inhibitors based on local raw materials, 
+which protect metals from corrosion in the heat supply system and ensure reliable operation of all elements 
+
+185 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+of the system by preventing the formation of any type of deposits on the internal surfaces of boilers (heaters) 
+and pipelines of heating networks, and all types of corrosion damage to internal surfaces[1].  
+
+Corrosion of equipment is one of the main causes of premature failure of chemical equipment, due to 
+exposure to corrosive substances. The most effective method of protecting equipment from corrosion is the 
+use  of  corrosion  inhibitors.  We  propose  the  use  of  oligomeric  corrosion  inhibitors,  which,  due  to  the  film-
+forming ability of the oligomer, can form thin film coatings on the internal surfaces of equipment, having the 
+inhibitory ability to protect equipment from corrosion [2].  
+
+Experimental  part.  Oligomeric  corrosion  inhibitors  were  obtained  on  the  basis  of  a  nitrogen-
+containing  adduct  of  melamine  and  urea,  which  interacted  with  various  reagents  to  synthesize  corrosion 
+inhibitors. The effect of corrosion inhibitor on steel-20 samples (characteristic of steel-20 material: chemical 
+composition of the material in % С-0,17-0,24, Si-0,17-0,37, Mn-0,35-0,65, Ni-0,25, S-0,04, P-0,04, Cr-0,25, 
+Cu-0,25,  Аs-0,08)  in  an  acidic  environment  for  240  hours  studied  according  to  GOST  -  9.506-87,                        
+GOST -9.505-86, GOST - 9.502-82.  
+
+Results  and  its  discussion.  Corrosion  inhibitor  IK-2  synthesized  on  the  basis  of  secondary  raw 
+
+materials, 1 : 0.5 with alcanolamin with an adduct (a mixture of phosphoric acid and urea). 
+
+Recovered  petroleum  products  contain  mineral  salts  and  mechanical  impurities,  such  as  sodium 
+
+chloride, calcium chlorine, magnesium chlorine, gaseous carbon dioxide. 
+
+The  effects  of  corrosion  inhibition  were  studied  when  exposed  to  acid  and  alkaline  fluids  flowing 
+
+through pipes (table 2). 
+
+Synthesized multicomponent corrosion inhibitors. The mechanism of protection against corrosion and 
+
+the formation of self-regulating surface layers was revealed (Fig. 1). 
+
+Fig.1. The effect of IK-2 (a) and Incorgaz T 21 (b) on the metal St-20 at 30–60 °C 
+
+The results of the study show that the synthesized compositions of corrosion inhibition slow down the 
+corrosion processes both on the surface of pure steel and on the surface of corrosive steel. Synthesized in-
+hibitory corrosion, reducing the concentration of atomic hydrogen, also prevents the fragility of the metal [3]. 
+
+The values of the free energy of adsorption indicate that the inhibitors function by physical adsorption 
+on the surface of the metal. Typically, adsorption free energies of up to 20 KJ / mol correspond to the elec-
+trostatic interaction between charged molecules and a charged metal (indicating physical adsorption), while 
+values more negative than 40 KJ / mol include charge separation or transfer from molecules inhibitor to the 
+metal surface to form a coordination type bond (indicating chemisorption). The results presented in the table 
+show that the values of the free energy of adsorption for all studied systems lie between –9.8 and –10.7 kJ / 
+mol, which indicates spontaneous adsorption of additives by the mechanism of physical sorption. 
+
+The thermodynamic model is very useful for explaining the phenomenon of adsorption of an inhibitor 
+
+molecule. Adsorption enthalpy can be calculated according to the Vant-Hoff equation: 
+
+ , 
+
+ (1) 
+
+where   ∆H°ads  and  Kads  are  the  adsorption  enthalpy  and  the  adsorption  equilibrium  constant,  respectively 
+
+(table 1). 
+
+Figure 2 shows a graph of the relationship between lnKads и 1/T for inhibitors IK-1, IK-2, IK-3, IK-4 and 
+IK-5. Straight-line graphs were obtained, and the adsorption enthalpy was obtained from the slope of the lin-
+ear graph [4; 5; 6].  
+
+Adsorption  enthalpy  (∆H)  can  be  roughly  considered  as  the  standard  adsorption  enthalpy  ∆H  °  ads 
+under experimental conditions, and the obtained values were 22.5, 20.2, 18.6, 16.1 and 18.1 KJ / mol for IK-
+1 inhibitors, IK-2, IK-3, IK-4 and IK-5, respectively.  
+
+186 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 1 –  Freundlich adsorption parameters for inhibitors IK-1, IK-2, IK-3, IK-4 and IK-5 at various temperatures 
+
+Inhibitor 
+
+IK-1 
+
+IK-2 
+
+IK-3 
+
+IK-4 
+
+IK-5 
+
+Temperature, °С 
+30 
+40 
+50 
+60 
+30 
+40 
+50 
+60 
+30 
+40 
+50 
+60 
+30 
+40 
+50 
+60 
+30 
+40 
+50 
+60 
+
+∆H°ads, кЖ/моль–1 
+–10,7 
+–10,3 
+–9,8 
+–10,6 
+–10,2 
+–10,2 
+–10,4 
+–10,5 
+–10,3 
+–10,2 
+–10,4 
+–10,3 
+–10,5 
+–10,2 
+–10,4 
+–10,3 
+–10,7 
+–10,2 
+–10,4 
+–10,3 
+
+Kads, г·л–1 
+1,21 
+0,98 
+0,86 
+0,92 
+1,24 
+0,99 
+0,87 
+0,91 
+1,25 
+1,03 
+0,96 
+0,86 
+1,24 
+1,02 
+0,93 
+0,87 
+1,21 
+0,99 
+0,96 
+0,87 
+
+n 
+0,62 
+0,67 
+0,69 
+0,86 
+1,02 
+1,04 
+1,03 
+1,05 
+0,97 
+0,93 
+1,01 
+1,02 
+1,01 
+1,03 
+0,98 
+1,02 
+0,62 
+1,04 
+1,01 
+1,02 
+
+R2 
+0,98 
+0,98 
+0,97 
+0,98 
+0,97 
+0,98 
+0,99 
+0,99 
+0,98 
+0,99 
+0,99 
+0,97 
+0,98 
+0,98 
+0,99 
+0,99 
+0,98 
+0,98 
+0,99 
+0,99 
+
+Fig. 2. The dependence of lnKads from 1 / T for inhibitors of IK-1, IK-2, IK-3, IK-4 and IK-5 
+
+IK-2 inhibits steel-20 corrosion with a maximum inhibition efficiency of 98.87 % at 30 °C and a maxi-
+mum concentration of inhibitor. Inhibitor adsorption obeys the Langmuir adsorption isotherm by the formation 
+of  a monolayer  on  the metal  surface;  this  result  was  confirmed  by the  use  of  a  thermodynamic  adsorption 
+model. The heats of adsorption were low, which indicated physical adsorption on the metal surface [7–8].  
+
+The chemistry of this interaction and the structure of the reaction products were proved by ЯМR spec-
+trometry on a Bruker Avance 400 spectrometer with an operating frequency of 400 МГц. The following sig-
+nals  were observed in ЯМР spectra of corrosion inhibiting compositions, IK-2:  1Н ЯМR 1,102 (т., 3H CH3), 
+1,20 (м., 1H, CH2), 1,195 (м., 2H, CH = CH2), 2,60 (д., 2H, CH2-C), 3,55 (м., 4H, N-CH2). 13C ЯМР 19.59 
+(CH3), 44.31-44.81(СН-СН2), 65.32 (Н-СН2), 40.51, 40.61 (N-CH2), 126.23, 133.44 (CH = CH) (Fig. 3). 
+
+This study clearly shows that the presence of the studied inhibitors protects a weak steel surface from 
+
+corrosion (Fig. 4). 
+
+On the image 4 (B) separate and joint distribution of iron, carbon and oxygen on the  surface can be 
+
+observed steel-20.  
+
+Upon gravimetric detection, the inhibitor inhibition was studied at 30 ° C and 90 ° C for 24-2400 hours. 
+As can be seen from the table, 0.05 % of the inhibitor significantly reduces the corrosion rate and increases 
+the effectiveness of the inhibitor with increasing temperature [9]. Based on the results of a gravimetric study, 
+experiments were carried out to study diagram curves in various media with a synthesized inhibitor (fig 5).  
+
+187 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 3. 1H-ЯМR – range of corrosion inhibiting compositions, IK–2 
+
+Fig. 4. Scanning Electron Microscopy (А) and elemental analysis (B) steel-20,  
+treated with anticorrosive composites of the brand IK – 2 
+
+Table 2 –  IK-2 metal inhibitors St-20 in various aggressive environments 
+
+№ 
+
+1 
+
+Field 
+
+2 
+
+1  Distilled water 
+2  Drinking water 
+3  Process water 
+4  Dis water NаCL 3 % раствор 
+5  Dis water H2SО4 0,5 % раствор 
+6  Dis water HCL 0,5 % раствор 
+
+Sample Area 
+S (m2) 
+
+Exposure 
+time (h) 
+
+3 
+
+24 hour 
+
+0,002033 
+0,002033 
+0,002033 
+0,002033 
+0,002033 
+0,002033 
+
+5 
+
+24 
+24 
+24 
+24 
+24 
+24 
+
+188 
+
+Corrosion rate 
+without  
+inhibitor (mm/г) 
+6 
+
+Inhibitor Cor-
+rosion Rate 
+(mm/г) 
+7 
+
+Degree of 
+protection Z 
+% 
+8 
+
+0,2410 
+0,2980 
+0,4010 
+0,3410 
+0,4980 
+0,5010 
+
+0,00157 
+0,0162 
+0,0298 
+0,0262 
+0,0462 
+0,0498 
+
+99,4 
+94,5 
+92,5 
+92,3 
+90,7 
+90,0 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+End of Table 2 
+
+1 
+
+2 
+
+7  Distilled water 
+8  Drinking water 
+9  Process water 
+10  Dis water NаCL 3 % раствор 
+11  Dis water H2SО4 0,5 % раствор 
+12  Dis water HCL 0,5 % раствор 
+
+13  Distilled water 
+14  Drinking water 
+15  Process water 
+16  Dis water NаCL 3 % раствор 
+17  Dis water H2SО4 0,5 % раствор 
+18  Dis water HCL 0,5 % раствор 
+
+3 
+
+240 hour 
+
+0,002033 
+0,002033 
+0,002033 
+0,002033 
+0,002033 
+0,002033 
+
+5 
+
+240 
+240 
+240 
+240 
+240 
+240 
+
+2400 hour 
+
+0,002033 
+0,002033 
+0,002033 
+0,002033 
+0,002033 
+0,002033 
+
+2400 
+2400 
+2400 
+2400 
+2400 
+2400 
+
+6 
+
+7 
+
+0,4582 
+0,5518 
+0,5698 
+0,5582 
+0,6698 
+0,6951 
+
+0,7511 
+0,8582 
+0,9918 
+1,0211 
+1,0582 
+1,0991 
+
+0,0362 
+0,0499 
+0,0542 
+0,0562 
+0,0698 
+0,0698 
+
+0,0705 
+0,0962 
+0,0980 
+0,0805 
+0,0962 
+0,0998 
+
+8 
+
+92,0 
+90,9 
+90,4 
+89,9 
+89,5 
+89,9 
+
+91,5 
+88,7 
+90,1 
+89,1 
+90,9 
+89,5 
+
+Fig. 5. Chart of St-20 metal inhibitors in various aggressive environments 
+
+The environmental safety of the use of the developed inhibitors in water supply systems and circulat-
+ing circulating waters, as  well as in the oil and gas chemical industries, is shown, their effectiveness is de-
+termined, which constitutes 98,25 %. 
+
+The  research  results  show  that  the  effectiveness  of  the  applied  oligomeric  corrosion inhibitor  can  be 
+
+observed in the presence of aromatic rings in them, the composition of thermostable and stable structures. 
+
+Conclusion. Synthesized new inhibitors of IK-2. The corrosion protection mechanisms of CT-20 steel 
+materials have been studied using modern methods. The results showed that the inhibitors were effective at 
+optimal concentration in aggressive environments HCl, H2SO4, NaCl. 
+
+It has been established that the protective properties of an inhibitor of the IK-2 brand depend  on the 
+
+composition, temperature and nature of the oligomer. 
+
+New  effective  composites  of  metal  corrosion  inhibitors  in  aggressive  environments  have  been 
+developed. A putative corrosion inhibitor based on alcanolamin and an adduct (a mixture of phosphoric acid 
+and urea) was found. The effectiveness of synthesized new substances in gravimetric methods was studied. 
+Corrosion rates, braking factors, and protection levels were studied. 
+
+Литература: 
+
+1.   Андреев  И.Н.  Введение  в  коррозиологию  :  учебное  пособие.  –  Казань  :  Изд-во  Казанского  государ-
+
+ственного технологического ун-та, 2004. – 140 с. 
+
+2.   Новый справочник химика и технолога. Электродные процессы. Химическая кинетика и диффузия. Колло-
+
+идная химия / Под ред. акад. РАЕН, д-ра хим. наук, проф. С.А. Симановой. – СПб. : НПО Профессионал, 2006.  
+
+3.   Studying the Efficiency of Corrosion Inhibitor Iktsf-1, Ir-Dea, Ir-Dar-20 / A.X. Narzullaev [et al.] // 1 Hcl International 
+
+Journal of Advanced Science and Technology. – 2019. – Vol. 28. – № 15. – P. 113–122.  
+
+189 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.   Narzullaev A.X., Djalilov A.T., Beknazarov X.S. Evaluation of inhibiting properties of IC-DALR-1 corrosion inhibitor in 
+
+aqueous and saline media // Austrian Journal of Technical and Natural Sciences. – 2019 (May– June). – № 5–6.  
+
+5.   Нарзуллаев  А.Х.,  Бекназаров  Х.С.,  Джалилов  А.Т.  Изучение  эффективности  ингибитора  коррозии 
+
+ИКЦФ-1 В 1М HCL Universum // Химия и биология. – 2019. – № 2(56).  
+
+6.   Нарзуллаев А.Х., Бекназаров Х.С., Джалилов А.Т. Ингибитор коррозии «ИК-МА-16» на основе кратоно-
+
+вого альдегида и моноэтаноламина Universum // Химия и биология. – 2019. – № 6(60).  
+
+7.   Нарзуллаев А.Х., Бекназаров Х.С., Джалилов А.Т. Ингибиторы коррозии АИК-1 И АИК-2 в агрессивных 
+
+средах Universum // Технические науки. – 2019. – № 7(64). 
+
+8.   Нарзуллаев А.Х., Бекназаров Х.С., Джалилов А.Т. Изучение состава фосфор, азот содержащего инги-
+
+битора коррозии ИК-ДУА-КА-1 и влияние его на метал Ст-20 Universum // Технические науки. – 2019. – № 11(68). 
+
+9.   The  inhibition  of  the  corrosion  of  carbon  steel  by  oligomeric  corrosion  inhibitors  in  different  media  /                         
+
+K.S. Beknazarov [et al.] // International Polymer Science and Technology. – 2015. 
+
+References: 
+
+1.   Andreev I.N. Introduction to Corrosion Studies: a training manual. – Kazan: Kazan State Technological Uni-
+
+versity Publishing House, 2004. – 140 p. 
+
+2.   New  directory  of  chemist  and  technologist.  Electrode  processes.  Chemical  kinetics  and  diffusion.  Colloid 
+
+chemistry / Under edition of acad. RAEN, Ph.D. in Chemistry, Prof. S.A. Simanova. – St. Petersburg, 2006.  
+
+3.   Studying the Efficiency of Corrosion Inhibitor Iktsf-1, Ir-Dea, Ir-Dar-20 / A.X. Narzullaev [et al.] // 1 Hcl Interna-
+
+tional Journal of Advanced Science and Technology. – 2019. – Vol. 28. – № 15. – P. 113–122.  
+
+4.   Narzullaev A.X., Djalilov A.T., Beknazarov X.S. Evaluation of inhibiting properties of IC-DALR-1 corrosion in-
+
+hibitor  in  aqueous  and  saline  media  //  Austrian  Journal  of  Technical  and  Natural  Sciences.  –  2019  (May–  June).  –                      
+№ 5–6.  
+
+5.   Narzullaev A.H., Beknazarov H.S., Jalilov A.T. Investigation of the IC-DALR-1 corrosion inhibitor efficiency in 
+
+1M HCL Universum // Chemistry and biology. – 2019. – № 2(56).  
+
+6.   Narzullaev A.H., Beknazarov H.S., Jalilov A.T. Corrosion inhibitor «IK-MA-16» based on the craton aldehyde 
+
+and monoethanolamine Universum // Chemistry and biology. – 2019. – № 6(60).  
+
+7.   Narzullaev A.H., Beknazarov H.S., Jalilov A.T. Corrosion inhibitors AIK-1 and AIK-2 in the aggressive media 
+
+Universum // Technical sciences. – 2019. – № 7(64). 
+
+8.   Narzullaev A.H., Beknazarov H.S., Jalilov A.T. Study of the phosphorus composition, the nitrogen containing 
+the  IR-DUA-KA-1  corrosion  inhibitor  and  its  influence  on  the  St-20  Universum  metal  //  Technical  sciences.  –  2019.  –               
+№ 11(68). 
+
+9.   The  inhibition  of  the  corrosion  of  carbon  steel  by  oligomeric  corrosion  inhibitors  in  different  media  /                       
+
+K.S. Beknazarov [et al.] // International Polymer Science and Technology. – 2015. 
+
+190 
+
+ 
+ 
+ 
+ 
+ 
+

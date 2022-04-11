@@ -1,0 +1,1717 @@
+УДК665.6: 51-7 
+
+243 
+
+ИСПОЛЬЗОВАНИЕ МЕТОДОВ МАШИННОГО ОБУЧЕНИЯ  
+
+И ИСКУССТВЕННОГО ИНТЕЛЛЕКТА  
+
+В ХИМИЧЕСКОЙ ТЕХНОЛОГИИ.  
+
+ЧАСТЬ I 
+
+USING METHOD OF MACHINE TRAINING AND ARTIFICIAL 
+
+INTELLIGENCE IN CHEMICAL TECHNOLOGY.  
+
+PART I 
+
+В.Р. Нигматуллин, Н.А. Руднев  
+
+Уфимский государственный нефтяной технический университет,  
+
+г. Уфа, Российская Федерация 
+
+Vil R. Nigmatullin, Nikolay A. Rudnev 
+
+Ufa State Petroleum Technological University, Ufa, Russian Federation 
+
+е-mail: ngb2008@mail.ru 
+
+Аннотация.  В  работе  рассмотрено  применение  методов  машинного 
+
+обучения  и  искусственного  интеллекта  для  различных  задач  химической 
+
+технологии,  таких  как  моделирование,  автоматизация  и  оптимизация 
+
+процессов,  контроль  качества  и  безопасности,  поиск  новых  соединений  и 
+
+катализаторов.  Для  данных  целей  были  использованы  искусственные 
+
+нейронные сети, метод решающих деревьев, бустинг, регрессия, а также их 
+
+комбинации. Работа разбита на две части. В первой части рассматриваются 
+
+многокритериальная  оптимизация;  решение  задач,  связанных  с  поиском 
+
+оптимальных  путей  реакций;  предсказания  параметров  соединений  и 
+
+моделирование  (создание  цифровых  двойников)  процессов  и  аппаратов 
+
+химической технологии. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+244 
+
+Abstract.  The  paper  discusses  the  use  of  machine  learning  methods  and 
+
+machine  intelligence  for  various  problems  of  chemical  technology,  such  as 
+
+modeling, automation and optimization of processes, quality and safety control, 
+
+search  for  new  compounds  and  catalysts.  For  these  purposes,  artificial  neural 
+
+networks,  the  method  of  decision  trees,  boosting,  regression,  and  their 
+
+combinations were used. 
+
+The  work  is  divided  into  two  parts.  The  first  part  deals  with  multi-criteria 
+
+optimization; solving problems related to the search for optimal reaction paths; 
+
+prediction  of  compound  parameters  and  modeling  (creating  digital  twins)  of 
+
+processes and apparatuses of chemical technology.  
+
+Ключевые  слова:  машинное  обучение,  нейронные  сети,  глубокие 
+
+нейронные 
+
+сети, 
+
+бустинг, 
+
+решающие 
+
+деревья, 
+
+оптимизация, 
+
+инструментарии  машинного  обучения,  математическая  модель,  Big  Data, 
+
+цифровой двойник 
+
+Key  words:  machine  learning,  neural  networks,  deep  neural  networks, 
+
+boosting,  decision  trees,  optimization,  machine  learning  tools,  mathematical 
+
+model, Big Data, digital twin 
+
+Введение 
+
+Многие  факты  указывают  на  то,  что  современные  производственные 
+
+технологии  можно  улучшить  и  оптимизировать  за  счет  внедрения 
+
+искусственного  интеллекта  и  машинного  обучения.  Искусственный 
+
+интеллект  уже  сейчас  повсеместно  используется  для  решения  множества 
+
+производственных,  экономических  и  экологических  задач  химической 
+
+промышленности.  
+
+Чаще  всего  искусственный  интеллект  и  методы  машинного  обучения 
+
+используются  при  моделировании  реакций,  процессов  и  аппаратов, 
+
+автоматизации  и  оптимизации  производства, 
+
+а 
+
+также  подборе 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+катализаторов.  При  использовании  искусственного  интеллекта  можно  не 
+
+учитывать  неявные  параметры  и  возмущения,  опираясь  только  на 
+
+исторические  данные,  что  значительно  облегчает  построение  таких 
+
+моделей. 
+
+245 
+
+1. Решение задач многокритериальной оптимизации 
+
+Задача  оптимизации  химических  реакций  является  весьма  сложной  и 
+
+распространенной,  существует  множество  целевых  параметров,  таких  как 
+
+выход  продукта,  стоимость  процесса,  уровень  примесей  и  воздействие  на 
+
+окружающую среду, которые необходимо учитывать [1–3].  
+
+Способность 
+
+выполнять 
+
+эффективную 
+
+и 
+
+автоматическую 
+
+многокритериальную  оптимизацию  позволяет  постепенно  продвигаться  в 
+
+разработке  новых  химических  процессов.  Обычно  такая  оптимизация 
+
+проводится  с  использованием  модели  черного  ящика,  она  позволяет 
+
+оценить влияние всех требуемых параметров на процесс [4].  
+
+В  ходе  исследований,  проведенных  Артуром  Швайдтманном,  Адамом 
+
+Клейтоном  и  Николаем  Холмсом  в  2018  г.,  было  продемонстрировано 
+
+использование  методов  машинного 
+
+обучения 
+
+при 
+
+реализации 
+
+экспериментальных 
+
+химических 
+
+реакций 
+
+с 
+
+конкурирующими 
+
+экономическими  и  экологическими  параметрами.  Оба  этих  параметра 
+
+могут  быть  одновременно  оптимизированы,  благодаря  чему  существует 
+
+компромисс  между  производительностью  реактора  и  воздействием  на 
+
+окружающую  среду.  Кроме  того,  в  ходе  оптимизации  была  рассмотрена 
+
+проблема минимизации примесей в целевом продукте [4–9]. 
+
+Однокритериальные  алгоритмы  оптимизации,  такие  как  симплекс-
+
+метод  и  SNOBFIT,  успешно  используются  для  оптимизации  химических 
+
+реакций.  Однако  часто  случается,  что  при  использовании  этих  методов 
+
+невозможен  поиск  оптимальных  параметров  химического  процесса.  Это 
+
+решается  путем 
+
+добавления  штрафных 
+
+срок, 
+
+которые 
+
+сводят 
+
+многокритериальную  задачу  к  однокритериальной  благодаря  тому,  что 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+246 
+
+выделяется  один  основной  критерий  как  целевая  функция,  прочие 
+
+критерии заменяются ограничениями [10–15]. 
+
+Решение  многокритериальной  задачи  позволяет  наиболее  эффективно 
+
+оптимизировать 
+
+процессы.  Это 
+
+было 
+
+продемонстрировано 
+
+при 
+
+многокритериальной оптимизации процесса эмульсионной полимеризации 
+
+с  использованием  алгоритмов  машинного  обучения  [16,  17].  Однако 
+
+определение  адекватных  весов  для  этих  задач  затруднительно,  что  может 
+
+привести к искаженным результатам [18]. 
+
+Решение многокритериальной задачи оптимизации представляет собой 
+
+набор  точек,  где  один  критерий  не  может  быть  улучшен  без  какого-либо 
+
+негативного  воздействия  на  другой.  Этот  набор  называется  множеством 
+
+Парето, он представлен на рисунке 1. 
+
+Рисунок 1. Кривая Парето 
+
+При  решении  задачи  многокритериальной  оптимизации  можно 
+
+использовать  метод  эпсилон-ограничений  или  генетические  алгоритмы, 
+
+такие 
+
+как  NSGA-II.  Однако 
+
+эти  методы  не  подходят  при 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+247 
+
+автоматизированной  оптимизации,  так  как  они  требуют  большого 
+
+количества оценок функций и частично аналитически не реализуемы. 
+
+Байесовские  методы  оптимизации,  полученные  на  основе  глобальных 
+
+методов  стохастической  оптимизации,  особенно  хорошо  подходят  для 
+
+решения  поставленной 
+
+задачи.  Они  успешно  используется  для 
+
+оптимизации  компьютерного  моделирования  во  многих  дисциплинах  
+
+[19–21].  Существует  несколько  многоцелевых  байесовских  алгоритмов 
+
+оптимизации, направленных на приближение фронта Парето, в том числе 
+
+эффективная  многокритериальная  оптимизация  выборки  Томпсона  
+
+(TS-EMO),  ParEGO  и  EHI.  Наиболее  предпочтительным  алгоритмом 
+
+является TS-EMO, он имеет несколько лучшую эффективность, чем EHI и 
+
+ParEGO.  Кроме  того,  недавно  алгоритм  TS-EMO  был  использован  для 
+
+оптимизации  технологической  схемы,  чтобы  определить  наиболее 
+
+эффективные  параметры  стоимости  и  выбросов  углерода  в  течение 
+
+производственного цикла [19, 22, 23]. 
+
+Алгоритм  TS-EMO 
+
+был  подключен 
+
+к 
+
+автоматизированному 
+
+проточному  реактору  (рисунок  2)  и  проверен  при  исследовании  двух 
+
+реакций:  
+
+1)  реакция  между  2,4-дифторнитробензолом  и  морфолином  с 
+
+образованием  желаемого  орто-продукта  и  нежелательного  пара-4  и  бис-
+
+аддукт [24]; 
+
+2)  N-бензилирование  α-метилбензиламина  с  бензилбромидом  с 
+
+образованием желаемого 2-амина и нежелательного 3-амина.  
+
+В  обоих 
+
+случаях 
+
+состав  продукта  определяли 
+
+с  помощью 
+
+высокоэффективной  жидкостной  хроматографии  в  онлайн-режиме,  далее 
+
+данные использовали в качестве входных  для алгоритма TS-EMO [4]. 
+
+Требуемый  набор  данных  для  инициализации  алгоритма  TS-EMO 
+
+собирается  с  использованием  статистического  метода  генерации  почти 
+
+случайной выборки  Latin hypercube sampling (LHC) [25]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+248 
+
+Рисунок 2. Оптимизация проточного реактора  
+
+Критериями эффективности процесса являются выход продукта за один 
+
+проход  в  единицу  времени  на  единицу  объёма  (STY)  и  E-фактор, 
+
+соотношение побочного и целевого продукта.  
+
+Оптимизация проводилась по четырем переменным: время пребывания 
+
+в  реакторе,  концентрация  морфолина  и  2,4-дифторнитробензола  и 
+
+температура  процесса.  Первоначальный  размер  выборки  LHC  составлял 
+
+20.  Алгоритм  TS-EMO  провел  48  дополнительных  экспериментов,  из 
+
+которых  26  образовали  фронт  Парето,  показывающий  компромисс  между 
+
+STY и E-фактором. Результаты оптимизации показаны на рисунке 3. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+249 
+
+Рисунок 3. Результаты четырех параметрической многокритериальной 
+оптимизации реакции 1 
+
+Поскольку  прямое  алкилирование  аминов  с  алкилгалогенидами 
+
+подвержено  образованию  побочных  продуктов  с  помощью  избыточного 
+
+алкилирования,  было  выбрано  N-бензилирование  1-амина  в  качестве 
+
+второго  примера.  N,N-диизопропилэтиламин  (DIPEA)  был  выбран  в 
+
+качестве  основы  этой  реакции  для  подавления  образования  солей 
+
+четвертичного  аммония  [4].  Таким  образом,  требуется  одновременно 
+
+максимизировать STY 2-амина и минимизировать выход примеси 3-амина.  
+
+Оптимизация проводилась также по отношению к четырем параметрам 
+
+реакции:  скорость  потока  α-метилбензиламина,  соотношение  между 
+
+бензилбромидом 
+
+и 
+
+α-метилбензиламином, 
+
+соотношение 
+
+между 
+
+растворителем  и  α-метилбензиламином,  температура.  Начальный  размер 
+
+выборки  LHC  составлял  20.  В  алгоритме  TS-EMO  было  проведено  58 
+
+дополнительных экспериментов, из которых 20 образовали фронт Парето, 
+
+показывающий  компромисс  между  STY  и  выходом  примеси.  Результаты 
+
+оптимизации реакции показаны на рисунке 4.  
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+250 
+
+Рисунок 4. Результаты четырех параметрической многокритериальной 
+оптимизации реакции 2 
+
+В ходе исследования  Артура Швайдтманна было продемонстрировано 
+
+применение 
+
+машинного 
+
+обучения 
+
+для 
+
+многокритериальной 
+
+автоматизированной  оптимизации  процесса.  Данный  подход  можно 
+
+использовать для любой процедуры многокритериальной оптимизации [4]. 
+
+Использование  в  алгоритме  TS-EMO  моделей  гауссовского  процесса дает 
+
+дополнительные  знания  о  характере  взаимодействий  внутри  системы, 
+
+таких  как  вклад  входных  переменных  в  целевые  функции,  а  также 
+
+численную характеристику качества экспериментов. 
+
+Для 
+
+решения 
+
+задач 
+
+с 
+
+конкурирующими  параметрами  при 
+
+проектировании  и  эксплуатации  процессов  или  аппаратов  используется 
+
+метод  многокритериальной  оптимизации,  потому  что  он  позволяет  найти 
+
+такие  значения  требуемых  параметров,  которые  будут  максимально 
+
+удовлетворять заданным условиям.  
+
+Математические  методы  для  решения  этих  задач:  метод  эпсилон-
+
+ограничений, 
+
+генетические 
+
+алгоритмы, 
+
+баесовская 
+
+оптимизация, 
+
+оптимизация  на  основе  градиентов.  Последние  два  метода  считаются 
+
+наиболее  перспективными,  так  как  они  наиболее  быстрые,  несложно 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+реализуемы, и для них существует множество алгоритмов по нахождению 
+
+251 
+
+оптимальных состояний системы. 
+
+2. Предсказание формул и реакций 
+
+Методы  проектирования  химических  продуктов,  которые  объединяют 
+
+знания  из  разных  научных  областей,  были  впервые  разработаны  в  1980-х 
+
+гг.,  чтобы  помочь  в  разработке  новых  продуктов  для  удовлетворения 
+
+определенных  требований.  Они  определяют  структуру  и  свойства 
+
+вещества,  которые  удовлетворяют  набору  желаемых  свойств  и  функций 
+
+[26, 27]. Методы предсказания химических продуктов можно разделить на 
+
+эвристические  методы  и  методы  проектирования  на  основе  моделей. 
+
+Широко  используются  методы  разработки  продукта  на  основе 
+
+эксперимента.  
+
+В  2018  г.  в  своей  работе  Лэй  Чжан  и  Хайтао  Мао  использовали 
+
+сверточную  нейронную  сеть  для  предсказания  и  скрининга  молекул  по 
+
+свойствам,  связанным  с  их  запахом.  Для  реализации  своей  модели  они 
+
+использовали  библиотеку  Keras.  После  обучения  модель  была 
+
+использована  для  предсказания  свойств  и  классификации  веществ  [28]. 
+
+Архитектура модели представлена на рисунке 5.  
+
+Рисунок 5. Архитектура модели прогнозирования 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+252 
+
+В  своем  исследовании  Ола  Энгквист  и  Пер-Ола  Норрби  рассмотрели 
+
+прогнозирование 
+
+химических 
+
+реакций.  Прогнозирование 
+
+было 
+
+представлено  как  итерационный  процесс  перемещения  назад  от 
+
+конкретной  молекулы-мишени  по  дереву  синтеза  возможных  реакций. 
+
+Конечной  целью  является  определение  наиболее  жизнеспособных 
+
+химических  путей  к  доступным  исходным  материалам  или  соединениям, 
+
+содержащимся в специальных базах данных [29, 30].  
+
+Чтобы 
+
+синтезировать 
+
+органические  молекулы, 
+
+используется 
+
+ретросинтез,  это  метод,  в  котором  молекулы-мишени  рекурсивно 
+
+трансформируются 
+
+в 
+
+более 
+
+простых 
+
+предшественников. 
+
+Автоматизированный 
+
+ретросинтез 
+
+был 
+
+ценным 
+
+инструментом 
+
+моделирования,  но  в  настоящее  время  он  работает  медленно  и  не 
+
+обеспечивает результатов требуемого качества.  
+
+В  своей  работе  по  проектированию  синтеза  молекул,  проведенной  в 
+
+2018 г.,  Марвин  Сеглер,  Майк  Прейс  и  Марк  Валлер  использовали  метод 
+
+Монте-Карло  и  искусственный  интеллект,  чтобы  обнаружить  пути 
+
+ретросинтеза.  Они  объединили  поиск  дерева  Монте-Карло  с  двумя 
+
+нейронными сетями: сетью расширения, которая ведет поиск пути, и сетью 
+
+фильтров,  предварительно  выбирающей  наиболее  перспективные  шаги 
+
+ретросинтеза.  Эти  глубокие  нейронные  сети  были  обучены  практически 
+
+всем  реакциям,  когда-либо  опубликованным  в  органической  химии. 
+
+Полученная  система  работает  в  тридцать  раз  быстрее,  чем  традиционный 
+
+метод  автоматизированного  поиска,  основанный  на  правилах  и  ручном 
+
+расчете [31]. 
+
+На  рисунках  6  и  7  показан  пример  поиска  пути  ретросинтеза  в 
+
+традиционном представлении и в виде дерева поиска соответственно [32]. 
+
+Для обучения модели были извлечены правила протекания двенадцати 
+
+миллионов реакций из базы данных химии Reaxys. Были  выбраны только 
+
+те  правила,  которые  встречались  не  менее  50  раз  в  реакциях, 
+
+опубликованных  до  2015  г.  Ассоциативные  правила  протекания  реакций 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+253 
+
+позволяют  связать  их  между  собой.  Благодаря  этому  возможно  обучать 
+
+нейронные  сети  для  прогнозирования  наилучших  реакций  на  создание 
+
+продукта 
+
+[33].  Чтобы  оценить  качество  модели,  для  обучения 
+
+использовались только реакции, опубликованные до 2015 г., тогда как для 
+
+проверки и тестирования были отобраны данные с 2015 г. и позже. 
+
+Рисунок 6. Пример схемы ретросинтеза в традиционном представлении 
+
+Рисунок 7. Пример схемы ретросинтеза в виде дерева поиска 
+
+После  того,  как  пространство  поиска  было  сужено  до  наиболее 
+
+перспективных  преобразований,  нам  нужно  предсказать,  будут  ли 
+
+соответствующие  реакции  действительно  работать  для  определенной 
+
+молекулы. Это делается с помощью глубокой нейронной сети, работающей 
+
+как  бинарный  классификатор,  предсказывающий,  действительно  ли 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+254 
+
+возможны реакции, соответствующие преобразованиям, выбранным сетью 
+
+поиска путей [34].  
+
+Классификатор должен быть обучен успешным и неудачным реакциям. 
+
+К сожалению, о неудачных реакциях редко сообщается, информация о них 
+
+не содержатся в базах реакций. Однако опубликованные реакции содержат 
+
+неявную информацию о реакциях, которые не происходят [31]. 
+
+Нейронные  сети  для  поиска  возможных  решений  и  их  фильтрации 
+
+объединяются  в  конвейер  (рисунок  8).  Молекула  для  ретроанализа 
+
+преобразуется  в  вектор  параметров  и  подается  в  первую  сеть,  которая 
+
+возвращает 
+
+распределение 
+
+вероятности 
+
+по 
+
+всем 
+
+возможным 
+
+преобразованиям.  Затем  к  молекуле  применяются  только  несколько 
+
+наиболее  вероятных  превращений.  Таким  образом,  находятся  реагенты, 
+
+необходимые для получения молекулы и, следовательно, полные реакции. 
+
+Для  каждой  реакции  прогнозирование  выполняется  с  использованием 
+
+фильтра,  возвращающего  оценку  вероятности.  Затем  отбрасываются 
+
+невероятные  реакции,  что  приводит  к  списку  допустимых  действий  и 
+
+соответствующих  регентов,  требуемых  для  получения  молекулы.  Все 
+
+данные  шаги  составляют  алгоритм  MCTS,  который  образует  3N-MCTS. 
+
+Затем  четыре  фазы  MCTS  повторяются  требуемое  количество  раз  для 
+
+сборки дерева поиска.  
+
+Рисунок 8. Процедура поиска  
+
+Начиная с корневого узла (молекула-мишень) дерева поиска, алгоритм 
+
+3N-MCTS  последовательно  строит  дерево,  а  после  выбирает  наиболее 
+
+перспективную  следующую  позицию  (рисунок  9).  Алгоритм  повторяется 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+до тех пор, пока не будет превышен временной бюджет или максимальное 
+
+количество итераций.  
+
+255 
+
+Рисунок 9. Поиск по дереву Монте-Карло 
+
+Несмотря  на  то,  что  алгоритм  очень  быстро  и  точно  находит  пути 
+
+реакций,  у  него  остается  несколько  проблем.  Во-первых,  синтез 
+
+натуральных  продуктов  в  настоящее  время  выходит  за  рамки  данного 
+
+метода [35]. Определение пути реакций для натуральных продуктов очень 
+
+сложно,  так  как  они  могут  вести  себя  непредсказуемо  и  часто  требуют 
+
+интенсивного  развития  методологии  [36].  Синтез  натурального  продукта 
+
+может быть разрешен более сильными, но более медленными алгоритмами 
+
+[37].  
+
+Еще 
+
+одна 
+
+важная 
+
+задача 
+
+– 
+
+надежное 
+
+прогнозирование 
+
+стереохимических 
+
+результатов.  Хотя 
+
+данный 
+
+подход 
+
+способен 
+
+обрабатывать 
+
+стереоинформацию, 
+
+наиболее 
+
+важная 
+
+часть, 
+
+предсказывающая  энантиомерные  или  диастереомерные  отношения 
+
+количественно,  остается  нерешенной  задачей.  Проверенных  глобальных 
+
+подходов  к  количественному  прогнозированию  энантиомерных  или 
+
+диастереомерных отношений в широком диапазоне различных реакций без 
+
+использования дорогостоящих квантовомеханических расчетов на данный 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+256 
+
+момент  не  существует  [38].  Однако  они  могут  быть  рассмотрены  с 
+
+помощью дескрипторов, ориентированных на стереохимию.  
+
+Кроме  того,  система  в  настоящее  время  не  принимает  во  внимание 
+
+механизмы реакции, равновесия между различными формами, такими как 
+
+таутомеры  или  трехмерные  структуры,  что  может  иметь  решающее 
+
+значение  для  синтеза  натуральных  продуктов.  Также  в  настоящее  время 
+
+метод не выполняет предсказание условий реакции [39].  
+
+Для  решения  задач  поиска  новых  веществ,  нахождения  пути 
+
+протекания  реакций,  а  также  поиска  молекул  по  их  свойствам  наиболее 
+
+часто 
+
+используются 
+
+такие  методы  машинного 
+
+обучения, 
+
+как 
+
+искусственные  нейронные  сети.  Они  позволяют  с  использованием  уже 
+
+имеющихся  знаний  построить  модель,  которая  может  достаточно  точно 
+
+прогнозировать  результат,  что  позволяет  ускорить  и  упростить  решение 
+
+вышеизложенных задач. 
+
+3. Моделирование процессов 
+
+Повышение 
+
+эффективности 
+
+ведения 
+
+химико-технологического 
+
+процесса 
+
+за 
+
+счет  использования 
+
+современных  информационных 
+
+технологий,  как  правило,  основывается  на  прогнозировании  результатов 
+
+процесса  на  основе  математической  модели  и  выработки  оптимального 
+
+управляющего 
+
+воздействия 
+
+или 
+
+рекомендаций. 
+
+Оптимизация 
+
+технологических параметров в режиме реального времени является одной 
+
+из  наиболее  важных  задач  химической  промышленности.  Она  позволяет 
+
+оптимизировать  параметры  процессов  и  работу  установок,  тем  самым 
+
+повышая экономический эффект производства.  
+
+Среди  общих  тенденций  использования  методов  машинного  обучения 
+
+при  моделировании  химико-технологических  процессов  можно  назвать 
+
+построение  моделей  (цифровых  двойников)  относительно  замкнутых 
+
+систем,  т.е.  отдельных  характеристик  продуктов  и  процессов,  отдельных 
+
+аппаратов.  Использование 
+
+в 
+
+отрасли 
+
+становится 
+
+достаточно 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+257 
+
+распространенным,  компании  используют  как  программное  обеспечение 
+
+общего  назначения  в  области  машинного  обучения  и  искусственного 
+
+интеллекта,  но  также  и  специализированные  программные  продукты  для 
+
+отрасли [40]. 
+
+Разработки  новых  технологий  и  процессов  активно  используют 
+
+создание  моделей  на  основе  методов  машинного  обучения,  поскольку  не 
+
+всегда  теория  и  все  характеристики  нового  процесса  уже  известны,  это 
+
+можно проиллюстрировать на примере процесса получения биотоплив. 
+
+Ряд  исследований  последних  лет  в  области  разработки  процессов 
+
+получения  топлив  из  растительного  сырья  был  проведен  с  привлечением 
+
+методов машинного обучения и искусственного интеллекта [41–46].  
+
+В  проведенном  в  2018  г.  исследовании  Син  Чен  и  Хуиянь  Чжан 
+
+рассмотрели  возможность  прогнозирования  распределения  продуктов 
+
+пиролиза 
+
+биомассы  и  их 
+
+теплотворной 
+
+способности.  Модели 
+
+прогнозирования  распределения  продуктов  пиролиза  биомассы  строились 
+
+с  использованием  алгоритмов  искусственного  интеллекта,  то  есть 
+
+искусственной нейронной сети (ANN) и машины опорных векторов (SVM) 
+
+[47–49]. 
+
+Для  моделирования  производственных  процессов  и  аппаратов  хорошо 
+
+подходят  искусственные  нейронные  сети,  так  как  при  их  использовании 
+
+можно строить гибкие модели, учитывающие особенности моделируемых 
+
+объектов  и  систем.  Но  у  данного  метода  есть  один  недостаток  –  для 
+
+инициализации  алгоритма  требуется  большой  набор  обучающих  данных, 
+
+при  их  малом  количестве  модель  не  сможет  точно  описывать  требуемый 
+
+процесс  или  аппарат.  Таким  образом,  использование  моделей  чаще 
+
+происходит,  когда  необходимо  заметить  отклонения  от  нормы,  чем  для 
+
+прогнозирования показателей. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+258 
+
+Вывод 
+
+Представлено 
+
+описание 
+
+методов 
+
+машинного 
+
+обучения 
+
+и 
+
+искусственного интеллекта с целью решения различных задач химической 
+
+технологии,  таких  как  моделирование,  автоматизация  и  оптимизация 
+
+процессов,  контроль  качества  и  безопасности,  поиск  новых  соединений  и 
+
+катализаторов.  
+
+Выполнен 
+
+анализ 
+
+применения 
+
+в 
+
+химической 
+
+технологии 
+
+многокритериальной  оптимизации;  решения  задач,  связанных  с  поиском 
+
+оптимальных  путей  реакций;  предсказания  параметров  соединений  и 
+
+моделирования  (создание  цифровых  двойников)  процессов  и  аппаратов 
+
+химической технологии. 
+
+Список используемых источников 
+
+1.  Fabry  D.C.  Online  Monitoring  and  Analysis 
+
+for  Autonomous 
+
+Continuous Flow Self-Optimizing Reactor Systems // React. Chem. Eng. 2016. 
+
+No. 1. P. 129-133. 
+
+2.  Sans  V.  Towards  Dial-A-Molecule  by  Integrating  Continuous  Flow, 
+
+Analytics  and  Self-Optimization 
+
+//  Chem.  Soc.  Rev.  2016.  No.  45.  
+
+P. 2032-2043. 
+
+3.  Reizman B.J. Feedback in Flow for Accelerated Reaction Development 
+
+// Acc. Chem. Res. 2016. No. 49. P. 1786-1789. 
+
+4.  Schweidtmann  A.M.  Machine  Learning  Meets  Continuous  Flow 
+
+Chemistry:  Automated  Optimization  towards  the  Pareto  Front  of  Multiple 
+
+Objectives // Chemical Engineering Journal. 2018. No. 352. P. 277-282. 
+
+5.  Skilton  R.A.  Real-Time  Feedback  Control  Using  Online  Attenuated 
+
+Total  Reflection  Fourier  Transform  Infrared  (ATR  FT-IR)  Spectroscopy  for 
+
+Continuous  Flow  Optimization  and  Process  Knowledge  //  Appl.  Spectroscopy. 
+
+2013. No. 67. P. 1127-1131. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+259 
+
+6.  Sans  V.  A  Self  Optimizing  Synthetic  Organic  Reactor  System  Using 
+
+Real-Time In-Line NMR Spectroscopy // Chem. Sci. 2015. No. 6. P. 1258-1264. 
+
+7.  Holmes  N.  Online  Quantitative  Mass  Spectrometry  for  the  Rapid 
+
+Adaptive Optimization of Automated Flow Reactors // React. Chem. Eng. 2016. 
+
+No. 1. P. 96-100. 
+
+8.  McMullen  J.P.  An  Automated  Micro-Fluidic  System  for  Online 
+
+Optimization  in  Chemical  Synthesis  //  Org.  Process  Res.  Dev.  2010.  No.  14. 
+
+P. 1169-1176. 
+
+9.  Parrott  A.J.  Self-Optimizing  Continuous  Reactions  in  Supercritical 
+
+Carbon Dioxide // Angew. Chem. Int. Ed. 2011. No. 50. P. 3788-1392. 
+
+10. Holmes  N.  Self-Optimization  of  the  Final  Stage  in  the  Synthesis  of 
+
+EGFR Kinase Inhibitor AZD9291 Using an Automated Flow Reactor // React. 
+
+Chem. Eng. 2016. No. 1. P. 366-371. 
+
+11. Cortes-Borda D. Optimizing the Heck-Matsuda Reaction in Flow with a 
+
+Constraint-Adapted  Direct  Search  Algorithm  //  Org.  Process  Res.  Dev.  2016. 
+
+No. 20. P. 1979-1987. 
+
+12. Reizman B.J. Suzuki-Miyaura Cross-Coupling Optimization Enabled by 
+
+Automated Feedback // React. Chem. Eng. 2016. No. 1. P. 658-666. 
+
+13. Reizman  B.J.  Simultaneous  Solvent  Screening  and  Reaction 
+
+Optimization  in  Microliter  Slugs  //  Chemical  Communications.  2015.  No.  51. 
+
+P. 13290-13293. 
+
+14. Echtermeyer  A.  Selfoptimization  and  Model-Based  Design  of 
+
+Experiments for Developing a C-H Activation Flow Process // Beilstein J. Org. 
+
+Chem. 2017. No. 13. P. 150-163. 
+
+15. Skilton  R.A.  Remote-Controlled  Experiments  with  Cloud  Chemistry  // 
+
+Nat. Chem. 2015. No. 7. P. 1-5. 
+
+16. Houben C. Closed-Loop Multitarget Optimization for Discovery of New 
+
+Emulsion  Polymerization  Recipes  //  Org.  Process  Res.  Dev.  2015.  No.  19. 
+
+P. 1049-1053. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+260 
+
+17. Peremezhney  N.  Combining  Gaussian  Processes,  Mutual  Information 
+
+and  a  Genetic  Algorithm  for  Multi-Target  Optimization  of  Expensive-To-
+
+Evaluate Functions // Eng. Optimiz. 2014. No. 46. P. 1593-1607. 
+
+18. Fitzpatrick  D.E.  A  Novel  Internet-Based  Reaction  Monitoring,  Control 
+
+and  Autonomous  Self-Optimization  Platform  for  Chemical  Synthesis  //  Org. 
+
+Process Res. Dev. 2016. No. 20. P. 386-394. 
+
+19. Helmdach D. A Multi‐Objective Optimization Including Results of Life 
+
+Cycle  Assessment  in  Developing  Bio-Renewables-Based  Processes  //  Chem. 
+
+Sus. 2017. No. 10. pp. 3632-3643. 
+
+20. Shahriari B. Taking the Human out of the Loop: A Review of Bayesian 
+
+Optimization // Proc. IEEE. 2016. No. 104. P. 148-175. 
+
+21. Boukouvala  F.  Global  Optimization  Advances 
+
+in  Mixed-Integer 
+
+Nonlinear  Programming,  MINLP, 
+
+and  Constrained  Derivative-Free 
+
+Optimization, CDFO // Eur.J.Oper.Res. 2016. No. 252. P. 701-727. 
+
+22. Bradford E. Efficient Multiobjective Optimization Employing Gaussian 
+
+Processes, Spectral Sampling and a Genetic Algorithm // J. Global Optim. 2018. 
+
+No. 71. P. 407-438. 
+
+23. Moore 
+
+J.S.  Automated  Multitrajectory  Method 
+
+for  Reaction 
+
+Optimization in a Microfluidic System using Online IR Analysis // Org. Process 
+
+Res. Dev. 2012. No. 16. P. 1409-1415. 
+
+24. O’Brien A.G. Continuous Synthesis and Purification by Direct Coupling 
+
+of  a  Flow  Reactor  with  Simulated  Moving-Bed  Chromatography  //  Angew. 
+
+Chem. Int. Ed. 2012. No. 51. P. 7028-7030. 
+
+25. Rasmussen  C.E.  Gaussian  Processes  for  Machine  Learning  (Adaptive 
+
+Computation and Machine Learning). MIT Press, 2005. 
+
+26. Zhang  L.  New  Vistas  in  Chemical  Product  and  Process  Design  //  Rev. 
+
+Chem. Biomol. 2016. No. 7. pp. 557-582. 
+
+27. Zhang L. Generic Mathematical Programming Formulation and Solution 
+
+for Computer-Aided Molecular Design // Computers & Chemical Engineering. 
+
+2015. No. 78. P. 79-84. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+261 
+
+28. Zhang  L.,  Mao  H.,  Liu  L.,  Du  J.,  Gani  R.  A  Machine  Learning  Based 
+
+Computer-aided  Molecular  Design/Screening  Methodology  for  Fragrance 
+
+Molecules // Computers and Chemical Engineering. 2018. Vol. 115. P. 295-308 
+
+29. Schneider  N.  Development  of  a  Novel  Fingerprint  for  Chemical 
+
+Reactions  and  Its  Application  to  Large-Scale  Reaction  Classification  and 
+
+Similarity // J. Chem. Inf. Model. 2015. No. 55. P. 39-53. 
+
+30. Warr  W.A.  A  Short  Review  of  Chemical  Reaction  Database  Systems, 
+
+Computer-aided Synthesis Design, reaction Prediction and Synthetic Feasibility 
+
+// Mol. Inf. 2014. No. 33. P. 469-476. 
+
+31. Segler M. Planning Chemical Syntheses with Deep Neural Networks and 
+
+Symbolic AI // Nature. 2018. No. 555. P. 604-610. 
+
+32. Gini  A.  Dehydrogenative  Tempo-Mediated  Formation  of  Unstable 
+
+Nitrones: Easy Access to n-Carbamoyl Isoxazolines // Chemistry. 2015. No. 21. 
+
+P. 12053-12060. 
+
+33. Segler  M.  Neural-Symbolic  Machine  Learning  for  Retrosynthesis  and 
+
+Reaction Prediction // Chemistry. 2017. No. 23. P. 5966-5971. 
+
+34. Marcou  G.  Expert  System  for  Predicting  Reaction  Conditions:  the 
+
+Michael Reaction Case // J. Chem. Inf. Model. 2015. No. 55. Pp. 239-250. 
+
+35. Lake  B.M.  Building  Machines  That  Learn  and  Think  Like  People  // 
+
+Behav. Brain Sci. 2016. No. 40. pp. 1-101. 
+
+36. Sierra M.A. Dead Ends and Detours en Route to Total Syntheses of the 
+
+1990s // Angew. Chem. Int. Ed. 2000. No. 39. pp. 1538-1559. 
+
+37. Segler  M.  Modelling  Chemical  Reasoning  to  Predict  and  Invent 
+
+Reactions // Chemistry. 2017. No. 23. P. 6118-6128. 
+
+38. Peng  Q.  Computing  Organic  Stereo  Selectivity  –  from  Concepts  to 
+
+Quantitative  Calculations  and  Predictions  //  Chem.  Soc.  Rev.  2016.  No.  45. 
+
+P. 6093-6107. 
+
+39. Lin A.I. Automatized Assessment of Protective Group Reactivity: a Step 
+
+toward  Big  Reaction  Data  Analysis  //  J.  Chem.  Inf.  Model.  2016.  No.  56. 
+
+P. 2140-2148. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+262 
+
+40. Chen X. Prediction of Product Distribution and Bio-Oil Heating Value of 
+
+Biomass  Fast  Pyrolysis  //  Chemical  Engineering  &  Processing:  Process 
+
+Intensification. 2018. No. 130. P. 36-42. 
+
+41. Cao H.L. Prediction of Biochar Yield from Cattle Manure Pyrolysis via 
+
+Least  Squares  Support  Vector  Machine  Intelligent  Approach  //  Bioresour. 
+
+Technol. 2016. No. 202. P. 158-164. 
+
+42. Abdelnur  P.V.  Characterization  of  Bio-Oils  from  Different  Pyrolysis 
+
+Process Steps and Biomass using High-Resolution Mass Spectrometry // Energy 
+
+Fuel. 2013. No. 27. Pp. 6646-6654. 
+
+43. Ly H.V. Fast Pyrolysis of macroalga Saccharina Japonica in a Bubbling 
+
+Fluidized-Bed  Reactor  for  Bio-Oil  Production  //  Energy.  2015.  No.  93.  
+
+P. 1436-1446. 
+
+44. Wu S.R. Comparison of Oil-Tea Shell and Douglas-Fir Sawdust for the 
+
+Production  of  Bio-Oils  and  Chars  in  a  Fluidized-Bed  Fast  Pyrolysis  System  // 
+
+Fuel. 2016. No. 175. P. 57-63. 
+
+45. Suttibak S. Production of Bio-Oil from Pine Sawdust by Rapid Pyrolysis 
+
+in  a  Fluidized-Bed  Reactor  //  Energy  Sources  Part  A-Recovery  Util.  Environ. 
+
+Effects. 2015. No. 37. P. 1440-1446. 
+
+46. Pattiya  A.  Bio-Oil  Production  via  Fast  Pyrolysis  of  Biomass  Residues 
+
+from  Cassava  Plants  in  a  Fluidised-Bed  Reactor  //  Bioresour.  Technol.  2011. 
+
+No. 102. P. 1959-1967. 
+
+47. Asset 
+
+Performance 
+
+Management 
+
+(APM). 
+
+URL: 
+
+https://www.aspentech.com/en/products/apm/aspen-promv  (дата  обращения: 
+
+13.02.2019). 
+
+48. Schaub  G.  Biofuels  for  Automobiles  –  an  Overview  //  Chem.  Eng. 
+
+Technol. 2008. No. 31. P. 721-729. 
+
+49. Lenz V. Smart Biomass Heat – Heat from Solid Biofuels as an Integral 
+
+Part  of  a  Future  Energy  System  Based  on  Renewable  //  Chem.  Eng.  Technol. 
+
+2017. No. 40. P. 313-322. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+263 
+
+References 
+
+1.  Fabry  D.C.  Online  Monitoring  and  Analysis 
+
+for  Autonomous 
+
+Continuous  Flow  Self-Optimizing  Reactor  Systems.  React.  Chem.  Eng.,  2016, 
+
+No. 1, pp. 129-133. 
+
+2.  Sans  V.  Towards  Dial-A-Molecule  by  Integrating  Continuous  Flow, 
+
+Analytics and Self-Optimization. Chem. Soc. Rev., 2016, No. 45, pp. 2032-2043. 
+
+3.  Reizman B.J. Feedback in Flow for Accelerated Reaction Development. 
+
+Acc. Chem. Res., 2016, No. 49, pp. 1786-1789. 
+
+4.  Schweidtmann  A.M.  Machine  Learning  Meets  Continuous  Flow 
+
+Chemistry:  Automated  Optimization  towards  the  Pareto  Front  of  Multiple 
+
+Objectives. Chemical Engineering Journal, 2018, No. 352, pp. 277-282. 
+
+5.  Skilton  R.A.  Real-Time  Feedback  Control  Using  Online  Attenuated 
+
+Total  Reflection  Fourier  Transform  Infrared  (ATR  FT-IR)  Spectroscopy  for 
+
+Continuous  Flow  Optimization  and  Process  Knowledge.  Appl.  Spectroscopy, 
+
+2013, No. 67, pp. 1127-1131. 
+
+6.  Sans  V.  A  Self  Optimizing  Synthetic  Organic  Reactor  System  Using 
+
+Real-Time in-Line NMR spectroscopy. Chem. Sci., 2015, No. 6, pp. 1258-1264. 
+
+7.  Holmes  N.  Online  Quantitative  Mass  Spectrometry  for  the  Rapid 
+
+Adaptive Optimization of Automated Flow Reactors. React. Chem. Eng., 2016, 
+
+No. 1, pp. 96-100. 
+
+8.  McMullen  J.P.  An  Automated  Micro-fluidic  System  for  Online 
+
+Optimization in Chemical Synthesis. Org. Process Res. Dev., 2010, No. 14, pp. 
+
+1169-1176. 
+
+9.  Parrott  A.J.  Self-Optimizing  Continuous  Reactions  in  Supercritical 
+
+Carbon Dioxide. Angew. Chem. Int. Ed., 2011, No. 50, pp. 3788-1392. 
+
+10. Holmes  N.  Self-Optimization  of  the  Final  Stage  in  the  Synthesis  of 
+
+EGFR  Kinase  Inhibitor  AZD9291  Using  an  Automated  Flow  Reactor.  React. 
+
+Chem. Eng., 2016, No. 1, pp. 366-371. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+264 
+
+11. Cortes-Borda D. Optimizing the Heck-Matsuda Reaction in Flow with a 
+
+Constraint-Adapted  Direct  Search  Algorithm.  Org.  Process  Res.  Dev.,  2016, 
+
+No. 20, pp. 1979-1987. 
+
+12. Reizman B.J. Suzuki-Miyaura Cross-Coupling Optimization Enabled by 
+
+Automated Feedback. React. Chem. Eng., 2016, No. 1, pp. 658-666. 
+
+13. Reizman  B.J.  Simultaneous  Solvent  Screening  and  Reaction 
+
+Optimization in Microliter Slugs. Chemical Communications, 2015, No. 51, pp. 
+
+13290-13293. 
+
+14. Echtermeyer  A.  Selfoptimization  and  Model-Based  Design  of 
+
+Experiments  for  Developing  a  C-H  Activation  Flow  Process.  Beilstein  J.  Org. 
+
+Chem., 2017, No. 13, pp. 150-163. 
+
+15. Skilton  R.A.  Remote-Controlled  Experiments  with  Cloud  Chemistry. 
+
+Nat.Chem., 2015, No. 7, pp. 1-5. 
+
+16. Houben C. Closed-Loop Multitarget Optimization for Discovery of New 
+
+Emulsion  Polymerization  Recipes.  Org.  Process  Res.  Dev.,  2015,  No.  19, 
+
+pp. 1049-1053. 
+
+17. Peremezhney  N.  Combining  Gaussian  Processes,  Mutual  Information 
+
+and  a  Genetic  Algorithm  for  Multi-Target  Optimization  of  Expensive-to-
+
+Evaluate Functions. Eng. Optimiz., 2014, No. 46, pp. 1593-1607. 
+
+18. Fitzpatrick  D.E.  A  Novel  Internet-Based  Reaction  Monitoring,  Control 
+
+and  Autonomous  Self-Optimization  Platform  for  Chemical  Synthesis.  Org. 
+
+Process Res. Dev., 2016, No. 20, pp. 386-394. 
+
+19. Helmdach D. A Multi‐Objective Optimization Including Results of Life 
+
+Cycle Assessment in Developing Bio-Renewables-Based Processes. Chem. Sus., 
+
+2017, No. 10, pp. 3632-3643. 
+
+20. Shahriari B. Taking the Human out of the Loop: A Review of Bayesian 
+
+Optimization. Proc. IEEE, 2016, No. 104, pp. 148-175. 
+
+21. Boukouvala  F.  Global  Optimization  Advances 
+
+in  Mixed-Integer 
+
+Nonlinear  Programming,  MINLP, 
+
+and  Constrained  Derivative-Free 
+
+Optimization, CDFO. Eur. J. Oper. Res., 2016, No. 252, pp. 701-727. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+265 
+
+22. Bradford E. Efficient Multiobjective Optimization Employing Gaussian 
+
+Processes, Spectral Sampling and a Genetic Algorithm. J. Global Optim., 2018, 
+
+No. 71, pp. 407-438. 
+
+23. Moore 
+
+J.S.  Automated  Multitrajectory  Method 
+
+for  Reaction 
+
+Optimization in a Microfluidic System using Online IR Analysis.  Org. Process 
+
+Res. Dev., 2012, No. 16, pp. 1409-1415. 
+
+24. O’Brien A.G. Continuous Synthesis and Purification by Direct Coupling 
+
+of a Flow Reactor with Simulated Moving-Bed Chromatography. Angew. Chem. 
+
+Int. Ed., 2012, No. 51, pp. 7028-7030. 
+
+25. Rasmussen  C.E.  Gaussian  Processes  for  Machine  Learning  (Adaptive 
+
+Computation and Machine Learning). MIT Press, 2005. [in Russian]. 
+
+26. Zhang  L.  New  Vistas  in  Chemical  Product  and  Process  Design.  Rev. 
+
+Chem. Biomol, 2016, No. 7, pp. 557-582. 
+
+27. Zhang L. Generic Mathematical Programming Formulation and Solution 
+
+for  Computer-Aided  Molecular  Design.  Computers  &  Chemical  Engineering, 
+
+2015, No. 78, pp. 79-84. 
+
+28. Zhang  L.,  Mao  H.,  Liu  L.,  Du  J.,  Gani  R.  A  Machine  Learning  Based 
+
+Computer-Aided  Molecular  Design/Screening  Methodology  for  Fragrance 
+
+Molecules. Computers and Chemical Engineering, 2018, Vol. 115, pp. 295-308. 
+
+29. Schneider  N.  Development  of  a  Novel  Fingerprint  for  Chemical 
+
+Reactions  and  its  Application  to  Large-Scale  Reaction  Classification  and 
+
+Similarity. J. Chem. Inf. Model, 2015, No. 55, pp. 39-53. 
+
+30. Warr  W.A.  A  Short  Review  of  Chemical  Reaction  Database  Systems, 
+
+Computer-Aided  Synthesis  Design,  Reaction  Prediction  and  Synthetic 
+
+Feasibility. Mol. Inf., 2014, No. 33, pp. 469-476. 
+
+31. Segler M. Planning Chemical Syntheses with Deep Neural Networks and 
+
+Symbolic AI. Nature, 2018, No. 555, pp. 604-610. 
+
+32. Gini  A.  Dehydrogenative  Tempo-Mediated  Formation  of  Unstable 
+
+Nitrones:  Easy  Access  to  n-Carbamoyl  Isoxazolines.  Chemistry,  2015,  No. 21, 
+
+pp. 12053-12060. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+266 
+
+33. Segler  M.  Neural-symbolic  Machine  Learning  for  Retrosynthesis  and 
+
+Reaction Prediction. Chemistry, 2017, No. 23, pp. 5966-5971. 
+
+34. Marcou  G.  Expert  System  for  Predicting  Reaction  Conditions:  the 
+
+Michael Reaction Case. J. Chem. Inf. Mode, 2015, No. 55, pp. 239-250. 
+
+35. Lake B.M. Building Machines that Learn and Think Like People. Behav. 
+
+Brain Sci., 2016, No. 40, pp. 1-101. 
+
+36. Sierra M.A. Dead Ends and Detours en Route to Total Syntheses of the 
+
+1990s. Angew. Chem. Int. Ed., 2000, No. 39, pp. 1538-1559. 
+
+37. Segler  M.  Modelling  Chemical  Reasoning  to  Predict  and  Invent 
+
+Reactions. Chemistry, 2017, No. 23, pp. 6118-6128. 
+
+38. Peng  Q.  Computing  Organic  Stereo  Selectivity  –  from  Concepts  to 
+
+Quantitative  Calculations  and  Predictions.  Chem.  Soc.  Rev.,  2016,  No.  45,  pp. 
+
+6093-6107. 
+
+39. Lin A.I. Automatized Assessment of Protective Group Reactivity: a Step 
+
+toward  Big  Reaction  Data  Analysis.  J.  Chem.  Inf.  Model,  2016,  No.  56,  pp. 
+
+2140-2148. 
+
+40. Asset 
+
+Performance  Management 
+
+(APM). 
+
+Available 
+
+at: 
+
+https://www.aspentech.com/en/products/apm/aspen-promv 
+
+(accessed 
+
+13.02.2019). 
+
+41. Cao H.L. Prediction of Biochar Yield from Cattle Manure Pyrolysis via 
+
+Least  Squares  Support  Vector  Machine  Intelligent  Approach.  Bioresour. 
+
+Technol., 2016, No. 202, pp. 158-164. 
+
+42. Abdelnur  P.V.  Characterization  of  Bio-Oils  from  Different  Pyrolysis 
+
+Process Steps and Biomass Using High-Resolution Mass Spectrometry. Energy 
+
+Fuel, 2013, No. 27, pp. 6646-6654. 
+
+43. Ly H.V. Fast Pyrolysis of Macroalga Saccharina Japonica in a Bubbling 
+
+Fluidized-Bed  Reactor  for  Bio-Oil  Production.  Energy,  2015,  No.  93,  
+
+pp.1436-1446. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+267 
+
+44. Wu S.R. Comparison of Oil-Tea Shell and Douglas-Fir Sawdust for the 
+
+Production  of  Bio-Oils  and  Chars  in  a  Fluidized-Bed  Fast  Pyrolysis  System. 
+
+Fuel, 2016, No. 175, pp. 57-63. 
+
+45. Suttibak S. Production of Bio-Oil from Pine Sawdust by Rapid Pyrolysis 
+
+in  a  Fluidized-Bed  Reactor.  Energy  Sources  Part  A  –  Recovery  Util.  Environ. 
+
+Effects, 2015, No. 37, pp. 1440-1446. 
+
+46. Pattiya  A.  Bio-Oil  Production  via  Fast  Pyrolysis  of  Biomass  Residues 
+
+from  Cassava  Plants  in  A  Fluidised-Bed  Reactor.  Bioresour.  Technol.,  2011, 
+
+No. 102, pp. 1959-1967. 
+
+47. Chen X. Prediction of Product Distribution and Bio-Oil Heating Value of 
+
+Biomass  Fast  Pyrolysis.  Chemical  Engineering  &  Processing:  Process 
+
+Intensification, 2018, No. 130, pp. 36-42. 
+
+48. Schaub  G.  Biofuels  For  Automobiles  –  an  Overview.  Chem.  Eng. 
+
+Technol., 2008, No. 31, pp. 721-729. 
+
+49. Lenz V. Smart Biomass Heat – Heat from Solid Biofuels as an Integral 
+
+Part  of  a  Future  Energy  System  Based  on  Renewable.  Chem.  Eng.  Technol., 
+
+2017, No. 40, pp. 313-322. 
+
+Сведения об авторах 
+
+About the authors  
+
+Нигматуллин  Виль  Ришатович,  канд.  техн.  наук,  доцент,  заведующий 
+
+кафедрой «Комплексный инжиниринг и компьютерная графика»,  УГНТУ, 
+
+г. Уфа, Российская Федерация 
+
+Vil R. Nigmatullin, Candidate of Engineering Sciences, Associate Professor, 
+
+Head  of  Integrated  Engineering  and  Computer  Graphics  Department,  USPTU, 
+
+Ufa, Russian Federation 
+
+e-mail: ikafedraig@mail.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+268 
+
+Руднев  Николай  Анатольевич,  канд.  техн.  наук,  доцент  кафедры 
+
+«Комплексный  инжиниринг  и  компьютерная  графика»,  УГНТУ,  г.  Уфа, 
+
+Российская Федерация 
+
+Nikolay A. Rudnev, Candidate of Engineering Sciences, Assistant Professor 
+
+of Integrated  Engineering  and  Computer  Graphics  Department,  USPTU,  Ufa, 
+
+Russian Federation 
+
+e-mail: ngb2008@mail.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+

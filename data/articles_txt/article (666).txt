@@ -1,0 +1,298 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+УДК 622.235.535.2.622.235.4 
+
+РАЗРУШЕНИЕ МАССИВОВ ГОРНОЙ ПОРОДЫ  
+С НЕОДНОРОДНОЙ ПРОЧНОСТНОЙ СТРУКТУРОЙ 
+
+EXPLOSIVE DESTRUCTION OF MOUNTAIN BREED  
+WITH HETEROGENEOUS STRUCTURE 
+
+Эквист Борис Владимирович 
+доктор технических наук, доцент, профессор, 
+Национальный исследовательский  
+технологический университет «МИСиС» 
+
+Ekvist Boris Vladimirovich  
+Doctor of technical sciences,  
+associate Professor, Professor, 
+National Research  
+MISIS University of Technology 
+
+Аннотация. Предложен метод оптимизации параметров буро-
+взрывных  работ  с  учетом  физико-технических  свойств  горных 
+пород  в пределах  взрываемого  блока,  с  целью  улучшения  ка-
+чества взрыва на карьерах со сложной геологической структу-
+рой. Изложены результаты лабораторных экспериментов, под-
+тверждающие улучшение качества дробления образцов пород 
+взрывом зарядов с переменными замедлениями и расположе-
+нием,  в  зависимости  от  прочностных  свойств  образцов,  отно-
+сительно  взрывов  зарядов  с  неизменными  параметрами. 
+Предлагаемый  способ  может  быть  применен  совместно  с  гео-
+радиолокационными  просвечиваниями  массива  георадарами. 
+Взрывное разрушение сложноструктурных массивов имеет ряд 
+особенностей,  связанных  с  изменением  прочностных  свойств, 
+в  пределах  взрываемого  блока.  Для  оптимизации  эффектив-
+ности дробления массивов  со  сложной  геологической  структу-
+рой  требуется  оценка  физико-технических  свойств  пород  и 
+определение координат их залегания с различными прочност-
+ными  свойствами  в  пределах  взрываемого  блока.  Для  опера-
+тивной оценки физико-технических свойств взрываемых пород 
+подходит  метод  георадиолокации  поверхностного  слоя  с  при-
+менением  георадаров.  Результаты данного  метода  описаны  в 
+данной статье. 
+
+Annotation.  The  method  of  optimization  of 
+parameters  of  drillings  and  blasting  Offers 
+taking  into  account  properties  of  mountain 
+breeds within the limits of the blown-up block, 
+with the purpose of improvement of quality of 
+explosion  on  careers  with  a  difficult  geologi-
+cal structure. The results of laboratory exper-
+iments  are  expounded,  confirmative  an  im-
+provement quality of crushing of standards of 
+breeds by the explosion of charges with vari-
+able  decelerations  and  location,  depending 
+on  properties  of  standards,  in  relation  to  the 
+explosions  of  charges  with  unchanging  pa-
+rameters. The offered method can be applied 
+together  with  the  georadio-location  x-raying 
+of array of georadr. Explosion destroyed. For 
+optimization of efficiency of crushing of arrays 
+with a difficult geological structure the estima-
+tion of properties of breeds and determination 
+of  coordinates  of  their  bedding  are  required 
+with different heterogeneous properties within 
+the limits of the blown-up block. For the oper-
+ative estimation of properties of the blown up 
+breeds the method of the georadio-location x-
+raying  of  superficial  layer  befits  with  the  use 
+of  georadr.  The  results  of  this  method  are 
+described in this article. 
+
+Ключевые  слова:  сложноструктурные  массивы,  георадар, 
+георадиолокация,  градиент,  прочностные  свойства  пород,  па-
+раметры буровзрывных работ, результаты взрывов. 
+
+Keywords:  heterogeneus  arrays,  georadr, 
+georadio-location,  a  gradient, is  properties of 
+breeds,  parameters  of  drillings  and  blasting, 
+results of explosions. 
+
+М 
+
+етод  радиолокации  с  применением  георадаров  серии  «Око-2»  разработка  группы  компаний 
+«ЛОГИС-ГЕОТЕХ» с антенными блоками АБ-90 с глубиной зондирования до 16 м и разреша-
+ющей способностью 0,5 м по глубине и АБ-150 с глубиной зондирования 12 м и разрешающей способно-
+стью 0,35 м по глубине позволяет локализовать структуру взрываемых пород. Это обеспечит более каче-
+ственное дробление взорванной горной массы. При плавном изменении крепости и трещиноватости гор-
+ной  породы  параметры  буровзрывных  работ  (БВР)  (расстояние  между  зарядами,  замедления, удельный 
+расход ВВ и др.) изменяются плавно, при скачкообразном – скачкообразно.  
+
+ Известно,  что  прочностные  характеристики  пород  влияют  на  расположение  зарядов  на  взры-
+ваемом  блоке  и  замедления  между  их  взрывами.  Например,  если  крепость  взрываемых  пород 
+уменьшается, то согласно существующим рекомендациям, замедления между взрывами возрастают, 
+а расстояния увеличиваются [3, 4, 5]. На результаты взрыва влияют также и другие параметры среды: 
+вязкость, трещиноватость, обводненность и др. 
+
+Получение полевой информации при георадарной съемке производится при перемещении бло-
+ка антенн георадара по заданному маршруту на взрываемом блоке. При передвижении антенны гео-
+радара вдоль профиля регистрируется дифракционная картина по глубине и перемещению антенн по 
+блоку,  и  формируется  непрерывный  временной  разрез  изучаемой  среды.  Дифракционная  картина 
+представляет собой условный, в виде волновой картины, разрез изучаемой среды (рис. 1). 
+
+228 
+
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Рисунок 1 – Пример дифракционной картины,  
+полученной с помощью георадара серии «Око» с приёмной антеной АБ-400 
+
+Основными параметрами, определяющими методику съемки, и соответственно выбор антенных 
+блоков  являются:  необходимая  глубина  исследования  и  размер  структурных  элементов  (слоев  или 
+локальных объектов) которые необходимо выявить. В соответствии с этими величинами выбираются 
+антенные блоки с определенной глубиной зондирования и разрешающей способностью [1, 2, 6]. 
+
+Глубина зондирования – максимальная глубина отражающего объекта. Например, если задача со-
+стоит в определении местоположения объекта, расположенного приблизительно на глубине 3 м, обнару-
+жить его возможно с помощью антенн, глубина зондирования которых превышает заданную глубину.  
+
+Так же существует понятие разрешающей способности. Разрешающей способностью называют 
+минимальное расстояние по глубине, на котором могут быть различимы два отражающих объекта или 
+их  детали.  В  практическом  значении,  для  успешного  решения  задачи  необходимо,  чтобы  толщина 
+слоев превышала значение разрешающей способности по глубине для выбранной антенны. 
+
+Широкое  распространение  в  России  получили  георадары  компании  «ЛОГИС»  серии  «ОКО».  Они 
+
+характеризуются широким спектром предоставляемого основного и вспомогательного оборудования. 
+
+Антенный  блок,  включает  в  свой  состав  приёмо-передающие  антенны,  передающие  и  приём-
+ные  устройства  и  системы  обработки  информации.  Тип  антенного  блока  определяет  глубину  зонди-
+рования  и  разрешающую  способность  георадара.  Прибор  может  комплектоваться  несколькими  ан-
+тенными блоками для  выполнения  разных  задач. Блок  обработки, управления и индикации,  как пра-
+вило, ноутбуки различных типов с операционной системой Windows.  
+
+Телескопическая штанга, служит для перемещения георадара. Датчик перемещения, позволяет 
+осуществлять точную привязку по расстоянию на местности. Измеритель пути, позволяет определять 
+расстояние  на  местности.  Соединительные  оптические  кабели,  служат  для  передачи  информации  и 
+сигналов и позволяют повысить качество радиолокационного сигнала. 
+
+Антенные  блоки  георадара  «Око-2»  –  сменные,  состоят  из  приемного  и  передающего  блоков. 
+Обработка  данных  георадиолокации,  полученных  при помощи  георадара,  осуществляется  при помо-
+щи программы «GeoScan 32». 
+
+Сущность  обработки  состоит,  прежде  всего,  в  выделении  полезного  сигнала  на  фоне  помех  и 
+шума и расшифровки дифракционных снимков. С помощью разнообразных приемов преобразования 
+сигналов помехи ослабляются или удаляются с записи, а полезные сигналы выделяются. 
+
+В  процессе  интерпретации  дифракционных  снимков  выделяются  границы  слоев  в  обследуемой 
+толще. Для определения мощностей полученных слоев необходимо знать свойства слагающих их пород 
+[3, 5, 7].  
+
+Для  того  чтобы  указанный  способ  был  реализован  в  промышленности,  он  должен  давать  суще-
+ственный экономический эффект и быть достаточно технологичным. Особенно это важно для месторож-
+дений, где резко выражены различия в прочностных свойствах горных пород, слагающих массивы.  
+
+Заключение 
+
+На  основе  вышеизложенного  можно  сформулировать  способ  работы  с  георадаром,  включаю-
+
+щий следующие основные операции: 
+
+–   в  соответствии  с  необходимой  глубиной  исследований  и  размером  структурных  элементов 
+
+выбирается антенный блок с определенной глубиной зондирования и разрешающей способностью; 
+
+229 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+–   при перемещении антенного блока георадара вдоль профиля производится георадарная съемка; 
+–   при проведении георадарной съемки производится замер длины выполненного профиля из-
+
+мерительным колесом; 
+
+–   при  использовании  геологической  информации  о  существующих  на  данном  месторождении 
+породах производится привязка полученных дифракционных снимков к строению взрываемого блока; 
+–   на основе полученных данных о геологическом строении блока, производят выбор параметров 
+БВР в зависимости от прочностных характеристик участков взрываемого блока, при этом параметры БВР 
+для разных по крепости пород выбираются как для блоков пород с разными свойствами [8, 9, 10, 11, 12]. 
+
+Литература 
+
+1.  Семейкин Н.П. [и др.]. Геофизические приборы нового поколения // ГИАБ. – 2008. – № 12. – С. 203–210. 
+2.  Кулижников А.М., Бурда С.Н., Белозеров А.А. Применение георадаров для разведки и оценки запасов 
+
+дорожно-строительных материалов. – М. : Горный журнал. – 2004. – № 3. – С. 86–87. 
+
+3.  Совмен В.К. [и др.]. Сейсмическая безопасность при взрывных работах. – М. : Горная книга, 2012. – 228 с. 
+4.  Кутузов  Б.Н.  Методы  ведения  взрывных  работ  :  учебник  для  вузов.  –  М.:  Горная  книга,  2009.  –  Ч.  1: 
+
+Разрушение горных пород взрывом. – 2-е изд., стер. – 471 с. 
+
+5.  Gorokhov N.L. The mathematical formulation and numerical implementation of dynamic problems of geome-
+chanics  using finte  element method //  Scientfic  Reports  on Resource  Issues.  – Internaational  University  of  Resources 
+Frierberg, 2011. – Vol. 1. – P. 205–211.  
+
+6.  Эквист  Б.В.,  Коротков  В.Л.  Применение  георадиолокации  для  детализации  взрываемых  массивов  // 
+
+Norwegian Jornal of the international Science. – 2018. – № 17. – Vol. 1. – Р. 58–67. – ISSN 3453-9875 
+
+7.  Mehdi Hosseini, Mehdi Seifi Baghikhani. Analysing the Ground Vibration Due to Blasting at AlvandQoly Lime-
+stone Mine // International Journal of Mining Engineering and Mineral Processing. – 2013. – № 2 (2). – Р. 17–23. – DOI: 
+10.5923/j.mining.20130202.01 
+
+8.  Chan Kuang Hiyeu, Nguyen Din Ahn, Nkhy Van Fuk, Belin V.A. Pilot studies of influence of diameter of explo-
+sive wells on seismic action of explosions on Nuybeo coal mine. Explosive technologies / conference materials. – Hanoi, 
+Vietnam, 2015. – P. 252–255. 
+
+9.  Аленичев  И.А.  Корректировка  удельного  расхода  взрывчатого  вещества  //  ГИАБ.  –  2016.  –  №  7.  –                   
+
+С. 364–373. 
+
+10. Казаков Н.Н., Шляпин А.В., Лапиков И.Н. Дробление породы в верхнем слое карьерного уступа, с уче-
+
+том  трещиноватости  горных  пород  //  Сборник  «Взрывное  дело».  –  Изд.  МВК  по  взрывному  делу,  2015.  –                        
+№ 114/71. – С. 56–70. 
+
+11. Hudaverdi T., Kulatilake P., Kuzu S. Prediction of blast fragmentation using multivariate analysis procedures // 
+
+Int. J. Anal. Meth. Geomech. – 2010. – P. 957. – DOI 10.1002 
+
+12. Самсонов Б.Г. Основы объективного мониторинга геологической среды на предприятиях по разведке, 
+добычи и использованию атомного сырья. – М. : Центр содействия социально- экологическим инициативам атом-
+ной отрасли, 2010. – 120 с. 
+
+References 
+
+1.  Semeykin N.P. [et al.]. Geophysical instruments of new generation // GIAB. – 2008. – № 12. – Р. 203–210. 
+2.  Kulizhnikov A.M., Burda S.N., Belozerov A.A. GPR application for the exploration and estimation of the road-
+
+building materials reserves. – M. : Gornyj Zhurnal. – 2004. – № 3. – Р. 86–87. 
+
+3.  Sovmen V.K. [et al.]. Seismic safety at explosion works. – M. : Mining Book, 2012. – 228 р. 
+4.  Kutuzov B.N. Methods of blasting: a textbook for universities. – M. : Mining Book, 2009. – Part 1: The destruc-
+
+tion of rocks by explosion. – 2nd ed., er. – 471 р. 
+
+5.  Gorokhov N.L. The mathematical and numerical implementation of dynamic problems of geo-mechanics using finte 
+element method / Scientfic Reports on Resource Issues. – Internaational University of Re-sources Frierberg, 2011. – Vol. 1. – 
+P. 205–211.  
+
+6.  Equist B.V., Korotkov V.L. Application of GPR for Details of Exploding Arrays // Norwegian Jornal of the Inter-
+
+national Science. – 2018. – № 17. – Vol. 1. – Р. 58–67. – ISSN 3453-9875 
+
+7.  Mehdi Hosseini, Mehdi Seifi Baghikhani. Analysing the Ground Vibration Due to Blasting at AlvandQoly Lime-
+stone Mine // International Journal of Mining Engineering and Mineral Processing. – 2013. – № 2 (2). – Р. 17–23. – DOI: 
+10.5923/j.mining.20130202.01 
+
+8.  Chan  Kuang  Hiyeu,  Nguyen  Din  Ahn,  Nkhy  Van Fuk,  Belin V.A. Pilot studies of influence of diameter of ex-
+plosive  wells  on  seismic  action  of  explosions  on  Nuybeo  coal  mine.  Explosive  technologies  /  conference  materials.  – 
+Hanoi, Vietnam, 2015. – P. 252–255. 
+
+9.  Alenichev I.A. Correction of a specific explosive consumption (in Russian) // GIAB. – 2016. – № 7. – Р. 364–373. 
+10. Kazakov N.N., Shlyapin A.V., Lapikov I.N. Rock crushing in the upper layer of a career ledge, with account of 
+
+the rock fractures // Collection «Blasting business». – Published by MVK on Explosives, 2015. – № 114/71. – Р. 56–70. 
+
+11. Hudaverdi T., Kulatilake P., Kuzu S. Prediction of blast fragmentation using multivariate analysis procedures // 
+Int. J. Prediction of blast fragmentation using multivariate analysis procedures // Int. J. Anal. Meth. Geomech. – 2010. – 
+P. 957. – DOI 10.1002 
+
+12. Samsonov B.G. Basics of Objective Monitoring of Geological Environment at the Enterprises on Exploration, 
+Production  and  Use  of  Nuclear  Raw Materials.  – M. :  Centre  for  Assistance  to  Social  and  Environmental  Initiatives  of 
+Nuclear Industry, 2010. – 120 р. 
+
+230 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,413 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+УДК 541.183 
+
+РЕСУРСЫ ГЛАУКОНИТОСОДЕРЖАЩИХ ПЕСЧАНИКОВ УЗБЕКИСТАНА:  
+МЕСТОРОЖДЕНИЯ «ЧАНГИ» 
+––––––– 
+RESOURCES OF GLAUKONITE-CONTAINING ROCKS OF UZBEKISTAN: 
+THE «CHANGI» DEPOSIT 
+
+Якубов Салимжон Иминжанович 
+кандидат технических наук, 
+старший научный сотрудник лаборатории 
+«Химическая технология, переработка газа и ПАВ», 
+ИОНХ Академии Наук Республики Узбекистан 
+
+Мирзаев Аскар Жураевич 
+кандидат технических наук, 
+старший научный сотрудник лаборатории 
+«Химическая технология, переработка газа и ПАВ», 
+ИОНХ Академии Наук Республики Узбекистан 
+
+Адылов Джалол Камалович 
+кандидат технических наук, 
+старший научный сотрудник лаборатории 
+«Химическая технология, переработка газа и ПАВ», 
+ИОНХ Академии Наук Республики Узбекистан 
+
+Махсудова Зарифа Иркиновна 
+младший научный сотрудник лаборатории 
+«Химическая технология, переработка газа и ПАВ», 
+ИОНХ Академии Наук Республики Узбекистан  
+
+Черниченко Наталья Ивановна 
+младший научный сотрудник лаборатории 
+«Химическая технология, переработка газа и ПАВ», 
+ИОНХ Академии Наук Республики Узбекистан  
+
+Аннотация.  В  работе  приводится  глауконитосодержащие  ме-
+сторождения  Республики  Узбекистана.  Анализируется  место-
+рождения глауконитосодержащие пески месторождения Чанги. 
+
+Ключевые  слова:  глауконитовые  месторождения,  глаукони-
+товые песчаники, химический состав, микрофотография, глау-
+конитовый концентрат, обогащение, флотация, пигмент. 
+
+Yakubov Salimzhon Iminzhanovich 
+Candidateof Technical Sciences, 
+Senior Researcher of the laboratory, 
+«Chemical Technology, Gas and 
+Surfactant Processing» 
+Institute of General and Inorganic Chemistry 
+Academy of Sciences of 
+the Republic of Uzbekistan 
+
+Mirzaev Askar Zhuraevich 
+Candidateof Technical Sciences, 
+Senior Researcher of the laboratory, 
+«Chemical Technology, Gas and 
+Surfactant Processing» 
+Institute of General and Inorganic Chemistry 
+Academy of Sciences of 
+the Republic of Uzbekistan 
+
+Adylov Jalol Kamalovich 
+Candidateof Technical Sciences, 
+Senior Researcher of the laboratory, 
+«Chemical Technology, Gas and 
+Surfactant Processing» 
+Institute of General and Inorganic Chemistry 
+Academy of Sciences of 
+the Republic of Uzbekistan 
+
+Makhsudova Zarifa Irkinovna 
+Junior Researcher of the laboratory, 
+«Chemical Technology, Gas and 
+Surfactant Processing» 
+Institute of General and Inorganic Chemistry 
+Academy of Sciences of 
+the Republic of Uzbekistan  
+
+Chernichenko Natalia Ivanovna 
+Junior Researcher of the laboratory, 
+«Chemical Technology, Gas and 
+Surfactant Processing» 
+Institute of General and Inorganic Chemistry 
+Academy of Sciences of 
+the Republic of Uzbekistan  
+
+Annotation.  The  paper  presents  glauconite-
+bearing  deposits  in  Uzbekistan.  Deposits  of 
+glauconite-bearing  sands  of  the  Changi  de-
+posit are analyzed. The issues of enrichment 
+by flotation method are considered. Analyzes 
+of micrographs are presented. 
+
+Keywords:  glauconite  deposits,  glauconite 
+sandstones,  chemical  composition,  micro-
+graph,  glauconite  concentrate,  beneficiation, 
+flotation, pigment. 
+
+I 
+
+ntroductions. The special properties of glauconites attract many entrepreneurs and specialists in 
+the  industrial  sphere  of  Uzbekistan.  At  present,  many  deposits  and  manifestations  of  glauconite-
+bearing rocks have been explored in Uzbekistan [1, 2]. The peculiarity of these deposits is that they are lo-
+cated in the eastern, western, central and other territorial parts of Uzbekistan. This allows us to consider re-
+sources at the regional level. 
+
+The main deposits are divided into conventional geological regions: «Pritashkent», «Gissar», «Sultan-
+Uvaysy»,  «Ziatdin-North-Fergana»,  as  well  as  «Kyzylkum  sands».  At  the  same  time,  in  different  periods, 
+
+207 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+some  of  the  following  deposits  were  discovered  and  studied:  «Changi»,  «Garm-Chashmasay»,  «Bolgali», 
+«Kofrun», «Tagarasay», «Khuzhakul», «Krantau», «Kyzylzhar». 
+
+Projected reserves and content of glauconite in the rock by deposits are shown in table 1. 
+
+Table 1 – Projected reserves and content of glauconite in the rock by deposits 
+
+№ 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+
+Field 
+
+Changi 
+Garm-Chashmasoy 
+Bolgali 
+Kofrun 
+Togarasoy 
+Khujakul 
+Krantau 
+Kyzylzhar 
+Total 
+
+Reserves, 
+million tons 
+14 
+10 
+1,5 
+15 
+– 
+10 
+10 
+– 
+60,5 
+
+Glauconite content, % 
+
+13 ÷ 16 
+10 ÷ 15 
+10 ÷ 16 
+6 ÷ 12 
+8 ÷ 24 
+10 ÷ 14 
+10 ÷ 20 
+15 ÷ 18 
+
+Average glauconite 
+content, % 
+14,5 
+12,5 
+13 
+9 
+16 
+12 
+15 
+16,5 
+
+Research methods and objects. It can be said that the «Changi», «Garm-Chashmasoy», «Kofrun», 
+«Krantau» deposits can be referred to the most promising deposits [1]. The resource potential of the listed 
+deposits is more than 60 million tons. The average content of glauconite for the deposits as a whole is more 
+than 14.1%. 
+
+At present, in addition to the Krantau deposit [3], the «Changi» deposit has also been studied, but the 
+
+authors of [2] in the conclusion attributed it to unpromising deposits for a number of reasons. 
+
+In  this  regard,  the  question  arises  whether  the  «Changi»  deposits  of  glauconite-bearing  sandstones 
+
+can be used in the national economy after appropriate processing. 
+
+Glauconite sandstones of the «Changi» deposit (fig. 1) are located in the Parkent district of the east-
+ern  part  of  the  Tashkent  region.  The  occurrence  is  represented  by  glauconite  sandstones.  The  productive 
+stratum is overlain by a small thickness of opoka-like clays, quartz-feldspar sands and limestones. The total 
+thickness of the rocks is 40 m. In some places, part of the relief, glauconite sandstones come to the surface 
+and extend up to 3 km, with a variable thickness from 0.75 meters to 4 meters. 
+
+Figure 1 – Glauconite deposit «Changi» 
+
+In recent years, glauconite-bearing rocks have attracted great attention in the Republic. The reason for 
+the  increased  attention  to  glauconite-containing  rocks in  Uzbekistan  is  their  use  as  a  potassium-containing 
+mineral fertilizer. Since they contain potassium oxide K2O, one of the main components of mineral fertilizers 
+in agricultural production. In addition, they have long been used for softening drinking water. 
+
+The  Chatkal  geological  expedition  «Khimgeolnerud»  of the  «Tashkentgeologiya»  trust  in  1963–1966 
+carried out geological exploration and discovered large reserves of glauconite sandstones of the «Changi» 
+deposit [4]. Since this period, studies of glauconite sandstones in various directions have intensified. At pre-
+sent, samples have been taken for research to determine the possibility of obtaining a green mineral pigment 
+(fig. 2). 
+
+208 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+Figure 2 – Glauconite-bearing sandstone from the «Changi» 
+
+Table 2 shows the main chemical composition of the glauconite sandstone of the Changi deposit. 
+
+Table 2 – Chemical composition of glauconite sandstones of the «Changi» deposit 
+
+SiO2 
+69,51 
+
+TiO2 
+0,33 
+
+Al2О3 
+5,41 
+
+Fe2O3 
+11,58 
+
+FeO 
+0,51 
+
+MgO 
+2,04 
+
+MnO 
+0,02 
+
+CaO 
+1,00 
+
+Na2O 
+0.07 
+
+K2O 
+4,25 
+
+P2O5 
+0,44 
+
+loss on 
+ignition 
+5,58 
+
+One of the main directions is the use as argotechnical ores for cotton, depending on the content of po-
+tassium oxide. In addition, the ability of glauconite to selectively absorb oil and oil products, phenols, pesticides 
+and surfactants allows it to be used as a filtering and armor cushion to protect groundwater from pollution [5]. 
+
+The most  interesting is  the  use  of  glauconites  as  mineral  raw  materials for the  production  of  natural 
+
+pigments. 
+
+The  selected  glauconite  samples  were  visually  inspected  and  sorted  manually.  The  sorted  samples 
+
+are thermally processed and ground in a mill. 
+
+Figure  3  shows  a  micrograph  of  a  glauconite  sandstone  at  100  fold. Where  it  can  be  seen  that  the 
+sandstone is mainly composed of quartz sand, glauconite particles and other impurities. A micrograph of a 
+sandstone  particle  was  examined  at  100x  magnification  using  a  «Leica  DM  2500»  microscope,  made  in 
+Germany. The studies were carried out on unenriched and enriched glauconite samples. Micrographs were 
+examined at 40 and 100 times magnifications. Moreover, various filters are also used. 
+
+Figure 3 – Micrograph of non-enniched glauconite sandstone 
+from the Changi deposit at 100 times 
+
+Crushed glauconite sandstones were mixed with ordinary water and left to settle. After the deposition 
+of quartz sands and other impurities, then the liquid phase was passed through filter paper, the residue was 
+subjected to drying. The yield of glauconite concentrate was 62,2 %. 
+
+Thus, the enrichment of glauconites from the «Changi» deposit has been established. Further, to reduce 
+the time for enrichment processes, the flotation enrichment method was used on a laboratory flotation machine 
+FML (fig. 4). The main criterion was the use of the new «UGK» foaming agent. Typically, flotation uses frothers, 
+frothers in combination with collectors, and, if necessary, stimulants. We used «UGK» is universal and allows 
+the process of flotation of glauconite sandstones of the «Changi» field with one reagent. 
+
+209 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+After loading the screened glauconite sandstone, ready for enrichment, into the flotation tank, the mix-
+er is switched on and moves with water to a homogeneous state. The «UGK» foaming agent is poured into 
+the  flotation  tank  and  the  foam  layer  is  removed  with  glauconite  concentrate.  The  process  lasted  10–12 
+minutes. After the completion of the first stage of flotation, a small portion of «UGK» was added to the tail-
+ings and a control flotation was performed. Thus, several more control flotation was carried out further. As a 
+result, the resulting glauconite concentrate reached 64,5 % within 30–40 minutes (fig. 5.). 
+
+Figure 4 – Laboratiry flotation machine FML 
+
+Figure 5 – Flotation-enriched glaconite concentrate  
+of «Changi» deposit 
+
+Conclusions. In conclusion, it can be noted that the glauconite sandstones of the «Changi» deposit 
+are  easily  beneficiaries  and  allow  the  use  of  the flotation  beneficiation method.  The  enrichment  scheme is 
+simple and the obtained glauconite concentrates with a content of 64,5 % are fully suitable for use as local 
+green pigments. 
+
+Литература: 
+
+1.  Glauconite-bearing sands of Uzbekistan: Main characteristics and prospects of use / M.Yu. Yunusov [et al.] // 
+
+Journal «Mining Bulletin of Uzbekistan». – Navoi, 2010. – № 2. – Р. 58–60. 
+
+2.  Mineral pigments of eastern Uzbekistan / R.A. Khamidov [et al.] // Journal «Geology and Mineral Resources». – 
+
+Tashkent, 2016. – № 5. – Р. 50–58. 
+
+3.  Allaniyazov D.O. Investigation of the physical and chemical properties of glauconites of the Krantau deposit // 
+
+materials of the RNTK «XXI century – the century of intellectual youth». – Tashkent, 2018. – Р. 30–31. 
+
+4.  Glauconite of the Changi deposit and prospects for its use. Proceedings of the Central Asian Research Insti-
+
+tute of Geology and Mineral Raw Materials // Fan Publishing House of the Uzbek SSR. – Tashkent, 1970. – 54 p. 
+
+5.  Telushkina T.Yu., Medvedev A.V., Permyakov V.N. Experience in studying and using glauconite sand // Mate-
+rials  of  the  IRTC  dedicated  to the  50th  anniversary  of  TyumII.  «Oil  аnd  gas  of  western  siberia»  Problems  of  ecology, 
+safety of facilities and territory. – Tyumen : TyumGNGU, 2013. – Vol. III. – Р. 27–36. 
+
+References: 
+
+1.  Glauconite-bearing sands of Uzbekistan: Main characteristics and prospects of use / M.Yu. Yunusov [et al.] // 
+
+Journal «Mining Bulletin of Uzbekistan». – Navoi, 2010. – № 2. – Р. 58–60. 
+
+2.  Mineral pigments of eastern Uzbekistan / R.A. Khamidov [et al.] // Journal «Geology and Mineral Resources». – 
+
+Tashkent, 2016. – № 5. – Р. 50–58. 
+
+3.  Allaniyazov D.O. Investigation of the physical and chemical properties of glauconites of the Krantau deposit // 
+
+materials of the RNTK «XXI century – the century of intellectual youth». – Tashkent, 2018. – Р. 30–31. 
+
+4.  Glauconite of the Changi deposit and prospects for its use. Proceedings of the Central Asian Research Insti-
+
+tute of Geology and Mineral Raw Materials // Fan Publishing House of the Uzbek SSR. – Tashkent, 1970. – 54 p. 
+
+5.  Telushkina T.Yu., Medvedev A.V., Permyakov V.N. Experience in studying and using glauconite sand // Mate-
+rials  of  the  IRTC  dedicated  to the  50th  anniversary  of  TyumII.  «Oil  аnd  gas  of  western  siberia»  Problems  of  ecology, 
+safety of facilities and territory. – Tyumen : TyumGNGU, 2013. – Vol. III. – Р. 27–36. 
+
+210 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

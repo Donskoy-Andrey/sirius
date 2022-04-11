@@ -1,0 +1,1476 @@
+4 
+
+УДК 622.242.422 622.276.04 622.279.04 
+
+ОЦЕНКА ЭФФЕКТИВНОСТИ ОПРЕДЕЛЕНИЯ РЕСУРСА  
+
+ПО МЕТОДУ ВЕЙБУЛА НА ПРИМЕРЕ РАСЧЕТА РЕСУРСА 
+
+СВАРНЫХ СОЕДИНЕНИЙ МОРСКИХ СТАЦИОНАРНЫХ 
+
+ПЛАТФОРМ 
+
+ESTIMATION OF THE EFFICIENCY OF DETERMINING  
+
+THE RESOURCE BY THE WEIBUL METHOD ON THE EXAMPLE  
+
+OF RESOURCE CALCULATING OF WELDED JOINTS  
+
+OF MARINE STATIONARY PLATFORMS 
+
+Ч.С. Гусейнов, И.В. Староконь  
+
+Российский государственный университет нефти и газа 
+
+(национальный исследовательский университет) имени И.М. Губкина, 
+
+г. Москва, Российская Федерация 
+
+Chingiz S. Huseynov, Ivan V. Starokon  
+
+Russian State University of Oil and Gas (National Research University) 
+
+named after I.M. Gubkin, Moscow, Russian Federation 
+
+e-mail: starokon79@mail.ru 
+
+Аннотация. В мире идет активное освоение морских нефтегазовых ме-
+
+сторождений. Для добычи на шельфе активно применяются различные гид-
+
+ротехнические сооружения, среди которых широкое распространение полу-
+
+чили морские стационарные платформы. В процессе эксплуатации на мор-
+
+ские платформы воздействуют различные нагрузки, что приводит к возник-
+
+новению переменных напряжений, активирующих в сварных соединениях 
+
+и  основных  конструктивных  элементах  морских  платформ  усталостные 
+
+процессы с последующим разрушением. Часто именно сварные соединения 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+5 
+
+морских  платформ  подвергаются  усталостному  разрушению  ввиду  кон-
+
+структивных особенностей их исполнения, и поэтому они являются такими 
+
+участками  морских  сооружений,  для  которых  вероятности  риска  их  уста-
+
+лостного разрушения повышены. Поэтому определение значений длитель-
+
+ности безопасной эксплуатации сварных соединений морских платформ с 
+
+момента начала их эксплуатации и до наступления их разрушения, которая 
+
+также называется ресурсом, является ключевым требованием для обеспече-
+
+ния безопасной эксплуатации этих сооружений.  
+
+Целью статьи является определение эффективности применения метода 
+
+Вейбулла для оценки ресурса сварных соединений морских стационарных 
+
+платформ и возможности его применения для решения частных задач экс-
+
+пертизы промышленной безопасности морских стационарных платформ.  
+
+В статье рассматривается метод оценки ресурса, базирующийся на рас-
+
+пределении Вейбулла. Распределение Вейбулла используют для моделиро-
+
+вания данных из распределений с возрастающей, убывающей и постоянной 
+
+интенсивностью отказов и применяют к широкому спектру данных (нара-
+
+ботка до отказа, количество циклов до отказа, механическое напряжение до 
+
+отказа  и  т.д.).  Расчеты  проводились  на  основании  данных,  описанных  в 
+
+«DNV-RP-C103.  Рекомендованная  практика.  Расчет  усталости  морских 
+
+стальных конструкций».  
+
+Оценка  ресурса  по  методу  Вейбулла  имеет  значительный  опыт 
+
+промышленного 
+
+применения, 
+
+она 
+
+показала 
+
+свою 
+
+высокую 
+
+результативность.  Однако,  по  мнению  авторов,  данную  методику  сложно 
+
+применять  при  решении  частных 
+
+задач  проведения 
+
+экспертизы 
+
+промышленной  безопасности,  например  при  продлении  ресурса  сварных 
+
+соединений,  восстановленных  после  ремонта.  Кроме  того,  ресурс, 
+
+расчитанный  по  методу  Вейбулла,  зависит  от  вероятности  разрушения,  и 
+
+при вероятности разрушения 10-2 сварное соединение может быть допущено 
+
+к эксплуатации, а при уровне заданной надежности 10-4 при тех же самых 
+
+эксплутационных  условиях  –  уже  нет.  Помимо  этого,  следует  учитывать, 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+6 
+
+что точность определения ресурса по методу Вейбулла, предложенная в за-
+
+рубежной нормативной документации, не в полной мере соответствует тре-
+
+бованиям, приведенным в отечественной нормативной базе. Поэтому при-
+
+менение метода Вейбулла (приведенное в документе «DNV-RP-C103. Реко-
+
+мендованная практика. Расчет усталости морских стальных конструкций»), 
+
+например, при решении задачи оценки допустимого риска гибели персонала 
+
+платформы,  потребует  дополнительного  увеличения  его  точности  до 
+
+значений 6,7 · 10-6. 
+
+Abstract.  The  world  is  actively  developing  offshore  oil  and  gas  fields. 
+
+Various  hydraulic  structures  are  actively  used  for  offshore  production,  among 
+
+which offshore fixed platforms are widely used. During operation, various loads 
+
+act on offshore platforms, which leads to the appearance of alternating stresses, 
+
+activating fatigue processes in welded joints and the main structural elements of 
+
+offshore platforms, with their subsequent destruction. Often, it is the welded joints 
+
+of offshore platforms that undergo fatigue failure due to the design features of 
+
+their execution, and therefore they are such areas of offshore structures for which 
+
+the probability of the risk of their failure is increased. Therefore, the determination 
+
+of the duration of safe operation of welded joints of offshore platforms from the 
+
+moment of their operation until the onset of their destruction, which is also called 
+
+a resource, is a key requirement for ensuring the safe operation of these structures. 
+
+The purpose of the article is to assess the effectiveness of the Weibull method 
+
+for assessing the service life of welded joints on offshore fixed platforms. 
+
+This  article  discusses  a  resource  estimation  method  based  on  the  Weibull 
+
+distribution.  The  Weibull  distribution  is  used  to  model  data  from  distributions 
+
+with  increasing,  decreasing  and  constant  failure  rates  and  is  applied  to  a  wide 
+
+range of data (time to failure, number of cycles to failure, stress to failure, etc.). 
+
+Calculations were made based on data, described in DNV-RP-C103. Rekomendo-
+
+vannaya praktika. Raschet ustalosti morskikh stalnykh konstruktsii. 
+
+Resource  assessment  by  the  Weibull  method  has  significant  experience  in 
+
+industrial application and has shown its high efficiency. However, according to 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+7 
+
+the author, this technique is difficult to apply when solving particular problems of 
+
+industrial  safety  examination,  for  example,  when  extending  the  service  life  of 
+
+welded  joints  restored  after  repair.  In  addition,  the  resource,  calculated  by  the 
+
+Weibull  method,  depends  on  the  probability  of  failure  and  with  a  failure 
+
+probability  of  10-2,  the  welded  joint  can  be  allowed  to  operate,  and  at  a  given 
+
+reliability level of 10-4  under  the same operating conditions, it is no longer. In 
+
+addition, it should be borne in mind that the accuracy of determining the resource 
+
+by the Weibull method proposed in foreign regulatory documents does not fully 
+
+comply with the requirements of the domestic regulatory framework. Therefore, 
+
+the  use  of  the  Weibull  method  (given  in  DNV-RP-C103.  Rekomendovannaya 
+
+praktika.  Raschet  ustalosti  morskikh  stalnykh  konstruktsii),  for  example,  when 
+
+solving  the  problem  of  assessing  the  permissible  risk  of  death  of  platform 
+
+personnel, will require an additional increase in its accuracy to values 6.7 · 10-6. 
+
+Ключевые  слова:  морские  стационарные  платформы;  накопление 
+
+повреждений;  методы  расчета  ресурса;  сварные  соединения;  диаграммы 
+
+усталости 
+
+Key words: оffshore fixed platforms; damage accumulation; life calculation 
+
+methods; welded joints; fatigue diagrams 
+
+В мире ведется активное освоение морских месторождений нефти, газа 
+
+и иных ресурсов, которые играют ключевую  роль в производстве энергии 
+
+во всем мире. Значительное количество производимой в мире энергии при-
+
+ходится на счет переработки нефтегазовых ресурсов. Добыча углеводород-
+
+ных ресурсов ведется как на сухопутных, так и на морских месторождениях. 
+
+Следует отметить, что на шельфе, принадлежащем РФ, содержится 25 % за-
+
+пасов нефти и 50 % запасов газа от общих запасов нашей страны. Распреде-
+
+лены  они  следующим  образом:  Баренцево  море  –  49  %,  Карское  –  35  %, 
+
+Охотское – 15 %, Черное, Каспийское море и Балтийское – 1 % [1]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+8 
+
+Следует  подчеркнуть,  что  добыча  углеводородных  ресурсов  ведется  в 
+
+неблагоприятных морских условиях, которые характеризуются значитель-
+
+ными ледовыми, ветровыми, волновыми и иными нагрузками [2–7].  
+
+В настоящее время в Российской Федерации активно разрабатываются 
+
+месторождения нефти и газа на шельфе, а в ближайшей перспективе плани-
+
+руется разработка месторождений в Арктике, отличительной чертой кото-
+
+рых являются значительные ледовые нагрузки и экстремальные температур-
+
+ные  воздействия.  Существуют  также  планы  по  строительству  в  Арктике 
+
+морских платформ, на которых будут расположены предприятия по сжиже-
+
+нию газа. Строительство таких заводов позволит существенно снизить про-
+
+изводственные затраты на сжижение газа ввиду низких температур окружа-
+
+ющей среды. В последние годы особый интерес представляют перспектив-
+
+ные проекты морской ветровой электрогенерации, которые заключаются в 
+
+установке на морских акваториях (для которых характерны существенные 
+
+ветровые потоки) специальных морских платформ, на которых будут распо-
+
+ложены ветровые электрогенераторы. К настоящему моменту в ряде евро-
+
+пейский стран такие проекты уже реализованы. Примером может служить 
+
+электростанция London Array (рисунок 1). 
+
+Рисунок 1. Морские ветровые электрогенераторы 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+9 
+
+В  процессе  освоения  морских  месторождений  используется  различное 
+
+оборудование,  расположенное  на  морских  платформах  (МСП).  Морские 
+
+платформы являются одним из наиболее распространенных объектов мор-
+
+ской нефтегазодобычи и играют важную роль в решении задач по освоению 
+
+шельфа (рисунок 2). В настоящее время общее количество таких сооруже-
+
+ний превышает несколько тысяч. 
+
+МСП относятся к классу опасных производственных объектов [8], для 
+
+которых  существует  значительный  риск  возникновения  аварийных  ситуа-
+
+ций, которые могут иметь серьёзные последствия для находящихся в зоне 
+
+аварии, для жизни и здоровья работающего на морской платформе персо-
+
+нала, для оборудования и природной среды. С целью предупреждения ава-
+
+рии на МСП, согласно п. 6 «Правила безопасности морских объектов нефте-
+
+газового комплекса» [9], предусматриваются проектные решения, позволя-
+
+ющие обеспечить прочность в условиях воздействия нагрузок.   
+
+Рисунок 2. Морские стационарные платформы 
+
+Одним из таких решений является оценка ресурса морской платформы 
+
+(основных  конструктивных  элементов,  сварных  соединений  платформы  и 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+10 
+
+т.д.). Под ресурсом будем понимать длительность эксплуатации платформы 
+
+с момента ввода её в эксплуатацию и до достижения ею предельного состо-
+
+яния  (определяемого  нормативно-технической  документацией),  препят-
+
+ствующего её безопасной эксплуатации. На значение ресурса прямое влия-
+
+ние оказывают условия эксплуатации платформы. Хорошо известно, что в 
+
+течение всего срока эксплуатации на конструктивные элементы и сварные 
+
+соединения морских платформ воздействуют различные нагрузки, что при-
+
+водит к возникновению переменных напряжений. Очевидно, что перемен-
+
+ные напряжения  вызывают  в  сварных  соединениях  и основных  конструк-
+
+тивных элементах морских платформ усталостное разрушение. Неоднократ-
+
+ные  диагностические  обследования  показали,  что  наиболее  часто  именно 
+
+сварные соединения морских платформ подвергались усталостному разру-
+
+шению ввиду конструктивных особенностей их исполнения. В связи этим, 
+
+сварные соединения морских платформ являются участками морских соору-
+
+жений с повышенной вероятностью риска их усталостного разрушения. По-
+
+этому определение значений длительности безопасной эксплуатации свар-
+
+ных соединений морских платформ с момента начала их эксплуатации и до 
+
+наступления их разрушения, которая также называется ресурсом, является 
+
+ключевым требованием для обеспечения безопасной эксплуатации этих со-
+
+оружений. 
+
+В  настоящее  время  разработаны  различные  методики  оценки  ресурса 
+
+морских платформ [9]. Большинство из этих методов базируется на анализе 
+
+переменных  напряжений,  вызванных  в  элементах  и  сварных  соединениях 
+
+платформ влиянием внешних нагрузок и воздействием окружающей среды 
+
+[10–13]. 
+
+Особый интерес представляет метод оценки ресурса, базирующейся на 
+
+оценке ресурса по методу Вейбулла и рекомендуемый к использованию в 
+
+нормативном документе [13]. В России этот метод также носит название ме-
+
+тод «Вейбулла – Гнеденко». Распределение Вейбулла используют для моде-
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+11 
+
+лирования данных из распределений с возрастающей, убывающей и посто-
+
+янной интенсивностью отказов и применяют к широкому спектру данных 
+
+(наработка до отказа, количество циклов до отказа, механическое напряже-
+
+ние до отказа и т.д.). Согласно документу [13], долгосрочное распределение 
+
+диапазона  напряжений  в  сварном  соединение  морских  платформ  можно 
+
+представить  как  двухпараметрическое  распределение  Вейбулла.  При 
+
+использовании  распределения  Вейбулла  для  различных  условий  нагрузки 
+
+применяется  однонаклонная  усталостная  кривая,  и  ресурс  определяется 
+
+согласно формуле:  
+
+Где  – коэффициент использования; 
+
+ – расчетный срок службы в секундах; 
+
+h  –  параметр  формы  распределения  диапазона  напряжения  по 
+
+Вейбуллу; 
+
+ – гамма функция [13]; 
+
+α –  параметр в логарифмическом уравнении, описывающим диаграмму 
+
+усталости; 
+
+m – показатель наклона кривой усталости; 
+
+средняя частота перехода через нулевой уровень; 
+
+  –  параметр  масштаба  распределения  диапазона  напряжения  по 
+
+Вейбуллу, расчитываемый по формуле (2): 
+
+где 
+
+ – предел усталости сварного соединения;  
+
+  –  количество  циклов,  соответствующее  значению  предела 
+
+выносливости 
+
+. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+12 
+
+Коээффициент использования η в левой части уравнения определяется в 
+
+зависимости  от  коэффициента  усталости  DFF  и  срока  эксплуатации  из 
+
+таблицы 1. 
+
+Таблица 1. Взаимосвязь коээффициента использования η от коэффициента 
+усталости DFF и срока эксплуатации морской платформы 
+
+Коэффициент устало-
+сти DFF 
+
+1 
+
+2 
+
+… 
+
+10 
+
+Срок эксплуатации, лет 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+50 
+
+4,0 
+
+2,0 
+
+1,33 
+
+1,00 
+
+0,80 
+
+0,67 
+
+0,40 
+
+2,0 
+
+1,0 
+
+0,67 
+
+0,50 
+
+0,40 
+
+0,33 
+
+0,20 
+
+…  …  …  …  …  …  … 
+
+0,40 
+
+0,20 
+
+0,13 
+
+0,10 
+
+0,08 
+
+0,07 
+
+0,04 
+
+В свою очередь, коэффициент усталости DFF можно определить, исходя 
+
+из  графика  в  зависимости  от  заданной  вероятности  разрушения  P 
+
+(рисунок  3).  Чем  меньше  величина  вероятности  разрушения,  тем  больше 
+
+величина  коэффицента  DFF.  Предположим,  что  мы  задаем  условие 
+
+вероятности  разрушения  сварного  соединения  морской  платформы  менее 
+
+чем  0,001  в  течении  25-летнего  срока  эксплуатации.  В  этой  ситуации 
+
+коэффициент использования η будет равен 0,08 (таблица 1).  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+13 
+
+красная линия – в течение всего срока эксплуатации морской платформы; 
+синяя линия   –   в течение одного года эксплуатации морской платформы 
+
+Рисунок 3. Взаимосвязь коэффициента усталости DFF и вероятности 
+разрушения рассматриваемого сварного соединения 
+
+Поизведем расчет правой части уравнения (1). Согласно таблице 2.1 [13] 
+
+для трубчатых соединений морской платформы принимаются значения m =3 
+
+и lg(α) = 12,164. Следовательно, α будет равно 1,45881 · 1012. 
+
+Проведем  анализ  условий  эксплуатации  сварного  соединения  на 
+
+примере  задачи,  описанной  в  работе  [14]  (таблица  2).  Детальная 
+
+информация  об  особенностях  напряженно-деформированного  состояния 
+
+сварных соединений морских платформ, изменения структуры и свойств ре-
+
+монтных сварных соединений и эффективность различных технологий ре-
+
+монта приведены в работах [15–20]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+Таблица  2.  Значения  амплитуд  переменных  напряжений,  действующих  
+в сварном соединении морской стационарной платформы 
+
+14 
+
+Номер 
+ступени 
+
+Величина напря-
+жения  
+в сварном соеди-
+ , МПа 
+нении
+
+Количество цик-
+
+лов 
+
+Вспомогатель-
+ный параметр ti 
+
+1 
+2 
+3 
+4 
+5 
+6 
+
+82 
+60 
+40 
+32 
+24 
+20 
+
+430 
+2425 
+8447 
+22912 
+48386 
+514688 
+
+0,000719921 
+0,004060018 
+0,014142256 
+0,038360054 
+0,081009496 
+0,861708255 
+
+Поскольку максимальный размах напряжения равен 82 МПа, то согласно 
+
+5-3  документа  [13],  параметр  формы  распределения  по  Вейбуллу  h  будет 
+
+равен 1,2. В этой ситуации гамма-функция Г определяется согласно таблице 
+
+3 и равна 4,306 [13]. Значения  гамма-функции Г в зависимости от формы 
+
+распределения по Вейбуллу h при постоянном значении m = 3 приведены в 
+
+таблице 3. 
+
+Таблица  3.  Некоторые  значения  гамма-функции  Г  в  зависимости  
+от формы распределения по Вейбуллу h [13] 
+
+h  0,97  0,98  0,99  1,00  1,01  1,02  1,03  1,04  1,05  1,06  1,07  1,08  1,09 
+
+1,20 
+
+Г  6,750  6,483  6,234  6,000  5,781  5,575  5,382  5,200  5,029  4,868  4,715  4,571  4,435 
+
+4,306 
+
+Согласно формуле (2) определим q: 
+
+Согласно  требованиям,  расчет  необходимо  проводить  не  в  годах,  а  в 
+
+секундах.  Поэтому  25  лет  эксплуатации  в  переводе  на  секунды  составит 
+
+788400000 с.  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+15 
+
+Отдельно  следует  рассмотреть  определение  частоты  перехода 
+
+напряжений  через  значение  предела  выносливости  Δϭ0.  Специфика 
+
+волнового воздействия такова, что рассматриваемые в сварном соединении 
+
+напряжения растяжения–сжатия по своей природе близки к коэффициенту 
+
+ассиметрии  цикла  R  =  –1.  Совершенно  очевидно,  что  частота  таких 
+
+пересечений  напрямую  зависит  от  периода  волнового  воздействия  и 
+
+определяется по формуле: 
+
+  (3) 
+
+где 
+
+средняя частота перехода через нулевой уровень; 
+
+Т – период рассматриваемой волны.  
+
+Период  волны  Т  можно  легко  определить,  исходя  из  номограммы 
+
+(рисунок  4), приведенной в нормативном документе [21]. Согласно этому 
+
+документу, период волны можно определить как в зависимости от скорости 
+
+ветра и глубины на шельфе, так и в зависимости от длины разгона волны и 
+
+скорости ветра. 
+
+Рисунок 4. Номограмма определения периода волны Т в зависимости  
+от скорости ветра и глубины на шельфе  и в зависимости от длины разгона 
+волны и скорости ветра [21] 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+    
+ 
+ 
+ 
+ 
+ 
+16 
+
+Согласно  анализу  проектной  документации  на  морские  платформы, 
+
+расположенные  в  Черноморском  регионе  РФ,  зачение  частоты  волновой 
+
+нагрузки  можно  принять  равным  0,2.  Однако  это  значение  надо 
+
+рассчитывать для каждого конкретного случая. Подставим все вычисленные 
+
+значения в уравнение: 
+
+Из  полученных  результатов  становится  очевидно,  что  условие 
+
+обеспечения прочности выполняется. 
+
+Проведем оценку полученных результатов на соответствие требованиям 
+
+отечественной  нормативно-технической 
+
+документации.  Одним  из 
+
+важнейших  аспектов  при  оценке  безопасности  эксплуатации  морских 
+
+стационарных  платформ  является  определение  допустимого  риска  гибели 
+
+персонала при полном разрушении платформы.  
+
+Подобное разрушение может произойти в силу различных причин, в том 
+
+числе и в случае усталостного разрушения элементов и сварных соединений 
+
+платформы в условиях шторма.  
+
+Опираясь на данные, приведенные в работе [22], можно сделать вывод о 
+
+том, что при полном разрушении морской платформы вероятность гибели 
+
+при эвакуации оценивается по данным DNV как 18,2 %. Так как численность 
+
+персонала платформы в зависимости от проекта колеблется от 100 до 200 
+
+человек, то согласно таблице № 6-3 [23], морские стационарные платформы 
+
+можно отнести к опасным производственным объектам с высоким риском 
+
+аварии.  
+
+В соответствие с рекомендациями таблицы № 3-1 приложения № 3 [24] 
+
+ежегодный  риск  гибели  людей  при  аварии  на  опасном  производственном 
+
+объекте нефтегазового комплекса в среднем за 2011–2015 гг. достигал 134 
+
+погибших на один миллион рискующих.  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+17 
+
+Согласно таблице № 4-1 приложения № 4 [24], коэффициент запаса для 
+
+установления  риска  гибели  персонала  на  данном  опасном  производствен-
+
+ном объекте составляет 50 (при этом может применяться дополнительный 
+
+понижающий коэффициент для объекта нового строительства, который ра-
+
+вен 3).  
+
+Следовательно, вероятность допустимого риска гибели персонала от по-
+
+ражающих факторов аварии на морской стационарной платформе не должна 
+
+превышать значение 6,7 · 10-6. При этом максимальное значение оценки ве-
+
+роятности  неразрушения,  согласно  диаграмме  на  рисунке  3,  составляет 
+
+6 · 10-5, что выше вероятности наступления допустимого риска гибели пер-
+
+сонала. Таким образом, точность определения ресурса по методу Вейбулла, 
+
+предложенная  в  нормативном  документе  [13],  не  соответствует  требова-
+
+ниям, приведенным в нормативном документе [23]. 
+
+Выводы 
+
+Оценка ресурса по методу Вейбулла имеет значительный опыт промыш-
+
+ленного применения и показала свою высокую результативность. Однако, 
+
+по мнению авторов, данную методику сложно применять при решении част-
+
+ных задач проведения экспертизы промышленной безопасности, например 
+
+при  продлении  ресурса  сварных  соединений,  восстановленных  после  ре-
+
+монта. Кроме того, ресурс, расчитанный по методу Вейбулла, зависит от ве-
+
+роятности разрушения, и при вероятности разрушения 10-2 сварное соеди-
+
+нение может быть допущено к эксплуатации, а при уровне заданной надеж-
+
+ности 10-4 при тех же самых эксплутационных условиях – уже нет. Помимо 
+
+этого, следует учитывать, что точность определения ресурса по методу Вей-
+
+булла, предложенная в зарубежной нормативной документации, не в полной 
+
+мере соответствует требованиям отечественной нормативной базы. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+18 
+
+Список используемых источников 
+
+1.  Осадчий А. Нефть и газ российского шельфа: оценки и прогнозы // 
+
+Наука и жизнь. 2006. № 7. URL: http://www.nkj.ru/archive/articles/6334/ (дата 
+
+обращения: 09.08.2020). 
+
+2.  Pudlo D., Flesch S., Albrecht D., Reitenbach V. The Impact of Hydrogen 
+
+on Potential Underground Energy Reservoirs // Geophysical Research Abstracts. 
+
+2018.  Vol.  20.  EGU2018-8606.  URL:  https://meetingorganizer.copernicus.org/ 
+
+EGU2018/EGU2018-8606.pdf (дата обращения: 09.08.2020). 
+
+3.  Panfilov  M.,  Reitenbach  V.,  Ganzer  L.  Self-Organization  and  Shock 
+
+Waves  in  Underground  Methanation  Reactors  and  Hydrogen  Storages  // 
+
+Environmental  Earth  Sciences.  2016.  Vol.  75.  Article  Number  313.  DOI: 
+
+10.1007/s12665-015-5048-5. 
+
+4.  Reitenbach  V.,  Ganzer  L.,  Albrecht  D.  Influence  of  Hydrogen  on 
+
+Underground Gas Storage. Hamburg: DGMK, 2014. 160 p. 
+
+5.  Ganzer  L.,  Reitenbach  V.,  Pudlo  D.,  Albrecht  D.,  Singhe  A.T., 
+
+Awemo K.N., Wienand J., Gaupp R. Experimental and Numerical Investigations 
+
+on  CO2  Injection  and  Enhanced  Gas  Recovery  Effects  in  Altmark  Gas  Field 
+
+(Central Germany) // Acta Geotechnica. 2014. Vol. 9 (1). P. 39-47. 
+
+6.  Yuan  Z.,  Schubert  J.,  Esteban  U.C.,  Chantose  P.,  Teodoriu  C.  Casing 
+
+Failure Mechanism and Characterization Under HPHT Conditions in South Texas 
+
+//  Materials  of  SPE  International  Petroleum  Technology  Conference.  Beijing, 
+
+China. 2013. IPTC-16704-MS. DOI: 10.2523/IPTC-16704-MS. 
+
+7.  Teodoriu C. Selection Criteria for Tubular Connection used for Shale and 
+
+Tight  Gas  Applications  //  European  Unconventional  Resources:  Materials  of 
+
+SPE/EAGE Conference and Exhibition. Vienna, Austria. 2012. SPE-153110-MS. 
+
+DOI: 10.2118/153110-MS. 
+
+8.  Федеральный  закон  от  21.07.1997  №  116-ФЗ  «О  промышленной 
+
+безопасности опасных производственных объектов» (с посл. изм. и доп. от 
+
+29.07.2018 г.) // КонсультантПлюс. URL: http://www.consultant.ru/document/ 
+
+cons_doc_LAW_15234/ (дата обращения: 10.08.2020). 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+19 
+
+9.  Федеральные  нормы  и  правила  в  области  промышленной 
+
+безопасности  «Правила  безопасности  морских  объектов  нефтегазового 
+
+комплекса». М.: ЗАО НТЦ ПБ, 2015. Серия 08. Вып. 23. 68 с. 
+
+10.  Староконь И.В. Проблемы оценки и продления остаточного ресурса 
+
+морских  стационарных  платформ  //  Строительство  нефтяных  и  газовых 
+
+скважин на суше и на море. 2019. № 12. С. 51-54. DOI: 10.30713/0130-3872-
+
+2019-12-51-54. 
+
+11.  Серенсен  В.,  Когаев  В.П.  Несущая  способность  и  расчет  деталей 
+
+машин на прочность. М.: Машиностроение, 1975. 197 с. 
+
+12.  DNVRP 
+
+2A-WSD.  Рекомендуемая 
+
+практика 
+
+планирования, 
+
+проектирования и сооружения морских стационарных платформ-расчет по 
+
+допустимым напряжениям.  Нью-Йорк: American Bureau of Shipping, 2005. 
+
+132 с. 
+
+13.  DNV-RP-C103.  Рекомендованная  практика.  Расчет  усталости 
+
+морских стальных конструкций. Хёвик: DNV, 2008. 158 c. 
+
+14.  Губайдулин  Р.Г.,  Губайдулин  М.Р.,  Тиньгаев  А.К.  Определение 
+
+остаточного ресурса  опорного  блока  морской  стационарной  платформы  // 
+
+Академический вестник УралНИИпроект РААСН. 2012. № 1. С. 65-70. 
+
+15.  Бородавкин  П.П.  Морские  нефтегазовые  сооружения.  Часть  1. 
+
+Конструирование. М.: Недра-Бизнесцентр, 2006. 555 с. 
+
+16.  Ефименко  Л.А.,  Капустин  О.Е.,  Уткин  И.Ю.,  Рамусь  А.А., 
+
+Пономаренко  Д.В.,  Севостьянов  С.П.,  Рамусь  Р.О.  Оценка  структуры  и 
+
+свойств  ремонтных  сварных  соединений  газопроводов  из  сталей  с 
+
+повышенными показателями деформируемости // Сварочное производство. 
+
+2019. № 12. С. 40-46. 
+
+17.  Макаров  Г.И.,  Капустин  О.Е.  Компьютерные  методы  расчета  и 
+
+проектирования 
+
+сварных 
+
+конструкций  нефтегазового  профиля 
+
+с 
+
+использованием  метода  конечных  элементов  //  Сварочное  производство. 
+
+2019. № 11. С. 3-9. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+20 
+
+18.  Староконь И.В. Результаты математического анализа напряженного 
+
+состояния морских нефтегазопромысловых сооружений при наличии в них 
+
+трещин 
+
+//  Автоматизация,  телемеханизация  и  связь  в  нефтяной 
+
+промышленности. 2017. № 12. С. 54-57. 
+
+19.  Староконь  И.В.,  Калашников  П.К.  Оценка 
+
+эффективности 
+
+технологии ремонта сварного соединения «К»-типа морских стационарных 
+
+платформ с учетом накопленных повреждений // Строительство нефтяных 
+
+и  газовых  скважин  на  суше  и  на  море.  2020.  №  4  (328).  С.  56-60.  DOI: 
+
+10.33285/0130-3872-2020-4(328)-56-60. 
+
+20.  Староконь  И.В.,  Романенко  О.А.,  Шелчкова  Н.С.  Оценка  пределов 
+
+выносливости  элементов  морских  нефтегазопромысловых  сооружений  с 
+
+учетом  накопленных  повреждений 
+
+//  Вестник  Ассоциации  буровых 
+
+подрядчиков. 2018. № 2. С. 15-17. 
+
+21.  СП  38.13330.2012.  Нагрузки  и  воздействия  на  гидротехнические 
+
+сооружения 
+
+(волновые, 
+
+ледовые  и 
+
+от 
+
+судов) 
+
+//  Московский 
+
+территориальный  строительный  каталог.  URL:  http://mtsk.mos.ru/Handlers/ 
+
+Files.ashx/Download?ID=10908 (дата обращения: 11.08.2020). 
+
+22.  Хафизов  Ф.Ш.,  Пережогин  Д.Ю.,  Краснов  А.В.,  Султанов  Р.М., 
+
+Бутович  В.И.  Частота  возникновения  пожаровзрывоопасных  ситуаций  на 
+
+морских  буровых  платформах 
+
+//  Электронный  научный  журнал 
+
+«Нефтегазовое  дело».  2017.  №  5.  С.  171-190.  URL:  http://ogbus.ru/ 
+
+files/ogbus/issues/5_2017/ogbus_5_2017_p171-190_KhafizovFSh_ru.pdf  (дата 
+
+обращения: 11.08.2020). 
+
+23.  Руководство по безопасности «Методические основы по проведению 
+
+анализа опасностей и оценки риска аварий на опасных  производственных 
+
+объектах».  М.:  ЗАО  НТЦ  ПБ,  2016.  Серия  27.  Вып.  16.  URL: 
+
+https://files.stroyinf.ru/Data2/1/4293755/4293755568.htm 
+
+(дата  обращения: 
+
+12.08.2020). 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+24.  Руководство по безопасности «Методика установления допустимого 
+
+риска  аварии  при  обосновании  безопасности  опасных  производственных 
+
+объектов нефтегазового комплекса». М.: ЗАО НТЦ ПБ, 2016. Серия 08. Вып. 
+
+32.  URL:  https://files.stroyinf.ru/Data2/1/  4293752/4293752438.htm  (дата 
+
+21 
+
+обращения: 12.08.2020). 
+
+References 
+
+1.  Osadchii A. Neft' i gaz rossiiskogo shel'fa: otsenki i prognozy [Oil and Gas 
+
+of the Russian Shelf: Estimates and Forecasts]. Nauka i zhizn' – Science and Life, 
+
+2006,  No.  7.  Available  at:  http://www.nkj.ru/archive/articles/6334/  (accessed 
+
+09.08.2020). [in Russian]. 
+
+2.  Pudlo D., Flesch S., Albrecht D., Reitenbach V. The Impact of Hydrogen 
+
+on Potential Underground Energy Reservoirs.  Geophysical Research Abstracts, 
+
+2018,  Vol.  20,  EGU2018-8606.  URL:  https://meetingorganizer.copernicus.org/ 
+
+EGU2018/EGU2018-8606.pdf (accessed 09.08.2020). 
+
+3.  Panfilov  M.,  Reitenbach  V.,  Ganzer  L.  Self-Organization  and  Shock 
+
+Waves 
+
+in  Underground  Methanation  Reactors  and  Hydrogen  Storages. 
+
+Environmental  Earth  Sciences,  2016,  Vol.  75,  Article  Number  313.  DOI: 
+
+10.1007/s12665-015-5048-5. 
+
+4.  Reitenbach  V.,  Ganzer  L.,  Albrecht  D.  Influence  of  Hydrogen  on 
+
+Underground Gas Storage. Hamburg, DGMK, 2014. 160 p. 
+
+5.  Ganzer  L.,  Reitenbach  V.,  Pudlo  D.,  Albrecht  D.,  Singhe  A.T., 
+
+Awemo K.N., Wienand J., Gaupp R. Experimental and Numerical Investigations 
+
+on  CO2  Injection  and  Enhanced  Gas  Recovery  Effects  in  Altmark  Gas  Field 
+
+(Central Germany). Acta Geotechnica, 2014, Vol. 9 (1), pp. 39-47. 
+
+6.  Yuan  Z.,  Schubert  J.,  Esteban  U.C.,  Chantose  P.,  Teodoriu  C.  Casing 
+
+Failure  Mechanism  and  Characterization  Under  HPHT  Conditions  in  South 
+
+Texas.  Materials  of  SPE  International  Petroleum  Technology  Conference. 
+
+Beijing, China, 2013, IPTC-16704-MS. DOI: 10.2523/IPTC-16704-MS. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+22 
+
+7.  Teodoriu C. Selection Criteria for Tubular Connection used for Shale and 
+
+Tight  Gas  Applications.  Materials  of  SPE/EAGE  Conference  and  Exhibition 
+
+European Unconventional Resources. Vienna, Austria, 2012, SPE-153110-MS. 
+
+DOI: 10.2118/153110-MS. 
+
+8.  Federal'nyi  zakon  ot  21.07.1997  №  116-FZ  «O  promyshlennoi 
+
+bezopasnosti  opasnykh  proizvodstvennykh  ob"ektov»  (s  posl.  izm.  i  dop.  ot 
+
+29.07.2018  g.)  [RF  Federal  Law  of  July  21,  1997  No.  116-FZ  «On  Industrial 
+
+Safety of Hazardous Production Facilities» (with the Additions and Amendments 
+
+of 
+
+July 
+
+29, 
+
+2018)]. 
+
+Konsul'tantPlyus. 
+
+Available 
+
+at: 
+
+http://www.consultant.ru/document/cons_doc_LAW_15234/ 
+
+(accessed 
+
+10.08.2020). [in Russian]. 
+
+9.  Federal'nye  normy  i  pravila  v  oblasti  promyshlennoi  bezopasnosti 
+
+«Pravila  bezopasnosti  morskikh  ob"ektov  neftegazovogo  kompleksa»  [Federal 
+
+Norms and Rules in the Field of Industrial Safety «Safety Rules for Offshore Oil 
+
+and Gas Facilities»]. Moscow, ZAO NTTs PB Publ., 2015, Series 08, Issue 23. 
+
+68 p. [in Russian]. 
+
+10.  Starokon  I.V.  Problemy  otsenki  i  prodleniya  ostatochnogo  resursa 
+
+morskikh statsionarnykh platform [Problems of Assessment and Prolongation of 
+
+Remaining  Operational  Time  of  Offshore  Stationary  Platforms].  Stroitel'stvo 
+
+neftyanykh i gazovykh skvazhin na sushe i na more – Construction of Oil and Gas 
+
+Wells  on  Land  and  Sea,  2019,  No.  12,  pp.  51-54.  DOI:  10.30713/0130-3872-
+
+2019-12-51-54. [in Russian]. 
+
+11.  Serensen  V.,  Kogaev  V.P.  Nesushchaya  sposobnost'  i  raschet  detalei 
+
+mashin  na  prochnost'  [Bearing  Capacity  and  Strength  Calculation  of  Machine 
+
+Parts]. Moscow, Mashinostroenie Publ., 1975. 197 p. [in Russian]. 
+
+12.  DNVRP 
+
+2A-WSD. 
+
+Rekomenduemaya 
+
+praktika 
+
+planirovaniya, 
+
+proektirovaniya  i  sooruzheniya  morskikh  statsionarnykh  platform-raschet  po 
+
+dopustimym  napryazheniyam  [DNVRP  2A-WSD.  Recommended  Practice  for 
+
+Planning, Designing and Constructing Fixed Offshore Platforms: Working Stress 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+23 
+
+Design].  New  York,  American  Bureau  of  Shipping  Publ.,  2005.  132  p.  
+
+[in Russian]. 
+
+13.  DNV-RP-C103. Rekomendovannaya praktika. Raschet ustalosti morskikh 
+
+stal'nykh konstruktsii [DNV-RP-C103. Recommended Practice. Fatigue Analysis 
+
+of Offshore Steel Structures]. Hyvik, DNV Publ., 2008. 158 p. [in Russian]. 
+
+14.  Gubaidulin  R.G.,  Gubaidulin  M.R.,  Tingaev  A.K.  Opredelenie 
+
+ostatochnogo 
+
+resursa  opornogo  bloka  morskoi  statsionarnoi  platformy 
+
+[Determination  of  the  Residual  Life  of  the  Support  Block  of  the  Offshore 
+
+Stationary  Platform].  Akademicheskii  vestnik  UralNIIproekt  RAASN  – 
+
+Akademicheskij  Vestnik  UralNIIproekt  RAASN,  2012,  No.  1,  pp.  65-70.  
+
+[in Russian]. 
+
+15.  Borodavkin  P.P.  Morskie  neftegazovye  sooruzheniya.  Chast'  1. 
+
+Konstruirovanie  [Offshore  Oil  and  Gas  Facilities.  Part  1.  Design].  Moscow, 
+
+Nedra-Biznestsentr Publ., 2006. 555 p. [in Russian]. 
+
+16.  Efimenko  L.A.,  Kapustin  O.E.,  Utkin 
+
+I.Yu.,  Ramus  A.A., 
+
+Ponomarenko D.V., Sevostyanov S.P., Ramus R.O. Otsenka struktury i svoistv 
+
+remontnykh  svarnykh  soedinenii  gazoprovodov  iz  stalei  s  povyshennymi 
+
+pokazatelyami deformiruemosti [The Structure and Properties Evaluation of the 
+
+Gas  Pipelines  Repair  Welded  Joints  from  Steels  with  Increased  Deformability 
+
+Indices]. Svarochnoe proizvodstvo – Welding Production, 2019, No. 12, pp. 40-
+
+46. [in Russian]. 
+
+17.  Makarov  G.I.,  Kapustin  O.E.  Komp'yuternye  metody  rascheta 
+
+i 
+
+proektirovaniya  svarnykh  konstruktsii  neftegazovogo  profilya  s  ispol'zovaniem 
+
+metoda  konechnykh  elementov  [Computer  Methods  for  Calculating  and 
+
+Designing Welded Structures of Oil and Gas Profile Through the use of the Finite 
+
+Element Method]. Svarochnoe proizvodstvo – Welding Production, 2019, No. 11, 
+
+pp. 3-9. [in Russian]. 
+
+18.  Starokon  I.V.  Rezul'taty  matematicheskogo  analiza  napryazhennogo 
+
+sostoyaniya  morskikh  neftegazopromyslovykh  sooruzhenii  pri  nalichii  v  nikh 
+
+treshchin [Mathematical Analysis Results of the Stress-State of the Offshore Oil 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+24 
+
+and  Gas  Facilities  in  Case  of  Cracks  Presence  in  them].  Avtomatizatsiya, 
+
+telemekhanizatsiya 
+
+i  svyaz'  v  neftyanoi  promyshlennosti  –  Automation, 
+
+Telemechanization and Communication in Oil Industry, 2017, No. 12, pp. 54-57. 
+
+[in Russian]. 
+
+19.  Starokon  I.V.,  Kalashnikov  P.K.  Otsenka  effektivnosti  tekhnologii 
+
+remonta  svarnogo  soedineniya  «K»-tipa  morskikh  statsionarnykh  platform  s 
+
+uchetom nakoplennykh povrezhdenii [Efficiency Estimation of the Technology 
+
+of «K»-Type Welded Joint Repair of Marine Stationary Platforms with Account 
+
+of Accumulated Damages]. Stroitel'stvo neftyanykh i gazovykh skvazhin na sushe 
+
+i na more – Construction of Oil and Gas Wells on Land and Sea, 2020, No. 4 
+
+(328), pp. 56-60. DOI: 10.33285/0130-3872-2020-4(328)-56-60. [in Russian]. 
+
+20.  Starokon  I.V.,  Romanenko  O.A.,  Shelchkova  N.S.  Otsenka  predelov 
+
+vynoslivosti  elementov  morskikh  neftegazopromyslovykh  sooruzhenii  s  uchetom 
+
+nakoplennykh povrezhdenii [Estimation of the Limits of the Stability of Elements of 
+
+Marine  Oil  and  Gas  Industrial  Constructions  with  Accident  Damages].  Vestnik 
+
+Assotsiatsii  burovykh  podryadchikov  –  Bulletin  of  the  Association  of  Drilling 
+
+Contractors, 2018, No. 2, pp. 15-17. [in Russian]. 
+
+21.  SP  38.13330.2012.  Nagruzki  i  vozdeistviya  na  gidrotekhnicheskie 
+
+sooruzheniya  (volnovye,  ledovye  i  ot  sudov)  [SP  38.13330.2012.  Loads  and 
+
+Impacts  on  Hydraulic  Structures  (from  Wave,  Ice  and  Ships)].  Moskovskii 
+
+territorial'nyi 
+
+stroitel'nyi 
+
+katalog.  URL: 
+
+http://mtsk.mos.ru/Handlers/ 
+
+Files.ashx/Download?ID=10908 (accessed 11.08.2020). [in Russian]. 
+
+22.  Khafizov  F.Sh.,  Perezhogin  D.Yu.,  Krasnov  A.V.,  Sultanov  R.M., 
+
+Butovich  V.I.  Chastota  vozniknoveniya  pozharovzryvoopasnykh  situatsii  na 
+
+morskikh  burovykh  platformakh  [The  Incidence  of  Fire  and  Explosion  Hazard 
+
+Situations  on  Offshore  Drilling  Platforms].  Elektronnyi  nauchnyi  zhurnal 
+
+«Neftegazovoe  delo»  –  Electronic  Scientific  Journal  «Oil  and  Gas  Business», 
+
+2017,  No. 
+
+5, 
+
+pp. 
+
+171-190.  URL: 
+
+http://ogbus.ru/files/ogbus/issues 
+
+/5_2017/ogbus_5_2017_p171-190_KhafizovFSh_ru.pdf  (accessed  11.08.2020). 
+
+[in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+25 
+
+23.  Rukovodstvo  po  bezopasnosti  «Metodicheskie  osnovy  po  provedeniyu 
+
+analiza  opasnostei  i  otsenki  riska  avarii  na  opasnykh  proizvodstvennykh 
+
+ob"ektakh» [Safety Guide «Methodological Foundations for Hazard Analysis and 
+
+Accident Risk Assessment at Hazardous Production Facilities»]. Moscow, ZAO 
+
+NTTs  PB  Publ.,  2016,  Series  27,  Issue  16.  Available  at:  https://files. 
+
+stroyinf.ru/Data2/1/4293755/4293755568.htm 
+
+(accessed 
+
+12.08.2020). 
+
+[in Russian]. 
+
+24.  Rukovodstvo po bezopasnosti «Metodika ustanovleniya dopustimogo riska 
+
+avarii  pri  obosnovanii  bezopasnosti  opasnykh  proizvodstvennykh  ob"ektov 
+
+neftegazovogo  kompleksa»  [Safety  Guide  «Methodology  for  Establishing  the 
+
+Permissible  Risk  of  an  Accident  when  Justifying  the  Safety  of  Hazardous 
+
+Production  Facilities  of  the  Oil and  Gas Complex»].  Moscow,  ZAO  NTTs  PB 
+
+Publ.,  2016,  Series  08,  Issue  32.  Available  at:  https://files.stroyinf.ru/ 
+
+Data2/1/4293752/4293752438.htm (accessed 12.08.2020). [in Russian]. 
+
+Сведения об авторах 
+
+About the authors 
+
+Гусейнов Чингиз Саибович, д-р техн. наук, профессор кафедры «Авто-
+
+матизация проектирования сооружений нефтяной и газовой промышленно-
+
+сти»,  Российский  государственный  университет  нефти  и  газа  (националь-
+
+ный исследовательский университет) имени И.М. Губкина», г. Москва, Рос-
+
+сийская Федерация 
+
+Chingiz S. Huseynov, Doctor of Engineering Sciences, Professor of Automa-
+
+tion of Designing of Oil and Gas Industry Structures Department, Russian State 
+
+University of Oil and Gas (National Research University) named after I.M. Gub-
+
+kin, Moscow, Russian Federation 
+
+е-mail: guseinov2@yandex.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+26 
+
+Староконь  Иван  Викторович,  канд.  техн.  наук,  заведующий  кафедрой 
+
+«Автоматизация проектирования сооружений нефтяной и газовой промыш-
+
+ленности», Российский государственный университет нефти и газа (нацио-
+
+нальный исследовательский университет) имени И.М. Губкина», г. Москва, 
+
+Российская Федерация 
+
+Ivan V. Starokon, Candidate of Engineering Sciences, Head of Automation of 
+
+Designing of Oil and Gas Industry Structures Department, Russian State Univer-
+
+sity of Oil and Gas (National Research University) named after I.M. Gubkin, Mos-
+
+cow, Russian Federation 
+
+е-mail: starokon79@mail.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+

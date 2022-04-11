@@ -1,0 +1,363 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+УДК 665.61.543.32 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+МОДЕЛИРОВАНИЕ ПОЛИМЕРНОГО ЗАВОДНЕНИЯ  
+В ОДНОЙ ИЗ ИРАНСКИХ ЗАЛЕЖЕЙ ТЯЖЕЛОЙ НЕФТИ 
+
+SIMULATION OF POLYMER FLOODING  
+IN ONE OF IRANIAN HEAVY OIL RESERVOIR  
+
+Мостэджерэн Гортэни Масуд 
+Phd Candidate and Researcher, 
+Российский государственный университет  
+нефти и газа имени И.М. Губкина  
+
+Телеков Виктор Павлович 
+Associate Professor, Phd,  
+Российский государственный университет  
+нефти и газа имени И.М. Губкина  
+
+Mostajeran Gortani Masoud  
+Phd Candidate and Researcher, 
+Gubkin National University of Oil and Gas  
+
+Telkov Viktor Pavlovich  
+Associate Professor, Phd,  
+Gubkin National University of Oil and Gas  
+
+Аннотация.  Полимерное  затопление  является  наиболее  важ-
+ным процессом повышения нефтеотдачи (МУН), улучшающим 
+соотношение подвижности воды и нефти. Полимеры действуют 
+в основном, увеличивая вязкость закачиваемой воды и умень-
+шая  проницаемость  зоны  качания,  подтверждая  увеличение 
+эффективности  вертикальной  и  поверхностной  развертки  за-
+качки воды и, следовательно, увеличивая добычу нефти. 
+В данном исследовании, первоначально на основе эксперимен-
+тальной работы, были исследованы свойства полимера и кон-
+центрация раствора полимера. Затем было смоделировано по-
+лимерного заводнения. 
+
+Annotation. Polymer flooding is the most im-
+portant enhanced oil recovery (EOR) process, 
+improving  the  water-oil  mobility  ratio.  Poly-
+mers act basically  increasing the viscosity of 
+the  injected  water  and  reducing  the  swept 
+zone  permeability,  approving  an  increase  in 
+the vertical and  areal sweep efficiency of the 
+water injection, and, consequently, increasing 
+oil recovery. 
+In  this  study,  initially  based  on  experimental 
+work the polymer properties were investigated 
+the  concentration  of  polymer  solution.  Then 
+the polymer flooding was simulated in different 
+scenarios. 
+This study shows the optimum concentration 
+could improve polymer properties. 
+
+Ключевые  слова:  иранский  резервуар  тяжелой  нефти,  поли-
+мерное затопление, эксперимент, моделирование. 
+
+Keywords:  Iranian  heavy  oil  reservoir,  poly-
+mer flooding, Experiment, Simulation. 
+
+T 
+
+here is now a general agreement that the oil and gas resources most easily recovered have already 
+been discovered [1]. Heavy oil and bitumen sources are required to be produced by new technologies 
+to catch future needs in the energy market. The economical and environmental obstacles according to the applica-
+tion of thermal methods in deep and thin reservoirs are crucial challenges for the oil and gas industry not only in 
+North America, but also in other spots such as Latin America, Middles East, and China. The most costly step in a 
+thermal process like SAGD is the required energy for turning water into steam. This makes such type of recovery 
+processes to be cumbersome in terms of energy supply and usage. Fresh water supply which is an environmental 
+concern is also another example of associated drawbacks with the thermal methods [2]. 
+
+One  of  the  most  essential  techniques  for  enhancing  oil  recovery  is  waterflooding  or  water  injection, 
+which is categorized as a secondary recovery method. Water injection into a reservoir results in a phenomenon 
+called voidage replacement in which we intend to deliver pressure support to the reservoir. Ultimate reservoir 
+dynamic performance and recovery assessment in water flooding process has been extensively studied and 
+evaluated during past few years [2–8]. This method which is the most common practice implemented at the 
+end  of  primary  production  have  potential  problems  associated  with.  Considering  the  issues  and  challenges 
+related to the application of water-flooding in heavy oil reservoirs, polymer flooding has become a more desir-
+able choice for EOR processes than waterflooding. 
+
+The objective of this study based on the results of experimental study of polymer flooding in heavy oil 
+reservoirs [9–10]. we simulate different scenario with different concentration and check the results of the ex-
+perimental study. 
+
+Experimental studies of polymer flooding were carried out on a special filtration unit using a core holder 
+
+with  dimensions  of  12–4  cm  to  study  the  effect  of  viscosity  of  the  polymer  solution  and  heterogeneity  of                                   
+the porous medium on the increase in oil production after flooding. 
+
+In this work was selected polymer HPAM in sea water for polymer solution for the study. In the frame-
+work of the presented study, we studied the effect of the polymer concentration in the solution on the recovery 
+of heavy oil from the formation.  
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Table 1 – Property of the sample 
+
+Parameter  
+
+Reservoir temperature  
+
+Oil Density 
+
+Oil viscosity  
+
+permeability 
+
+Porosity  
+
+Value 
+
+100 
+
+948 
+
+204 
+
+0,01 
+
+18 
+
+Type of reservoir  
+
+Sand stone 
+
+Unit 
+(cid:176) С 
+
+kg/м³ 
+
+cp 
+
+мкм² 
+
+% 
+
+– 
+
+To simulate changes in the properties of the polymer solution in reservoir conditions, the polymer solu-
+
+tion prepared on the basis of sea water was placed in a thermostat at a temperature of 100 °C. 
+
+Under these conditions, the state of the polymer solution was evaluated within four weeks after the start 
+
+of the experiment, the results are shown below. All measurements were done by Rheometer Antonpaar. 
+
+Figure 1 
+
+Based on rheological studies, it can be concluded that the polymer concentration below 3 kg/m3 is not 
+very suitable for flooding. Subsequently, experiments were carried out on polymer flooding with a concentration 
+of 2, 5, 7, 10 and 12 kg/m3. The experimental results are given below. 
+
+An analysis of the results shows that with an increase in concentration from 2 to 5 kg/m3, an increase in 
+oil recovery of up to 13 % is observed, with an increase in concentration from 7 to 12 kg/m3, the increase in oil 
+recovery is approximately the same – 27–29 % and practically does not depend on increase in the concentra-
+tion  of  the  polymer  solution.  The  dependence  of  the  increase  in  the  oil  recovery  coefficient  during  polymer 
+flooding after water flooding on the polymer concentration in the solution is shown in Figure 1, 2. Under these 
+conditions, it can be assumed that the threshold value of the rational polymer concentration during polymer 
+flooding does not exceed 7 kg/m3. The above is markedly correlated with the results of the authors' studies 
+[13, 14], who also noted the irrationality of the excessive increase in the concentration of the polymer solution, 
+and, consequently, the viscosity of the polymer solution. In this case, commercial introduction may require a 
+change in concentration, taking into account the sorption of the polymer by the porous medium, and various 
+types of destruction. Excessive concentration can not only not be economically justified, but also not give a 
+significant technological result. 
+
+The  main  objective  of  polymer  flooding  is  to  control  the  viscosity  of  water  by  adding  polymer  to                               
+
+the injected water to reduce its mobility. The decrease in the relative permeability of water that occurs as a 
+result of polymer adsorption is not as obvious as in the case of rocks with low permeability. The greatest benefit 
+from flooding polymers is to increase the viscosity of the aqueous phase, which improves driving efficiency. 
+
+As indicated [9, 10] and experimental results, a methodology was developed to determine the rational 
+value  of  the  viscosity  of  the  polymer,  and  by  this  method  we  determined  the  optimal  value  of  the  polymer 
+concentration. 
+
+We consider a polymer with a concentration of 2 kg/m3, 5 kg/m3, 7 kg/m3 and use the ECLIPSE 100 
+
+simulation package, simulate the studied field. 
+
+The reservoir model consists of three layers (grid size) with different values of permeability and porosity. 
+
+In this case, the following average values of permeability and porosity were set in layers: for the upper layer                    
+k1 = 100 mD and m1 = 18 %, for the middle layer k2 = 30 mD and m2 = 15 %, for the lower k3 = 200 mD and                  
+m3 = 21 %. The spread in the values of porosity and permeability of formations is in the range of 10–600 mD 
+and 8–24 %. The image of the model is shown in the figure 3, 4. 
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Figure 2 
+
+Figure 3 – The reservoir model with a porosity distribution 
+
+Figure 4 – The reservoir model with a permeability distribution 
+
+We consider a polymer with a concentration of 2 kg/m3, 5 kg/m3, 7 kg/m3 and use the ECLIPSE 100 
+
+simulation package, simulate the studied field. 
+
+Based on the results of the above experiments, the following conclusions are made: 
+1.  Polymer water flooding can increase oil recovery in the studied conditions, when displacing heavy 
+
+oil with a viscosity of 204 mPa·s. 
+
+2.  For  effective  polymer  flooding  of  a  heavy  oil  formation,  the  concentration  of  the  polymer  solution 
+should  not  be  lower  than  the  threshold  value  of  the  rational  concentration.  For  the  experimental  conditions 
+presented in this article, the threshold concentration is about 5–7 kg/m3. 
+
+3.  In field conditions, it should be higher to take into account the processes of polymer sorption and 
+
+degradation of the polymer solution. 
+
+In conclusion, it can be noted that polymer flooding is not only a promising technology for the extraction of 
+
+heavy oil, but is already now effectively used by companies operating fields containing heavy, extra heavy oil. 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Figure 5 – The results of the simulation  
+
+Литература  
+
+1.  Innovative  methods  for  flow-unit  and  pore-structure  analyses  in  a  tight  siltstone  and  shale  gas  reservoir  /            
+
+C.R. Clarkson [et al.] // AAPG Bull. – 2012. – № 96. – Р. 355–74. 
+
+2.  Water Injection and Water Flooding Under Fracturing Conditions / J.C. Noirot [et al.] // Middle East Oil Show, 
+
+Society of Petroleum Engineers. – 2003. 
+
+3.  Direct  visualization  of  designer  water flooding  in  model experiments /  A.  Cense [et  al.] //  SPE  Enhanced  Oil 
+
+Recovery Conference, Society of Petroleum Engineers. – 2011. 
+
+4.  Zhu Z. Thermal streamline simulation for hot waterflooding / Z. Zhu, M. Gerritsen, M. Thiele // SPE Reservoir 
+
+Eval Eng. – 2010. – № 13. – Р. 372–82. 
+
+5.  Ensemble-based water flooding optimization applied to mature fields / O. Pajonk [et al.] // SPE Middle East Oil 
+
+and Gas Show and Conference, Society of Petroleum Engineers.  – 2011. 
+
+6.  Fjelde I. Low salinity water flooding experiments and in- terpretation by simulations / I. Fjelde, S.M. Asen, A.V. 
+
+Omekeh // SPE Improved Oil Recovery Symposium, Society of Petroleum Engineers. – 2012. 
+
+7.  Alzayer  H.  Numerical  simulation  of  improved  heavy  oil  recovery  by  low-salinity  water  injection  and  polymer 
+flooding / H. Alzayer, M. Sohrabi // SPE Saudi Arabia section technical symposium and exhibition, Society of Petroleum 
+Engineers. – 2013. 
+
+8.  Hosseini  B.K.  Streamline-based  Reservoir  Geomechanics  Coupling  Strategies  for  Full  Field  Simulations  /              
+
+B.K. Hosseini, R. Chalaturnyk // ECMOR XIV-14th European Conference on the Mathematics of Oil Recovery. – 2014. 
+
+9.  Повышение нефтеизвлечения на месторождениях высоковязкой и тяжелой нефти с помощью полимер-
+
+ного заводнения / В.П. Телков [и др.] // Нефтяное хозяйство. – 2018. – № 5. – С. 60–63. 
+
+10. Телков В.П. Оценка критериев применения полимерного заводнения для вытеснения тяжелых, высоко-
+
+вязких нефтей Ирана / В.П. Телков, М.Г. Мостаджеран // Экспозиция Нефть Газ. – 2018. – № 4(64). – P. 52–55. 
+
+References 
+
+1.  Innovative  methods  for  flow-unit  and  pore-structure  analyses  in  a  tight  siltstone  and  shale  gas  reservoir  /            
+
+C.R. Clarkson [et al.] // AAPG Bull. – 2012. – № 96. – Р. 355–74. 
+
+2.  Water Injection and Water Flooding Under Fracturing Conditions / J.C. Noirot [et al.] // Middle East Oil Show, 
+
+Society of Petroleum Engineers. – 2003. 
+
+3.  Direct  visualization  of  designer  water flooding  in  model experiments /  A.  Cense [et  al.] //  SPE  Enhanced  Oil 
+
+Recovery Conference, Society of Petroleum Engineers. – 2011. 
+
+4.  Zhu Z. Thermal streamline simulation for hot waterflooding / Z. Zhu, M. Gerritsen, M. Thiele // SPE Reservoir 
+
+Eval Eng. – 2010. – № 13. – Р. 372–82. 
+
+5.  Ensemble-based water flooding optimization applied to mature fields / O. Pajonk [et al.] // SPE Middle East Oil 
+
+and Gas Show and Conference, Society of Petroleum Engineers. – 2011. 
+
+6.  Fjelde  I.  Low  salinity  water  flooding  experiments  and  in-  terpretation  by  simulations  /  I.  Fjelde,  S.M.  Asen,                   
+
+A.V. Omekeh // SPE Improved Oil Recovery Symposium, Society of Petroleum Engineers. – 2012. 
+
+7.  Alzayer  H.  Numerical  simulation  of  improved  heavy  oil  recovery  by  low-salinity  water  injection  and  polymer 
+flooding / H. Alzayer, M. Sohrabi // SPE Saudi Arabia section technical symposium and exhibition, Society of Petroleum 
+Engineers. – 2013. 
+
+8.  Hosseini  B.K.  Streamline-based  Reservoir  Geomechanics  Coupling  Strategies  for  Full  Field  Simulations  /              
+
+B.K. Hosseini, R. Chalaturnyk // ECMOR XIV-14th European Conference on the Mathematics of Oil Recovery. – 2014. 
+
+9.  Increase of oil recovery at the high-viscosity and heavy oil fields by means of the polymer flooding / V.P. Telkov 
+
+[et al.] // Oil economy. – 2018. – № 5. – Р. 60–63. 
+
+10. Telkov V.P. Estimation of the polymer flooding application criteria for the heavy, high-viscosity oil displacement / 
+
+V.P. Telkov, M.G. Mostadzheran // Exposition Nefty Gaz. – 2018. – № 4(64). – P. 52–55. 
+
+32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

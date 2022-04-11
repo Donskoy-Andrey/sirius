@@ -1,0 +1,163 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+УДК 665.642.2 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+ИНФОРМАЦИОННО-ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ 
+●●●●●● 
+INFORMATION AND ARTIFICIAL INTELLIGENCE 
+
+Ализада Акиф Вали 
+доктор философии по технике, доцент, 
+доцент кафедры  
+управления и системной инжинерии, 
+Азербайджанский государственный  
+университет нефти и промышленности 
+
+Мурадли Вугар Ариф 
+магистрант кафедры управления  
+и системной инжинерии, 
+Азербайджанский государственный  
+университет нефти и промышленности  
+
+Alizada Akif Vali 
+Doctor of Philosophy in Technology,  
+Associate Professor, 
+Associate Professor  
+of department Control  
+and System Engineering, 
+Azerbaijan state university  
+of oil and industry 
+
+Muradli Vuqar Arif 
+Master of Department Control  
+and System Engineering, 
+Azerbaijan state university  
+of oil and industry 
+
+Аннотация.  Искусственный  интеллект  –  научное  поле  было 
+сформировано  в  50-х  годах  прошлого  века  на  стыке  киберне-
+тики, лингвистики, психологии и программирования. 
+
+Annotation. Artificial Intelligence – The scien-
+tific field was formed in the 50s of the last cen-
+tury at the crossroads of cybernetics, linguis-
+tics, psychology and programming. 
+
+Ключевые  слова:  проблема искусственного  интеллекта,  опи-
+сание знаний, математическая теория. 
+
+Keywords:  problem  of  artificial  intelligence, 
+description  of  knowledge,  mathematical  the-
+ory. 
+
+A 
+
+puters. 
+
+rtificial  Intelligence  (SI)  is  an  artificially  created  system  that  simulates  (imitates)  the  thinking  of 
+modern people, its psychology, and their real intelligence and implements them in modern com-
+
+Artificial Intelligence – The scientific field was formed in the 50s of the last century at the crossroads of 
+
+cybernetics, linguistics, psychology and programming. 
+
+The main purpose of the creation of artificial intelligence was to provide machines to solve problems 
+that were traditionally addressed by humans, and this is one of the most complex scientific and practical prob-
+lems facing humanity. 
+
+With the help of artificial intelligence, it has been proven that, under certain conditions, the Companions 
+have been able to prove the mathematical theory of human activity, compose poems, translations, search for 
+complex information and so on. has the ability to perform. 
+
+Scientific research in this area is conducted in two directions: 
+The first direction is to look at the product of the intellectual behavior of a person and learn about its 
+structure. It studies various factors of the human intellectual activity and solves these problems and executes 
+products with the help of modern technology, ie computers. If the solution of such issues is implemented at 
+the  highest  level  in  the  computer, then  the  corresponding  intellectual  activity  is considered  automated.  The 
+intention of this direction is mainly due to the development of computers and the improvement of programming. 
+This direction is also called machine intelligent artificial intelligence [1]. 
+
+The second direction is based on the data of the neuro-physiological and psychological mechanisms of 
+intellectual activity, that is, the conscious activity of the person. Researchers and designers are trying to per-
+form these actions with technical facilities so that they can perform human activities within a pre-assigned task. 
+
+The classification of works in the field of artificial intelligence is presented in the table. 
+The following basic directions for the study of artificial intelligence should be defined: 
+1.  Presentation  of  knowledge  (creation  of  «knowledge  base»,  presentation  of  special  knowledge  in 
+
+memory of intellectual systems, formation); 
+
+2.  Knowledge manipulation (intellectual systems teach methods and methods of knowledge manipula-
+
+tion); 
+
+3.  Communication (eg computer-aided interpretation of the text, human interaction with the computer); 
+4.  Perception of information (training of computers to image recognition, analysis of visual information); 
+5.  Teaching solutions to problems that intellectual systems have not encountered so far; 
+6.  Normative, socially oriented (models’ creation). 
+
+37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Drawing 1 – The types of Artificial Intelligence 
+
+The following complex methods are used in the study of artificial intelligence: 
+Methods of mathematical logic; 
+Frame languages; 
+Methods of applied and mathematical linguistics; 
+Methods of conventional psychology; 
+Investigation of recognition mechanisms. 
+One  of  the  main  problems  for  the  creation  of  artificial  intelligence  is  the  description  and  use  of 
+
+knowledge. The following problems must be solved in order to create basic knowledge: 
+
+First, it is necessary to develop the application knowledge needed in the relevant field. Writing this re-
+quires  a  specialist  –  both  application  and  mathematician  –  to  work  together.  Formation  or  selection  of  the 
+conceptual scheme of the model is required to formulate the problem. 
+
+Second, the description of knowledge is problematic. This, in turn, is to preserve memory in the com-
+
+puter with the help of a built-in machine. 
+
+The third is the problem of using knowledge. This also requires the development of computational theory 
+
+and other converters so that they can be used in turn-based models. 
+
+Fourth is a technology problem that is usually addressed by system programmers. This is the software 
+
+of the models, that is, the creation of a knowledge base and control system. 
+
+In general, the conceptual model of knowledge can be conventionally divided into conceptual and em-
+pirical models. The conceptual model for solving some probes is provided with the help of a heuristic method. 
+Because the conceptual writing model cannot guarantee that it will be applied in all practical situations [2]. 
+
+Литература / References 
+
+1.  Mübariz Sevdimalı oğlu Xəlilov «İnformatika» Dərslik Səhifə 43–56. 
+2.  Bakı Biznes və Kooperasiya Kolleci. 
+
+38 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

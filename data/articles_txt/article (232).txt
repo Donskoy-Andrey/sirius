@@ -1,0 +1,1060 @@
+УДК 665.642.5-404:665.64.097.3:543.544.3:543.51 
+
+МНОГОКРАТНОЕ ИСПОЛЬЗОВАНИЕ НАНОРАЗМЕРНОГО 
+
+МЕТАЛЛСОДЕРЖАЩЕГО КАТАЛИЗАТОРА ЦИНКА  
+
+ПРИ КРЕКИНГЕ ПРЯМОГОННОГО МАЗУТА 
+
+93 
+
+MULTIPLE USE OF NANOSIZED METAL-CONTAINING  
+
+ZINC CATALYST IN CRACKING OF STRAIGHT-RUN FUEL OIL 
+
+И.А. Мустафин, О.М. Судакова, К.Е. Станкевич, Р.Н. Галиахметов, 
+
+Э.Р. Валинурова, А.Р. Ханов 
+
+Уфимский государственный нефтяной технический университет,  
+
+Башкирский государственный университет,  
+
+г. Уфа, Российская Федерация 
+
+Ildar A. Mustafin, Oksana M. Sudakova, Clara E. Stankevich,  
+
+Rail N. Galiakhmetov, Elvira R. Valinurova, Aidar R. Khanov 
+
+Ufa State Petroleum Technological University, 
+
+Bashkir State University,Ufa, Russian Federation 
+
+e-mail: iamustafin@gmail.com 
+
+Аннотация.  В  работе  представлены  результаты  многократного 
+
+использования 
+
+цинксодержащего 
+
+нанокатализатора 
+
+при 
+
+крекинге 
+
+прямогонного  мазута  (ПМ).  Прямогонный  мазут  из  западносибирской 
+
+нефти  подвергали  каталитическому  крекингу  на  аппарате  АРН-2  по  
+
+ГОСТ  11011-64.  Катализатор  получен  из  2-этилгксаноата  цинка  (2ЭГЦ)  в 
+
+среде  прямогонного  мазута  при  температуре  его  кипения,  представляет 
+
+собой  наночастицы  оксида,  сульфида  цинка  и  металла  размером  до  
+
+80–90 нм.  Для  исследования  возможности  многократного  применения 
+
+нанокатализатора  была  проведена  серия  опытов.  После  каждого  процесса 
+
+каталитической  разгонки  пробы  нефтяного  сырья  в  оставшийся  кубовый 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+94 
+
+остаток  вводили  свежую  порцию  исходного  сырья  в  таком  количестве, 
+
+чтобы  общая  масса  образца  не  превышала  массу  первоначально  взятой 
+
+пробы.  Показано,  что  пятикратное  применение  одной  порции  2ЭГЦ  при 
+
+каталитическом  крекинге  ПМ  незначительно  снижает  выход  дистиллята. 
+
+Выход  жидкого  дистиллята  практически  не  меняется  при  пятикратно 
+
+введённой  свежей  порции  мазута  в  кубы  предшествующих  проб. 
+
+Наблюдается  незначительный  спад  выхода  дистиллята  с  38 %  до  30 % 
+
+только после первого опыта. Массовая доля кубовых остатков постепенно 
+
+снижается, а выход газовой части (потери) повышается с 5 % до 20 %. 
+
+Методом  SARA-анализа  установлен  групповой  состав  прямогонного 
+
+мазута до и после каталитической разгонки Показано, что введение 2ЭГЦ 
+
+существенно  меняет  групповой  состав  кубовых  остатков  в  процессе 
+
+каталитического  крекинга.  Постепенно  снижается  выход  фракции 
+
+мальтенов и наблюдается резкий рост фракции карбенов.  Показано, что в 
+
+реакционной  среде  смеси  прямогонного  мазута  и  0,02  %  масс.  2ЭГЦ 
+
+происходят  реакции  каталитического  крекинга,  сопровождающиеся 
+
+уменьшением  массовой  доли  насыщенных  углеводородов,  повышением 
+
+концентрации  ароматических  соединений,  что  отражается  на  групповом 
+
+составе полученных кубов. 
+
+Abstract. The paper presents the results of multiple use of a zinc-containing 
+
+nanocatalyst  in  the  cracking  of  straight-run  fuel  oil.  Straight-run  fuel  oil  from 
+
+West  Siberian  oil  was  subjected  to  catalytic  cracking  on  an  ARN-2  apparatus 
+
+according to GOST 11011-64. The catalyst is obtained from zinc 2-ethylxanoate 
+
+in a medium of straight-run fuel oil at its boiling point; it is nanoparticles of oxide, 
+
+zinc sulfide and metal up to 80–90 nm. A series of experiments was carried out to 
+
+investigate the possibility of multiple use of the nanocatalyst. After each process 
+
+of catalytic distillation of a sample of petroleum feedstock, a fresh portion of the 
+
+feedstock was introduced into the bottom residue in such an amount that the total 
+
+mass of the sample did not exceed the mass of the initially taken sample. It has 
+
+been shown that the fivefold application of one portion of zinc 2-ethylxanoate in 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+95 
+
+the catalytic cracking of straight-run fuel oil insignificantly reduces the distillate 
+
+yield.  The  yield  of  liquid  distillate  practically  does  not  change  with  a  fivefold 
+
+fresh portion of fuel oil introduced into the stills of the previous samples. There 
+
+is a slight decline in the distillate yield from 38 % to 30 % only after the first 
+
+experiment.  The  mass  fraction  of  the  bottoms  is  gradually  decreasing,  and  the 
+
+yield of the gas portion (losses) increases from 5 % to 20 %. 
+
+The  group  composition  of  straight-run  fuel  oil  before  and  after  catalytic 
+
+distillation was established using SARA analysis. It is shown that the introduction 
+
+of zinc 2-ethylxanoate significantly changes the group composition of bottoms in 
+
+the  process  of  catalytic  cracking.  The  yield  of  the  maltenes  fraction  gradually 
+
+decreases and a sharp increase in the carbenes fraction is observed. It is shown 
+
+that in the reaction medium a mixture of straight-run fuel oil and 0.02 % of the 
+
+mass. zinc 2-ethylxanoate, catalytic cracking reactions occur, accompanied by a 
+
+decrease  in  the  mass  fraction  of  saturated  hydrocarbons,  an  increase  in  the 
+
+concentration of aromatic compounds, which is reflected in the group composition 
+
+of the obtained cubes. 
+
+Ключевые  слова:  мазут;  крекинг;  катализатор;  групповой  состав; 
+
+мальтены; асфальтены; карбены; 2-этилгексаноат цинка 
+
+Key  words:  fuel  oil;  cracking;  catalyst;  group  composition;  maltenes; 
+
+asphaltenes; carbenes; zinc 2-ethylhexanoate 
+
+В  процессах  каталитического  крекинга,  гидрокрекинга  и  висбрекинга 
+
+широкое  применение  находят  гетерогенные  катализаторы,  содержащие 
+
+молибден,  никель,  кобальт,  вольфрам  и  другие  металлы  [1,  2].  Высокое 
+
+содержание  различных  гетероатомных  металлорганических  соединений  и 
+
+асфальтенов в сырье затрудняет использование существующих технологий 
+
+при  переработке  тяжелых  углеводородов  из-за  быстрого  отравления 
+
+классических катализаторов [3]. Поэтому получение каталитических систем 
+
+непосредственно  в  ходе  процесса  крекинга  тяжелого  углеводородного 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+96 
+
+сырья  представляется  актуальным.  Ранее  нами  было  обнаружено,  что 
+
+термическое воздействие на тяжелые нефтяные остатки и тяжелые нефти, 
+
+содержащие  нефтерастворимые  органические  соли  металлов,  приводит  к 
+
+образованию  наноразмерных  суспензий  металлов 
+
+[4–10].  Так,  при 
+
+термическом  воздействии  до  300  °С  на  мазут  западносибирской  нефти, 
+
+содержащий 2-этилгексаноат никеля, установлено образование наночастиц 
+
+с размером порядка 80 нм. 
+
+В  продолжение  этих  работ  нами  проводится  поиск  других,  более 
+
+доступных  металлсодержащих  катализаторов  для  крекинга  тяжелых 
+
+компонентов  нефти.  Целью  настоящей  работы  является  получение  в 
+
+прямогонном  мазуте  наноразмерных  суспензий  соединений  цинка  и 
+
+изучение  их  каталитического  действия  при  многократном  повторении 
+
+циклов крекинга.  
+
+В качестве объекта исследований был использован прямогонный мазут, 
+
+полученный  из  западносибирской  нефти,  некоторые  характеристики 
+
+которого приведены в таблице 1. 
+
+Таблица 1. Групповой состав прямогонного мазута 
+
+Фракция 
+
+Содержание, % масс. 
+
+Мальтены: 
+
+насыщенные углеводороды 
+
+ароматические ув углеводороды 
+
+смолы  
+
+Асфальтены 
+
+Карбены 
+
+91,10 
+
+25,10 
+
+40,10 
+
+31,80 
+
+6,70 
+
+0,03 
+
+В 
+
+качестве 
+
+прекурсора 
+
+катализатора 
+
+была 
+
+использована 
+
+металлсодержащая 0,1 % масс. добавка 2-этилгексаноата цинка.  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+Термографические  исследования  проводили  на  термоанализаторе 
+
+TGA/DSCI фирмы «MettlerToledo» (Швейцария). Фазовый состав образцов 
+
+исследовали с помощью дифрактометра ДРОН-3М.  
+
+97 
+
+Результаты и их обсуждение 
+
+Для  установления  процесса  образования  и  термической  устойчивости 
+
+наночастиц  в  среде  углеводородов  были  проведены  анализы  проб 
+
+прямогонного мазута (ПМ), содержащего 2-ЭГЦ. Для этого пробы отбирали 
+
+во время постепенного нагревания смеси до 365 °С со скоростью 10° С/мин, 
+
+а также после кипячения при температуре 355–365 °С через 15, 30 и 60 мин. 
+
+В  разбавленных  толуолом  1  :  10  пробах  ПМ  определяли  далее  размеры 
+
+частиц. Установлено, что размер частиц меняются от 20 до 120 нм, причем 
+
+средний  размер  наночастиц  достигал  50  нм.  Кипячение  смеси  в  течение 
+
+первых  15  мин  способствовало  росту  размера  частиц  до  130  нм. 
+
+Последующее более длительное кипячение в течение 30 и 60 мин привело к 
+
+стабилизации размера частиц. Средний размер наночастиц соответствовал 
+
+90  нм.  Устойчивость  образовавшихся  цинксодержащих  наночастиц 
+
+позволяет  использовать  2ЭГЦ  в  качестве  прекурсора  катализатора  при 
+
+каталитическом крекинге тяжелых нефтяных остатках. 
+
+Для 
+
+исследования 
+
+возможности 
+
+многократного 
+
+применения 
+
+нанокатализатора  была  проведена  серия  опытов.  После  каждого  процесса 
+
+каталитической  разгонки  пробы  нефтяного  сырья  в  оставшийся  кубовый 
+
+остаток  вводили  свежую  порцию  исходного  сырья  в  таком  количестве, 
+
+чтобы  общая  масса  образца  не  превышала  массу  первоначально  взятой 
+
+пробы. Деструктивную разгонку пробы нефтяного сырья с 0,1 % масс. 2ЭГЦ 
+
+проводили  в  аппарате  Энглера  согласно  ГОСТ  11011-64.  Результаты 
+
+отгонки приведены в таблицах 2 и 3. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+98 
+
+Таблица  2.  Температура  паров  при  многократном  использовании  2ЭГЦ  
+в процессе каталитического крекинга прямогонного мазута 
+
+Отгон, 
+мл 
+
+5 
+
+10 
+
+15 
+
+20 
+
+Температура паров 
+
+I. 
+
+II. 
+
+III. 
+
+IV. 
+
+ПМ + Zn 
+
+Куб I + ПМ 
+
+Куб II + ПМ 
+
+Куб III + ПМ 
+
+V. 
+
+Куб IV + ПМ 
+
+112 
+
+118 
+
+120 
+
+125 
+
+130 
+
+160 
+
+182 
+
+185 
+
+125 
+
+160 
+
+188 
+
+230 
+
+130 
+
+230 
+
+230 
+
+235 
+
+182 
+
+212 
+
+212 
+
+200 
+
+Таблица  3.  Температура  кубов  при  многократном  использовании  2ЭГЦ  
+в процессе каталитического крекинга прямогонного мазута 
+
+Отгон, 
+мл 
+
+5 
+
+10 
+
+15 
+
+20 
+
+Температура кубов 
+
+I. 
+ПМ + Zn 
+
+II. 
+
+III. 
+
+IV. 
+
+V. 
+
+Куб I + ПМ 
+
+Куб II + ПМ 
+
+Куб III + ПМ 
+
+Куб IV + ПМ 
+
+410 
+
+419 
+
+425 
+
+427 
+
+410 
+
+419 
+
+422 
+
+424 
+
+415 
+
+420 
+
+424 
+
+430 
+
+419 
+
+322 
+
+432 
+
+435 
+
+417 
+
+421 
+
+430 
+
+431 
+
+Как видно из приведенных таблиц 2 и 3, температура паров и кубовых 
+
+остатков постепенно возрастает при проведении каталитической  разгонки 
+
+прямогонного  мазута  после  добавления  свежей  его  порции  к  кубовому 
+
+остатку,  содержащему  нанокатализатор.  Было  установлено,  что  введение 
+
+2ЭГЦ  в  ПМ  способствует  повышению  выхода  жидкого  дистиллята  по 
+
+сравнению с выходом дистиллята при термической разгонке с 39 % до 55 %. 
+
+Гистограмма,  приведенная  на  рисунке  1,  показывает  эффективность 
+
+многократного  использования  полученного  в  среде  нефтепродукта 
+
+цинксодержащего нанокатализатора.  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+99 
+
+Рисунок 1. Материальный баланс многократного использования  
+2-этилгексаноата цинка при крекинге прямогонного мазута 
+
+Как  видно  из  рисунка  1,  выход  жидкого  дистиллята  практически  не 
+
+меняется  при  пятикратно  введённой  свежей  порции  мазута  в  кубы 
+
+предшествующих  проб.  Наблюдается  незначительный  спад  выхода 
+
+дистиллята  с  38  %  до  30  %  только  после  первого  опыта.  Массовая  доля 
+
+кубовых  остатков  постепенно  снижается,  а  выход  газовой  части  (потери) 
+
+повышается с 5 % до 20 %. 
+
+Полученные  экспериментальные  данные  хорошо  согласуются  с 
+
+результатами  исследования 
+
+группового  состава  кубовых  остатков 
+
+прямогонного мазута. Групповой состав ПМ исследовали методом  SARA-
+
+анализа,  основанного  на  селективном  растворении  фракций  мальтенов  
+
+(γ-фракция), асфальтенов (β-фракция) в н-гептане и толуоле соответственно 
+
+по  схеме  (рисунок  2)  [9].  Карбены  (α-фракция)  не  растворяются  в 
+
+приведённых  растворителях  и  представляют  собой  наиболее  тяжелую 
+
+фракцию [10]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+100 
+
+Рисунок 2. Схема разделения нефтяного остатка методом SARA 
+
+Результаты  исследования  группового  состава  кубовых  остатков  ПМ 
+
+приведен в таблице 4. 
+
+Таблица  4.  Групповой 
+и каталитического крекинга прямогонного мазута 
+
+состав  кубовых  остатков 
+
+термического  
+
+Образец 
+
+Куб ПМ 
+(крекинг  
+без 2ЭГЦ) 
+Куб I  
+(ПМ + 2ЭГЦ) 
+Куб V  
+(куб IV + ПМ) 
+
+г-фракция, 
+% масс. 
+
+β-фракция, 
+% масс. 
+
+б-фракция, 
+% масс. 
+
+91,1 
+
+17,5 
+
+11,3 
+
+6,7 
+
+8,1 
+
+7,6 
+
+0,1 
+
+70,4 
+
+80,7 
+
+Изменения в качественном составе фракции мальтенов представлены в 
+
+таблице 5. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+101 
+
+Таблица  5.  Фракционный 
+каталитического крекинга прямогонного мазута 
+
+состав  мальтенов  кубовых  остатков 
+
+Образец 
+
+Куб ПМ 
+(крекинг  
+без 2ЭГЦ) 
+Куб I  
+(ПМ + 2ЭГЦ) 
+Куб V  
+(куб IV + ПМ) 
+
+Насыщенные 
+углеводороды, 
+% масс. 
+
+Ароматические 
+углеводороды, 
+% масс. 
+
+Смолы, 
+% масс. 
+
+39,9 
+
+33,9 
+
+31,9 
+
+37,8 
+
+43,2 
+
+54,7 
+
+19,6 
+
+21,1 
+
+11,1 
+
+Из  приведенных  данных  следует,  что  введение  в  прямогонный  мазут 
+
+2ЭГЦ приводит к снижению массовой доли мальтенов, что, по-видимому, и 
+
+способствует повышению выхода жидкого дистиллята; приводит к резкому 
+
+росту  α-фракции  карбенов.  Причем  рост  последних  наблюдается  при 
+
+многократном использовании порции катализатора. В мальтенах снижается 
+
+массовая  доля  насыщенных  углеводородов,  и  растет  содержание 
+
+ароматических  углеводородов.  То  есть  многократное  применение 
+
+катализатора  постепенно  способствует  образованию  конденсированных 
+
+ароматических систем. 
+
+Выводы 
+
+Таким образом, на основании полученных экспериментальных данных 
+
+можно сделать вывод о возможности использования 2-этилгексаноата цинка 
+
+в качестве прекурсора нанокатализатора для последующего его применения 
+
+в каталитической разгонке прямогонного мазута. Возможно многократное 
+
+использование небольшой добавки 2ЭГЦ для повышения выхода жидкого 
+
+дистиллята  без  снижения  каталитической  активности  образующихся 
+
+наночастиц катализатора. 
+
+Работа выполнена при поддержке Гранта Республики Башкортостан 
+
+молодым ученым. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+102 
+
+Список используемых источников 
+
+1.  Хаджиев  С.Н.  Крекинг  нефтяных  фракций    на  цеолитсодержащих 
+
+катализаторах. М.: Химия, 1982. 280 с. 
+
+2.  Ахметов  С.А.,  Ишмияров  М.Х.,  Кауфман  А.А.  Технология 
+
+переработки нефти, газа и твердых горючих ископаемых. СПб.: Недра, 2009. 
+
+827 с.  
+
+3.  Ахметов С.А. Технология глубокой переработки нефти и газа. СПб.: 
+
+Недра, 2013. 544 с. 
+
+4.  Хаджиев  С.Н.  Наногетерогенный  катализ  –  новый  сектор 
+
+нанотехнологий  в  химии  и  нефтехимии  //  Нефтехимия.  2011.  Т.  51.  №  1. 
+
+С. 3- 16. 
+
+5.  Мустафин  И.А.,  Судакова  О.М.,  Галиахметов  Р.Н.,  Ахметов  А.Ф., 
+
+Мустафин 
+
+А.Г. 
+
+Рентгенофазные 
+
+исследования 
+
+остатков 
+
+термокаталитической 
+
+деструкции 
+
+нефтепродуктов 
+
+в 
+
+присутствии  
+
+2-этилгексаноатов  цинка  и  никеля  //  Мир  нефтепродуктов.  Вестник 
+
+нефтяных компаний. 2016. № 12. С. 18-23. 
+
+6.  Пат. 2472842 РФ, МПК C 10 G 31/00. Применение органической соли 
+
+для  увеличения  глубины  переработки  углеводородсодержащего  сырья  и 
+
+способ увеличения глубины переработки углеводородсодержащего сырья / 
+
+Р.Н.  Галиахметов,  А.Г.  Мустафин.  2011151658/04,  Заявлено  16.12.2011; 
+
+Опубл. 20.01.2013. Бюл. 2. 
+
+7.  Пат.  2485167  РФ,  МПК  C  10  G  9/00.  Способ  переработки 
+
+углеводородсодержащего сырья (варианты) / Р.Н. Галиахметов, А.Г. Мустафин. 
+
+2012103649/04, Заявлено 02.02.2012; Опубл. 20.06.2013. Бюл. 17. 
+
+8.  Пат. 2486130 РФ, МПК B 82 B 3/00. Способ получения наночастиц 
+
+металлов  /  Р.Н.  Галиахметов,  А.Г.  Мустафин.  2011151591/04,  Заявлено 
+
+16.12.2011; Опубл. 27.06.2013. Бюл. 18. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+103 
+
+9.  Мустафин  И.А.,  Абдуллин  М.Ф.,  Судакова  О.М.,  Мустафин  А.Г., 
+
+Галиахметов Р.Н., Валинурова Э.Р. Деструктивное превращение газойля в 
+
+присутствии наноразмерного катализатора на основе никеля // Нефтехимия. 
+
+2018. Т. 58. № 3. С. 275-281. DOI: 10.7868/S0028242118030036. 
+
+10.  Galiakhmetov  R.N.,  Mustafin 
+
+I.,  Sudakova  O.,  Valinurova  E. 
+
+Thermographiс  Studies of Vacuum Gas Oil // International Journal of Applied 
+
+Engineering Research. 2016. Vol. 11. No. 23. P. 11184-11188. 
+
+11.  Carbognani L., Izquierdo A. Preparative and Automated Compound Class 
+
+Separation  of  Venezuelan  Vacuum  Residua  by  High  Performance  Liquid 
+
+Chromatography // Journal of Chromatography. 1989. Vol. 484. P. 399-408. 
+
+12.  Беляева  Л.С.,  Валинурова  Э.Р.  Влияние  термообработки  нефтяного 
+
+сырья на групповой состав пека // Вестник Башкирского университета. 2017. 
+
+Т. 22. № 4. С. 1001-1005. 
+
+References 
+
+1. Khadzhiev  S.N.  Kreking  neftyanykh  fraktsii  na  tseolitsoderzhashchikh 
+
+katalizatorakh [Cracking of Petroleum Fractions on Zeolite Catalysts]. Moscow, 
+
+Khimiya Publ., 1982. 280 p. [in Russian]. 
+
+2. Akhmetov  S.A.,  Ishmiyarov  M.Kh.,  Kaufman  A.A.  Tekhnologiya 
+
+pererabotki nefti, gaza i tverdykh goryuchikh iskopaemykh [Oil, Gas and Solid 
+
+Fossil Fuels Refining Technology]. Saint Petersburg, Nedra Publ., 2009. 827 p. 
+
+[in Russian]. 
+
+3. Akhmetov  S.A.  Tekhnologiya  glubokoi  pererabotki  nefti  i  gaza  [Deep 
+
+Processing  Technology  of  Oil  and  Gas].  Saint  Petersburg,  Nedra  Publ.,  2013. 
+
+544 p. [in Russian]. 
+
+4. Khadzhiev S.N. Nanogeterogennyi kataliz – novyi sektor nanotekhnologii 
+
+v  khimii  i  neftekhimii  [Nanoheterogeneous  Catalysis  -  a  New  Sector  of 
+
+Nanotechnology  in  Chemistry  and  Petrochemistry].  Neftekhimiya  –  Petroleum 
+
+Chemistry, 2011, Vol. 51, No. 1, pp. 3-16. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+104 
+
+5. Mustafin  I.A.,  Sudakova  O.M.,  Galiakhmetov  R.N.,  Akhmetov  A.F., 
+
+Mustafin  A.G.  Rentgenofaznye  issledovaniya  ostatkov  termokataliticheskoi 
+
+destruktsii nefteproduktov v prisutstvii 2-etilgeksanoatov tsinka i nikelya [The X-
+
+Ray  Phase  Diffraction  Studies  of  Petroleum  Residues  after  Catalytic  Thermal 
+
+Destruction  in  the  Presence  of  Zinc  and  Nickel  2-Ethylhexanoate].  Mir 
+
+nefteproduktov. Vestnik neftyanykh kompanii  – World of Oil Products. The Oil 
+
+Companies’ Bulletin, 2016, No. 12, pp. 18-23. [in Russian]. 
+
+6. Galiakhmetov  R.N.,  Mustafin  A.G.  Primenenie  organicheskoi  soli  dlya 
+
+uvelicheniya  glubiny  pererabotki  uglevodorodsoderzhashchego  syr'ya  i  sposob 
+
+uvelicheniya glubiny pererabotki uglevodorodsoderzhashchego syr'ya  [The use 
+
+of Organic Salt to Increase the Depth of Processing of Hydrocarbon-Containing 
+
+Raw  Materials  and  a  Method  for  Increasing  the  Depth  of  Processing  of 
+
+Hydrocarbon-Containing  Raw  Materials].  Patent  RF,  No.  2472842,  2013. 
+
+[in Russian]. 
+
+7. Galiakhmetov 
+
+R.N.,  Mustafin 
+
+A.G. 
+
+Sposob 
+
+pererabotki 
+
+uglevodorodsoderzhashchego  syr'ya 
+
+(varianty) 
+
+[Method 
+
+for  Processing 
+
+Hydrocarbon-Containing  Raw  Materials  (Options)].  Patent  RF,  No.  2485167, 
+
+2013. [in Russian]. 
+
+8. Galiakhmetov  R.N.,  Mustafin  A.G.  Sposob  polucheniya  nanochastits 
+
+metallov [Method of Obtaining Metal Nanoparticles]. Patent RF, No. 2486130, 
+
+2013. [in Russian]. 
+
+9. Mustafin 
+
+I.A.,  Abdullin  M.F.,  Sudakova  O.M.,  Mustafin  A.G., 
+
+Galiakhmetov  R.N.,  Valinurova  E.R.  Destruktivnoe  prevrashchenie  gazoilya  v 
+
+prisutstvii  nanorazmernogo  katalizatora  na  osnove  nikelya  [Destructive 
+
+Transformation of Gas Oil in the Presence of a Nano-Sized Catalyst Based on 
+
+Nickel]. Neftekhimiya – Petroleum Chemistry, 2018, Vol. 58, No. 3, pp. 275-281. 
+
+DOI: 10.7868/S0028242118030036. [in Russian]. 
+
+10. Galiakhmetov  R.N.,  Mustafin 
+
+I.,  Sudakova  O.,  Valinurova  E. 
+
+Thermographiс  Studies  of  Vacuum  Gas  Oil.  International  Journal  of  Applied 
+
+Engineering Research, 2016, Vol. 11, No. 23, pp. 11184-11188. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+105 
+
+11. Carbognani L., Izquierdo A. Preparative and Automated Compound Class 
+
+Separation  of  Venezuelan  Vacuum  Residua  by  High  Performance  Liquid 
+
+Chromatography. Journal of Chromatography, 1989, Vol. 484, pp. 399-408. 
+
+12. Belyaeva L.S., Valinurova E.R. Vliyanie termoobrabotki neftyanogo syr'ya 
+
+na gruppovoi sostav peka [The Influence of Temperature of Heat Treatment of 
+
+Oil  on  the  Group  Composition  of  Pitch].  Vestnik  Bashkirskogo  universiteta  – 
+
+Bulletin of Bashkir University, 2017, Vol. 22, No. 4, pp. 1001-1005. [in Russian]. 
+
+Сведения об авторах 
+
+About the authors 
+
+Мустафин  Ильдар  Ахатович,  канд.  техн.  наук,  доцент  кафедры 
+
+«Технология нефти и газа», УГНТУ, г. Уфа, Российская Федерация  
+
+Ildar A. Mustafin, Candidate of Engineering Sciences, Assistant Professor of 
+
+Oil and Gas  Processing Department, USPTU, Ufa, Russian Federation  
+
+e-mail: iamustafin@gmail.com 
+
+Судакова  Оксана  Минигуловна,  аспирант  кафедры  «Управление 
+
+качеством», Башкирский государственный университет, г. Уфа, Российская 
+
+Федерация 
+
+Oksana M. Sudakova, Post-graduate Student of Quality Control Department, 
+
+Bashkir State University, Ufa, Russian Federation 
+
+e-mail: gold-dragon@inbox.ru 
+
+Станкевич  Клара  Евгеньевна,  канд.  техн.  наук,  доцент  кафедры 
+
+«Технология нефти и газа», УГНТУ, г. Уфа, Российская Федерация  
+
+Clara E. Stankevich, Candidate of Engineering Sciences, Assistant Professor 
+
+of Oil and Gas  Processing Department, USPTU, Ufa, Russian Federation  
+
+e-mail: clara.stankevich@gmail.com 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+106 
+
+Галиахметов  Раиль  Нигматьянович,  д-р  техн.  наук,  профессор, 
+
+заведующий 
+
+кафедрой 
+
+«Управление 
+
+качеством», 
+
+Башкирский 
+
+государственный университет, г. Уфа, Российская Федерация 
+
+Rail N. Galiakhmetov, Doctor of Engineering Sciences, Professor, Head of 
+
+Quality Control Department, Bashkir State University, Ufa, Russian Federation 
+
+e-mail: rail007@mail.ru 
+
+Валинурова  Эльвира  Рафиковна,  канд.  техн.  наук,  доцент  кафедры 
+
+общей,  аналитической  и  прикладной  химии,  УГНТУ,  г.  Уфа,  Российская 
+
+Федерация 
+
+Elvira R. Valinurova, Candidate of Engineering Sciences, Assistant Professor 
+
+of General, Analytical and Applied Chemistry Department, USPTU, Ufa, Russian 
+
+Federation 
+
+e-mail: valinurova_elvira@mail.ru 
+
+Ханов Айдар Рустамович, аспирант кафедры «Технология нефти и газа», 
+
+УГНТУ, г. Уфа, Российская Федерация  
+
+Aidar  R.  Khanov,  Post-graduate  Student  of  Oil  and  Gas  Processing 
+
+Department, USPTU, Ufa, Russian Federation  
+
+e-mail: aidar1994_10@mail.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+

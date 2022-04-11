@@ -1,0 +1,1319 @@
+УДК 614.8 
+
+31 
+
+НЕФТЕШЛАМЫ: ХРАНЕНИЕ И НАКОПЛЕНИЕ.  
+
+ВОПРОСЫ БЕЗОПАСНОСТИ И УТИЛИЗАЦИИ 
+
+OIL SLUDGE: STORAGE AND ACCUMULATION.  
+
+SAFETY AND DISPOSAL CONSIDERATIONS 
+
+Д.А. Дубовцев, У.Э. Аллаяров, Э.Н. Абдрахманова  
+
+Уфимский государственный нефтяной технический университет, 
+
+г. Уфа, Российская Федерация 
+
+Dmitriy A. Dubovtsev, Ural E. Allayarov, Ehmiliya N. Abdrakhmanova 
+
+Ufa State Petroleum Technological University, 
+
+Ufa, Russian Federation 
+
+e-mail: anailx@mail.ru 
+
+Аннотация. Наша страна занимает одно из передовых мест по добыче 
+
+и переработке нефти. В результате этой деятельности образуется большое 
+
+количество углеводородных отходов, которые необходимо утилизировать. 
+
+В  ходе  переработки  и  потребления  нефти  около  8  %  нефтепродуктов 
+
+теряется  в  виде  загрязнений  или  накапливается  в  виде   нефтешламов  или 
+
+остатков.  
+
+Главные  источники  нефтешламов  –  это  предприятия,  занимающиеся 
+
+добычей  и  переработкой  нефти,  а  также  транспортные  компании, 
+
+обеспечивающие перевозку нефтепродуктов.  
+
+Тенденция к углублению переработки нефти,  ужесточение требований 
+
+по  экологии  и  безопасности  производства  делает  проблему  переработки 
+
+нефтяных остатков наиболее актуальной. В нашей стране углеводородные 
+
+остатки  образуются  в  больших  объемах  и  лидируют  среди  других  видов 
+
+промышленных отходов.  
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+32 
+
+В  России  широкое  распространение  до  сих  пор  получили  старые 
+
+методы  переработки  нефтешламов.  Чтобы  определить  возможные  пути 
+
+оперативного  решения  этой  проблемы,  нам  необходимо  изучить  состав, 
+
+свойства, классификацию  объектов переработки нефтяных остатков.  
+
+В статье рассмотрены основные методы переработки нефтесодержащих 
+
+отходов:  термические,  биологические,  физические,  физико-химические  и 
+
+химические.  Благодаря  наличию  нефтяной  составляющей  нефтешлам 
+
+является  веществом,  склонным  к  возгоранию,  поэтому  был  произведен 
+
+анализ 
+
+аварийных 
+
+ситуаций, 
+
+возникших 
+
+в 
+
+результате 
+
+неквалифицированного использования нефтешламов. 
+
+Abstract.  Our  country  occupies  one  of  the  forefront  in  oil  production  and 
+
+refining.  As  a  result  of  this  activity,  a  hydrocarbon  waste  large  amount  is 
+
+generated, which must be disposed. During the processing and consumption of 
+
+oil, about 8 % of oil products are lost in the contaminants form or accumulated 
+
+in the form of oil sludges or residues. 
+
+The  oil  sludge  main  sources  are  oil  production  and  refining  enterprises,  as 
+
+well as transport companies providing oil products transportation. 
+
+The  tendency  to  deepen  oil  refining,  toughening  the  environmental  and 
+
+production safety requirements makes the problem of oil residue processing the 
+
+most urgent. In our country, hydrocarbon residues are formed in large volumes 
+
+and are leading among other types of industrial waste. 
+
+In Russia, old oil sludge processing methods are still widely used. In order to 
+
+determine  possible  ways  to  quickly  solve  this  problem,  we  need  to  study  the 
+
+composition, properties, classification of oil residue processing facilities. 
+
+The  article  discusses  the  main  methods  of  processing  oil  waste:  thermal, 
+
+biological, physical, physico-chemical and chemical. Due to the presence of the 
+
+oil component, oil sludge is a substance prone to fire, so an analysis was made 
+
+of emergencies resulting from the unskilled use of oil sludge. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+33 
+
+Ключевые  слова:  нефтяной  шлам;  нефтеотходы;  утилизация; 
+
+переработка  нефтяных  шламов;  методы  утилизации;  классификация 
+
+нефтешламов; аварии с нефтешламами 
+
+Key  words:  oil  sludge;  oil  waste;  utilization;  processing  of  oil  sludge; 
+
+disposal methods; sludge classification; accidents with oil sludge 
+
+В ходе длительного времени  эксплуатации предприятий нефтегазовой 
+
+отрасли  образовалось  большое  количество  нефтешламов.  Увеличение 
+
+объёмов  производства  отрасли  ведет  и  к  увеличению  образования 
+
+нефтяных остатков.  
+
+Согласно  [1,  2]  каждый  год  накопление  нефтяных  остатков  в 
+
+соответствии  с  технологическими  нормами  может  составлять  до  0,1 % 
+
+объёма  перерабатываемой  нефти.  В  крупных  городах  доля  нефтешламов 
+
+составляет до 30–40 % совокупного объема получаемых отходов.  
+
+Большая  часть  нефтешламов  находится  в  хранилищах-накопителях  на 
+
+территории  предприятий  топливно-энергетического  комплекса,  из-за  чего 
+
+огромная 
+
+часть 
+
+площадей 
+
+этих 
+
+предприятий 
+
+оказываются 
+
+незадействованными [3, 4]. 
+
+От  способа  получения  нефтешлама  и его  физико-химического  состава 
+
+разделяют эти остатки нефтепродуктов по группам [1, 5]: 
+
+-  придонные,  которые  образовываются  на  дне  водоёмов  в  результате 
+
+попадания нефтепродуктов; 
+
+- накопившиеся на нефтепромыслах;   
+
+-  остатки  нефти  и  нефтепродуктов,  образовавшиеся  при  хранении  в 
+
+резервуарных парках.   
+
+К образованию нефтяных остатков в резервуарах приводит:  
+
+-  взаимодействие  нефти  с  материалом  резервуара,  водой,  воздухом  и 
+
+механическими примесями; 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+34 
+
+-  грунты,  представляющие  собой  продукт  соединения  почвы  и 
+
+пролившейся  на  неё  нефти 
+
+(причиной  может  быть  авария  или 
+
+технологический процесс); 
+
+-  металлсодержащие  нефтешламы  –  отходы  машиностроения  и 
+
+металлургии. 
+
+Нефтяные  отходы  образуются  в  процессе  различных  взаимодействий 
+
+нефти  со  всевозможными  веществами,  соответственно,  пропорции 
+
+элементов  в  таких  соединениях  различны.  Не  существует  одинаковых 
+
+нефтешламов [6, 7]. 
+
+По  происхождению  отходы  предприятий  нефтегазовой  отрасли 
+
+классифицируются  на  группы,  различающиеся  по  физико-химическим 
+
+свойствам [1, 8]:  
+
+- сбросы при подготовке нефти; 
+
+- сбросы при зачистке нефтяных резервуаров; 
+
+-  сбросы  при  испытании  и  ремонте  скважин  (капитальный  ремонт 
+
+скважин, плановый ремонт скважин); 
+
+- сбросы нефтеотходов от буровых работ; 
+
+- аварийные разливы при транспортировке и добыче; 
+
+- амбарные деградированные нефти; 
+
+- нефтешламы транспортного цеха. 
+
+Полная классификация нефтешламов приведена в таблице 1. 
+
+Состав  нефтяных  остатков  различных 
+
+видов 
+
+варьируется 
+
+в 
+
+значительных  пределах.  По  данным  спектрального  анализа  одной  из 
+
+лабораторий  НПЗ  известно,  что  в  состав  нефтешлама  входят  различные 
+
+производные 
+
+антрацена,  пирена,  фенантрена,  хинона,  флоурена. 
+
+Содержание парафиновых углеводородов колеблется в пределах С5-С58.  
+
+Нефтешламы  добывающих  предприятий  имеют  в  своем  составе  около 
+
+65 %  воды,  30  %  шлама  (выбуренной  породы),  5,5  %  нефти,  0,5 % 
+
+бентонита  и  0,5 %  различных  присадок,  обеспечивающих  оптимальную 
+
+работу буровой установки [1, 8, 9]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+35 
+
+Таблица 1. Классификация нефтешламов 
+
+Классификация нефтешламов 
+
+По пути образования 
+
+По происхождению 
+
+придонные 
+
+образующиеся при добыче 
+
+резервуарные 
+
+грунтовые 
+
+металлсодержащие 
+
+сбросы при подготовке нефти 
+сбросы при зачистке нефтяных 
+резервуаров 
+сбросы при испытании и ремонте 
+скважин 
+сбросы нефтеотходов от буровых 
+работ 
+аварийные разливы при 
+транспортировке и добыче 
+амбарные деградированные нефти 
+нефтешламы транспортного цеха 
+
+В  таблице  2  представлены  данные  химического  состава  нефтешламов 
+
+добывающих предприятий. 
+
+Таблица  2.  Данные  химического  состава  нефтешламов  добывающих 
+предприятий 
+
+Показатель 
+
+Содержание нефтепродуктов, мг/кг 
+
+Содержание углеводородов,  
+% масс. 
+- парафино-нафтеновые 
+- асфальтены 
+- смолы 
+- полициклические ароматические 
+
+Значение 
+
+2000-13870 
+
+41,8 
+5,6 
+19,2 
+20,1 
+
+Результаты  исследований  состава  нефтешламов  методом  жидкостно-
+
+адсорбционной хроматографии [10] представлены в таблице 3. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+ 
+Таблица  3.  Групповой  химический 
+определенный методом жидкостно-адсорбционной хроматографии 
+
+состав  нефтяного  остатка, 
+
+Группы углеводородов 
+
+Содержание, % масс. 
+
+36 
+
+Парафино-нафтеновая 
+
+Легкая ароматика 
+
+Средняя ароматика 
+
+Тяжелая ароматика 
+
+Смолы I 
+
+Смолы II 
+
+Асфальтены 
+
+18,1 
+
+10,4 
+
+11,1 
+
+16,2 
+
+16,5 
+
+22,4 
+
+5,3 
+
+Примечание.  Смолы  I  характеризуют  растворимые  углеводороды  в 
+бензоле, а смолы II – растворимые в спирто-бензольной смеси 
+
+Существует 
+
+огромное 
+
+количество 
+
+способов 
+
+переработки 
+
+нефтесодержащих  отходов:  термическое  или  сжигание,  обезвоживание, 
+
+сушка;  биологическое  или  биоразложение;  физическое  разделение  или 
+
+отстаивание; химическое – использование химических реагентов. 
+
+Способ  очистки  нефтешламов  имеет  различную  экономическую  и 
+
+экологическую  эффективность.  Наиболее  распространенными  способами 
+
+утилизации являются: термический метод, фильтрование и отстаивание. В 
+
+процессе  переработки  нефтяных  остатков  возможно  разделение  на 
+
+фракции [11, 12]. 
+
+К недостаткам сжигания нефтешламов следует отнести их реализацию 
+
+на  установках  со  сложным  аппаратурным  оформлением  при  высоких 
+
+температурах,  что  требует  высоких  капитальных  и  эксплуатационных 
+
+затрат.  Существуют  ограничения  использования  данного  метода  по 
+
+составу  нефтешлама.  С  продуктами  реакции  выносится  часть  энергии  в 
+
+виде  тепла,  что  существенно  снижает  энергетическую  эффективность. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+37 
+
+Зачастую  наблюдается  новое 
+
+загрязнение 
+
+атмосферного 
+
+воздуха  
+
+газообразными продуктами сжигания нефтепродуктов [13, 14].  
+
+Недостатками  биологического  метода  утилизации  нефтешламов 
+
+являются  высокие  энергетические  затраты  на  его  осуществление, 
+
+сложность  и  многостадийность  процесса,  в  том  числе  наличие  стадии 
+
+выделения,  наращивания  и 
+
+внесения  бактерий-деструкторов  для 
+
+разложения 
+
+загрязнителей 
+
+обрабатываемого  материала 
+
+[15, 
+
+16]. 
+
+Несовершенными  являются  и  физические,  и  физико-химические  методы 
+
+утилизации.  Низкая  эффективность  физических  методов  разделения, 
+
+значительная  длительность  процесса  и  ограниченная  область  применения 
+
+также  не  позволяет  отнести  эти  методы  к  перспективным  и  современным 
+
+[1, 17]. 
+
+Воздействие на нефтешламы с помощью химических веществ приводит 
+
+к  существенному  возрастанию  себестоимости  конечного  продукта,  к 
+
+потребности  применения  специального  оборудования  и  его  ускоренному 
+
+износу,  является  сложно  регулируемым  процессом.  Некоторые  авторы 
+
+считают, что химические методы переработки нефтешламов подходят для 
+
+донной  части  шламохранилищ  с  целью  предотвращения  загрязнения 
+
+грунтовых  вод  путем  связывания  шламов  в  минерально-органические 
+
+комплексы [15, 18].  
+
+Методы 
+
+переработки 
+
+нефтешламов 
+
+имеют 
+
+очень 
+
+низкую 
+
+эффективность  и  избирательность  к  составу  нефтеотходов,  а  также 
+
+дорогостоящи.  
+
+Тенденции  развития  современных  методов  утилизации  нефтешламов 
+
+являются актуальной задачей нефтеперерабатывающей промышленности 
+
+[19, 20]. 
+
+В  Республике  Казахстан  произошло  возгорание  нефтешлама  в  цеху 
+
+насосно-механической  очистки  (нефтеловушки)  во  время  монтажных 
+
+работ  на  трубопроводе,  что  привело  к  пожару  на  Атырауском 
+
+нефтеперерабатывающем  заводе,  в  результате  которого  погиб  один 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+38 
+
+рабочий,  еще  четверо  пострадали.  Общая  площадь  пожара  составила 
+1950 м2 [21, 22]. 
+
+В  результате  пожара  на  заводе  по  переработке  нефтешлама  в  Ханты-
+
+Мансийском  автономном  округе  погибло  11  человек,  по  различным 
+данным  до  9  пострадало.  Общая  площадь  пожара  составила  4000  м2  [21, 
+
+22]. 
+
+Пожары  с  огромными  площадями  возгорания  происходят  также  на 
+
+объектах  хранения  нефтяных  отходов  в  комплексе  по  обращению  с 
+
+отходами буровых работ. 
+
+Выводы 
+
+В  статье  рассмотрены  вопросы  накопления,  хранения  и  утилизации 
+
+нефтешламов.  Несмотря  на  достаточную  изолированность  хранилищ 
+
+нефтешламов 
+
+от 
+
+источников 
+
+воспламенения, 
+
+на 
+
+примере 
+
+зарегистрированных 
+
+случаев 
+
+возникновения 
+
+пожаров 
+
+показана 
+
+актуальность  проблемы.  Место 
+
+хранения  нефтешлама 
+
+является 
+
+потенциальным  источником  возникновения  происшествия.  Помимо 
+
+пожарной  опасности  испарения  места  хранения  нефтешламов  негативно 
+
+влияют  на  воздух  рабочей  зоны  и  близлежащих  населенных  пунктов. 
+
+Необходимо  определить  уровень  и  степень  данного  воздействия  на 
+
+человека.  
+
+Скорость  накопления  нефтешламов  на  объектах  нефтяной  отрасли 
+
+позволяет  сказать,  что  проблема  снижения  объема  нефтешламов 
+
+становится  актуальной  уже  сейчас  и  требует  разработки  решений  по 
+
+снижению их количества. 
+
+Список используемых источников 
+
+1.  Мустафин  И.А.,  Ахметов  А.Ф.,  Гайсина  А.Р.  Технология 
+
+утилизации  нефтяных  шламов  //  Нефтегазовое  дело.  2011.  Т.  9.  №  4.  
+
+С. 95-97. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+39 
+
+2.  Шайбакова В.Р., Шайбаков Р.А., Абдрахманов Н.Х., Шавалеев Д.А. 
+
+Система управления промышленными стоками и отходами производства // 
+
+Электронный  научный  журнал  «Нефтегазовое  дело».  2013.  №  1.  С.  498-
+
+509. 
+
+URL: 
+
+http://ogbus.ru/files/ogbus/authors/ShaybakovaVR/ 
+
+ShaybakovaVR_1.pdf (дата обращения: 20.07.2019). 
+
+3.  Шайбакова В.Р., Абдрахманов Н.Х., Шайбаков Р.А., Шавалеев Д.А. 
+
+Предложения 
+
+по 
+
+совершенствованию 
+
+государственной 
+
+системы 
+
+управления  отходами  //  Защита  окружающей  среды  в  нефтегазовом 
+
+комплексе. 2013. № 7. С. 5-10. 
+
+4.  Абдрахманов  Н.Х.,  Шайбаков  Р.А.,  Абдрахманова  К.Н., 
+
+Ворохобко В.В., Забелин К.Л. Анализ нестационарности при эксплуатации 
+
+технологического  оборудования  опасных  производственных  объектов  // 
+
+Экспертиза  промышленной  безопасности  и  диагностика  опасных 
+
+производственных  объектов:  сб.  тр.  Уфа:  Башкирская  Ассоциация 
+
+Экспертов, 2015. С. 95-99. 
+
+5.  Abdrakhmanov  N.,  Abdrakhmanova  K.,  Vorohobko  V., 
+
+Abdrakhmanova L.,  Basyirova  A.  Development  of  Implementation  Chart  for 
+
+Non-Stationary  Risks  Minimization  Management  Technology  Based  on 
+
+Information-Management Safety System // Journal of Engineering and Applied 
+
+Sciences. 2017. No. 12. P. 7880-7888. DOI: 10.3923/jeasci.2017.7880.7888. 
+
+6.  Семченкова Д.Н., Растоскуев В.В., Абдрахманов Н.Х., Колобов Н.С. 
+
+Комплексная 
+
+экспресс-оценка 
+
+экологических  рисков  в  нефтяной 
+
+промышленности // Нефтяное хозяйство. 2008. № 8. С. 104-105. 
+
+7.  Абдрахманова Э.Н., Ягафарова Г.Г., Аминова Г.К., Мазитова А.К., 
+
+Абдрахманов Н.Х., Шавалеев Д.А. Вопросы экологичности и безопасности 
+
+получения  изомасляной  кислоты 
+
+//  Защита  окружающей  среды  в 
+
+нефтегазовом комплексе. 2013. № 3. С. 9-14. 
+
+8.  Соколов  Л.И.  Переработка  и  утилизация  нефтесодержащих 
+
+отходов. М.: Инфра-Инженерия, 2017. 160 с. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+40 
+
+9.  Абдрахманова  Э.Н.  Снижение  объёмов  образования  токсичных 
+
+отходов  в  процессе  получения  изомасляной  кислоты:  дис.  ...  канд.  техн. 
+
+наук. Уфа: УГНТУ, 2013. 135 с. 
+
+10.  Бадикова  А.Д.  Кудашева  Ф.Х.,  Ялалова  Р.А.,  Рулло  А.В., 
+
+Сахибгареев  С.Р.  Возможности  спектральных  методов  анализа  для 
+
+изучения  состава  нефтешламов  //  Известия  вузов.  Прикладная  химия  и 
+
+биотехнология. 2017. Т. 7. № 2 (21). С. 128-134. DOI: 10.21285/2227-2925-
+
+2017-7-2-128-134 . 
+
+11. .  Вадулина  Н.В.,  Абдрахманов  Н.Х.,  Федосов  А.В.,  Бадртдинова 
+
+И.И.  Разработка  способа  утилизации  отходов  горнообогатительных 
+
+комбинатов  созданием  активных  фильтрующих  обезжелезивающих 
+
+материалов 
+
+//  Известия  Томского  политехнического  университета. 
+
+Инжиниринг георесурсов. 2018. Т. 329. № 11. С. 37-43. 
+
+12.  Абдрахманов  Н.Х.,  Шутов  Н.В.,  Абдрахманова  К.Н., 
+
+Ворохобко В.В., Шайбаков Р.А. Исследование и анализ нестационарности 
+
+возникновения  и  развития  потенциально  опасных  ситуаций  при 
+
+эксплуатации  опасных  производственных  объектов 
+
+//  Электронный 
+
+научный  журнал  «Нефтегазовое  дело».  2015.  №  1.  С.  292-306.  URL: 
+
+http://ogbus.ru/files/ogbus/issues/1_2015/ogbus_1_2015_p292-
+
+306_AbdrakhmanovNKH_ru.pdf (дата обращения: 19.07.2019). 
+
+13.  Бахонина Е.И. Современные технологии переработки и утилизации 
+
+углеводородсодержащих  отходов.  Сообщение  1.  Термические  методы 
+
+утилизации  и  обезвреживания  углеводородсодержащих  отходов 
+
+// 
+
+Башкирский химический журнал. 2015. Т. 22. № 1. С. 20-29. 
+
+14.  Fedosov 
+
+A.V., 
+
+Abdrakhmanov 
+
+N.Kh., 
+
+Gaysin 
+
+E.Gh., 
+
+Sharafutdinova G.M.,  Abdrakhmanova  K.N.,  Shammatova  A.A.    The  Use  of 
+
+Mathematical  Models  in the  Assessment of the  Measurements'  Uncertainty  for 
+
+the  Purpose  of  the  Industrial  Safety  Condition  Analysis  of  the  Dangerous 
+
+Production  Objects  //  International  Journal  of  Pure  and  Applied  Mathematics. 
+
+2018. Vol. 10. P. 433-437. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+41 
+
+15.  Бахонина Е.И. Современные технологии переработки и утилизации 
+
+углеводородсодержащих  отходов.  Сообщение  2.  Физико-химические, 
+
+химические,  биологические  методы  утилизации  и  обезвреживания 
+
+углеводородсодержащих отходов // Башкирский химический журнал. 2015. 
+
+Т. 22. № 2. С. 41-49. 
+
+16.  Sekerin  V.D.,  Gaisina  L.M.,  Shutov  N.V.,  Abdrakhmanov  N.Kh., 
+
+Valitova  N.E.  Improving  the  Quality  of  Competence-Oriented  Training  of 
+
+Personnel at Industrial Enterprises // Quality – Access to Success. 2018. Vol. 19. 
+
+No. 165. P. 68-73. 
+
+17.  Кускильдин Р.А., Абдрахманов Н.Х., Закирова З.А., Ялалова Э.Ф., 
+
+Абдрахманова  К.Н.,  Ворохобко  В.В.  Современные  технологии  для 
+
+проведения 
+
+производственного 
+
+контроля, 
+
+повышающие 
+
+уровень 
+
+промышленной  безопасности  на  объектах  нефтегазовой  отрасли 
+
+// 
+
+Проблемы сбора, подготовки и транспорта нефти и нефтепродуктов. 2017. 
+
+Вып. 2 (108). С. 111-120.  
+
+18.  Шайбаков  Р.А.,  Давыдова  Д.Г.,  Кузьмин  А.Н.,  Абдрахманов  Н.Х., 
+
+Марков  А.Г.  Помехоустойчивый 
+
+метод 
+
+акустико-эмиссионного 
+
+мониторинга резервуаров  // Электронный научный журнал «Нефтегазовое 
+
+дело».  2013.  №  4.  С.  448-464.  URL:  http://ogbus.ru/files/ogbus/authors/ 
+
+ShaybakovRA/ShaybakovRA_2.pdf (дата обращения: 13.07.2019). 
+
+19.  Абдрахманов  Н.Х.  Научно-методические  основы  обеспечения 
+
+безопасной 
+
+эксплуатации 
+
+опасных 
+
+производственных 
+
+объектов 
+
+нефтегазового  комплекса  на  основе  управления  системными  рисками:  
+
+дис. ... д-ра техн. наук. Уфа, 2014. 266 с. 
+
+20.  Абдрахманова Э.Н., Аминова Г.К., Мазитова А.К., Ягафарова Г.Г. 
+
+Экологические  аспекты  получения  изомасляной  кислоты  //  Экология  
+
+и промышленность России. 2013. № 3. С. 18-21. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+42 
+
+21.  Шайбаков  Р.А.,  Абдрахманов  Н.Х.,  Кузеев  И.Р.,  Симарчук  А.С., 
+
+Байбурин  Р.А.  Влияние  опасных  факторов,  возникающих  при  пожаре 
+
+пролива,  и  его  тушения  на  напряженно-деформированное  состояние 
+
+трубопровода  //  Проблемы  сбора,  подготовки  и  транспорта  нефти  и 
+
+нефтепродуктов. 2008. Вып. 4 (74). С. 109-114. 
+
+22.  Аллаяров  У.Э.,  Рафиков  С.К.  Обзор  методов  налива  нефти  и 
+
+нефтепродуктов // Трубопроводный транспорт – 2015: матер. Х междунар. 
+
+учеб.-науч.-практ. конф. Уфа: УГНТУ, 2015. С. 255-256. 
+
+References 
+
+1.   Mustafin  I.A.,  Akhmetov  A.F.,  Gaisina  A.R.  Tekhnologiya  utilizatsii 
+
+neftyanykh  shlamov  [Utilization  Technology  of  Oil  Sludge].  Neftegazovoe 
+
+delo – Petroleum Engineering, 2011, Vol. 9, No. 4, pp. 95-97. [in Russian]. 
+
+2.   Shaibakova  V.R., 
+
+Shaibakov  R.A.,  Abdrakhmanov  N.Kh., 
+
+Shavaleev D.A.  Sistema  upravleniya  promyshlennymi  stokami  i  otkhodami 
+
+proizvodstva  [Control  Systems  for  Industrial  Effluents  and  Industrial  Waste]. 
+
+Elektronnyi  nauchnyi  zhurnal  «Neftegazovoe  delo»  –  Electronic  Scientific 
+
+Journal  «Oil  and  Gas  Business»,  2013,  No.  1,  pp.  498-509.  URL: 
+
+http://ogbus.ru/files/ogbus/ 
+
+authors/ShaybakovaVR/ShaybakovaVR_1.pdf 
+
+(accessed 20.07.2019). [in Russian]. 
+
+3.   Shaibakova  V.R.,  Abdrakhmanov  N.Kh., 
+
+Shaibakov  R.A., 
+
+Shavaleev D.A. Predlozheniya po sovershenstvovaniyu gosudarstvennoi sistemy 
+
+upravleniya  otkhodami  [Suggestions  for  Improvement  of  the  Waste  Control 
+
+State  System].  Zashchita  okruzhayushchei  sredy  v  neftegazovom  komplekse  – 
+
+Environment  Protection  in  Oil  and  Gas  Complex,  2013,  No.  7,  pp.  5-10. 
+
+[in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+43 
+
+4.   Abdrakhmanov  N.Kh.,  Shaibakov  R.A.,  Abdrakhmanova  K.N., 
+
+Vorokhobko  V.V.,  Zabelin  K.L.  Analiz  nestatsionarnosti  pri  ekspluatatsii 
+
+tekhnologicheskogo  oborudovaniya  opasnykh  proizvodstvennykh  ob"ektov 
+
+[Analysis  of  Unsteadiness  in  the  Operation  of  Technological  Equipment  of 
+
+Hazardous  Production  Facilities].  Sbornik  trudov  «Ekspertiza  promyshlennoi 
+
+bezopasnosti  i  diagnostika  opasnykh  proizvodstvennykh  ob"ekto»:  [Collection 
+
+of works «Industrial Safety Expertise and Diagnostics of Hazardous Production 
+
+Facilities»]. Ufa, Bashkirskaya Assotsiatsiya Ekspertov Publ., 2015, pp. 95-99. 
+
+[in Russian]. 
+
+5.   Abdrakhmanov  N.,  Abdrakhmanova  K.,  Vorohobko  V., 
+
+Abdrakhmanova L.,  Basyirova  A.  Development  of  Implementation  Chart  for 
+
+Non-Stationary  Risks  Minimization  Management  Technology  Based  on 
+
+Information-Management  Safety  System.  Journal  of  Engineering  and  Applied 
+
+Sciences, 2017, No. 12, pp. 7880-7888. DOI: 10.3923/jeasci.2017.7880.7888. 
+
+6.   Semchenkova  D.N.,  Rastoskuev  V.V.,  Abdrakhmanov  N.Kh., 
+
+Kolobov N.S.  Kompleksnaya 
+
+ekspress-otsenka 
+
+ekologicheskikh 
+
+riskov  
+
+v neftyanoi promyshlennosti [Complex Express-Evaluation of Ecological Risks 
+
+in  the  Oil  Industry].  Neftyanoe  khozyaistvo  –  Oil  Industry,  2008,  No.  8,  pp.  
+
+104-105. [in Russian]. 
+
+7.   Abdrakhmanova  E.N.,  Yagafarova  G.G.,  Aminova  G.K.,  Mazitova 
+
+A.K.,  Abdrakhmanov  N.Kh.,  Shavaleev  D.A.  Voprosy  ekologichnosti  i 
+
+bezopasnosti  polucheniya 
+
+izomaslyanoi  kisloty 
+
+[Ecological  Aspects  of 
+
+Isobutyric Acid Production].  Zashchita okruzhayushchei sredy v neftegazovom 
+
+komplekse  –  Environment  Protection  in  Oil  and  Gas  Complex,  2013,  No.  3, 
+
+pp. 9-14. [in Russian]. 
+
+8.   Sokolov  L.I.  Pererabotka  i  utilizatsiya  neftesoderzhashchikh  otkhodov 
+
+[Processing  and  Disposal  of  Oily  Waste].  Moscow,  Infra-Inzheneriya  Publ., 
+
+2017. 160 p. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+44 
+
+9.   Abdrakhmanova  E.N.  Snizhenie  ob"emov  obrazovaniya  toksichnykh 
+
+otkhodov  v  protsesse  polucheniya  izomaslyanoi kisloty:  dis.  kand.  tekhn.  nauk 
+
+[Reduction  of  Toxic  Waste  Generation  in  the  Process  of  Isobutyric  Acid 
+
+Production:  Cand.  Engin.  Sci.  Diss.].  Ufa,  UGNTU  Publ.,  2013.  135  p.  
+
+[in Russian]. 
+
+10.  Badikova  A.D.  Kudasheva  F.Kh.,  Yalalova  R.A.,  Rullo  A.V., 
+
+Sakhibgareev  S.R.  Vozmozhnosti  spektral'nykh  metodov  analiza  dlya 
+
+izucheniya sostava nefteshlamov [Spectral Methods of Analysis Capabilities for 
+
+Investigation  of  Oil  Sludges  Composition].  Izvestiya  vuzov.  Prikladnaya 
+
+khimiya  i  biotekhnologiya  –  Proceedings  of  Universities.  Applied  Chemistry 
+
+and Biotechnology, 2017, Vol. 7, No. 2 (21), pp. 128-134. DOI: 10.21285/2227-
+
+2925-2017-7-2-128-134. [in Russian]. 
+
+11.  Vadulina  N.V.,  Abdrakhmanov  N.Kh.,  Fedosov  A.V.,  Badrtdinova  I.I. 
+
+Razrabotka  sposoba  utilizatsii  otkhodov  gornoobogatitel'nykh  kombinatov 
+
+sozdaniem  aktivnykh 
+
+fil'truyushchikh  obezzhelezivayushchikh  materialov 
+
+[Development of a Method for Utilization of Waste from Mining and Processing 
+
+Plants  by  Creating  Active  Filtering  Deironing  Materials].  Izvestiya  Tomskogo 
+
+politekhnicheskogo  universiteta.  Inzhiniring  georesursov  –  Bulletin  of  the 
+
+Tomsk Polytechnic University. Geo Assets Engineering, 2018, Vol. 329, No. 11, 
+
+pp. 37-43. [in Russian]. 
+
+12.  Abdrakhmanov  N.Kh.,  Shutov  N.V.,  Abdrakhmanova  K.N., 
+
+Vorokhobko V.V.,  Shaibakov  R.A.  Issledovanie  i  analiz  nestatsionarnosti 
+
+vozniknoveniya  i  razvitiya  potentsial'no  opasnykh  situatsii  pri  ekspluatatsii 
+
+opasnykh  proizvodstvennykh  ob"ektov  [Research  and  the  Analysis  of  not 
+
+Stationarity of Emergence and Development of Potentially Dangerous Situations 
+
+at Operation of Hazardous Production Facilities]. Elektronnyi nauchnyi zhurnal 
+
+«Neftegazovoe  delo»  –  Electronic  Scientific  Journal  «Oil  and  Gas  Business», 
+
+2015,  No.  1,  pp.  292-306.  URL:  http://ogbus.ru/files/ogbus/issues/1_2015/ 
+
+ogbus_1_2015_p292-306_AbdrakhmanovNKH_ru.pdf  (accessed  19.07.2019). 
+
+[in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+45 
+
+13.  Bakhonina  E.I.  Sovremennye  tekhnologii  pererabotki  i  utilizatsii 
+
+uglevodorodsoderzhashchikh  otkhodov.  Soobshchenie  1.  Termicheskie  metody 
+
+utilizatsiii  obezvrezhivaniya  uglevodorodsoderzhashchikh  otkhodov  [Modern 
+
+Technologies  of  Processing  and  Recycling  of  Hydrocarbon  Waste.  Part  1. 
+
+Thermal  Methods  of  Recycling  and  Disposal  of  Hydrocarbon  Waste]. 
+
+Bashkirskii  khimicheskii  zhurnal  –  Bashkir  Chemical  Journal,  2015,  Vol.  22, 
+
+No. 1, pp. 20-29. [in Russian]. 
+
+14.  Fedosov 
+
+A.V., 
+
+Abdrakhmanov 
+
+N.Kh., 
+
+Gaysin 
+
+E.Gh., 
+
+Sharafutdinova G.M.,  Abdrakhmanova  K.N.,  Shammatova  A.A.  The  Use  of 
+
+Mathematical  Models  in the  Assessment of the  Measurements'  Uncertainty  for 
+
+the  Purpose  of  the  Industrial  Safety  Condition  Analysis  of  the  Dangerous 
+
+Production  Objects.  International  Journal  of  Pure  and  Applied  Mathematics, 
+
+2018, Vol. 10, pp. 433-437. 
+
+15.  Bakhonina  E.I.  Sovremennye  tekhnologii  pererabotki  i  utilizatsii 
+
+uglevodorodsoderzhashchikh  otkhodov.  Soobshchenie  2.  Fiziko-khimicheskie, 
+
+khimicheskie, 
+
+biologicheskie  metody 
+
+utilizatsii 
+
+i 
+
+obezvrezhivaniya 
+
+uglevodorodsoderzhashchikh  otkhodov  [Modern  Technologies  of  Processing 
+
+and  Recyclyng  of  Hydrocarbon  Waste.  Part  2.  Physico-Chemical,  Chemical, 
+
+Biological  Methods  of  Recycling  and  Disposal  of  Hydrocarbon  Waste]. 
+
+Bashkirskii  khimicheskii  zhurnal  –  Bashkir  Chemical  Journal,  2015,  Vol.  22, 
+
+No. 2, pp. 41-49. [in Russian]. 
+
+16.  Sekerin  V.D.,  Gaisina  L.M.,  Shutov  N.V.,  Abdrakhmanov  N.Kh., 
+
+Valitova  N.E.  Improving  the  Quality  of  Competence-Oriented  Training  of 
+
+Personnel at Industrial Enterprises. Quality – Access to Success, 2018, Vol. 19, 
+
+No. 165, pp. 68-73. 
+
+17.  Kuskil'din  R.A.,  Abdrakhmanov  N.Kh.,  Zakirova  Z.A.,  Yalalova  E.F., 
+
+Abdrakhmanova  K.N.,  Vorokhobko  V.V.  Sovremennye  tekhnologii  dlya 
+
+provedeniya 
+
+proizvodstvennogo 
+
+kontrolya, 
+
+povyshayushchie 
+
+uroven' 
+
+promyshlennoi  bezopasnosti  na  ob"ektakh  neftegazovoi  otrasli  [Modern 
+
+Technologies  for  Operation  Control  Monitoring  Increasing  Industrial  Safety 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+46 
+
+Level  on  Oil  and  Gas  Industry  Objects].  Problemy  sbora,  podgotovki  i 
+
+transporta  nefti  i  nefteproduktov  –  Problems  of  Gathering,  Treatment  and 
+
+Transportation  of  Oil  and  Oil  Products,  2017,  Issue.  2  (108),  pp.  111-120. 
+
+[in Russian]. 
+
+18.  Shaibakov R.A., Davydova D.G., Kuz'min A.N., Abdrakhmanov N.Kh., 
+
+Markov  A.G.  Pomekhoustoichivyi  metod  akustiko-emissionnogo  monitoringa 
+
+rezervuarov [Nonsensitive to Noise Method of Acoustic Emission Monitoring of 
+
+Tanks].  Elektronnyi  nauchnyi  zhurnal  «Neftegazovoe  delo»  –  Electronic 
+
+Scientific  Journal  «Oil  and  Gas  Business»,  2013,  No.  4,  pp.  448-464.  
+
+URL: 
+
+http://ogbus.ru/files/ogbus/authors/ShaybakovRA/ShaybakovRA_2.pdf 
+
+(accessed 13.07.2019). [in Russian]. 
+
+19.  Abdrakhmanov  N.Kh.  Nauchno-metodicheskie  osnovy  obespecheniya 
+
+bezopasnoi  ekspluatatsii  opasnykh  proizvodstvennykh  ob"ektov  neftegazovogo 
+
+kompleksa na osnove  upravleniya sistemnymi riskami: dis. ... d-ra tekhn. nauk 
+
+[Scientific and Methodological Bases of Ensuring Safe Operation of Hazardous 
+
+Production Facilities of the Oil And gas Complex on the Basis of System Risk 
+
+Management: Doc. Engin. Sci. Diss.]. Ufa,  2014. 266 p. [in Russian]. 
+
+20.  Abdrakhmanova E.N., Aminova G.K., Mazitova A.K., Yagafarova G.G. 
+
+Ekologicheskie  aspekty  polucheniya  izomaslyanoi  kisloty  [Ecological  Aspects 
+
+of  Isobutyric  Acid  Production].  Ekologiya  i  promyshlennost'  Rossii  –  Ecology 
+
+and Industry of Russia, 2013, No. 3, pp. 18-21. [in Russian]. 
+
+21.  Shaibakov  R.A.,  Abdrakhmanov  N.Kh.,  Kuzeev  I.R.,  Simarchuk  A.S., 
+
+Baiburin  R.A.  Vliyanie  opasnykh  faktorov,  voznikayushchikh  pri  pozhare 
+
+proliva, 
+
+i  ego 
+
+tusheniya  na  napryazhenno-deformirovannoe  sostoyanie 
+
+truboprovoda  [Influence  of  Dangerous  Factors,  Occurring  During  Caused-By-
+
+Leak Fires and its Suppression, on the Stressed and Strained State of Pipelines]. 
+
+Problemy  sbora,  podgotovki  i  transporta  nefti  i  nefteproduktov  –  Problems  of 
+
+Gathering,  Treatment  and  Transportation  of  Oil  and  Oil  Products,  2008,  Issue  
+
+4 (74), pp. 109-114. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+47 
+
+22.  Allayarov  U.E.,  Rafikov  S.K.  Obzor  metodov  naliva  nefti 
+
+i 
+
+nefteproduktov [Overview of Oil and Oil Products Loading Methods]. Materialy 
+
+X 
+
+Mezhdunarodnoi 
+
+uchebno-nauchno-prakticheskoi 
+
+konferentsii 
+
+«Truboprovodnyi 
+
+transport  –  2015»  [Materials  of 
+
+the  X  International 
+
+Educational,  Scientific  and  Practical  Conference  «Pipeline  Transport-2015»]. 
+
+Ufa, UGNTU Publ., 2015. pp. 255-256. [in Russian]. 
+
+Сведения об авторах  
+
+About the authors 
+
+Дубовцев 
+
+Дмитрий 
+
+Александрович, 
+
+магистрант 
+
+кафедры 
+
+«Промышленная  безопасность  и  охрана  труда»,  УГНТУ,  г.  Уфа, 
+
+Российская Федерация 
+
+Dmitriy  A.  Dubovtsev,  Undergraduate  Student  of  Industrial  Safety  and 
+
+Labor Protection Department, USPTU, Ufa, Russian Federation  
+
+e-mail: dubovcev1@yandex.ru 
+
+Аллаяров  Урал  Эдгарович,  кандидат  технических  наук,  доцент 
+
+кафедры  «Промышленная  безопасность  и  охрана  труда»,  УГНТУ,  г.  Уфа, 
+
+Российская Федерация 
+
+Ural  E.  Allayarov,  Candidate  of  Engineering  Sciences,  Assistant  Professor 
+
+of  Industrial  Safety  and  Labor  Protection  Department,  USPTU,  Ufa,  Russian 
+
+Federation  
+
+e-mail: ural-ufa@mail.ru 
+
+Абдрахманова  Эмилия  Наилевна,  канд.  техн.  наук,  доцент  кафедры 
+
+«Промышленная  безопасность  и  охрана  труда»,  УГНТУ,  г.  Уфа, 
+
+Российская Федерация 
+
+Emiliya  N.  Abdrakhmanova,  Candidate  of  Engineering  Sciences,  Assistant 
+
+Professor  of  Industrial  Safety  and  Labor  Protection  Department,  USPTU,  Ufa, 
+
+Russian Federation  
+
+e-mail: anailx@mail.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+

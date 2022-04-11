@@ -1,0 +1,1476 @@
+УДК 69. 03.338. 5 
+
+274 
+
+ЭКОНОМИЧЕСКИЙ ЭФФЕКТ АВТОМАТИЗАЦИИ  
+
+ОРГАНИЗАЦИИ СТРОИТЕЛЬСТВА ИНФРАСТРУКТУРНЫХ  
+
+ОБЪЕКТОВ НЕФТЕДОБЫВАЮЩЕЙ ОТРАСЛИ 
+
+ECONOMIC EFFECT OF ORGANIZATION AUTOMATION  
+
+IN THE OIL-PRODUCING INDUSTRY INFRASTRUCTURAL  
+
+OBJECTS CONSTRUCTION  
+
+Е.В. Кузнецова, О.В. Смородова, М.К. Кабиров, Р.Р. Алмакаев  
+
+Уфимский государственный нефтяной технический университет, 
+
+г. Уфа, Российская Федерация 
+
+Elena V. Kuznetsova, Olga V. Smorodova, Maksud K. Kabirov, 
+
+Ruslan R. Almakaev  
+
+Ufa State Petroleum Technological University, Ufa, Russian Federation 
+
+e-mail: olga_smorodova@mail.ru 
+
+Аннотация.  Труднодоступность  месторождений  нефти  и 
+
+газа 
+
+Российской  Федерации,  связанная  с  их  специфическим  географическим 
+
+расположением, 
+
+осложняет 
+
+и 
+
+удорожает 
+
+их 
+
+эксплуатацию. 
+
+Высокоэффективные 
+
+методы 
+
+организации 
+
+строительства 
+
+инфраструктурных  объектов,  в  частности  нефтепромысловых  дорог, 
+
+позволяют  достичь 
+
+существенных 
+
+экономических 
+
+эффектов  для 
+
+предприятий  – 
+
+заказчиков  и  подрядных 
+
+строительно-монтажных 
+
+организаций.  Сетевые  модели  организации  производства  строительно-
+
+монтажных 
+
+работ 
+
+являются 
+
+классически 
+
+рекомендуемыми 
+
+использованию 
+
+в 
+
+процессе 
+
+организации 
+
+проектирования 
+
+к 
+
+и 
+
+непосредственного  производства  строительно-монтажных  работ  по 
+
+сооружению инфраструктурных объектов. Существует два метода расчета 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+275 
+
+сетевых  моделей  –  секторный  и  табличный.  И  хотя  секторный  метод,  по 
+
+мнению  авторов,  является  более  наглядным,  однако  он  практически  не 
+
+применяется  в  связи  со  сложностью  расчета.  Табличный  метод  расчета 
+
+может  вызывать  еще  большие  затруднения  в  связи  с  некоторой 
+
+оторванностью  таблицы  расчета  от  самой  сетевой  модели.  Реализация 
+
+обоих  методов  расчета  требует  достаточно  высокой  квалификации 
+
+персонала проектной организации, длительного времени, может вызывать 
+
+ошибки  в  процессе  разработки  и  расчета  сетевой  модели  в  связи  с 
+
+большими  объемами  сетей  и  разрозненностью  исходной  информации. 
+
+Авторами  данной  статьи  была  разработана  оптимизирующая  система 
+
+«Argan», целью разработки которой явилось упрощение работы с сетевыми 
+
+моделями,  сокращение  сроков  производства  проектных  и  в  последующем 
+
+строительно-монтажных  работ,  массовое  внедрение  сетевых  моделей  в 
+
+процессы  проектирования,  реализации  и  управления  производством 
+
+строительно-монтажных  работ.  Внедрение  отдельных  информационных 
+
+модулей  позволяет  облегчить  и  ускорить  сбор  исходной  информации  для 
+
+расчета проекта организации работ, повысить производительность труда в 
+
+проектных организациях, в случае оптимизации сроков производства работ 
+
+относительно нормативных получить экономические эффекты и заказчику 
+
+и подрядчику, величина которых зависит от объема инвестиций. 
+
+Abstract. The inaccessibility of oil and gas fields of the Russian Federation, 
+
+associated  with  their  specific  geographical  location,  complicates  and  increases 
+
+the  cost  of  their  exploitation.  Highly  effective  methods  of  organizing  the 
+
+construction  of  infrastructure  facilities,  in  particular  oil  fields,  allow  achieving 
+
+significant  economic  effects  for  enterprises  –  customers  and  contractors  of 
+
+construction and installation organizations. Network models for the organization 
+
+of  construction  and  installation  works  are  classically  recommended  for  use  in 
+
+the process  of organizing the  design  and direct production of construction  and 
+
+installation works for the construction of infrastructure facilities. There are two 
+
+methods for calculating network models  - sector and tabular. And although the 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+276 
+
+sectoral  method,  according  to  the  authors,  is  more  obvious,  however,  it  is 
+
+practically  not  used  due  to  the  complexity  of  the  calculation.  The  tabular 
+
+calculation method can cause even greater difficulties due to some isolation of 
+
+the calculation table from the network model itself. The implementation of both 
+
+calculation  methods  requires  a  sufficiently  high  qualification  of  design 
+
+organization  personnel,  for  a  long  time,  it  can  cause  errors  in  the  process  of 
+
+developing  and  calculating  a  network  model  due  to  the  large  volumes  of 
+
+networks  and  the  fragmentation  of  the  initial  information.  The  authors  of  this 
+
+article developed a computer program «Argan», the development of which was 
+
+to  simplify  working  with  network  models,  reducing  the  time  for  design  and 
+
+subsequent  construction  and  installation  works,  mass  introduction  of  network 
+
+models  in  the  design,  implementation  and  management  of  construction  and 
+
+installation  works.  The  introduction  of  separate  information  modules  makes  it 
+
+easier  and  faster  to  collect  baseline  information  for  calculating  the  project  for 
+
+organizing  work,  to  increase  labor  productivity  in  design  organizations,  and  if 
+
+the  timing  of  work  is  optimized  relative  to  the  normative  ones,  the  economic 
+
+effects will be possible for both the customer and the contractor, the magnitude 
+
+of which depends on the volume of investments. 
+
+Ключевые  слова:  строительство;  экономический  эффект;  сетевой 
+
+график; сокращение сроков; моделирование 
+
+Key  words:  construction;  economic  effect;  network  diagram;  reduction  of 
+
+terms; modeling 
+
+Запасы нефти и газа в Российской Федерации – одни из самых крупных 
+
+в  мире  [1],  однако  большинство  из  них  находятся  в  труднодоступных  и 
+
+малонаселенных  территориях  Сибири  и  Урала.  Значительную  часть  этих 
+
+территорий  составляют  тундровые  леса,  зоны  вечной  мерзлоты,  а  также 
+
+торфяные  грунты,  слагающие  болотистую  местность.  Это  значительно 
+
+осложняет  и 
+
+удорожает 
+
+обслуживание  месторождений, 
+
+которое 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+277 
+
+невозможно  осуществить  без  доставки  на  него  рабочего  персонала, 
+
+оборудования,  различных  строительных  материалов  и  техники.  Данную 
+
+проблему помогают решить нефтепромысловые автомобильные дороги. 
+
+Строительство автомобильной дороги технологически включает в себя 
+
+множество различных взаимосвязанных и взаимозависимых процессов, как 
+
+правило, отличных друг от друга по продолжительности выполнения [2–4]. 
+
+Без  должной  организации  последовательности  работ  и  правильного 
+
+распределения  ресурсов  происходят  задержки  и  паузы  в  выполнении 
+
+одних  процессов, 
+
+в 
+
+ожидании 
+
+завершения 
+
+других  процессов, 
+
+непосредственно  связанных  с  ними  [5].  Кроме  этого,  может  снизиться 
+
+качество  работ,  выполняемых  в  условиях  ограниченного  времени  [6,  7]. 
+
+Стоит  отметить  также,  что  возведение  автомобильной  дороги  требует 
+
+значительного  количества  машин  и  механизмов,  финансовых  ресурсов, 
+
+затрат  труда,  строительных  материалов  [8,  9].  Несоблюдение  графиков 
+
+производства  работ  приводит  к  росту  затрат  на  выполнение  строительно- 
+
+монтажных работ и, следовательно, к  убыткам  строительной организации 
+
+или заказчика [10].  
+
+Из  вышесказанного  следует  вывод,  что  без  должной  организации 
+
+строительного  процесса  падает  производительность  труда,  качество 
+
+производства работ, увеличиваются стоимость и сроки выполнения работ, 
+
+дата окончания строительства становится непредсказуемой. 
+
+Данная  проблема  особенно  актуальна  в  современности.  Затраты  на 
+
+обустройство  нефтегазового  месторождения  неизбежно  ложатся  на  плечи 
+
+потребителя 
+
+в  результате  передачи  расходов  на  обустройство 
+
+месторождения через себестоимость добычи нефти и газа [11]. Чем лучше 
+
+организован  процесс    строительства  автомобильной  дороги,  тем  ниже 
+
+расходы  на  объект  в  целом  [12–14],  выше  производительность  труда 
+
+строительной  организации,  и,  в  случае  сокращения  сроков  производства 
+
+строительно-монтажных 
+
+работ 
+
+против 
+
+нормативных, 
+
+возможно 
+
+достижение  эффекта  от  досрочного  ввода  в  эксплуатацию  основного 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+278 
+
+объекта  нефтедобывающей  отрасли  [15,  16].  Добиться  этого  позволяют 
+
+современные  методы  организации  проектирования  и  строительного 
+
+производства  [17,  18],  в  числе  которых  имеются  сетевые  модели 
+
+производства работ и методы их решения [19, 20]. 
+
+На основе теории о сетевых моделях производства работ и табличного 
+
+метода их решения авторами создана система «Argan». При ее разработке 
+
+преследовалась  цель  создания  единого  комплекса  из  нескольких  модулей, 
+
+позволяющих  максимально  упростить  и  автоматизировать  процесс 
+
+расчетов  временных  параметров  сетевых  моделей  производства  при 
+
+выполнении строительных и ремонтных работ в дорожной отрасли. При 
+
+помощи  системы  также  можно  выявлять  критический  путь  при 
+
+производстве  строительно-монтажных  работ,  и,  в  случае  необходимости, 
+
+оптимизировать  сетевую  модель.  Кроме  этого,  система  позволяет 
+
+установить календарные сроки выполнения работ. 
+
+Как показывает опыт, в большинстве своем  организация строительного 
+
+производства 
+
+на 
+
+предприятиях 
+
+дорожно-строительной 
+
+отрасли  
+
+заключается  в  построении  линейных  календарных  графиков  (рисунок  1), 
+
+не  способных,  в  отличие  от  сетевых  моделей  (рисунок  2),  на  основе 
+
+которых  выполняется  программный  расчет,  показать  полную  взаимосвязь 
+
+между работами, точные сроки начала и окончания производства работ, а 
+
+также величины резервов времени [21, 22].  
+
+В случае же, если проектная организация, а в последующем и аппарат 
+
+управления  дорожно-строительной  организации  используют  именно 
+
+сетевые  модели,  расчет  их  выполняется  вручную,  частично  либо 
+
+полностью.    Это  может  вызывать  затруднения  и  требовать  значительного 
+
+количества времени на выполнение проектных работ на стадии разработки 
+
+проекта  организации  строительства  и  проекта  производства  работ  в 
+
+последующем, в случае необходимости, при оптимизации сетевой модели.  
+
+Блок-схема разработанного авторами комплекса «Аrgan» представлена 
+
+на рисунке 3. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+279 
+
+Рисунок 1. Фрагмент линейного календарного графика выполнения работ 
+
+Рисунок 2.  Фрагмент сетевой модели выполнения работ 
+
+Упростить  и  ускорить  расчет  продолжительности  выполнения  работ 
+
+для сетевой модели призван модуль «Карточка-определитель» (рисунок 4), 
+
+данные  для  которого  определяются  на  основе  сметной  части  проекта. 
+
+Гибкие настройки путем изменения количества и продолжительности смен 
+
+и  коэффициента  перевыполнения  норм  выработки  позволяют  аппарату 
+
+управления адаптировать отдельно взятые работы или проект в целом  под 
+
+текущие планы организаций заказчика и подрядчика. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+280 
+
+Рисунок 3. Блок-схема модуля оптимизации работ  «Аrgan» 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+281 
+
+Рисунок 4. Карточка-определитель 
+
+Расчет сетевой модели в целом  табличным методом вручную  занимает 
+
+достаточно  длительное  время,  требует  значительной  концентрации 
+
+внимания  и  отсутствия  ошибок  в  расчетах.  Программа  «Argan» 
+
+автоматически импортирует данные из модуля «Карточка-определитель» в 
+
+карточку  «Расчет  сетевой  модели»  (рисунок  5).  В  результате  расчета 
+
+удается  выделить  наиболее  важные  работы,  от 
+
+своевременного 
+
+выполнения  которых  зависит  успешное  завершение  строительства  в 
+
+намеченные  сроки.  Наиболее  важные  с  точки  зрения  управления  работы 
+
+составляют  так  называемый  «критический  путь».  Работы  критического 
+
+пути  требуют  от  управленца  наибольшего  внимания,  так  как  резервы 
+
+времени по данному типу работ отсутствуют. 
+
+После  расчета  сетевой  модели  возможна  привязка  проекта  к 
+
+календарным датам.  
+
+Это  очень  важная  функция,  которая  позволяет  проектировщикам  или 
+
+производителям  работ  точно  определять  сроки  начала  и  окончания 
+
+производства  отдельных  видов  работ  и  проекта  в  целом  и  соблюдать  тем 
+
+самым договорные обязательства подрядной организации.  
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+282 
+
+Рисунок 5. Результаты расчета сетевой модели 
+
+Модуль  «Календарный  план»  (рисунок  6)  заменяет  собой  рабочий 
+
+календарь  строительной  организации    и  дает  возможность  определять 
+
+календарные  даты  всех  производимых  видов  работ  и  проекта  в  целом  с 
+
+учетом  выходных  и  рабочих  дней  с  возможностью  самостоятельного  их 
+
+назначения.  
+
+Рисунок 6. Календарный план с периодом производства работ  
+(зеленые ячейки) и выходными днями (красные ячейки) 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+283 
+
+Продолжительность  и  количество  смен  при  выполнении  работ  также 
+
+учитываются. 
+
+Особым  преимуществом  программного  комплекса,  в  отличие  от 
+
+ручного  или  частично  автоматизированного  расчета,  является  функция 
+
+создания  отчета  в  электронном  виде  формата  «Microsoft  Excel»  как  по 
+
+результатам  расчета  модуля  «Карточка-определитель»  (рисунок  7),  так  и 
+
+модуля «Расчет сетевой модели» (рисунок 8). 
+
+Рисунок 7. Отчет модуля «Карточка-определитель» в электронном виде 
+
+Функция импортирования данных из файла формата «Microsoft Excel» 
+
+позволяет  оперативно  реагировать  на  изменения  в  плане  работы 
+
+предприятия,  что  значительно  повышает  производительность  аппарата 
+
+управления,  благодаря  отсутствию  необходимости  ручного  перерасчета 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+времени  выполнения  работ,  сетевой  модели  и  календарного  графика. 
+
+Создаваемый  и  импортируемый  отчет  идентичны  и  обратно  совместимы 
+
+между собой. 
+
+284 
+
+Рисунок 8. Отчет модуля «Расчет сетевой модели» в электронном виде 
+
+В  программном  комплексе  имеются  вспомогательные  модули, 
+
+призванные  оказать  помощь  еще  на  стадии  формирования  проекта 
+
+организации строительства. 
+
+Модуль «Каталог», представленный на рисунке 9, содержит сведения о 
+
+самых  распространенных  высокоэффективных  видах  и  типах  дорожно-
+
+строительных  машин  и  механизмов,  с  их  изображением  и  наиболее 
+
+важными  характеристиками,  способными  оказать  влияние  на  технологию 
+
+производства работ и производительность работы бригад. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+285 
+
+Сведения  о  наиболее  рациональном  составе  и  квалификации  рабочего 
+
+звена или бригады при выполнении отдельных видов работ и операций по 
+
+возведению земляного полотна или дорожной одежды можно получить из 
+
+модуля  «Типовые  бригады  рабочих  отрядов  в  дорожной  отрасли» 
+
+(рисунок 10). 
+
+Рисунок 9. Модуль «Каталог» 
+
+Рисунок 10. Модуль «Типовые бригады рабочих отрядов  
+в дорожной отрасли» 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+286 
+
+Для  пользователей,  незнакомых  с  правилами  формирования  сетевых 
+
+моделей,  заложена  справочная  информация,  в  том  числе  теория  по 
+
+составлению сетевых моделей и расшифровка терминов. 
+
+Эффект  от  использования  данного  комплекса  высок,  зависит  от 
+
+множества  факторов  и  не  может  быть  однозначно  определен  для  всех 
+
+случаев использования.  
+
+В общем случае, эффект от досрочного ввода объекта в эксплуатацию 
+
+за  счет  сокращения  продолжительности  производства  проектных  и 
+
+строительно-монтажных  работ  по  сооружению  автомобильной  дороги 
+
+выражается  формулой,  имеющей  вид  для  предприятия-заказчика  объекта 
+
+[23]: 
+
+Эзак = Ен × Ф × (Тн – Тф), 
+
+где  Ен  –  нормативный  коэффициент  сравнительной  экономической 
+
+эффективности капитальных вложений; 
+
+Ф – стоимость досрочно вводимых производственных фондов, руб.; 
+
+Тн,  Тф  –  соответственно  нормативный  (планируемый)  и  фактический 
+
+сроки строительства. 
+
+Данный  эффект  заключается  для  заказчика  в  полученной  прибыли  от 
+
+выпуска  и  реализации  продукции  за  период  между  нормативным  и 
+фактическим сроками ввода объекта в эксплуатацию. 
+
+Для  подрядной  дорожно-строительной  организации  внутриотраслевой 
+
+экономический  эффект  от  досрочной  сдачи  объекта  в  эксплуатацию 
+
+определяется  следующим образом [11]: 
+
+Эподр = УПЧнр × (1 – Тф/Тн), 
+
+где  УПЧнр  –  условно-постоянная  часть  накладных  расходов  строительно-
+
+монтажной организации по вводимому объекту. 
+
+Данный 
+
+эффект 
+
+заключается 
+
+в 
+
+снижении 
+
+себестоимости 
+
+производимых  строительно-монтажных  работ  на  сумму  затрат, 
+
+величина  которых  находится  в  зависимости  от  сроков  производства 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+287 
+
+строительно-монтажных работ [24].  Данные формулы применяются для 
+
+укрупненных расчетов.  
+
+В  качестве  примера  расчета  представим  материалы  по  расчету 
+
+планового  внутриотраслевого  эффекта от  сокращения  срока  производства 
+
+работ  по  возведению  межплощадочной  автомобильной  дороги  IV-в 
+
+категории  от  автомобильной  дороги  куст  №  54  –  куст  №  56  к  кусту 
+
+скважин  №  777  Лемпинской  площади  Салымского  месторождения 
+
+Нефтеюганского района Ханты-мансийского автономного округа.  
+
+Сметная  стоимость  объекта  с  учетом  проектных  решений  по 
+
+строительству объекта на слабом основании, сложенном болотным торфом, 
+
+а также искусственных сооружений, в значительном количестве имеющихся 
+
+на 
+
+всем  протяжении  проектируемой 
+
+автомобильной 
+
+дороги,  и 
+
+перспективной  интенсивности  и  состава  движения  составила  21 209,580 
+
+тыс. руб. за 1 км.  
+
+Таким  образом,  по  всему  объекту  строительства  общая  сметная 
+
+стоимость  составляет  390383,549  тыс.  руб.  При  сокращении  сроков 
+
+производства  работ  на  10  дней  при  помощи  использовании  сетевого 
+
+моделирования  внутриотраслевой  экономический  эффект  строительной 
+
+организации  по  укрупненным  расчетам  определяется  в  размере  7424,653 
+
+тыс.  руб.  Фактические  эффекты  от  оптимизации  процесса  производства 
+
+работ  с  сокращением  продолжительности  строительства  определяются 
+
+прямым  счетом  на  основе  бухгалтерской  документации  и  чаще  всего 
+
+превышают расчетные по укрупненным показателям.  
+
+Экономический  эффект  основного  нефтедобывающего  объекта  от 
+
+досрочного  ввода  автомобильной  дороги  определяется  мощностью 
+
+основного  предприятия  и  уровнем  рентабельности  предприятия 
+
+нефтедобычи.   
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+288 
+
+Выводы 
+
+1. Проблема  своевременности  выполнения  проектных  и  строительно-
+
+монтажных  работ  при 
+
+сооружении  инфраструктурных  объектов 
+
+нефтедобывающей  промышленности  остра  и  приводит  к  снижению 
+
+эффективности  деятельности  основного  производства  нефтедобывающей 
+
+отрасли. 
+
+2. Авторами 
+
+разработан 
+
+моделирующий 
+
+комплекс 
+
+«Argan», 
+
+позволяющий  автоматизировать  расчет  организации  строительного 
+
+производства 
+
+сооружения  инфраструктурных  объектов,  добиваясь 
+
+соблюдения договорных сроков производства работ.  
+
+3. Использование  моделирующего  комплекса  «Argan»  способно 
+
+значительно 
+
+повысить 
+
+производительность 
+
+труда 
+
+в 
+
+проектных 
+
+организациях,  аппаратах  управления  дорожно-строительных  организаций, 
+
+производственных  отделах,  а  также  увеличить  прибыль  подрядных 
+
+организаций  и  предприятий-заказчиков  за  счет  сокращения  сроков 
+
+производства строительно- монтажных работ. 
+
+Список используемых источников 
+
+1.  Васильева  Ю.П.,  Хисамутдинов  И.А.  Экономический  рост: 
+
+эффективность  и  ресурсная  обеспеченность  //  Электронный  научный 
+
+журнал 
+
+«Нефтегазовое 
+
+дело». 
+
+2014.  № 
+
+3. 
+
+С. 
+
+342-358.  
+
+URL: 
+
+http://ogbus.ru/files/ogbus/issues/3_2014/ogbus_3_2014_p342-
+
+358_VasilevaJP_ru.pdf (дата обращения: 04.08.2019). 
+
+2.  Прокопьев  А.П.,  Иванчура  В.И.,  Емельянов  Р.Т.,  Пальчиков  П.А. 
+
+Реализация  концепции  автоматизации  и  интеллектуализации  управления 
+
+дорожно-строительными  процессами  //  Вестник  МГСУ.  2018.  Т.  13.  №  1 
+
+(112). С. 61-70. DOI: 10.22227/1997-0935.2018.1.61-70.  
+
+3.  Schtzbach A.M. The Crack and Seat Method of Pavement Rehabilitation 
+
+// Public Works. 1989. No. 12. P. 52-55. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+289 
+
+4.  Le  joint  actif  //  Revue  Generale  des  Routes  et  des  Aerodromes.  1990. 
+
+No. 677. P. 49-51. 
+
+5.  Прокопьев  А.П.,  Иванчура  В.И.,  Климов  А.С.,  Емельянов  Р.Т. 
+
+Концепция 
+
+комплексной 
+
+автоматизации 
+
+управления 
+
+процессами 
+
+строительства  асфальтобетонных  дорожных  покрытий  //  Строительные  и 
+
+дорожные машины. 2012. № 8. С. 36-42. 
+
+6.  Кузнецова Е.В., Шаймарданова А.А., Болгова А.С. Концептуальные 
+
+основы  инжиниринга  качества  //  Матер.  IV  Всеросс.  заоч.  науч.-практ. 
+
+интернет-конф. «Современные тенденции в экономике и финансах». Уфа: 
+
+УГНТУ, 2014. С. 109-111. 
+
+7.  Колбасин  А.М.  Алгоритм  формирования  методологии  управления 
+
+качеством  инновационных  проектов  в  сфере  дорожного  строительства  // 
+
+Транспортное дело России. 2009. № 12S. С. 73-74. 
+
+8.  Bokovikova  T.N.,  Shperber  D.R.,  Shperber  E.R.,  Volkova  S.S. 
+
+Application  of  Oil-Slimes 
+
+in  Road  Base  and  Surface  Construction 
+
+// 
+
+Электронный  научный  журнал  «Нефтегазовое  дело».  2011.  №  2.  С.  316-
+
+320. 
+
+URL: 
+
+http://ogbus.ru/files/ogbus/eng/authors/Bokovikova/Bokovikova_1e.pdf 
+
+(дата 
+
+обращения: 04.08.2019). 
+
+9.  Алферов В.И., Баркалов С.А., Курочка П.Н. Управление проектами 
+
+в  дорожном  строительстве.  Воронеж:  Воронежский  государственный 
+
+архитектурно-строительный университет, 2009. 432 с. 
+
+10. Баркалов  С.А.  Теория  и  практика  календарного  планирования  в 
+
+строительстве. Воронеж: ВГАСА, 1999. 216 с. 
+
+11. Маслова  О.П.,  Савкин  С.О.  Цели  и  задачи  инвестиционной 
+
+деятельности предприятий нефтегазовой отрасли // Электронный научный 
+
+журнал  «Нефтегазовое  дело».  2017.  №  5.  С.  227-250.  URL:  http://ogbus.ru/ 
+
+files/ogbus/issues/5_2017/ogbus_5_2017_p227-250_MaslovaOP_ru_en.pdf 
+
+(дата обращения: 04.08.2019). 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+290 
+
+12.  Белобородова  Н.А.  Совершенствование  управления  развитием 
+
+города  в  нефтегазовом  регионе  России  //  Электронный  научный  журнал 
+
+«Нефтегазовое 
+
+дело». 
+
+2010.  № 
+
+2.  URL: 
+
+http://ogbus.ru/files/ 
+
+ogbus/authors/BeloborodovaNA/BeloborodovaNA_2.pdf 
+
+(дата  обращения: 
+
+04.08.2019). 
+
+13. Pennypacker  J.S.  The  Principles  of  Project  Management.  New  York: 
+
+PMI, 1997. 232 p. 
+
+14. Turner  J.R.  The  Handbook  of  Project-Based  Management.  London: 
+
+McGraw-Hill Companies, 1999. 414 p. 
+
+15. Курамшина  А.В.  Система  управления  затратами  промышленного 
+
+предприятия // Электронный научный журнал «Нефтегазовое дело». 2006. 
+
+№ 2.  URL:  http://ogbus.ru/files/ogbus/authors/Kuramshina/Kuramshina_1.pdf 
+
+(дата обращения: 04.08.2019). 
+
+16. Кузнецова  Е.В.,  Гельман  А.А.  Инновационные  подходы  к 
+
+снижению совокупных затрат на инфраструктурные объекты предприятий 
+
+топливно-энергетического  комплекса 
+
+//  Инновации  в  управлении 
+
+региональным  и  отраслевым  развитием:  матер.  Всеросс.  научн.-практ. 
+
+конфер.  c  междунар.  участием.  Тюмень:  Тюменский  индустриальный 
+
+университет, 2017. С. 97-100. 
+
+17. Хакимова  К.Р.,  Котов  Д.В.  Совершенствование  управления 
+
+инновациями как условие роста производительности труда // Электронный 
+
+научный  журнал  «Нефтегазовое  дело».  2016.  №  5.  С.  164-181.  
+
+URL: 
+
+http://ogbus.ru/files/ogbus/issues/5_2016/ogbus_5_2016_p164-
+
+181_KhakimovaKR_ru.pdf (дата обращения: 04.08.2019). 
+
+18. Bubshait  K.A.,  Selen  W.J.  Project  Characteristics  that  Influence  the 
+
+Implementation  of  Project  Management  Techniques:  a  Survey  //  International 
+
+Journal of Project Management. 1992. Vol. 23. No. 2. P. 43-47. 
+
+19. Thambhain H.J. Best Practices for Controlling Technology-Based Projects 
+
+According to Plan // PMI Symposium. New Orleans, USA, 1995. P. 550-559. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+291 
+
+20. Прокопьев  А.П.,  Иванчура  В.И.,  Емельянов  Р.Т.,  Пальчиков  П.А. 
+
+Реализация  концепции  автоматизации  и  интеллектуализации  управления 
+
+дорожно-строительными  процессами//Вестник  МГСУ.  2018.  Т.  13.  №  1 
+
+(112). 
+
+С. 
+
+61-70. 
+
+URL: 
+
+https://elibrary.ru/download/ 
+
+elibrary_32358166_85853402.pdf. (дата обращения: 04.08.2019). 
+
+21. Алферов  В.И.  Модели  и  методы  распределения  ресурсов  при 
+
+управлении  проектами  дорожного  строительства:  дис.  ...  д-ра  техн.  наук. 
+
+Воронеж:  Воронежский  государственный  архитектурно-строительный 
+
+университет, 2011. 287 с. 
+
+22. Алферов  В.И.,  Баркалов  С.А.,  Юшин  Г.Д.  Разработка  графиков 
+
+движения  бригад  по  объектам  строительства  //  Вестник  Воронежского 
+
+государственного технического университета. 2009. Т. 5. № 1. С. 30-34. 
+
+23. Гайфуллина М.М., Низамова Г.З. Анализ современного состояния и 
+
+направления  повышения  эффективности  использования  основных  фондов 
+
+в  строительной  сфере  Российской  Федерации 
+
+//  Сетевое  издание 
+
+«Нефтегазовое 
+
+дело». 
+
+2018.  № 
+
+1. 
+
+С. 
+
+162-183. 
+
+URL: 
+
+http://ogbus.ru/files/ogbus/issues/1_2018/ogbus_1_2018_p162-
+
+183_GayfullinaMM_ru.pdf (дата обращения: 04.08.2019). 
+
+24. Бунькина И.А. Управление качеством в дорожном строительстве // 
+
+Научное обозрение. 2015. № 18. С. 372-376. 
+
+References 
+
+1.  Vasileva  Yu.P.,  Khisamutdinov  I.A.  Ekonomicheskii  rost:  effektivnost'  
+
+i  resursnaya  obespechennost'  [Economic  Growth:  Efficiency  and  Reserves]. 
+
+Elektronnyi  nauchnyi  zhurnal  «Neftegazovoe  delo»  –  Electronic  Scientific 
+
+Journal  «Oil  and  Gas  Business»,  2014,  No.  3,  pp.  342-358.  URL: 
+
+http://ogbus.ru/files/ogbus/issues/3_2014/ogbus_3_2014_p342-
+
+358_VasilevaJP_ru.pdf (accessed 04.08.2019). [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+292 
+
+2.  Prokop'ev  A.P.,  Ivanchura  V.I.,  Emel'yanov  R.T.,  Pal'chikov  P.A. 
+
+Realizatsiya kontseptsii avtomatizatsii i intellektualizatsii upravleniya dorozhno-
+
+stroitel'nymi  protsessami  [Implementation  of  the  Concept  of  Automation  and 
+
+Intellectualization  of  Management  of  Road  Construction  Processes].  Vestnik 
+
+MGSU  –  Vestnik  MGSU,  2018,  Vol.  13,  No.  1  (112),  pp.  61-70.  DOI: 
+
+10.22227/1997-0935.2018.1.61-70. [in Russian]. 
+
+3.  Schtzbach  A.M.  The  Crack  and  Seat  Method  of  Pavement 
+
+Rehabilitation. Public Works, 1989, No. 12, pp. 52-55. 
+
+4.  Le joint actif. Revue Generale des Routes et des Aerodromes, 1990, No. 
+
+677, pp. 49-51. 
+
+5.  Prokop'ev  A.P.,  Ivanchura  V.I.,  Klimov  A.S.,  Emel'yanov  R.T. 
+
+Kontseptsiya  kompleksnoi  avtomatizatsii  upravleniya  protsessami  stroitel'stva 
+
+asfal'tobetonnykh dorozhnykh pokrytii [The Concept of Complex Automation of 
+
+Asphalt  Concrete  Pavements  Construction  Process  Control].  Stroitel'nye  i 
+
+dorozhnye mashiny – Construction and Road Building Machinery, 2012, No. 8, 
+
+pp. 36-42. [in Russian]. 
+
+6.  Kuznetsova  E.V.,  Shaimardanova  A.A.,  Bolgova  A.S.  Kontseptual'nye 
+
+osnovy 
+
+inzhiniringa  kachestva 
+
+[Conceptual  Foundations  of  Quality 
+
+Engineering].  Materialy  IV  Vserossiiskoi  zaochnoi  nauchno-prakticheskoi 
+
+internet-konferentsii  «Sovremennye 
+
+tendentsii  v  ekonomike 
+
+i 
+
+finansakh» 
+
+[Materials  of  the  IV  All-Russian  Correspondence  Scientific  and  Practical 
+
+Internet  Conference  «Modern  Trends  in  Economics  and  Finance»].  Ufa, 
+
+UGNTU Publ., 2014, pp. 109-111. [in Russian]. 
+
+7.  Kolbasin  A.M.  Algoritm 
+
+formirovaniya  metodologii  upravleniya 
+
+kachestvom 
+
+innovatsionnykh  proektov  v  sfere  dorozhnogo  stroitel'stva 
+
+[Algorithm  for  Forming  the  Methodology  of  Quality  Management  Innovative 
+
+Projects  in  the  Field  of  Road  Construction].  Transportnoe  delo  Rossii  – 
+
+Transport Business of Russia, 2009, No. 12S, pp. 73-74. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+293 
+
+8.  Bokovikova  T.N.,  Shperber  D.R.,  Shperber  E.R.,  Volkova  S.S. 
+
+Application of Oil-Slimes in Road Base and Surface Construction.  Elektronnyi 
+
+nauchnyi zhurnal «Neftegazovoe delo» – Electronic Scientific Journal «Oil and 
+
+Gas 
+
+Business», 
+
+2011, 
+
+No. 
+
+2, 
+
+pp. 
+
+316-320. 
+
+URL: 
+
+http://ogbus.ru/files/ogbus/eng/authors/ 
+
+Bokovikova/Bokovikova_1e.pdf 
+
+(accessed 04.08.2019). [in Russian]. 
+
+9.  Alferov  V.I.,  Barkalov  S.A.,  Kurochka  P.N.  Upravlenie  proektami  v 
+
+dorozhnom stroitel'stve [Project Management in Road Construction]. Voronezh, 
+
+Voronezhskii gosudarstvennyi arkhitekturno-stroitel'nyi universitet Publ., 2009. 
+
+432 p. [in Russian]. 
+
+10. Barkalov  S.A.  Teoriya  i  praktika  kalendarnogo  planirovaniya  v 
+
+stroitel'stve  [Theory  and  Practice  of  Scheduling  in  Construction].  Voronezh, 
+
+VGASA Publ., 1999. 216 p. [in Russian]. 
+
+11. Maslova  O.P.,  Savkin  S.O.  Tseli  i  zadachi  investitsionnoi  deyatel'nosti 
+
+predpriyatii  neftegazovoi  otrasli  [The  Objectives  and  Goals  in  Investment 
+
+Activities  of  Operating  Companies  for  the  Oil  and  Gas  Industry].  Elektronnyi 
+
+nauchnyi zhurnal «Neftegazovoe delo» – Electronic Scientific Journal «Oil and 
+
+Gas 
+
+URL: 
+
+Business», 
+
+2017, 
+
+No. 
+
+5, 
+
+pp. 
+
+227-250.  
+
+http://ogbus.ru/files/ogbus/issues/5_2017/ogbus_5_2017_p227-
+
+250_MaslovaOP_ru_en.pdf (accessed 04.08.2019). [in Russian]. 
+
+12. Beloborodova N.A. Sovershenstvovanie upravleniya razvitiem goroda v 
+
+neftegazovom regione Rossii [Improvement of City Development Management 
+
+in  the  Oil  and  Gas  Region  of  Russia].  Elektronnyi  nauchnyi  zhurnal 
+
+«Neftegazovoe  delo»  –  Electronic  Scientific  Journal  «Oil  and  Gas  Business», 
+
+2010,  No.  2.  URL:  http://ogbus.ru/files/ogbus/authors/BeloborodovaNA/ 
+
+BeloborodovaNA_2.pdf (accessed 04.08.2019). [in Russian]. 
+
+13.  Pennypacker  J.S.  The  Principles  of  Project  Management.  New  York, 
+
+PMI, 1997. 232 p. 
+
+14. Turner  J.R.  The  Handbook  of  Project-Based  Management.  London, 
+
+McGraw-Hill Companies, 1999. 414 p. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+294 
+
+15. Kuramshina  A.V.  Sistema  upravleniya  zatratami  promyshlennogo 
+
+predpriyatiya  [Industrial  Enterprise  Cost  Management  System].  Elektronnyi 
+
+nauchnyi zhurnal «Neftegazovoe delo» – Electronic Scientific Journal «Oil and 
+
+Gas  Business»,  2006,  No.  2.  URL:  http://ogbus.ru/files/ogbus/authors/ 
+
+Kuramshina/Kuramshina_1.pdf (accessed 04.08.2019). [in Russian]. 
+
+16. Kuznetsova E.V., Gel'man A.A. Innovatsionnye podkhody k snizheniyu 
+
+sovokupnykh  zatrat  na 
+
+infrastrukturnye  ob"ekty  predpriyatii 
+
+toplivno-
+
+energeticheskogo  kompleksa  [Innovative  Approaches  to  Reducing  the  Total 
+
+Cost of Infrastructure Facilities of the Enterprise the Fuel and Energy Complex]. 
+
+Materialy  Vserossiiskoi  c  mezhdunarodnym  uchastiem  nauchno-prakticheskoi 
+
+konferentsii  «Innovatsii  v  upravlenii  regional'nym  i  otraslevym  razvitiem» 
+
+[Materials  of 
+
+the  all-Russian  Scientific  and  Practical  Conference  with 
+
+International  Participation  «Innovations  in  the  Management  of  Regional  and 
+
+Sectoral  Development»].  Tyumen,  Tyumenskii  industrial'nyi  universitet  Publ., 
+
+2017, pp. 97-100. [in Russian]. 
+
+17. Khakimova  K.R.,  Kotov  D.V.  Sovershenstvovanie  upravleniya 
+
+innovatsiyami  kak  uslovie 
+
+rosta  proizvoditel'nosti 
+
+truda 
+
+[Innovation 
+
+Management  Development  as  Requirement  of  Labour  Productivity  Growth]. 
+
+Elektronnyi  nauchnyi  zhurnal  «Neftegazovoe  delo»  –  Electronic  Scientific 
+
+Journal  «Oil  and  Gas  Business»,  2016,  No.  5,  pp.  164-181.  URL: 
+
+http://ogbus.ru/files/ 
+
+ogbus/issues/5_2016/ogbus_5_2016_p164-
+
+181_KhakimovaKR_ru.pdf (accessed 04.08.2019). [in Russian]. 
+
+18. Bubshait  K.A.,  Selen  W.J  Project  Characteristics  that  Influence  the 
+
+Implementation  of  Project  Management  Techniques:  a  Survey.  International 
+
+Journal of Project Management, 1992, Vol. 23, No. 2, pp. 43-47. 
+
+19. Thambhain  H.J.  Best  Practices  for  Controlling  Technology-Based 
+
+Projects  According  to  Plan.  PMI  Symposium.  New  Orleans,  USA,  1995,  
+
+pp. 550-559. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+295 
+
+20. Prokop'yev  A.P.,  Ivanchura  V.I.,  Yemel'yanov  R.T.,  Pal'chikov  P.A. 
+
+Realizatsiya  kontseptsii  avtomatizatsii  i  intellektualizatsii  upravleniya  do-
+
+rozhno-stroitel'nymi protsessami [Implementation of the Concept of Automation 
+
+and Intellectualization of the Management of Road-Building Processes]. Vestnik 
+
+MGSU – Bulletin of MGSU, 2018, Vol. 13, No.1 (112), pp. 61-70. [in Russian]. 
+
+URL:  https://elibrary.ru/download/elibrary_32358166_85853402.pdf  (accessed: 
+
+04.08.2019). 
+
+21. Alferov  V.I.  Modeli  i  metody  raspredeleniya  resursov  pri  upravlenii 
+
+proektami  dorozhnogo  stroitel'stva:  dis.  ...  d-ra  tekhn.  nauk  [Models  and 
+
+Methods  of  Resource  Allocation  in  Road  Construction  Project  Management: 
+
+Doc. Engin. Sci. Diss.]. Voronezh, Voronezhskii gosudarstvennyi arkhitekturno-
+
+stroitel'nyi universitet Publ., 2011. 287 p. [in Russian]. 
+
+22. Alferov  V.I.,  Barkalov  S.A.,  Yushin  G.D.  Razrabotka  grafikov 
+
+dvizheniya brigad po ob"ektam stroitel'stva [Development of Train Diagrams of 
+
+Brigades on Objects of Construction]. Vestnik Voronezhskogo gosudarstvennogo 
+
+tekhnicheskogo universiteta  –  Bulletin of Voronezh State  Technical  University, 
+
+2009, Vol. 5, No. 1, pp. 30-34. [in Russian]. 
+
+23. Gaifullina  M.M.,  Nizamova  G.Z.  Analiz  sovremennogo  sostoyaniya  i 
+
+napravleniya  povysheniya  effektivnosti  ispol'zovaniya  osnovnykh  fondov  v 
+
+stroitel'noi  sfere  Rossiiskoi  Federatsii  [Analysis  of  the  Current  State  and  the 
+
+Efficiency Increase Direction from Fixed Assets Usage in Construction Sphere 
+
+of  Russian  Federation].  Setevoe  izdanie  «Neftegazovoe  delo»  –  Online  Edition 
+
+«Oil 
+
+and 
+
+Gas 
+
+Business», 
+
+2018, 
+
+No. 
+
+1, 
+
+pp. 
+
+162-183.  
+
+URL: 
+
+http://ogbus.ru/files/ogbus/issues/1_2018/ogbus_1_2018_p162-
+
+183_GayfullinaMM_ru.pdf (accessed 04.08.2019). [in Russian]. 
+
+24. Bunkina I.A. Upravlenie kachestvom v dorozhnom stroitel'stve [Quality 
+
+Management  in  Road  Construction].  Nauchnoe  obozrenie  –  Science  Review, 
+
+2015, No. 18, pp. 372-376. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+296 
+
+Сведения об авторах 
+
+About the authors 
+
+Кузнецова  Елена  Викторовна,  канд.  техн.  наук,  доцент  кафедры 
+
+«Экономика  и  управление  на  предприятии  нефтяной  и  газовой 
+
+промышленности», УГНТУ, г. Уфа, Российская Федерация 
+
+Elena  V.  Kuznetsova,  Candidate  of  Engineering  Sciences,  Assistant 
+
+Professor of Enterprise Economics and Management in the Oil and Gas Industry 
+
+Department, USPTU, Ufa, Russian Federation 
+
+e-mail: nsp-rb@mail.ru 
+
+Смородова  Ольга  Викторовна,  канд.  техн.  наук,  доцент  кафедры 
+
+«Промышленная теплоэнергетика», УГНТУ, г. Уфа, Российская Федерация 
+
+Olga  V.  Smorodova,  Candidate  of  Engineering  Sciences,  Associate 
+
+Professor of Industrial Heat and Power Engineering Department, USPTU, Ufa, 
+
+Russian Federation 
+
+e-mail: olga_smorodova@mail.ru  
+
+Кабиров  Максуд  Курбонхужаевич,  студент  кафедры  «Автомобильные 
+
+дороги и технология строительного производства», ФГБОУ ВО «УГНТУ», 
+
+г. Уфа, Российская Федерация 
+
+Maksud  K.  Kabirov,  Student  of  Highways  and  Structural  Engineering 
+
+Department, USPTU, Ufa, Russian Federation 
+
+Алмакаев  Руслан  Робертович,  студент  кафедры  «Вычислительная 
+
+техника  и  инженерная  кибернетика»,  УГНТУ,  г.  Уфа,  Российская 
+
+Федерация 
+
+Ruslan  R.  Almakaev,  Student  of  Computer  Engineering  and  Cybernetics 
+
+Department, USPTU, Ufa, Russian Federation 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №5 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+

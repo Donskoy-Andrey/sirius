@@ -1,0 +1,813 @@
+Геология, география и глобальная энергия 
+2017. № 4 (67) 
+Геология, поиски и разведка нефтяных и газовых месторождений 
+
+ГЕОЛОГИЯ, ПОИСКИ И РАЗВЕДКА  
+НЕФТЯНЫХ И ГАЗОВЫХ МЕСТОРОЖДЕНИЙ 
+
+ПЕРСПЕКТИВЫ НЕФТЕГАЗОНОСНОСТИ  
+ВЕРХНЕАРТИНСКИХ ОТЛОЖЕНИЙ ЛЕВОБЕРЕЖНОЙ ЧАСТИ 
+ВОЛГОГРАДСКОЙ ОБЛАСТИ 
+
+Тарасов  Алексей  Владимирович,  заведующий  лабораторией,  филиал 
+ООО  «ЛУКОЙЛ  –  Инжиниринг»  «ВолгоградНИПИморнефть»,  400131, 
+Российская Федерация, г. Волгоград, ул. Советская 10, e-mail: ATarasov@lukoilvmn.ru 
+Серебряков  Олег  Иванович,  доктор  геолого-минералогических  наук, 
+профессор, Астраханский государственный университет, 414000, Российская 
+Федерация, г. Астрахань, пл. Шаумяна, 1, e-mail: geologi2007@yandex.ru 
+
+Семисотова  Ольга  Сергеевна,  руководитель  группы,  филиал  ООО 
+«ЛУКОЙЛ – Инжиниринг» «ВолгоградНИПИморнефть», 400131, Российская 
+Федерация, г. Волгоград, ул. Советская 10, e-mail: OSemisotova@lukoilvmn.ru 
+Мельникова  Екатерина  Владимировна,  ведущий  инженер,  филиал 
+ООО «ЛУКОЙЛ – Инжиниринг» «ВолгоградНИПИморнефть», 400131, Российская 
+Федерация, г. Волгоград, ул. Советская 10, e-mail: EMelnikova@lukoilvmn.ru 
+
+Волгоградская  область  обладает  высоким  потенциалом  природных  ресурсов  в 
+целом. Однако состояние минерально-сырьевой базы энергетических ресурсов ухудшается 
+за  счет  интенсивной  выработки  запасов,  в  том  числе  и  запасов  одного  из  наиболее 
+значимого  Памятно-Сасовского  нефтяного  месторождения,  запасы  нефти  которого 
+составляют около 80 млн т. В этих условиях актуально развитие новых направлений 
+геологоразведочных работ, особенно в районах с развитой инфраструктурой. Одним 
+из таких новых направлений может стать разведка верхнеартинских объектов – био-
+гермных останцов. Они сложены переслаиванием строматолитовых доломитов и ан-
+гидритов, образующих карбонатно-сульфатную толщу в пределах Западной бортовой 
+зоны и  Николаевско-Городищенской ступени. Почти на всех открытых месторожде-
+ниях данной зоны в верхнеартинских объектах получены притоки нефти или отмеча-
+ется  присутствие  небольшой  нефтяной  оторочки,  а  также  обнаружены  мелкие  и 
+мельчайшие  по  величине  запасов  газовые  и  газоконденсатные  (нередко  с  нефтяной 
+оторочкой)  залежи.  Учитывая  значительную  протяженность  (до  400  км)  Западной 
+бортовой зоны и  Николаевско-Городищенской ступени, а также  относительно  неглубо-
+кое  залегание  объектов  (до  2600  м),  данное  направление  поисковых  работ  может 
+стать одним из самых перспективных. 
+
+Ключевые слова: верхнеартинские отложения, перспективы нефтегазоносности, 
+месторождение,  залежь,  структура,  площадь,  структурные  построения,  энергетический 
+ресурс, углеводороды, нефть, газ 
+
+PETROLEUM PROSPECTS OF THE UPPER ARTIAN (P1art2) HORIZON 
+DEPOSITS OF THE LEFT BANK PART OF THE VOLGOGRAD REGION 
+
+Tarasov  Aleksey  V.,  Head  of  the  laboratory,  Branch  of  Ltd.  “LUKOIL-
+Engineering  Branch”  “VolgogradNIPImorneft”,  10  Sovetskaya  st.,  Volgograd, 
+400131, Russian Federation, e-mail: ATarasov@lukoilvmn.ru 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Geologiya, Geografiya i Globalnaya Energiya (Geology, Geography and Global Energy) 
+2017. No. 4 (67) 
+Geology, Prospecting and Exploration of Oil and Gas Fields 
+
+Serebryakov Oleg I., D.Sc. in Geology and Mineralogy, Professor, Astrakhan 
+State  University,  1  Shaumyan  sq.,  Astrakhan,  414000,  Russian  Federation,  
+e-mail: geologi2007@yandex.ru 
+
+Semisotova  Olga  S.,  Head  of  group,  Branch  of  Ltd.  “LUKOIL-Engineering 
+Branch” “VolgogradNIPImorneft”, 10 Sovetskaya st., Volgograd, 400131, Russian 
+Federation, e-mail: OSemisotova@lukoilvmn.ru 
+
+Melnikova  Yekaterina  V.,  Leading  Engineer,  Branch  of  Ltd.  “LUKOIL-
+Engineering  Branch”  “VolgogradNIPImorneft”,  10  Sovetskaya  st.,  Volgograd, 
+400131, Russian Federation, e-mail: EMelnikova@lukoilvmn.ru 
+
+The Volgograd region has high potential of natural resources in general, however, the 
+status  of  mineral  base  energy  resources  is  deteriorating  due  to  intensive  development  of 
+reserves, including reserves of one of the most significant Pamyatno-Sasovskoye oil field, 
+which  oil  reserves  amount  to  about  80  million  tons.  In  these  circumstances,  the 
+development of new areas of exploration, especially in areas with developed infrastructure 
+is actual. One such new area could be the exploration the upper artian objects of biohermal 
+outcrops,  stacked  represented  stromatolite  dolomite  anhydrite  and  dolomite  that  compose 
+the  carbonate-sulphate  formation  within 
+the  Nikolaev-
+Gorodischenskaya  stage.  Almost  all  open  deposits  of  this  zone  in  upper  artian  objects 
+obtained  inflows  of  oil,  or  notes  the  presence  of  small  oil  rims,  and  found  the  small  and 
+smallest  reserves  of  gas  and  gas  condensate  (often  with  oil  rim)  deposits.  Given  the 
+significant length of up to 400km Western side of the zone and Nikolaev-Gorodischenskaya 
+stage and a relatively shallow horizon of objects to 2600 m, the direction of search of work 
+can be one of the most promising. 
+
+the  west  side  area  and 
+
+Keywords: upper artian deposits, petroleum prospects, field, deposit, structure, area, 
+
+structural construction, energy resources, hydrocarbons, oil, gas 
+
+Разведка  перспективных  в  нефтегазоносном  отношении  объектов  верх-
+неартинского возраста нижней перми развивается как новое направление гео-
+лого-разведочных  работ  в  Левобережной  части  Волгоградской  области  [9]. 
+Расположение  в  районе  с  развитой  инфраструктурой  делает  разведку  этих 
+объектов особенно актуальной (рис. 1). 
+
+В 2013 г. на основе обработки материалов сейсморазведки МОГТ-2Д и ма-
+териалов сейсморазведки МОГТ-3Д в комплексе с данными ГИС были выпол-
+нены структурные построения по основным отражающим горизонтам подсоле-
+вых отложений на территории наиболее перспективной в отношении нефтега-
+зоносности  части  предбортовой  ступени  Левобережного  участка  [14,  15].  По 
+результатам исследований в южной части Николаевско–Городищенской пред-
+бортовой  ступени  на  уровне  кровли  артинских  отложений  выявлено  крупное 
+поднятие,  размеры  которого  по  последней  замкнутой  изогипсе  составляют 
+7,5×2,0 км  при  амплитуде  свыше  70,0 м,  условно  названное  Малышевским. 
+Сводовая часть структуры осложнена системой мелких поднятий (рис. 2). 
+
+Ранее  на  восточном  крыле  поднятия  и  на  его  ближайшем  обрамлении 
+были пробурены пять поисковых и разведочных скважин, вскрывших нижне-
+пермские подсолевые отложения (2 Центральная, 1 и 2 Малышевские, 15 Фе-
+доровская, 3 Левобережная). 
+
+В  фациальном  плане  в  верхнеартинскую  эпоху  шло  формирование  эва-
+поритовой  ангидрит-доломитовой  платформы.  В  этот  промежуток  времени 
+усилилась  роль  строматолитовых  образований  доломитового  состава,  кото-
+рым свойственны улучшенные коллекторские свойства [4, 8]. 
+
+10 
+
+ 
+ 
+ 
+ 
+Геология, география и глобальная энергия 
+2017. № 4 (67) 
+Геология, поиски и разведка нефтяных и газовых месторождений 
+
+1 
+
+Рис. 1/ Обзорная схема участка исследования 
+
+11
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Geologiya, Geografiya i Globalnaya Energiya (Geology, Geography and Global Energy) 
+2017. No. 4 (67) 
+Geology, Prospecting and Exploration of Oil and Gas Fields 
+
+Рис. 2. Структурная карта по кровле верхнеартинских отложений 
+
+Верхнеартинские  отложения  (толщина  88–167 м)  представлены  лагунны-
+ми  пластово-столбчатыми  строматолитовыми  образованиями  ангидритово-
+доломитового и ангидритового состава. Снизу вверх прослежено четыре пачки: 
+ в  строении  нижней  (четвертой)  пачки  преобладают  строматолиты  до-
+ломитово-ангидритовые,  неравномерно  известковистые  со  стиллолитовыми 
+швами  (скв.  1  Малышевская,  глубины  2329–2339 м).  При  расколе  породы  – 
+запах УВ и сероводорода. 
+
+ третья пачка содержит три ярко выраженных строматолитовых прослоя 
+доломитового состава, которые характеризуются порово-трещинно-каверновы-
+ми типами коллекторов (скв. 2 Центральная, глубины 2295–2302 м). 
+
+ вторая пачка сложена строматолитами ангидритовыми, плотными. 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+3 
+
+Геология, география и глобальная энергия 
+2017. № 4 (67) 
+Геология, поиски и разведка нефтяных и газовых месторождений 
+
+В  строении  первой  пачки  принимают  участие  строматолитовые  образо-
+вания  доломитового,  ангидритово-доломитового  состава,  неравномерно  из-
+вестковистые  трещинно-порово-каверновые  (скв.  2  Малышевская,  глубины 
+2229–2250 м). В первой пачке строматолитовые  образования выражены наи-
+более отчетливо [6]. 
+
+Завершают  разрез  верхнеартинской  карбонатно-сульфатной  платформы 
+плотные  ангидритовые,  доломитово-ангидритовые  строматолитовые  образо-
+вания с многочисленными перемятыми стиллолитовыми швами, свидетельст-
+вующие  о перерывах в осадконакоплении. Самая мощная кровельная, завер-
+шающая пачка строматолитов ангидритовых отмечена в скв. 3 Левобережная. 
+Общая толщина верхнеартинских отложений в разрезе этой скважины дости-
+гает 165, а в разрезе скважины 2 Малышевская – 167 м. 
+
+Таким  образом,  выполненный  анализ  разрезов  артинских  отложений  по-
+зволяет выделить в пределах Николаевско-Городищенской предбортовой сту-
+пени  фрагмент  верхнеартинской  строматолитовой,  карбонатно-сульфатной 
+платформы  засолоненного  палеобассейна  [5].  Потенциально  продуктивные 
+пласты,  представленные  каверно-трещинными,  бактериально-водорослевыми 
+доломитами, характеризуются развитием мелких столбчато-бугристых органо-
+генных построек с соединительными мостами. Строматолитовые образования 
+облекают  выступы  палеорельефа  дна,  и  их  распространение  определяется 
+морфологией поверхности ассельско-нижнеартинских отложений. 
+
+Бортовое  обрамление  Прикаспийской  впадины  по  верхнеартинским  от-
+ложениям  представляет  поисковый  интерес.  В  скважинах  Комсомольского 
+месторождения  получен  приток  нефти,  притоки  газа  –  на  Федоровском  и 
+Южно-Кисловском месторождениях. Кроме того, притоки нефти с водой бы-
+ли  получены  из  верхнеартинских  отложений  в  скважинах  месторождений, 
+расположенных в Прикаспийской впадине:  Ахтубинском, Демидовском, Ло-
+бодинском, Молчановском, Ново-Никольском [13]. 
+
+При испытании верхнеартинских отложений карбонатно-сульфатной плат-
+формы в скважинах, расположенных в контуре выявленного поднятия и на его 
+обрамлении получены следующие результаты (табл. 1) [7]: 
+
+Результаты гидродинамических испытаний 
+верхнеартинских отложений участка исследования 
+
+Таблица 1 
+
+Номер 
+скважины 
+
+Интервал, 
+м 
+
+Флюид 
+
+Q, 
+м3/сут. 
+
+Рпл, 
+ат. 
+
+1 Малышевская 
+
+2 Малышевская 
+
+2305–2344 
+2202–2260 
+2261–2290 
+2 Центральная  2252–2335 
+2270–2282 
+2270–2326 
+
+15 Фёдоровская 
+
+– 
+газ 
+– 
+нефть 
+– 
+газ 
+
+– 
+193 000 
+– 
+0,44 
+– 
+< 1 000 
+
+245 
+
+229 
+
+Нач. де-
+прессия, 
+ат. 
+165 
+20 
+166 
+92 
+140 
+125 
+
+Т1+Т2, 
+мин 
+
+17+58 
+4+6 
+60+120 
+20+78 
+5+90 
+10+65 
+
+t1+t2, 
+мин 
+
+28+95 
+16+23 
+120 
+41+93 
+15+100 
+20+85 
+
+Признаки  углеводородов  (УВ)  по  геолого-технологическим  исследова-
+ниям  (ГТИ)  выявлены  в  скважине  3  Левобережная  (третья  пачка,  глубины 
+2345–2395 м). 
+
+В целом верхнеартинские отложения содержат пласты-коллекторы стро-
+
+матолитовых доломитов, толщиной от 4 до 20 м. 
+
+13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Geologiya, Geografiya i Globalnaya Energiya (Geology, Geography and Global Energy) 
+2017. No. 4 (67) 
+Geology, Prospecting and Exploration of Oil and Gas Fields 
+
+По полученным данным в 90-х гг. была произведена оценка ресурсов ар-
+тинских отложений Малышевской структуры [11]. За контур Малышевского 
+объекта по артинским отложениям принята граница, выделяемая по времен-
+ным  разрезам.  На  разрезах  постройка  выглядит  как  структурно-выраженное 
+тело положительного порядка (рис. 3, 4). 
+
+Рис. 3. Разрез через рассматриваемые скважины 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+Геология, география и глобальная энергия 
+2017. № 4 (67) 
+Геология, поиски и разведка нефтяных и газовых месторождений 
+
+На профилях в различных сечениях Малышевского объекта фиксируется 
+структура неоднородная по разрезу. По морфологии тело представляется как 
+массивный объект литологически ограниченный со всех сторон [3].   
+
+В плане Малышевская постройка вытянута по осевой зоне Малышевско-
+Петровского вала субмеридионального простирания и имеет размеры 5×2 км. 
+Площадь объекта 10,2 км2. Перспективные пласты их эффективная мощность 
+и  коллекторские  свойства  оценивались  по  данным  геологоинформационных 
+систем (ГИС), а также по аналогии ГИС и керна из скважины 6 Левобереж-
+ной  (Юрьевской),  расположенной  на  соседнем  месторождении  с  утвержден-
+ным подсчетом запасов, где отобранный керн был исследован.  
+
+5 
+
+Рис. 4. Малышевская строматолитовая постройка. Временной разрез 
+
+15
+
+ 
+ 
+ 
+ 
+ 
+Geologiya, Geografiya i Globalnaya Energiya (Geology, Geography and Global Energy) 
+2017. No. 4 (67) 
+Geology, Prospecting and Exploration of Oil and Gas Fields 
+
+По насыщению в разрезе выделена газовая и нефтяная зона. Выделение 
+проводилось  по  результатам  испытания  пластов.  Газонефтяной  контакт  ус-
+ловно взят по отметке –2256 м, т.е. нижней границы наиболее выраженного 
+пласта  скважины  №  15 Федоровской,  в  которой  при  испытании  получены 
+признаки  газа.  Водонефтяной  контакт  условно  взят  по  отметке  –2313  м,  по 
+подошве последнего доломитового пласта в скважине 2 Малышевской. Све-
+дения о пластах представлены в таблице 2.  
+
+Для подсчета перспективных ресурсов нефти взяты параметры по Юрь-
+евскому  месторождению,  для  подсчета  перспективных  ресурсов  газа  и  кон-
+денсата  –  параметры  по  Комсомольскому  месторождению  [12].  В  целом  по 
+Малышевскому  артинскому  объекту  перспективные  ресурсы  по  нефти  со-
+ставляют  геологические  7387 тыс.  т, извлекаемые  739 тыс.  т.  По  газу  геоло-
+гические ресурсы оцениваются в  1,225 млд м3, извлекаемые в 980 млн м3, по 
+конденсату в 191 тыс. т и 76 тыс. т соответственно. 
+
+Предлагается  провести  опробование  пластов  в  колонне  пробуренных 
+скважин с целью изучения характеристики разреза по дополнительному ком-
+плексу ГИС и результатам оценки промышленной значимости отложений.  
+
+По  результатам  испытаний  наиболее  перспективный  разрез  артинских 
+отложений  представлен  в  скважине  №  2  Малышевской,  где  из  интервала 
+2202–2260 м получен приток газа 193 тыс. м3/сут. На данный момент скважи-
+на находится в бездействии и технически исправна. В ней в первую очередь 
+предлагается провести исследования и испытания перспективных пластов.  
+
+В пределах Малышевской постройки находятся скважины 1 и 2 Малышев-
+ские,  15  Федоровская,  2  Центральная  (ликвидирована  по  геологическим  при-
+чинам). В скважине 1 Малышевской ниже глубины 2270 м отсутствует цемент 
+за колонной (в интервале перспективных пластов, кровля 2274 м). Таким обра-
+зом, по техническим причинам для испытания рекомендуются скважины 2 Ма-
+лышевская и 15 Федоровская. Для изучения разреза скважин и их технического 
+состояния предлагается комплекс ГИС, который приведен в таблице 3. 
+
+Интервалы перфорации будут выбраны по результатам оценки насыще-
+
+ния разреза и технического состояния скважин. 
+
+Для  качественной  оценки  пластов  и  возможности  проведения  операций 
+по интенсификации притока предлагается испытания пластов производить по 
+схеме снизу–вверх. Если при испытании получена вода, то пласт изолируется 
+цементным раствором. При получении притока УВ интервал отсыпается пес-
+ком с установкой сверху цементной пробки с последующим испытанием вы-
+шележащего интервала. 
+
+Учитывая множество случаев получения слабых притоков или их отсут-
+ствие, при наличии признаков насыщения по керну, после проведения перфо-
+рации необходимо выполнить интенсификацию притока.  
+
+Учитывая  значительную  протяженность  (до  400 км)  Западной  бортовой 
+зоны и Николаевско-Городищенской ступени, относительно неглубокое зале-
+гание  объектов  (до  2600 м),  данное  направление  поисковых  работ  может 
+стать одним из самых перспективных. 
+
+16 
+
+ 
+ 
+ 
+ 
+Геология, география и глобальная энергия 
+2017. № 4 (67) 
+Геология, поиски и разведка нефтяных и газовых месторождений 
+
+7 
+
+2
+а
+ц
+и
+л
+б
+а
+Т
+
+н
+и
+ж
+а
+в
+к
+с
+х
+а
+т
+с
+а
+л
+п
+о
+я
+и
+н
+е
+д
+е
+в
+С
+
+17
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Geologiya, Geografiya i Globalnaya Energiya (Geology, Geography and Global Energy) 
+2017. No. 4 (67) 
+Geology, Prospecting and Exploration of Oil and Gas Fields 
+
+Проектируемые комплексы ГИС для проведения в скважинах 
+
+Решаемые задачи 
+
+Методы ГИС 
+
+Интервал 
+
+№ 
+скв. 
+
+Таблица 3 
+
+Оценка фильтрационно-емкостных свойств и 
+текущего характера насыщения при условии, что 
+артинский ком-плекс перекрыт только одной 
+колонной и качество цемен-тажа хорошее ВАК 
+позволит оценить Кп, Кп дин, Кпр и Кнг 
+
+Независимо от конструкции скважины и 
+качества цементажа колонн  оценка характера 
+насыщения коллектора 
+
+Оценка тех. состояния колонны и цемент 
+камня 
+
+Оценка  фильтрационно-емкостных свойств и 
+текущего характера насыщения (в качестве 
+ОПР) 
+
+Геохим. исследования: физико-хим. свойств 
+флюида, преобразованность Сорг., определение  
+вероятных источников миграции УВ 
+
+Оценка фильтрационно-емкостных свойств и 
+текущего характера насыщения. При условии, что 
+артинский ком-плекс перекрыт только одной 
+колонной и качество цемен-тажа хорошее ВАК 
+позволит оценить Кп, Кп дин, Кпр и Кнг 
+Независимо от конструкции скв. и качества 
+цемен-тажа колонн оценка хар-ра насыщения 
+коллектора 
+Оценка тех. состояния колонны и цемент 
+камня 
+
+я
+а
+к
+с
+в
+е
+ш
+ы
+л
+а
+
+М
+2
+
+я
+а
+к
+с
+в
+о
+р
+о
+д
+е
+Ф
+5
+1
+
+Волновой 
+акустический 
+каротаж (ВАК) 
+
+Импульсный 
+нейтрон-ный 
+гамма каротаж 
+ИНГК 
+Методика 
+использования 
+донного кабеля 
+(МИДК), ВАК 
+
+2210–2370 
+
+2210–2370 
+
+2210–2370 
+
+Обработка QUAD 
+фирмы ROKE 
+
+2210–2370 
+
+Отбор керна через 
+колонну боковым 
+сверлящим грунто-
+носом (d–20мм, l–50мм) 
+
+В интервалах 
+опр–х по ВАК, 
+ИНГК, QUAD 
+
+Волновой 
+акустический 
+каротаж (ВАК) 
+
+2280–2380 
+
+ИНГК 
+
+2280–2380 
+
+МИДК, ВАК 
+
+2280–2380 
+
+Список литературы 
+
+1. Гутман И. С. Строение карбонатных построек барьерных рифов и перекрывающих их 
+терригенных  отложений  Памятно-Сасовского  месторождения  Волгоградского  Поволжья  на 
+основе детальной корреляции разрезов скважин и сейсмических исследований / И. С. Гутман, 
+В.  В.  Старосветсков,  А.  В.  Тарасов,  С.  И.  Чижов  //  Труды  Российского  государственного 
+университета  нефти  и  газа  им.  И.М.  Губкина.  –  Москва  :  Российский  государственный 
+(национальный  исследовательский  университет)  имени  
+университет  нефти  и 
+И.М. Губкина, 2013. – №  2 (271). 
+
+газа 
+
+2. Дагаев  И.  Л.  Геолого-геофизическая  изученность  и  перспективы  нефтегазоносности 
+Волгоградского Левобережья / И. Л. Дагаев, О. Р. Эльдерханова // Вестник Северо-Кавказского 
+федерального университета. – 2009. – № 4. 
+
+3. Даньшина Н. В. Новые представления о строении позднедевонско-раннекаменноугольных 
+рифовых образований Николаевско-Городищенской ступени / Н. В. Даньшина, Е. П.Медведева, 
+М. В. Махонин, Т. О. Андросенко // Вестник ассоциации буровых подрядчиков. – 2017. – № 2. – 
+С. 17–20. 
+
+4. Даньшина  Н.  В.  Геологическое  строение  верхнепалеозойского  осадочного  комплекса 
+Николаевскогородищенской ступени (Волгоградское Заволжье) / Н. В. Даньшина, В. Т. Кошель, 
+О. П. Гужова // Геология, геофизика и разработка нефтяных и газовых месторождений. – 2005. – 
+№ 8. – С. 12–18. 
+
+5. Касьянова Н. А. Роль трещиноватости горных пород в формировании углеводородных 
+залежей  в  пределах  Николаевско-Городищенской  предбортовой  ступени  западного  борта 
+Прикаспийской впадины / Н. А. Касьянова, А. С. Вылегжанина, Д. Д. Кирика, Ю. К. Бурлин,  
+А. А. Брыжин, П. В. Медведев// Геология нефти и газа. – 2009. – №4. – С. 10–16. 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+
+Геология, география и глобальная энергия 
+2017. № 4 (67) 
+Геология, поиски и разведка нефтяных и газовых месторождений 
+
+6. Остроухов  С.  Б. Модель  строения  и  формирования  залежей  углеводородов  западного 
+борта  Прикаспийской  впадины  /  С.  Б.  Остроухов,  В.  А.  Бочкарев  //  Геология,  геофизика  и 
+разработка нефтяных и газовых месторождений. – 2009. – №3. – С. 17–23. 
+
+7. Остроухов С. Б. Особенности состава нефтей Волгоградского Поволжья / С. Б. Остроухов, 
+
+Е. Ф. Соболева, Н. Д. Соболева // Нефтяное хозяйство. – 2016. – №3. – С. 64–67. 
+
+8. Погорельская С. В. История формирования залежей УВ Волгоградского Левобережья и 
+определение их геологического возраста / С. В. Погорельская, Э. С. Сианисян, В. Е. Закруткин 
+// Геология, география и глобальная энергия. – 2012. – № 2. – С. 128–136. 
+
+9. Пряхин  С.  И.  Исследования  современного  состояния  и  развития  нефтегазодобычи  в 
+
+Волгоградской области / С. И. Пряхин // Грани познания. – 2014. – №4. – С. 92–95. 
+
+10. Пряхин С. И. Нефтегазовый комплекс Волгоградской области: состояние, проблемы и 
+перспективы развития / С. И. Пряхин, В. А. Брылев // Вестник Воронежского государственного 
+университета. Серия: География. Геоэкология. – 2014. – № 2. – С. 35–44. 
+
+11. Саблин А. С. Концепция развития старого нефтяного района (на примере Волгоградской 
+области)  /  А.  С.  Саблин,  Ю.  М.  Львовский  //  Геология,  геофизика  и  разработка  нефтяных  и 
+газовых месторождений. – 2001. – № 8. – С. 11–14. 
+
+12. Сианисян Э. С. Возобновляемые ресурсы нефти и газа: пути количественной оценки  
+/  Э.  С.  Сианисян,  С.  В.  Погорельская,  А.  Л.  Гаврина  //  Геология,  геофизика  и  разработка 
+нефтяных и газовых месторождений. – 2013. – № 7. – С. 13–16. 
+
+13. Сианисян Э. С. Перспективы нефтегазоносности западного борта Прикаспийской впадины 
+на  основе  концепции  двуэтапного  формирования  залежей  углеводородов  и  обоснование 
+целесообразности  ведения  геолого-разведочных  работ  /  С.  Э.  Сианисян,  В.  А.  Бочкарев,  
+Э. С. Сианисян // Геология, география и глобальная энергия. – 2012. – № 1. – С. 60–72. 
+
+14. Фадеева  Г.  А.  Малышевско-Петровская  зона  поднятий  –  единое  месторождение 
+нефти  в  Западном  Прикаспии  /  Г.  А.  Фадеева,  И.  С.  Степанов,  Н.  Л.  Багова  //  Геология, 
+геофизика и разработка нефтяных и газовых месторождений. – 2002. – № 7. – С. 8–18. 
+
+15. Эльдерханова О. Р. Тектоническое развитие и особенности накопления карбонатных 
+отложений  на  территории  Волгоградского  левобережья  /  О.  Р.  Эльдерханова,  И.  Л.  Дагаев  
+// Вестник Северо-Кавказского федерального университета. – 2010. – № 1. – С. 44–48 
+
+References 
+
+1. Gutman  I.  S.,  Starosvetskov  V.  V.,  Tarasov  A.  V.,  Chizhov  S.  I.  Stroenie  karbonatnykh 
+postroek  barernykh  rifov  i  perekryvayushchikh  ikh  terrigennykh  otlozheniy  Pamyatno-Sasovskogo 
+mestorozhdeniya  Volgogradskogo  Povolzhya  na  osnove  detalnoy  korrelyatsii  razrezov  skvazhin  i 
+seysmicheskikh issledovaniy [The structure of  carbonate structures of barrier reefs and overlapping 
+terrigenous  deposits  of  the  Memorial-Sasovskoye  deposit  of  the  Volgograd  Region  on  the  basis  of 
+detailed  correlation  of  well  sections  and  seismic  studies].  Trudy  Rossiyskogo  gosudarstvennogo 
+universiteta nefti i gaza im. I.M. Gubkina [Proceedings of the Russian State University of Oil and Gas 
+named  I.  M.  Gubkin],  Moscow,  Russian  State  University  of  Oil  and  Gas  (National  Research 
+University) named I. M. Gubkin Publ. House, 2013, no. 2 (271). 
+
+2. Dagaev  I.  L.,  Elderkhanova  O.  R.  Geologo-geofizicheskaya  izuchennost  i  perspektivy 
+neftegazonosnosti Volgogradskogo Levoberezhya [Geological and geophysical studies and prospects 
+of  oil  and  gas  potential  of  the  Volgogradsky  left  bank].  Vestnik  Severo-Kavkazskogo  federalnogo 
+universiteta [Bulletin of the North-Caucasian Federal University], 2009, no. 4. 
+
+3. Danshina N. V., Medvedeva Ye. P., Makhonin M. V., Androsenko T. O. Novye predstavleniya 
+o stroenii pozdnedevonsko-rannekamennougolnykh rifovykh obrazovaniy Nikolaevsko-Gorodishchenskoy 
+stupeni [New ideas on the structure of the Late Devonian-Early Carboniferous reef formations of the 
+Nikolaevsko-Gorodischensky  step].  Vestnik  assotsiatsii  burovykh  podryadchikov  [Bulletin  of  the 
+Association of Drilling Contractors], 2017, no. 2, pp. 17–20. 
+
+4. Danshina  N.  V.,  Koshel  V.  T.,  Guzhova  O.  P.  Geologicheskoe  stroenie  verkhnepaleozoyskogo 
+osadochnogo  kompleksa  Nikolaevskogorodishchenskoy  stupeni  (Volgogradskoe  Zavolzhe)  [Geological 
+structure  of  the  Upper  Paleozoic  sedimentary  complex  of  the  Mykolayivskohradishchensky  step 
+(Volgograd  Zavolzhye)].  Geologiya,  geofizika  i  razrabotka  neftyanykh  i  gazovykh  mestorozhdeniy 
+[Geology, Geophysics and Development of Oil and Gas Fields], 2005, no. , ppp. 12–18. 
+
+5. Kasyanova  N.  A.,  Vylegzhanina  A.  S.,  Kirika  D.  D.,  Burlin  Yu.  K.,  Bryzhin  A.  A., 
+Medvedev  P.  V.  Rol  treshchinovatosti  gornykh  porod  v  formirovanii  uglevodorodnykh  zalezhey  v 
+predelakh  Nikolaevsko-Gorodishchenskoy  predbortovoy  stupeni  zapadnogo  borta  Prikaspiyskoy 
+vpadiny  [The  role  of  fracturing  of  rocks  in  the  formation  of  hydrocarbon  deposits  within  the 
+Nikolaevsko-Gorodishchensky  pre-bord  step  of  the  western  side  of  the  Caspian  depression]. 
+Geologiya nefti i gaza [Geology of Oil and Gas], 2009, no. 4, pp. 10–16. 
+
+19
+
+ 
+ 
+ 
+Geologiya, Geografiya i Globalnaya Energiya (Geology, Geography and Global Energy) 
+2017. No. 4 (67) 
+Geology, Prospecting and Exploration of Oil and Gas Fields 
+
+6. Ostroukhov S. B., Bochkarev V. A. Model stroeniya i formirovaniya zalezhey uglevodorodov 
+zapadnogo  borta  Prikaspiyskoy  vpadiny  [Model  of  the  structure  and  formation  of  hydrocarbon 
+deposits of the western side of the Caspian depression]. Geologiya, geofizika i razrabotka neftyanykh 
+i gazovykh mestorozhdeniy [Geology, Geophysics and Development of Oil and Gas Fields], 2009, no. 3, 
+pp. 17–23. 
+
+7. Ostroukhov  S.  B.,  Soboleva  Ye.  F.,  Soboleva  N.  D.  Osobennosti  sostava  neftey 
+Volgogradskogo Povolzhya [Features of the composition of the oils of the Volgograd Volga region]. 
+Neftyanoe khozyaystvo [Oil Industry], 2016, no. 3. Pp. 64-67. 
+
+8. Pogorelskaya  S.  V.,  Sianisyan  E.  S.,  Zakrutkin  V.  Ye.  Istoriya  formirovaniya  zalezhey  UV 
+Volgogradskogo  Levoberezhya  i  opredelenie  ikh  geologicheskogo  vozrasta  [The  history  of  the 
+formation of hydrocarbon deposits in the Volgograd Region and the determination of their geological 
+age]. Geologiya, geografiya i globalnaya energiya [Geology, Geography and Global Energy], 2012, 
+no. 2, pp. 128–136. 
+
+9. Pryakhin  S.  I.  Issledovaniya  sovremennogo  sostoyaniya  i  razvitiya  neftegazodobychi  v 
+Volgogradskoy oblasti [Investigations of the current state and development of oil and gas production 
+in the Volgograd region]. Grani poznaniya [Facets of Knowledge], 2014, no. 4, pp. 92–95. 
+
+10. Pryakhin  S.  I.,  Brylev  V.  A.  Neftegazovyy  kompleks  Volgogradskoy  oblasti:  sostoyanie, 
+problemy i perspektivy razvitiya [Oil and gas complex of the Volgograd region: state, problems and 
+development prospects]. Vestnik Voronezhskogo gosudarstvennogo universiteta. Seriya: Geografiya. 
+Geoekologiya [Bulletin of Voronezh State University. Series: Geography. Geoecology], 2014, no. 2, 
+pp. 35–44. 
+
+11. Sablin  A.  S.,  Lvovskiy  Yu.  M.  Kontseptsiya  razvitiya  starogo  neftyanogo  rayona  (na 
+primere Volgogradskoy oblasti) [The concept of development of the old oil region (by the example of 
+the  Volgograd  region)].  Geologiya,  geofizika  i  razrabotka  neftyanykh  i  gazovykh  mestorozhdeniy 
+[Geology, Geophysics and Development of Oil and Gas Fields], 2001, no. 8, pp. 11–14. 
+
+12. Sianisyan E. S., Gavrina A. L., Pogorelskaya S. V. Vozobnovlyaemye resursy nefti i gaza: 
+puti  kolichestvennoy  otsenki  [Renewable  resources  of  oil  and  gas:  ways  to  quantify].  Geologiya, 
+geofizika i razrabotka neftyanykh i gazovykh mestorozhdeniy [Geology, Geophysics and Development 
+of Oil and Gas Fields], 2013, no. 7, pp. 13–16. 
+
+13. Sianisyan E. S., Bochkarev V. A., Sianisyan E. S. Perspektivy neftegazonosnosti zapadnogo 
+borta Prikaspiyskoy vpadiny na osnove kontseptsii dvuetapnogo formirovaniya zalezhey uglevodorodov 
+i  obosnovanie  tselesoobraznosti  vedeniya  geologo-razvedochnykh  rabot  [Prospects  of  oil  and  gas 
+content of the western side of the Caspian basin on the basis of the concept of two-stage formation of 
+hydrocarbon  deposits  and  the  rationale  for  conducting  geological  exploration  work].  Geologiya, 
+geografiya i globalnaya energiya [Geology, Geography and Global Energy], 2012, no. 1, pp. 60–72. 
+
+14. Fadeeva G. A., Stepanov  I. S., Bagova  N. L. Malyshevsko-Petrovskaya zona podnyatiy  – 
+edinoe mestorozhdenie nefti v Zapadnom Prikaspii [Malyshev-Petrovskaya zone of uplifts – a single 
+oil  field  in  the  Western  Caspian].  Geologiya,  geofizika  i  razrabotka  neftyanykh  i  gazovykh 
+mestorozhdeniy [Geology, Geophysics and Development of Oil and Gas Fields], 2002. - № 7. Pp. 8-18. 
+15. Elderkhanova  O.  R.,  Dagaev  I.  L.  Tektonicheskoe  razvitie  i  osobennosti  nakopleniya 
+karbonatnykh  otlozheniy  na  territorii  Volgogradskogo  levoberezhya  [Tectonic  development  and 
+features  of  the  accumulation  of  carbonate  sediments  in  the  territory  of  the  Volgograd  left  bank]. 
+Vestnik Severo-Kavkazskogo federalnogo universiteta  [Bulletin  of the North  Caucasus Federal  University], 
+2010, no. 1, pp. 44–48. 
+
+КАСПИЙСКОЕ МОРЕ: РАЗВЕДКА И РАЗРАБОТКА  
+МОРСКИХ МЕСТОРОЖДЕНИЙ 
+
+Мурзагалиев  Дюсен  М.,  доктор  геолого-минералогических  наук,  член-
+корреспондент  Академии  минеральных  ресурсов  Республики  Казахстан, 
+профессор,  Атырауский  университет  нефти  и  газа,  060027,  Республика 
+Казахстан, г. Атырау, ул. Баймуханова, 45а 
+
+В статье приводятся основные геологические результаты геологоразведочных и 
+нефтегазопоисковых  работ,  проведенных  в  годы  независимости  в  пределах 
+Каспийского  моря  приграничными  государствами:  Азербайджаном,  Туркменией, 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

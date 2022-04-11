@@ -1,0 +1,161 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+УДК 665.642 
+
+ИССЛЕДОВАНИЕ КОРПОРАТИВНЫХ МУЛЬТИСЕРВИСНЫХ СЕТЕЙ 
+●●●●●● 
+RESEARCH CORPORATE MULTISERVICE NETWORKS 
+
+Бахтияров Исрафил Натик 
+докторант кафедры  
+управления и системной инженерии, 
+Азербайджанский государственный  
+университет нефти и промышленности 
+
+Bakhtiyarov Israfil Natik 
+Doctorated study  
+of Department Control  
+and System Engineering, 
+Azerbaijan state oil and industry university  
+
+Аннотация.  Рассмотрена  структурная  схема  функционирова-
+ния исследуемой модели корпоративных мультисервисных се-
+тей  связи  с  использованием  сетевых  элементов  программно-
+конфигурируемых сетей. Получены формулы для расчета пока-
+зателей  вероятностно-временных  характеристик  корпоратив-
+ных мультисервисных сетей связи. 
+
+Annotation. A structural diagram of the func-
+tioning  is investigated  model corporate  multi-
+service  communication  networks  using  net-
+work  elements  software-  defined  networks  is 
+considered.  Formulas  are  obtained for calcu-
+lating  the  indicators  of  the  probability-time 
+characteristics corporate multiservice commu-
+nication networks. 
+
+Ключевые  слова:  мультимедийные  услуги,  корпоративные 
+мультисервисные  сети  связи,  контроллер,  коммутатор,  про-
+граммно-конфигурируемая сеть. 
+
+Keywords:  multimedia  services,  corporate 
+multiservice  communication  networks,  con-
+troller, switch, software-defined network. 
+
+C 
+
+reation of new and improvement of existing corporate multiservice communication networks is of 
+great importance for the development of the telecommunication infrastructure of management sys-
+tems of industrial companies, organizations, departments and government bodies. As a rule, for such commu-
+nication networks it is created on the basis of renting a network, channel and information resource from the 
+operators of the Unified Telecommunication Network [1, 2]. Based on the systematic and technical analysis, it 
+was found that among the above-mentioned digital and network technologies, an important place is occupied 
+by the technology of software-configurable networks (PCN), providing the provision of the Triple Play services 
+and Bandwidth on Demand services, which requires the provision of maximum bandwidth, average latency 
+and bandwidth on demand of users. 
+
+In [4, 5, 6], the principles of building corporate communications networks using the architectural con-
+cepts of next-generation networks based on circuit switching are discussed in detail. Our study is dedicated to 
+solving the problem formulated above – the study and assessment of the probability-time characteristics of 
+corporate multiservice communication networks based on the architectural concept of future FN networks us-
+ing  PKS  technology.  Based  on  the  study  of  corporate  multiservice  communication  networks  based  on  FN 
+architectural  concepts,  it  was  established  in  [5,  7] that  the  main  and  most  popular  multimedia  services  are 
+access  to  telecommunication  networks,  the  Internet, IP-telephony  (Internet  Protocol),  a  local  area  network, 
+and a global network in which it is necessary to analyze in more detail the network technology of software-
+configured networks. 
+
+It should be noted that in software-configured networks, as you know, the main fundamental feature is 
+the separation of functions that are responsible for data transfer, and the removal of control applications to a 
+separate server – controller. To describe the useful and service traffic passing between the network switches 
+and the controllers of the PKS, an analysis of their statistical characteristics and the selection of an adequate 
+MM random process are required. 
+
+In the study of the functioning efficiency of corporate multiservice communication networks using the 
+PKS technology, an important task arises of developing a mathematical model (MM), based on simplifications 
+in the description of the studied concept of a single infocommunication space. 
+
+On  the  basis  of  the  PKS  MM  network,  explicit  analytical  expressions  are  obtained  for  the  stationary 
+probability  distribution  of  the  QS  corresponding  to  the  simplified  model  of  corporate  multiservice  networks 
+based on FN. 
+
+Литература 
+
+1.  Wang K.-H. Optimal control of a removable and non-reliable server in an M/M/1 queueing system with expo-
+
+nential startup time // Mathematical Methods of Operations Research. – 2003. – Vol. 58. – P. 29–39. 
+
+2.  Ibrаhimov B.G., Humbatov R.T., Ibrahimov R.F. Analysis performance multiservice telecommunication networks 
+
+with using architectural concept future networks // T-Comm. – 2018. – Vol. 12. – № 12. – Р. 84–88. 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+3.  Башарин Г.П., Самуйлов К.Е., Яркина Н.В., Гудкова И.А. Новый этап развития математической теории 
+
+телетрафика // Автоматика и телемеханика. – 2009. – № 12. – C. 16–28. 
+
+4.  Малиновский С.Т., Беленькая М.Н., Спиридонов А.А. Метод повышения производительности транспорт-
+
+ного протокола ТСР в глобальных корпоративных сетях передачи данных // Т-СОММ. – 2010. – № 7. – C. 39–42. 
+
+5.  Пшеничников А.П. Теория телетрафика. – М. : Горячая линия – Телеком, 2017.– 212 с. 
+6.  Треногин Н.Г., Соколов Д.Е. Модели трафика корпоративных сетей на основе устойчивых фрактальных 
+
+процессов // Вестник НИИ СУВПТ, Сборник научных трудов. – Красноярск, 2003. – Вып. 14. – С. 76–80.  
+
+7.  Семенова О.В., Дудин А.Н. Система массового обслуживания M/M/N с управляемым режимом обслужи-
+
+вания и катастрофическими сбоями // Автоматика и вычислительная техника. – 2007. – № 6. – C. 72–80. 
+
+References 
+
+1. Wang K.-H. Optimal control of a removable and non-reliable server in an M/M/1 queuing system with 
+
+exponential startup time // Mathematical Methods of Operations Research. – 2003. – Vol. 58. – P. 29–39. 
+
+2. Ibráhimov B.G., Humbatov R.T., Ibrahimov R.F. Analysis performance multiservice telecommunication 
+
+networks with using architectural concept future networks // T-Comm. 2018. – Vol. 12. – № 12. – P. 84–88. 
+
+3. Basharin G.P., Samuylov K.E., Yarkina N.V., Gudkova I.A. A new stage in the development of the 
+
+mathematical theory of teletraffic // Automation and Telemechanics. – 2009. – № 12. – P. 16–28. 
+
+4. Malinovsky S.T., Belenkaya M.N., Spiridonov A.A. A method for increasing the performance of the 
+
+transport protocol TCP in global corporate data networks // T-COMM. – 2010. – № 7. – P. 39–42. 
+5. Pshenichnikov A.P. Theory of teletraffic. – M. : Hot line. Telecom, 2017. – 212 p. 
+6. Trenogin N.G., Sokolov D.E. Corporate network traffic models based on stable fractal processes // 
+
+Vestnik NII SUVPT, Collection of scientific works. – Krasnoyarsk, 2003. – Issue 14. – P. 76–80. 
+
+7. Semenova O.V., Dudin A.N. Queuing system M/M/N with controlled service mode and catastrophic 
+
+failures // Automation and Computer Engineering. – 2007. – № 6. – P. 72–80. 
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

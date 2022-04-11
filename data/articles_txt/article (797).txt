@@ -1,0 +1,1578 @@
+УДК 62.001.25 
+
+46 
+
+КОЛИЧЕСТВЕННАЯ ОЦЕНКА НЕОПРЕДЕЛЕННОСТИ 
+
+РЕЗУЛЬТАТОВ АНАЛИЗА РИСКА  
+
+ТЕХНОГЕННЫХ АВАРИЙ 
+
+QUANTITATIVE ASSESSMENT OF UNCERTAINTY  
+
+OF TECHNOGENIC ACCIDENTS RISK ANALYSIS 
+
+А.В. Федосов, И.И. Бадртдинова, К.Н. Абдрахманова,  
+
+Д.Ю. Валекжанин  
+
+Уфимский государственный нефтяной технический университет,  
+
+г. Уфа, Российская Федерация 
+
+Artem V. Fedosov, Ilzida I. Badrtdinova, Karina N. Abdrakhmanova,  
+
+Dmitrij U. Valekzhanin  
+
+Ufa State Petroleum Technological University, Ufa, Russian Federation 
+
+e-mail: fedsv-artem@rambler.ru, b.ilzida99@mail.ru 
+
+Аннотация. Риск является результатом реализации опасных факторов, 
+
+оказывающих 
+
+влияние 
+
+на 
+
+безопасное 
+
+функционирование 
+
+производственного 
+
+объекта. 
+
+Определения 
+
+данного 
+
+термина, 
+
+удовлетворяющего  всех  специалистов,  на  данный  момент  не  существует, 
+
+однако  во  многих  работах  и  методиках  риском  считается  сочетание 
+
+вероятности  и  его  события.  Из  данного  термина  следует,  что  величина 
+
+риска представляет собой оценку возможности реализации определенного 
+
+события или аварийной ситуации. 
+
+С  целью  определения  величины  данного  показателя  проводится 
+
+количественная  оценка  риска.  Необходимо  отметить,  что  количественная 
+
+оценка  риска  в  настоящее  время  является  одним  из  обязательных 
+
+требований при составлении деклараций промышленной промышленности 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+47 
+
+и  планов  локализации  и  ликвидации  аварийных  ситуаций  на  опасных 
+
+производственных объектах. 
+
+Однако,  как  и  проведение  любых  измерений  и  вычислений,  величина 
+
+риска не может быть точно определена, поскольку на результат влияют как  
+
+субъективные, так и объективные факторы. 
+
+В  настоящее  время  с  целью  более  точного  представления  результатов 
+
+измерений  наиболее  актуальной  стал  подход,  связанный  с  определением 
+
+неопределенности  результата  количественная  оценка  риска,  результатом 
+
+которой является наилучшая оценка измеряемой величины. 
+
+Существуют  различные  виды  классификации  природы  и  источников 
+
+неопределенности анализа риска, в том числе разрабатывается  множество 
+
+разнообразных 
+
+подходов 
+
+по 
+
+его 
+
+оценке 
+
+– 
+
+качественные, 
+
+полуколичественные,  количественные.  Однако  значительную  роль  в 
+
+методологии 
+
+риск-анализа 
+
+занимает 
+
+количественная 
+
+оценка 
+
+неопределенности. 
+
+Результатом количественной оценки риска является числовое значение 
+
+величины,  которая  представляет  собой  точечную  оценку  риска,  затем 
+
+должна  быть  рассчитана  количественная  оценка  неопределенности,  
+
+определяющей  параметр  в  виде  интервальной  оценки  полученных 
+
+значений. 
+
+Количественная оценка риска рассматривалась во многих публикациях, 
+
+как  русских,  так  и  англоязычных,  однако  определенных  методик  
+
+вычисления  все  еще  не  существует.  В  данной  статье  приводится  один  из 
+
+способов  определения  количественной  оценки  риска,  который  позволяет 
+
+визуализировать этапы вычисления и минимизировать процесс расчетов. 
+
+Abstract.  Risk is the result of the implementation of hazards that affect the 
+
+safe  operation  of  the  production  facility.  The  definition  of  this  term,  which 
+
+satisfies all specialists, does not currently exist, but in many papers and methods 
+
+risk is considered a combination of probability and its event.  This term implies 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+48 
+
+that  the  magnitude  of  the  risk  is  an  assessment  of  the  possibility  of  the 
+
+realization of a specific event or emergency. 
+
+In  order  to  determine  the  value  of  this  indicator,  a  quantitative  risk 
+
+assessment is conducted. It should be noted that the quantitative risk assessment 
+
+is  currently  one  of  the  mandatory  requirements  when  drawing  up  industrial 
+
+declarations  and  plans  for  the  localization  and  liquidation  of  emergency 
+
+situations at chemical-technological facilities. 
+
+However,  like  any  measurements  and  calculations,  the  result  can  not  be 
+
+accurately  determined,  since  the  result  is  influenced  by  various  factors 
+
+associated with both subjective and objective factors. 
+
+Currently, in order to more accurately represent the measurement results, the 
+
+most relevant approach has been to determine the uncertainty of the quantitative 
+
+assessment  of  risk  result,  the  result  of  which  is  the  best  assessment  of  the 
+
+measured value. 
+
+There are various types of classification of nature and sources of uncertainty 
+
+of  risk  analysis,  including  developing  a  variety  of  different  approaches  to  its 
+
+assessment – qualitative, semi-quantitative, quantitative.  However, a significant 
+
+role in the methodology of risk analysis is a quantitative estimate of uncertainty. 
+
+The result of the CDF is a numerical value of the quantity, which is a point 
+
+estimate  of  risk,  then  a  quantitative  estimate  of  uncertainty  quantitative 
+
+assessment  of  risk,  which  determines  the  parameter  in  the  form  of  an  interval 
+
+estimate of the obtained values, should be calculated. 
+
+Quantitative  assessment  of  risk  has  been  considered  in  many  publications, 
+
+both  Russian  and  English,  but  there  are  still  no  definite  calculation  methods. 
+
+This article provides one of the methods for determining quantitative assessment 
+
+of  risk,  which  allows  to  visualize  the  stages  of  calculation  and  minimize  the 
+
+calculation process. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+49 
+
+Ключевые  слова:  анализ  риска,  количественная  оценка  риска, 
+
+неопределенность, количественная оценка неопределенности, техногенный 
+
+риск, вероятность, авария, дендрограмма 
+
+Key  words:  risk  analysis,  quantitative  assessment  of  risk,  indeterminacy, 
+
+quantitative  assessment  of  uncertainty,  technogenic  risk,  probability,  accident, 
+
+dendrogramma 
+
+Введение 
+
+Понятия  «неопределенность»  и  «риск»  непосредственно  связаны 
+
+между 
+
+собой.  Несомненно, 
+
+«неопределенность» 
+
+в 
+
+качестве 
+
+характеристики,  неточности  и  неоднозначности  используется  в  науке 
+
+достаточно  давно,  в  сущности,  данное  понятие  внедрено  в  научную 
+
+область  раньше  понятия  «риск».  Но  именно  тесная  связь  между  этими 
+
+двумя  понятиями  определила  актуальность  количественной  оценки  риска 
+
+(КОР), определяемой путем оценки неопределенности измерения. 
+
+КОР  в  настоящее  время  является  одним  из  необходимых 
+
+показателей, позволяющих оценить возможность наступления опасных и 
+
+аварийных  ситуаций,  а  также  проанализировать  ущерб,  к  которому  они 
+
+могут привести. При этом необходимо отметить, что на данный момент 
+
+определение  КОР  является  обязательным  при  составлении  деклараций 
+
+промышленной  безопасности  и  планов  локализации  и  ликвидации 
+
+аварийных  ситуаций  на  опасных  производственных  объектах  (ОПО) 
+
+[1, 2]. 
+
+Несмотря  на  то,  что  понятие  «риск»  прочно  вошло  в  нашу  жизнь, 
+
+термин,  который  смог  бы  удовлетворить  всех  специалистов,  отсутствует. 
+
+Наиболее широкое распространение приобрело такое определение данного 
+
+термина, при котором риском считается сочетание вероятности события и 
+
+его  последствий.  Несколько  иная  формулировка  данного  определения 
+
+заключается  в  том,  что  техногенный  риск  представляет  собой  векторную 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+50 
+
+величину,  состоящую  из  двух  компонентов:  вероятностного  компонента 
+
+риска  и  компонента  риска,  непосредственно  связанного  с  ущербом  от 
+
+аварийных ситуаций [1]. Из приведенных выше терминов видно, что риск 
+
+в  основном  связывают  с  вероятностной  оценкой  конкретного  события,  то 
+
+есть риск представляет собой параметр, который должен быть представлен 
+
+в виде количественной оценки. 
+
+В сфере безопасности производства представление риска как следствия 
+
+неопределенности,  а  не  статической  предопределенности  является  более 
+
+предпочтительным.  Статическая  предопределенность,  предполагающая 
+
+«оценку  риска»  как  «прогнозирование  величины  будущих  ущербов», 
+
+основанной  на  статистике  прошлых  лет,  непригодна  для  исследований 
+
+систем,  в  которых  существует  необходимость  вмешательство  человека  в 
+
+процесс  анализа,  поскольку  любое  вмешательство  становится  фактором, 
+
+который тем или иным образом влияет на результат [3, 4]. 
+
+Связь между понятиями «риска» и «неопределенности» заключается в 
+
+том,  что  КОР,  как  и  любая  получаемая  оценка  параметров  измерения, 
+
+представляет собой лишь определенный интервал, которому принадлежит 
+
+истинное  значение  определяемой  величины.  Современная  метрология 
+
+данный  интервал  призывает  определять  неопределенностью  измерения  
+
+[5, 6]. 
+
+Количественная оценка неопределенности при КОР 
+
+Любой технический объект или система, обладающие запасами энергии 
+
+или опасных веществ, являются  потенциально опасными, причем степени 
+
+опасности  различны  для  каждого  объекта.  Из  этого  следует,  что  при 
+
+оценке  риска  предприятий  необходимо  учитывать  все  составляющие 
+
+опасности, которые могут привести к развитию аварийной ситуации.  
+
+Необходимо  отметить,  что  риск  чрезвычайной  ситуации  включает  в 
+
+себя два компонента [7, 8]: 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+51 
+
+а)  компонент  риска,  связанный  с  возможностью  реализации 
+
+чрезвычайной  ситуации  (КРВ),  которая  характеризуется  вероятностью 
+
+реализации  данного  сценария  и  количественной  оценкой  наступления 
+
+данного события; 
+
+б)  компонент  риска,  связанный  с  ущербом  от  чрезвычайной  ситуации 
+
+(КРУ), который выражает все последствия от данного события в денежной 
+
+форме. 
+
+КОР представляет собой процедуру, при которой риску присваиваются 
+
+определенные  численные  значения,  вычисленные  по  соответствующим 
+
+методикам. 
+
+Ниже  представлена  наилучшая  форма  количественного  определения 
+
+значения техногенного риска, при этом полученное значение представляет 
+
+собой  лишь  оценку  определяемой  величины  и  неизбежно  обладает 
+
+неопределенностью.  Предполагается,  что  неопределенность  риска,  как  и 
+
+неопределенность  измерений,  вычисляемая  в  метрологии,  представляет 
+
+собой  интервал  значений,  к  которому  принадлежит  величина  риска  с 
+
+заданным уровнем доверия. 
+
+КОР 
+
+предполагает 
+
+последовательное 
+
+выполнение 
+
+операций, 
+
+приведенных ниже [9, 10]. 
+
+1) Оценить КРВ, включающий в себя возможности, при котором: 
+
+а) реализуются инициирующие события; 
+
+б) отказывают средства противоаварийной защиты; 
+
+в) развиваются различные сценарии аварийной ситуации; 
+
+г)  необходимо  распределить  поражающие  факторы  аварии,  присущие 
+
+каждому сценарию аварии; 
+
+д)  необходимо  определить  подвижные  объекты,  которые  попадают  в 
+
+область поражения. 
+
+2) Оценить КРУ, характеризующий каждый сценарий развития аварий, 
+
+который включает: 
+
+а) все предполагаемые ущербы в натурально выраженном виде; 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+52 
+
+б) монетарную оценку ущербов. 
+
+В  итоге  результат  вышеперечисленных  операций  приводится  в  виде 
+
+точечной  оценки  величины  риска.  Для  того  чтобы  сравнить  полученные 
+
+значения  с  нормативными  значениями,  необходимым  условием  является 
+
+выполнение количественной оценки неопределенности. 
+
+Несомненно,  неопределенность  представляет  собой  неотъемлемую 
+
+часть  любых  параметров,  связанных  с  риском.  Исходя  из  этого,  можно 
+
+утверждать,  что  для  объективного  оценивания  различного  рода 
+
+опасностей,  угрожающих  жизни  и  здоровью  людей,  а  также  для 
+
+разработки  мероприятий  по  снижению  и  локализации  последствий 
+
+произошедших  аварий,  неопределенность  необходимо  представить  в 
+
+виде  численного  значения.  Однако  до  анализа  методов  количественной 
+
+оценки  и  выражения  неопределенности  разберемся  с  ее  природой  и 
+
+источниками.  
+
+Природа и источники неопределенности параметров  
+
+техногенного риска 
+
+Результаты  измерений  находятся  в  зависимости  от  множества 
+
+факторов.  Влияние  оказывают  измерительные  системы,  методики 
+
+проведений  измерений,  квалификация  и  опыт  операторов,  воздействие 
+
+внешних  условий  и  другие  [11,  12].  В  результате  этого  достоверно 
+
+определить значения измеряемых величин становится невозможно. В ходе 
+
+проведения 
+
+измерительных 
+
+процессов 
+
+и 
+
+операций 
+
+по 
+
+их 
+
+систематизированию результат измерения будет представлять собой лишь 
+
+аппроксимацию или оценку значения измеряемой величины. 
+
+В  настоящее  время  с  целью  более  точного  представления  результатов 
+
+измерений  наиболее  актуальной  стал  подход,  связанный  с  определением 
+
+неопределенности  измерения,  который  представляет  собой  наилучшую 
+
+оценку измеряемой величины. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+53 
+
+Так  же,  как  и  понятию  «риск»,  однозначного  толкования  понятия 
+
+«неопределенности»  все  еще  не  существует.  Приведем  наиболее  широко 
+
+употребляемые определения данного понятия. 
+
+Неопределенность 
+
+– 
+
+неотрицательный 
+
+параметр, 
+
+который 
+
+характеризует  рассеяние  значений  величины,  приписываемой  измеряемой 
+
+величине в результате полученной информации [13, 14]. 
+
+Неопределенность  –  состояние  полного  или  частичного  отсутствия 
+
+информации,  которое  необходимо  для  достоверного  анализа  событий,  их 
+
+последствий и вероятностей [15–17]. 
+
+Источниками  неопределенности  результатов  КОР  служат  объективная 
+
+изменчивость  свойств  системы,  подлежащей  изучению,  а  также 
+
+недостаточность,  неполнота  и  неточность  сведений,  касающихся  этой 
+
+системы.  Первый  тип  неопределенности  называют  стохастической,  а 
+
+второй – эпистемической. 
+
+Также  необходимо  отметить,  что  выделяют  и  коммуникативную 
+
+неопределенность,  связанную  с  искажением  информации  при  обмене  с 
+
+другим  человеком 
+
+[7].  Это 
+
+связано 
+
+с 
+
+тем,  что  информация, 
+
+воспринимаемая  людьми,  может 
+
+выражаться  неоднозначными  и 
+
+двусмысленными  понятиями,  в  результате  чего  люди  приходят  к 
+
+различным выводам в отношении одной и той же проблемы. Несомненно, 
+
+данная  неопределенность  устранима,  поскольку  возможно  уточнение  и 
+
+корректировка  полученной  информации,  благодаря  либо  соглашениям, 
+
+либо нормативным документам. 
+
+Изучению  классификации  источников  неопределенности  при  КОР 
+
+посвящены  множество  англоязычных  публикаций.  Так,  например, 
+
+Нидерландская  организация  прикладных  научных  исследований  и 
+
+сертификации (TNO) выделяет три группы источников неопределенности, 
+
+связанной  с  КОР:  постановка  задачи,  модельная  неопределенность  и 
+
+параметрическая неопределенность [1].   
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+54 
+
+Постановка  задачи  предполагает  выбор  между  двумя  подходами: 
+
+консервативным  и  реалистичным.  Консервативный  подход  представляет 
+
+собой  изучение  возможного  сценария  развития  аварии,  при  котором 
+
+последствия  и  ущерб  рассматриваются  в  максимально  критических 
+
+условиях.  Реалистичный  подход  предполагает 
+
+учет 
+
+конкретных 
+
+обстоятельств 
+
+возникновения 
+
+и 
+
+развития 
+
+аварийной 
+
+ситуации. 
+
+Консервативный 
+
+подход 
+
+определяет 
+
+существенно 
+
+меньшую 
+
+неопределенность по сравнению с реалистичным подходом. Это связано с 
+
+тем, 
+
+что 
+
+объективная 
+
+составляющая 
+
+неопределенности 
+
+при 
+
+консервативном  подходе  существенно  меньше,  благодаря  тому,  что 
+
+устранена изменчивость различных аспектов аварийной ситуации [18].  
+
+Модельная  неопределенность  при  КОР  может  возникнуть  вследствие 
+
+ошибок при составлении модели измерения. Ошибки могут быть связаны с 
+
+игнорированием  существенных  факторов,  влияющих  на  данную  модель, 
+
+введения некоторых упрощений, ошибочных расчетов и др.  
+
+Третий источник неопределенности при оценке КОР – параметрическая 
+
+неопределенность 
+
+– 
+
+непосредственно 
+
+связан 
+
+с 
+
+модельной 
+
+неопределенностью,  поскольку  любая  модель  включает  в 
+
+себя 
+
+соответствующие  параметры,  значения  которых  не  могут  быть  точно 
+
+определены.  Неопределенность  параметров  измерения 
+
+зависит  от 
+
+объективных  факторов, 
+
+связанных 
+
+с 
+
+изменчивостью 
+
+свойств 
+
+моделируемого 
+
+объекта, 
+
+а 
+
+также 
+
+от 
+
+субъективных  факторов, 
+
+заключающихся  в  недостатке  сведений,  используемых  в  процессе 
+
+присвоения параметру численного значения. 
+
+Оценка неопределенности результатов анализа  
+
+техногенного риска 
+
+В  ряде  публикаций  изучены  методы  количественной  оценки 
+
+неопределенности  результатов  КОР.  Согласно  многим  публикациям,  до 
+
+определения  количественной  оценки  неопределенности  должен  быть 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+55 
+
+проведен 
+
+качественный 
+
+анализ,  предполагающий  изучение 
+
+всех 
+
+применяемых «модельных инструментариев» для изучаемого объекта. 
+
+Качественный анализ должен предусматривать [19]: 
+
+1)  определение  «модельных»  альтернатив,  включающих  перечень 
+
+исследуемых 
+
+аварийных 
+
+ситуаций,  используемых  концептуальных 
+
+моделей, 
+
+а 
+
+также  математических 
+
+аппроксимаций 
+
+аварийных  и 
+
+поставарийных процессов; 
+
+2)  инвентаризацию  внутренних,  внешних  и  модельных  параметров 
+
+задачи. 
+
+Все  результаты,  установленные  в  ходе  проведения  качественной 
+
+оценки неопределенности, являются основой для КОН. 
+
+Согласно 
+
+[19],  неопределенность  полученных  результатов  КОР 
+
+необходимо  оценивать  через  ширину  интервала,  который  соответствует 
+
+целевой «метрике риска», форма которой представлена ниже. 
+
+,                                        (1) 
+
+где 
+
+– вероятность реализации некоторого сценария аварии; 
+
+– монетарное выражение полного ущерба сценария; 
+
+– номер сценария. 
+
+Полученные  интервалы  метрики  риска  подлежат  сравнению,  из 
+
+которого  возможно  проанализировать  вклад  различных  источников  в 
+
+общий бюджет неопределенности. 
+
+С  целью  наглядного  представления  методов  логико-вероятностного 
+
+моделирования аварийных ситуаций сценарии могут быть представлены в 
+
+виде  графов,  или  дендрограмм.  Так,  к  примеру,  в  [1]  был  составлен  граф 
+
+для  случая  утечки  сжиженного  углеводородного  газа  на  автомобильной 
+
+газозаправочной  станции,  в  котором  наглядно  представлено  дерево 
+
+событий  для  изучаемого  сценария  с  соответствующими  условными 
+
+вероятностями  событий,  при  этом  произведение  узлового  события  и 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+iiiUPRiPiUi 
+56 
+
+условной 
+
+вероятности 
+
+конкретного  исхода  позволит  определить 
+
+вероятность любого исхода.  
+
+Для КОН техногенного риска удобное применение присуще диаграмме 
+
+типа  «галстук-бабочка»,  в  центре  которой  располагается  аварийное 
+
+событие.  Дендрограмма  представлена  в  виде  таблицы,  в  прямоугольных 
+
+ячейках  которой  вносятся  события,  логически  связанные  между  собой, 
+
+столбцы  представляют  собой  ярусы,  а  строки  –  уравнения  [20].  Каждый 
+
+ярус  ветвей необходимо пронумеровать  соответствующим  целым  числом, 
+
+а  внутри  ярус  события  необходимо  обозначить  буквами.  Также  дерево 
+
+отказов  включает  в  себя  логические  знаки  «И»  и  «ИЛИ»,  которые 
+
+отделают  ярусы  дендрограммы.  На  схеме  должна  быть  указана  стрела 
+
+времени,  которая  в  основном  имеет  направление  слева  направо.  Слева  от 
+
+узлового  события  располагается  «дерево  отказов»,  которое  увеличивается 
+
+от  этого  события  справа  налево;  справа  расположено  «дерево  событий», 
+
+которое  располагается  последовательно  слева  направо.  Вследствие  того 
+
+что  параметр  риска  возможно  охарактеризовать  векторной  величиной, 
+
+связанной  с  вероятностным  компонентом  риска,  и  компонентом  риска, 
+
+связанным  с  ущербом,  события  дендрограммы  количественно  задаются 
+
+определенными  векторными  величинами  с  компонентами  вероятности 
+
+события и параметрами обусловленного им ущерба. 
+
+На  рисунке  1  представлен  пример  дендрограммы  для  случая  аварии, 
+
+связанной  с  утечкой  сжиженного  углеводородного  газа  (СУГ)  на 
+
+автомобильной газозаправочной станции. 
+
+Данные диаграммы облегчают проведение всех необходимых расчетов 
+
+и  в  результате  позволяют  количественно  оценить  неопределенность 
+
+аварийного риска [21].  
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+57 
+
+Рисунок 1. Граф событий, связанных с полной разгерметизацией резервуара с СУГ
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+58 
+
+Вывод 
+
+Анализ  количественной  оценки  риска  аварий  на  производственных 
+
+объектах  показывает,  что  существенным  параметром,  отражающим 
+
+достоверность полученной оценки, является неопределенность результата. 
+
+С  целью  оптимизации  различных  способов  КОН  в  настоящее  время 
+
+предлагаются 
+
+различные  методики,  позволяющие 
+
+с 
+
+конкретной 
+
+вероятностью  оценить  результат  полученных  вычислений.  Однако  стоит 
+
+отметить,  что  конкретной  методики,  которая  удовлетворяла  бы  всех 
+
+специалистов, на данный момент не существует. 
+
+В  данной  статье  был  рассмотрен  один  из  способов  количественной 
+
+оценки  неопределенности,  который  нашел  отражение  во  многих  работах, 
+
+посвященных  данной 
+
+теме.  Так, 
+
+согласно  указанному 
+
+способу, 
+
+предлагается  применение  графов  (дендрограмм),  которые  позволяют 
+
+визуализировать  основные  расчеты  и  предполагают  собой  более 
+
+облегченный 
+
+метод 
+
+определения 
+
+количественной 
+
+оценки 
+
+неопределенности результатов анализа риска. 
+
+Список используемых источников 
+
+1.  Колесников 
+
+Е.Ю. 
+
+Способы 
+
+количественной 
+
+оценки 
+
+неопределенности параметров техногенного риска // Безопасность труда в 
+
+промышленности. 2013. № 1. С. 56-67. 
+
+2.  Абдрахманов  Н.Х.,  Матвеев  В.П.,  Нищета  А.С.,  Савицкий  В.В., 
+
+Доржиева О.А., Хакимов Т.А. Анализ отечественного и зарубежного опыта 
+
+исследований  в  области  безопасного  проектирования  и  эксплуатации 
+
+технологических  объектов  нефтеперерабатывающих  и  нефтехимических 
+
+производств  //  Экспертиза  промышленной  безопасности  и  диагностика 
+
+опасных  производственных  объектов:  сб.  науч.  тр.  Уфа,  2015.  №  5.  
+
+С. 162-164. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+59 
+
+3.  Федорец  А.Г.  Применение  современной  методологии  риск 
+
+менеджмента в системах менеджмента безопасности труда и охраны труда 
+
+// Безопасность и охрана труда. 2018. № 1. С. 1-18. 
+
+4.  Abdrakhmanov N., Abdrakhmanova K., Vorohobko V., Abdrakhmanova 
+
+L.,   Basyirova  A.  Development  of  Implementation  Chart  for  Non-Stationary 
+
+Risks  Minimization  Management  Technology  Based  on 
+
+Information-
+
+Management  Safety  System  //  Journal  of  Engineering  and  Applied  Sciences. 
+
+2017. No. 12. pp. 7880-7888. 
+
+5.  Федосов А.В., Федосов В.А., Бадртдинова И.И., Мухаметзянов Н.З. 
+
+Место  неопределенности  в  системе  обеспечения  единства  измерений  // 
+
+Электротехнические и информационные комплексы и системы. 2018. Т. 14. 
+
+№ 1. С. 88-95. 
+
+6.  Абдрахманов  Н.Х.,  Абдрахманова  К.Н.,  Ворохобко  В.В., 
+
+Абдрахманов  Р.Н.  Требования  к  программному    обеспечению  построения 
+
+информационно-управляющей  системы  безопасности  при  эксплуатации 
+
+опасных  производственных  объектов  нефтегазовой  отрасли  //  Экспертиза 
+
+промышленной  безопасности  и  диагностика  опасных  производственных 
+
+объектов: матер. Междунар. науч.-практ. конф. Уфа, 2016. № 2 (8). С. 43-45. 
+
+7.  Колесников  Е.Ю.  Количественное  оценивание  неопределенности 
+
+техногенного риска // Проблемы анализа риска. 2013. Т. 10. № 3. С. 8-31. 
+
+8.   Абдрахманов  Н.Х.  Научно-методические  основы  обеспечения 
+
+безопасной 
+
+эксплуатации 
+
+опасных 
+
+производственных 
+
+объектов 
+
+нефтегазового  комплекса  на  основе  управления  системными  рисками: 
+
+автореф. … д-ра техн. наук. Уфа, 2014. 46 с.  
+
+9.  Fedosov 
+
+A.V., 
+
+Abdrakhmanov 
+
+N.Kh., 
+
+Gaysin 
+
+E.Sh., 
+
+Sharafutdinova G.M.,  Abdrakhmanova  K.N.,  Shammatova  A.A.  The  Use  of 
+
+Mathematical  Models  in the  Assessment of the  Measurements'  Uncertainty  for 
+
+the  Purpose  of  the  Industrial  Safety  Condition  Analysis  of  the  Dangerous 
+
+Production  Objects  //  International  Journal  of  Pure  and  Applied  Mathematics. 
+
+119 (10 Special Issue C). pp. 433-437. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+60 
+
+10. Gaisina  L.M.,  Maier  V.V.,  Abdrakhmanov  N.K.,  Sultanova  E.A., 
+
+Belonozhko M.L.  Deliberate Reorganization of the System of Social Relations 
+
+in Oil and Gas Companies in the Period of Changes in Economics // Espacios. 
+
+2017. Vol. 38. No. 48. 12 p.  
+
+11. Федосов А.В., Абдрахманов Н.Х., Бадртдинова И.И., Вадулина Н.В. 
+
+Анализ 
+
+состояния 
+
+промышленной 
+
+безопасности 
+
+опасных 
+
+производственных  объектов  с  учетом  неопределенности  измерений  // 
+
+Транспорт  и  хранение  нефтепродуктов  и  углеводородного  сырья.  2018. 
+
+№ 2. С. 49-54. 
+
+12. Kunelbayev  M.M.,  Gaisin  E.Sh.,  Repin  V.V.,  Galiullin  M.M., 
+
+Abdrakhmanova  K.N.  Heat  Absorption  by  Heat-Transfer  Agent  in  a Flat  Plate 
+
+Solar Collector // International Journal of Pure and Applied Mathematics. 2017. 
+
+Vol. 115. No. 3. pp. 561-575. 
+
+13. Федосов  А.В.,  Козлова  А.В.,  Федосов  В.А.,  Басырова  А.Р.  Место 
+
+неопределенности  измерений  при  анализе  состояния  промышленной 
+
+безопасности  опасных  производственных  объектов 
+
+//  Электронный 
+
+научный журнал «Нефтегазовое дело». 2018. № 3. С. 80-97. 
+
+14. Sekerin  V.D.,  Gaisina  L.M.,  Shutov  N.V.,  Abdrakhmanov  N.Kh., 
+
+Valitova  N.E.  Improving  the  Quality  of  Competence-Oriented  Training  of 
+
+Personnel  at  Industrial  Enterprises  //  Quality  –  Access  to  Success.  2018.  Vol. 
+
+19. No. 165. P. 68-73. 
+
+15. Федосов А.В., Ахметова Д.Д., Галеева А.Ф. Количественный анализ 
+
+риска  на  опасном  производственном  объекте  //  Пожарная  и  аварийная 
+
+безопасность:  матер.  XI  Междунар.  науч.-практ.  конф.  Иваново,  2016. 
+
+С. 184-187. 
+
+16. Абдрахманов Н.Х.,  Давлетов В.М., Абдрахманова К.Н., Ворохобко 
+
+В.В.,  Абдрахманов  Р.Н.  Повышение  безопасности 
+
+эксплуатации 
+
+газопроводов // Нефтегазовое Дело. 2016. Т. 14. № 3. С. 183-187. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+61 
+
+17. Кускильдин  Р.А.,  Абдрахманов  Н.Х.,  Закирова  З.А.,  Ялалова  Э.Ф., 
+
+Абдрахманова  К.Н.,  Ворохобко  В.В.  Современные  технологии  для 
+
+проведения 
+
+производственного 
+
+контроля, 
+
+повышающие 
+
+уровень 
+
+промышленной  безопасности  на  объектах  нефтегазовой  отрасли 
+
+// 
+
+Проблемы сбора, подготовки и транспорта нефти и нефтепродуктов. 2017. 
+
+№ 2 (108). С. 111-120. 
+
+18. Abdrakhmanov  N.Kh.,  Vadulina  N.V.,  Fedosov  A.V.,  Ryamova  S.M., 
+
+Gaisin  E.Sh.  А  New  Approach  for  a  Special  Assessment  of  the  Working 
+
+Conditions  at 
+
+the  Production  Factors'  Impact 
+
+through  Forecasting 
+
+the 
+
+Occupational Risks //  Man in India. 2017. Vol. 97. No. 20. P 495-511.  
+
+19. Колесников  Е.Ю.,  Теляков  Э.Ш.  Качественный  и  количественный 
+
+этапы  оценки  неопределенности  аварийного  риска  //  Вестник  Казанского 
+
+технологического университета. 2014. Т. 17. № 23. С. 424-427. 
+
+20. Колесников  Е.Ю.  Качественный 
+
+анализ  неопределенности 
+
+пожарного  риска.  Сценарий  аварии  «пожар  пролива  растворителя»  // 
+
+Проблемы анализа риска. 2014. Т. 11. № 1. С. 74-91. 
+
+21. Федосов  А.В.,  Ахметова  Д.Д.,  Галеева  А.В.,  Прохоров  А.Е. 
+
+Количественный  анализ  риска  аварии  на  опасном  производственном 
+
+объекте // Вестник молодого ученого УГНТУ. 2016. № 4 (8). С. 14-19. 
+
+References 
+
+1.  Kolesnikov  E.Yu.  Sposoby  kolichestvennoi  otsenki  neopredelennosti 
+
+parametrov  tekhnogennogo  riska  [A  Way  of  Quantifying  Uncertainties  in  the 
+
+Parameters  of  a  Technogenic  Risk].  Bezopasnost'  truda  v  promyshlennosti  – 
+
+Occupational Safety in Industry, 2013, No. 1, pp. 56-67. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+62 
+
+2.  Abdrakhmanov  N.Kh.,  Matveev  V.P.,  Nishcheta  A.S.,  Savitskii  V.V., 
+
+Dorzhieva O.A., Khakimov T.A. Analiz otechestvennogo i zarubezhnogo opyta 
+
+issledovanii 
+
+v 
+
+oblasti 
+
+bezopasnogo 
+
+proektirovaniya 
+
+i 
+
+ekspluatatsii 
+
+tekhnologicheskikh  ob"ektov  neftepererabatyvayushchikh  i  neftekhimicheskikh 
+
+proizvodstv  [Analysis  of  Domestic  and  Foreign  Research  Experience  in  the 
+
+Field of safe Design and Operation of Technological Facilities  of Oil Refining 
+
+and  Petrochemical 
+
+Industries].  Sbornik  nauchnykh 
+
+trudov  «Ekspertiza 
+
+promyshlennoi  bezopasnosti 
+
+i  diagnostika  opasnykh  proizvodstvennykh 
+
+ob"ektov» [Collection of Scientific Works «Examination of Industrial Safety and 
+
+Diagnostics  of  Hazardous  Production  Facilities»].  Ufa,  2015,  No.  5,  
+
+pp. 162-164. [in Russian]. 
+
+3.  Fedorets A.G. Primenenie sovremennoi metodologii risk menedzhmenta 
+
+v  sistemakh  menedzhmenta  bezopasnosti  truda  i  okhrany  truda  [The  Use  of 
+
+Modern  Methodologies  of  Risk  Management  in  the  Management  Systems  of 
+
+Occupational  Safety  and  Labor  Protection].  Bezopasnost'  i  okhrana  truda  – 
+
+Health and Safety, 2018, No. 1, pp. 1-18. [in Russian]. 
+
+4.  Abdrakhmanov  N.,  Abdrakhmanova  K.,  Vorohobko  V., 
+
+Abdrakhmanova L.,  Basyirova  A.  Development  of  Implementation  Chart  for 
+
+Non-Stationary  Risks  Minimization  Management  Technology  Based  on 
+
+Information-Management  Safety  System.  Journal  of  Engineering  and  Applied 
+
+Sciences, 2017, No. 12, pp. 7880-7888. 
+
+5.  Fedosov  A.V.,  Fedosov  V.A.,  Badrtdinova  I.I.,  Mukhametzyanov  N.Z. 
+
+Mesto  neopredelennosti  v  sisteme  obespecheniya  edinstva  izmerenii  [Place  of 
+
+Uncertainty  in  the  System  of  Ensuring  the  Uniformity  of  Measurements]. 
+
+Elektrotekhnicheskie  i  informatsionnye  kompleksy  i  sistemy  –  Electrical  and 
+
+Data  Processing  Facilities  and  Systems,  2018,  Vol.  14,  No.  1,  pp.  88-95. 
+
+[in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+63 
+
+6.  Abdrakhmanov  N.Kh.,  Abdrakhmanova  K.N.,  Vorokhobko  V.V., 
+
+Abdrakhmanov  R.N.  Trebovaniya  k  programmnomu  obespecheniyu  postroeniya 
+
+informatsionno-upravlyayushchei  sistemy  bezopasnosti  pri  ekspluatatsii  opasnykh 
+
+proizvodstvennykh  ob"ektov  neftegazovoi  otrasli  [Software  Requirements  for 
+
+Building  Information  Management  Security  System  in  the  Operation  of  Hazardous 
+
+Production  Facilities  of  the  Oil  and  Gas  Industry].  Materialy  Mezhdunarodnoi 
+
+nauchno-prakticheskoi  konferentsii  «Ekspertiza  promyshlennoi  bezopasnosti 
+
+i 
+
+diagnostika  opasnykh  proizvodstvennykh  ob"ektov»  [Materials  of  the  International 
+
+Scientific and Practical Conference «Examination of Industrial Safety and Diagnostics 
+
+of Hazardous Production Facilities»]. Ufa, 2016, No. 2 (8), pp. 43-45. [in Russian]. 
+
+7.  Kolesnikov  E.Yu.  Kolichestvennoe  otsenivanie  neopredelennosti 
+
+tekhnogennogo  riska  [Quantitative  Evaluation  of  Uncertainty  Is  Man-Made 
+
+Risks]. Problemy analiza riska – Issues of Risk Analysis, 2013, Vol. 10, No. 3, 
+
+pp. 8-31. [in Russian]. 
+
+8.  Abdrakhmanov  N.Kh.  Nauchno-metodicheskie  osnovy  obespecheniya 
+
+bezopasnoi  ekspluatatsii  opasnykh  proizvodstvennykh  ob"ektov  neftegazovogo 
+
+kompleksa na osnove upravleniya sistemnymi riskami: avtoref. dis. d-ra tekhn. nauk. 
+
+[Scientific  and  Methodical  Bases  of  Ensuring  Safe  Operation  of  Hazardous 
+
+Production  Facilities  of  the  Oil  and  Gas  Complex  on  the  Basis  of  System  Risk 
+
+Management: Doc. Engin. Sci. Avtoref.]. Ufa, 2014. 46 p. [in Russian]. 
+
+9.  Fedosov 
+
+A.V., 
+
+Abdrakhmanov 
+
+N.Kh., 
+
+Gaysin 
+
+E.Sh., 
+
+Sharafutdinova G.M.,  Abdrakhmanova  K.N.,  Shammatova  A.A.  The  Use  of 
+
+Mathematical  Models  in the  Assessment of the  Measurements'  Uncertainty  for 
+
+the  Purpose  of  the  Industrial  Safety  Condition  Analysis  of  the  Dangerous 
+
+Production  Objects.  International  Journal  of  Pure  and  Applied  Mathematics, 
+
+No. 119 (10 Special Issue C), pp. 433-437. 
+
+10. Gaisina  L.M.,  Maier  V.V.,  Abdrakhmanov  N.K.,  Sultanova  E.A., 
+
+Belonozhko M.L.  Deliberate  Reorganization of the  System  of  Social  Relations 
+
+in  Oil  and  Gas  Companies  in  the  Period  of  Changes  in  Economics.  Espacios, 
+
+2017, Vol. 38, No. 48, 12 p.  
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+64 
+
+11. Fedosov  A.V.,  Abdrakhmanov  N.Kh.,  Badrtdinova  I.I.,  Vadulina  N.V. 
+
+Analiz  sostoyaniya  promyshlennoi  bezopasnosti  opasnykh  proizvodstvennykh 
+
+ob"ektov  s  uchetom  neopredelennosti  izmerenii  [Analysis  of  the  State  of 
+
+Industrial  Safety  of  Hazardous  Production  Facilities,  Taking  into  Account  the 
+
+Uncertainty  of  Measurements].  Transport 
+
+i  khranenie  nefteproduktov 
+
+i 
+
+uglevodorodnogo  syr'ya  –  Transport  and  Storage  of  Oil  Products  and 
+
+Hydrocarbons, 2018, No. 2, pp. 49-54. [in Russian]. 
+
+12. Kunelbayev  M.M.,  Gaisin  E.Sh.,  Repin  V.V.,  Galiullin  M.M., 
+
+Abdrakhmanova  K.N.  Heat  Absorption  by  Heat-Transfer  Agent  in  a  Flat  Plate 
+
+Solar Collector. International Journal of Pure and Applied Mathematics, 2017, 
+
+Vol. 115, No. 3, pp. 561-575. 
+
+13. Fedosov  A.V.,  Kozlova  A.V.,  Fedosov  V.A.,  Basyrova  A.R.  Mesto 
+
+neopredelennosti izmerenii pri analize sostoyaniya promyshlennoi bezopasnosti 
+
+opasnykh  proizvodstvennykh  ob"ektov  [Place  of  Measurement  Uncertainty  in 
+
+the  Analysis  of  Industrial  Safety  of  Hazardous  Production  Facilities]. 
+
+Elektronnyi  nauchnyi  zhurnal  «Neftegazovoe  delo»  –  Electronic  Scientific 
+
+Journal «Oil and Gas Business», 2018, No. 3, pp. 80-97. [in Russian]. 
+
+14. .Sekerin  V.D.,  Gaisina  L.M.,  Shutov  N.V.,  Abdrakhmanov  N.Kh., 
+
+Valitova  N.E.  Improving  the  Quality  of  Competence-Oriented  Training  of 
+
+Personnel  at  Industrial  Enterprises.  Quality  –  Access  to  Success,  2018,  Vol. 
+
+19, No. 165, pp. 68-73. 
+
+15. Fedosov  A.V.,  Akhmetova  D.D.,  Galeeva  A.F.  Kolichestvennyi  analiz 
+
+riska  na  opasnom  proizvodstvennom  ob"ekte  [Quantitative  Risk  Analysis  at  a 
+
+Hazardous  Production  Facility].  Materialy  XI  Mezhdunarodnoi  nauchno-
+
+prakticheskoi konferentsii «Pozharnaya i avariinaya bezopasnost'» [Proceedings 
+
+of the XI International Scientific and Practical Conference «Fire and Emergency 
+
+Safety»].  Ivanovo, 2016. pp. 184-187. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+65 
+
+16. Abdrakhmanov  N.Kh.,  Davletov  V.M.,  Abdrakhmanova  K.N., 
+
+Vorokhobko  V.V.,  Abdrakhmanov  R.N.  Povyshenie  bezopasnosti  ekspluatatsii 
+
+gazoprovodov [Improving the Safety of Gas Pipelines Operation]. Neftegazovoe 
+
+delo – Petroleum Engineering, 2016, Vol. 14, No. 3, pp. 183-187. [in Russian]. 
+
+17. Kuskil'din  R.A.,  Abdrakhmanov  N.Kh.,  Zakirova  Z.A.,  Yalalova  E.F., 
+
+Abdrakhmanova  K.N.,  Vorokhobko  V.V.  Sovremennye 
+
+tekhnologii  dlya 
+
+provedeniya 
+
+proizvodstvennogo 
+
+kontrolya, 
+
+povyshayushchie 
+
+uroven' 
+
+promyshlennoi  bezopasnosti  na  ob"ektakh  neftegazovoi  otrasli 
+
+[Modern 
+
+Technologies for Operation Control Monitoring Increasing Industrial Safety Level 
+
+on Oil and Gas Industry Objects]. Problemy sbora, podgotovki i transporta nefti i 
+
+nefteproduktov – Problems of Gathering, Treatment and Transportation of Oil and 
+
+Oil Products, 2017, No. 2 (108), pp. 111-120. [in Russian]. 
+
+18. Abdrakhmanov  N.Kh.,  Vadulina  N.V.,  Fedosov  A.V.,  Ryamova  S.M., 
+
+Gaisin  E.Sh.  А  New  Approach  for  a  Special  Assessment  of  the  Working 
+
+Conditions  at 
+
+the  Production  Factors'  Impact 
+
+through  Forecasting 
+
+the 
+
+Occupational Risks. Man in India, 2017, Vol. 97, No. 20, pp. 495-511.  
+
+19. Kolesnikov  E.Yu.,  Telyakov  E.Sh.  Kachestvennyi  i  kolichestvennyi 
+
+etapy  otsenki  neopredelennosti  avariinogo 
+
+riska 
+
+[The  Qualitative  and 
+
+Quantitative  Stages  of  the  Evaluation  of  the  Uncertainty  of  Disaster  Risk]. 
+
+Vestnik Kazanskogo tekhnologicheskogo universiteta – Herald of Technological 
+
+University, 2014, Vol. 17, No. 23, pp. 424-427. [in Russian]. 
+
+20. Kolesnikov E.Yu. Kachestvennyi analiz neopredelennosti pozharnogo riska. 
+
+Stsenarii  avarii  «pozhar  proliva  rastvoritelya»  [Qualitative  Analysis  of  Fire  Risk 
+
+Uncertainty. Crash Scenario «The Fire of the Strait of Solvent»]. Problemy analiza 
+
+riska – Issues of Risk Analysis, 2014, Vol. 11, No. 1, pp. 74-91. [in Russian]. 
+
+21. Fedosov  A.V.,  Akhmetova  D.D.,  Galeeva  A.V.,  Prokhorov  A.E. 
+
+Kolichestvennyi  analiz  riska  avarii  na  opasnom  proizvodstvennom  ob"ekte 
+
+[Quantitative  Analysis  of  the  Risk  of  an  Accident  at  a  Hazardous  Production 
+
+Facility]. Vestnik molodogo uchenogo UGNTU – Bulletin of the USPTU Young 
+
+Scientist, 2016, No. 4 (8), pp. 14-19. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+66 
+
+Сведения об авторах 
+
+About the authors 
+
+Федосов  Артем  Васильевич,  кандидат  технических  наук,  доцент 
+
+кафедры  «Промышленная  безопасность  и  охрана  труда»,  УГНТУ,  г.  Уфа, 
+
+Российская Федерация  
+
+Artem V. Fedosov, Candidate of Engineering Sciences, Assistant Professor 
+
+of  Industrial  Safety  and  Labor  Protection  Department,  USPTU,  Ufa,  Russian 
+
+Federation 
+
+email: fedsv-artem@rambler.ru 
+
+Бадртдинова  Ильзида  Илсуровна,  студент  кафедры  «Промышленная 
+
+безопасность и охрана труда», УГНТУ, г. Уфа, Российская Федерация 
+
+Ilzida  I.  Badrtdinova,  Student  of  Industrial  Safety  and  Labor  Protection 
+
+Department, USPTU, Ufa, Russian Federation  
+
+e-mail: b.ilzida99@mail.ru 
+
+Абдрахманова Карина Наилевна, магистрант кафедры «Промышленная 
+
+безопасность и охрана труда», УГНТУ, г. Уфа, Российская Федерация 
+
+Karina  N.  Abdrakhmanova,  Under-graduate  Student  Industrial  Safety  and 
+
+Labor Protection Department, USPTU, Ufa, Russian Federation  
+
+e-mail: akarinan@mail.ru 
+
+Валeкжанин  Дмитрий  Юрьевич,  канд.  техн.  наук,  доцент  кафедры 
+
+«Промышленная  безопасность  и  охрана  труда»,  УГНТУ,  г.  Уфа, 
+
+Российская Федерация 
+
+Dmitrij  Yu.  Velekzhanin,  Candidate  of  Engineering  Sciences,  Assistant 
+
+Professor  of  Industrial  Safety  and  Labor  Protection  Department,  USPTU,  Ufa, 
+
+Russian Federation 
+
+e-mail: unimix@mail.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+

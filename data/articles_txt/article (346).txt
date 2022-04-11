@@ -1,0 +1,108 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+УДК 665.642.2 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+ПЛАНИРОВАНИЕ ПОВЕДЕНИЯ ИНТЕЛЛЕКТУАЛЬНОГО АГЕНТА  
+С ПРИМЕНЕНИЕМ НЕОПРЕДЕЛЕННОЙ ЛОГИКИ ТИПА II 
+●●●●●● 
+PLANNING THE BEHAVIOR OF AN INTELLECTUAL AGENT  
+WITH APPLICATİON OF TYPE II UNCERTAIN LOGIC 
+
+Мурадли Вугар Ариф 
+магистрант кафедры  
+управления и системной инжинерии, 
+Азербайджанский государственный  
+университет нефти и промышленности  
+
+Muradli Vuqar Arif 
+Master of Department  
+Control and System Engineering, 
+Azerbaijan state university  
+of oil and industry 
+
+Аннотация.  Совершенствование  нечеткой  логики  процесса  раз-
+работки для планирования поведения интеллектуального агента в 
+современную  эпоху,  а  также  исследования  и  исследования, 
+направленные на решение проблем, возникших в это время, были 
+одной из наиболее актуальных и важных проблем все время. 
+
+Ключевые  слова:  логика,  интеллектуальный  агент,  нечеткая 
+логика. 
+
+Annotation.  Improvement  of  fuzzy  logic  for 
+the  development  process  for  the  planning  of 
+the  behavior  of  the  intellectual  agent  in  the 
+modern era, and the research and research to 
+address the problems that have arisen at this 
+time, has been one of the most pressing and 
+important issues of all time. 
+
+Keywords: logic, intellectual agent, fuzzy logic. 
+
+I 
+
+mprovement of fuzzy logic for the development process for the planning of the behavior of the intel-
+lectual agent in the modern era, and the research and research to address the problems that have 
+
+arisen at this time, has been one of the most pressing and important issues of all time. 
+
+The theory of fuzzy logic is an important part of mathematics and combines classical logic and concepts. 
+The notion of fuzzy logic was put forward in 1965, and its founder is Asgarzadeh, the Lutfulli Rahim oglu of 
+Azerbaijan (Lutfi Zade). In the broadest sense of fuzzy logic theory is the notion of a fuzzy set defined by the 
+function of belonging. It then includes the combination, intersection, and complementation of clusters, the con-
+cept of fuzzy proportions, and one of the most basic concepts is the linguistic variable [2]. 
+
+First  of  all, I  would  like  to  give  some  real  examples  to  clarify  my  point.  In  everyday  life, for  example, 
+people  make  different  decisions  by  choosing  one  of  many  solutions.  Some  of  these  decisions  occur  either 
+intuitively or automatically, based on the repressive practice of the decision-making process. Sometimes there 
+are situations when a person cannot make an immediate decision. In this case, the person analyzes the pros 
+and cons of alternatives, evaluates the possible consequences of the choice, consults with more experienced 
+people, and finally makes the decision. This is most often the case in economic systems when making deci-
+sions in the management of an enterprise or company. For this reason, it is necessary to study the relevant 
+theory separately in information systems because of the critical role of decision-making in governance: 
+
+First and foremost, decision-making is carried out at all stages of management, incorporating technology 
+
+into its implementation as a necessary element. 
+
+Secondly,  decision-making  is  an  integral  part  of  the  activities  of  any  senior  manager.  In  this  regard, 
+knowledge of decision-making methods and technologies is the most important element of a leader's profes-
+sional level. 
+
+Third, decision-making systems are a modern model of economic systems. The purpose of decision-
+
+making for information systems is that the decision-maker relates only to the field of action. 
+
+At the same time, it should be noted that decision-making as a psychological process is influenced by 
+many factors, including social status, lifestyle and work experience. And the process is directly related to the 
+intellectual logic of intellectual aggression. Mistakes made during the decision-making process, however, often 
+lead to serious consequences when the enterprise is at the highest level of management. Even the slightest 
+mistake and neglect can lead to big problems. It should be noted that for poorly structured issues, the «wrong 
+decision» is fuzzy. Thus, the existence of many criteria for alternative evaluation, the subjective nature of the 
+evaluation of alternatives for some criteria, and the difficulty in obtaining the best information, to some extent, 
+undermine the ability to select the optimum criterion of objectivity. 
+
+In conclusion, I would like to note that in the modern era when new forms of farming have been estab-
+lished, it is necessary to study the subject in light of the current problems and theoretical gaps in decision-
+making processes in the Azerbaijani economy [1]. 
+
+Литература/ References 
+
+1.  Mübariz Sevdimalı oğlu Xəlilov «İnformatika» Dərslik Səhifə 43–56. 
+2.  Bakı Biznes və Kooperasiya Kolleci.    
+
+161 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

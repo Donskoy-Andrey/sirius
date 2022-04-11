@@ -1,0 +1,267 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+УДК 622.692.4  
+
+СБОРНИК СТАТЕЙ – 2020 
+
+ОСОБЕННОСТИ ОЦЕНКИ ВЗАИМОДЕЙСТВИЯ ДРЕЙФУЮЩИХ  
+ЛЕДОВЫХ ОБРАЗОВАНИЙ С МОРСКИМИ ТРУБОПРОВОДАМИ 
+––––––– 
+ICE FEATURES-OFFSHORE PIPELINE INTERACTION  
+ASSESSMENT CONSIDERATIONS 
+
+Силина Ирина Георгиевна 
+аспирант кафедры транспорта углеводородных ресурсов, 
+Тюменский индустриальный университет 
+
+Silina Irina Georgievna 
+Post-graduate student of hydrocarbon  
+resources transportation chair, 
+Tyumen Industrial University 
+
+Иванов Вадим Андреевич 
+доктор технических наук,  
+профессор кафедры транспорта углеводородных ресурсов, 
+Тюменский индустриальный университет 
+
+Ivanov Vadim Andreevich 
+Doctor of Engineering,  
+Professor of hydrocarbon resources  
+transportation chair, 
+Tyumen Industrial University 
+
+Аннотация.  В  статье  представлен  анализ  факторов,  опреде-
+ляющих  особенности  функционирования  морских  трубопрово-
+дов  в  арктических  условиях.  Рассмотрены  подходы  к  опреде-
+лению оптимальной величины заглубления морских трубопро-
+водов.  Приведены  рекомендации  по  проектированию  трубо-
+проводов в данных условиях. 
+
+Ключевые слова: морские трубопроводы, ледовая экзарация, 
+борозды  выпахивания,  глубина  заложения,  ледовые  образо-
+вания. 
+
+Annotation. The article presents the analysis 
+of  the  factors  determining  the  peculiarities  of 
+operation  of  offshore  pipelines  in  the  Arctic 
+conditions.  Approaches 
+the 
+optimal  offshore  pipeline  burial  depth  are 
+considered.  The  recommendations  on  pipe-
+lines  design  in  the  given  conditions  are  de-
+scribed. 
+
+to  determine 
+
+Keywords:  marine  pipelines, 
+gouges, burial depth, ice formations. 
+
+ice  scour, 
+
+A 
+
+ccording  to  the  USGS  Circum-Arctic  Resource  Appraisal  (CARA)  mean  estimates,  oil  and  gas 
+reserves in the Arctic region are about 1,7 trillion cubic meters of natural gas, 44 billion barrels of 
+natural  gas  liquids,  and  90  billion  barrels  of  crude  oil.  Currently,  the  development  of  offshore  oil  and  gas 
+fields is impossible without pipeline systems construction. Offshore pipelines are designed not only for deliv-
+ering hydrocarbons to the consumer and shipping products to tankers and barges but also for infield and in-
+terfiled transportation of raw materials. [5] In particular, offshore pipelines are  used to collect well products 
+from subsea wellhead complexes to platforms and transport hydrocarbons from platforms to onshore produc-
+tion facilities. 
+
+The Arctic is a challenging area with prevalent: 
+–   harsh climate conditions; 
+–   harsh working conditions; 
+–   remote areas. 
+That factors  leads  to  limited  time for construction  activities  and  challenges  associated  with  pipelines 
+operation and maintenance, leak detection and emergency response. The Arctic also has extremely sensi-
+tive ecosystems and unique natural phenomena (such as strudel scour, ice gouging) that significantly affect 
+the pipeline systems life cycle. Permafrost, seasonal pack ice, and ice ridges present substantial challenges 
+for offshore pipeline systems, especially in shelf areas. 
+
+Additional static and dynamic loads from waves, currents and ice formations can be noted among the op-
+erating  conditions  of  the  offshore  pipelines. A  particularly  great  danger  for  the  pipelines  laid  in  freezing  seas  is 
+posed by drifting ice features and icebergs, the keels of which reach the seabed and displace soil mass, forming 
+such  forms  of  sea  relief  as  ice  gouges  and  pits.  [2]  Having  rather  large  kinetic  energy  and  strength,  drifting ice 
+formations are able to leave gouges with a depth of about 2–2.5 m. [1] In this case, the issue of ensuring a high 
+degree of reliability of offshore pipelines throughout their entire service life, including maintaining the design load-
+carrying capacity of pipeline walls regardless of external influences, becomes extremely important. 
+
+Russian  and  foreign  operation  practice  of  sea  pipelines  in  freezing  seas  is  extremely  limited,  which 
+leads  to  the  absence  of  the  unified  standard  base  on  pipelines  design,  construction  and  operation  in  such 
+conditions. 
+
+Existing standards do not give strong recommendations to assess the pipeline loading conditions induced 
+
+by ice gouging. The standards also do not offer any criteria or acceptable limits for offshore pipeline design. 
+
+In engineering practice, the pipeline trenching providing its safe operation is considered the most rea-
+sonable  protection  method  against  ice  gouging.  The  main  challenge  is  to  determine  the  safe  and  cost-
+
+158 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+effective  pipeline  burial  depth  along  the  whole  route.  The  design  depth  should  provide  sufficient  clearance 
+below the gouge for the pipeline to withstand the bending stress to a level that the design engineer considers 
+acceptable; the shear soil deformations should be taken into account. 
+
+Safe and cost-effective pipeline burial depth should be determined according to the physical behavior 
+of ice feature-soil-pipeline interaction process. In a natural environment, ice gouging scenarios are affected 
+by various factors, among which three main groups can be identified: hydrometeorological conditions (wind, 
+waves, currents, temperature, etc.), ice regime of the region and seabed soil characteristics. 
+
+The first two groups of factors determine the processes of ice features formation and drifting in the wa-
+
+ter area:  
+
+–   the geometric parameters and distribution of strength characteristics of the ice feature body;  
+–   formation mechanisms and separation of pressure ridges [3];  
+–   the initial kinetic energy of the ice formation, as well as the depth where the most intensive gouging 
+
+takes place, etc. 
+
+The underwater pipelines are also affected by coastal activities in the coastal and shelf zones. In this 
+regard, if the factor is not gouging depths may be underestimated, which may lay to an underestimation of 
+the required pipeline burial depth. [4]  
+
+Seabed soil properties determine the amount of energy required for the ice formation to left gouges of 
+certain depths and lengths on the seafloor. The topography of the seabed also influences the possible gouge 
+depth and geometry, creating additional resistance to the ice keel movement.  
+
+The  design  pipeline  burial  depth  should  be  determined  on  the  basis  of  seabed  mapping  data  (geo-
+physical, bathymetric), i.e., taking into account the existing local topography along with the gouges charac-
+teristics and frequency.  
+
+Geophysical and bathymetric surveys of the seabed is carried out using: 
+–   single- or multiple-beam echo sounders; 
+–   side-scans sonars; 
+–   sub-bottom profilers.  
+The  information  obtained  through  the  surveys  includes  gouge  depth,  width,  length,  orientation  and 
+density. Repetitive seabed mapping helps to distinguish young gouges from old ones and to determine goug-
+ing frequency. 
+
+The chosen assessment approach for pipeline burial depth determination may be a probabilistic one, 
+for which seabed mapping data is collected periodically over a given number of years. As an additional ap-
+proach  for  the  determination  of  possible  gouge  characteristics  a  computer  modeling  may  be  used.  In  this 
+case, the simulation of the most probable scenarios of ice features (with pre-set parameters) drifting can be 
+carried out; the interplay of driven forces must be considered. 
+
+Determination of the clearance between the gouge and the pipe depends on the acceptable pipeline 
+response  to  withstand  some  bending.  However,  when  determining  pipeline  response,  pipe  properties  and 
+design features should be taken into account. 
+
+Thus, pipeline burial depth along the right-of-way should be set determined based on climate and en-
+vironmental conditions of the considered region, as well as on the accepted “ice-seabed-pipeline” interaction 
+model. For this purpose, it is necessary to determine the maximum gouges depths (excluding “extreme” val-
+ues), estimate factors potentially involved in the interaction and, based on the sensitivity analysis, investigate 
+how the set of factors affects the load transferred to the buried pipeline. 
+
+Offshore pipelines in the Arctic region must be designed to account for ice gouging; for that purpose: 
+–   the  pipeline  burial  depth  should  be  determined  by  the  maximum  expected  gouges  depths  in  the 
+
+considered area; 
+
+–   certain  engineering  techniques  have  to  be  implemented  to  avoid  interaction  of  pipelines  with  ice 
+
+keels [5]; 
+
+–   ice gouging phenomenon should be investigated through complex methods, including field surveys, 
+
+physical testing or numerical simulations.  
+
+As  it  was  mentioned,  there  are  several  approaches  to  generate  information  on  scouring  phenomena 
+and gain understanding of seabed response to ice gouging. These approaches can be divided into two fol-
+lowing categories: 
+
+–   real events observation which involve performing extensive site surveys, identifying gouges charac-
+
+teristics and frequency. 
+
+–   artificial  simulations  that  can  bridge  the  knowledge  gaps  and  provide  better  understanding  of                           
+
+the complexity of «ice gouging-seabed-pipeline» interaction process. 
+
+All abovementioned indicate the necessity of further investigation in the area. Predicting the maximum 
+possible gouge depth as  well as  soil deformation is connected  with determination of the minimum required 
+burial depth and ensuring pipe integrity. To adequately estimate the induced loads and the optimal pipeline 
+burial  depth,  additional  research  on  ice  gouging  phenomenon  is  essential. The  coupled  soil-pipe  response 
+when investigating displacement and the local buckling effect of the pipe is also in need of further studies. 
+
+159 
+
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+Литература: 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+1.  Вершинин С.А. Воздействие ледовых образований на подводные объекты / С.А. Вершинин, П.А. Трус-
+
+ков, П.А. Лиферов. – М. : Русская книга, 2007. – 195 с. 
+
+2.  Либина  Н.В.  Экзарационные  явления  на  восточном  арктическом  шельфе  России  /  Н.В.  Либина,                     
+
+С.Л. Никифоров // Вестник МГТУ. – 2018. – Т. 21. – № 1. – С. 139–149. 
+
+3.  Миронов Е.У. Формирование гряд торосов в прибрежной части Карского моря и их морфометрические 
+характеристики / Е.У. Миронов, В.С. Порубаев // Современные проблемы науки и образования. – 2012. – № 4. – 
+С. 331. 
+
+4.  Наумов  А.К.  Морфометрические  характеристики  ледяных  образований  Баренцева  моря 
+
+:                             
+
+дис. … канд. геогр. наук : 25.00.28 / Алексей Кирович Наумов; Аркт. и антаркт. науч.-исслед. ин-т. – СПб., 2010. – 
+175 с. 
+
+5.  Сурков Г.А. Научно-методические основы расчета нагрузок от ледяных торосов на морские нефтегазо-
+промысловые  сооружения  :  дис.  …  д-ра  техн.  наук:  25.00.18,  05.23.07 /  Геннадий  Александрович  Сурков.  –  М., 
+2001. – 383 с. 
+
+References: 
+
+1.  Vershinin S.A. Ice features effect on underwater facilities / S.A. Vershinin, P.A. Truskov, P.A. Liferov. – M. : Russian 
+
+Book, 2007. – 195 p. 
+
+2.  Libina N.V. Ice gouging effects on the eastern Arctic shelf of Russia / N.V. Libina, S.L. Nikiforov // MSTU Jour-
+
+nal. – 2018. – V. 21. – № 1. – P. 139–149. 
+
+3.  Mironov E.U. Ice pressure ridge shaping in the Kara Sea intertidal zone ant their morphometric parameters / 
+
+E.U. Mironov, V.S. Porubaev // Actual prob-lems of the science and education. – 2012. – № 4. –  P. 331. 
+
+4.  Naumov A.K. Morphometric parameters of ice features in the Barents Sea : diss. … cand. geogr. sciences : 
+
+25.00.28 / Alexey Kirovich Naumov; Arct. and Antarct. research. un-ty. – SPb., 2010. – 175 p. 
+
+5.  Surkov G.A. Scientific and methodic basics of calculation of stress values transferring from ice features to ma-
+rine oil and gas production facilities : dis. … d-r techn. sciences : 25.00.18, 05.23.07 / Gennadiy Alexandrovich Surkov. – 
+M., 2001. – 383 p. 
+
+160 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,380 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+УДК 621.31, 62-83, 621.313.33 
+
+АСПЕКТЫ МОДЕЛИРОВАНИЯ ТРУБОПРОВОДА ДЛЯ ОПТИМАЛЬНОЙ РАБОТЫ 
+ЭЛЕКТРОТЕХНИЧЕСКОЙ СИСТЕМЫ НЕФТЕПЕРЕКАЧИВАЮЩЕЙ СТАНЦИИ 
+––––––– 
+ASPECTS OF PIPELINE MODELING FOR OPTIMUM OPERATION  
+OF ELECTRICAL SYSTEM OF OIL PUMPING STATION 
+
+Ляшенко Андрей Михайлович 
+магистрант, 
+Кубанский государственный технологический университет 
+
+Lyashenko Andrey Mikhaylovich 
+Undergraduate, 
+Kuban State Technological University 
+
+Афанасьев Виктор Леонидович 
+аспирант,  
+Кубанский государственный технологический университет 
+
+Afanasiev Viktor Leonidovich 
+Graduate student, 
+Kuban State Technological University 
+
+Махинько Владислав Сергеевич 
+магистрант, 
+Кубанский государственный технологический университет  
+
+Mahinko Vladislav Sergeyevich 
+Undergraduate, 
+Kuban State Technological University 
+
+Аннотация.  В  статье  показаны  аспекты  моделирования  тру-
+бопровода  для  оптимальной  работы  электротехнической  си-
+стемы нефтеперекачивающей станции. Приведён сравнитель-
+ный  анализ  различных  видов  реализации  трубопроводной  си-
+стемы  и  модели  системы.  Грамотно  спроектированная  трубо-
+проводная  система  позволит  обеспечить  правильную  работу 
+нефтеперекачивающей  станции  и  системам  электрического 
+привода наносов. 
+
+Annotation.  The  article  shows  aspects  of 
+pipeline modeling for optimal operation of the 
+electrical  system  of  the  oil  pumping  station. 
+Comparative  analysis  of  different  types  of 
+pipeline  system  implementation  and  system 
+model  is  given.  A  well-designed  pipeline 
+system will ensure correct operation of the oil 
+pumping  station  and  the  electric  sediments 
+drive systems. 
+
+Ключевые  слова:  моделирование,  оптимальная  работа, 
+нефтеперекачивающая  станция,  специальный  электрический 
+привод. 
+
+Keywords:  modeling,  optimum  operation,  oil 
+pumping station, special electric drive. 
+
+М 
+
+оделирование  трубопроводной  системы  необходимо  для  оптимальной  работы  нефтепе-
+рекачивающей станции [1, 2], электротехнической системы и систем электрического при-
+вода наносов [3, 4] и его компонентам [5, 6]. К данным типам электроприводов относятся и специаль-
+ные электрические приводы [7, 8]. Для правильной работы трубопроводной системы необходимо оп-
+тимально  выбрать  способы  прокладки  трубопровода  и  выбрать  оптимальные  параметры  работы  [9, 
+10] электроприводов различных конструкций [11, 12]. К таким параметрам относят электромагнитную 
+энергию [13, 14], мощность [15, 16] и момент на валу привода [17, 18], определяемые системами рас-
+чета [19, 20]. Рассмотрим некоторые аспекты моделирования и создания трубопровода. 
+
+Траншея  с  водонепроницаемой  оболочкой.  Данная  конфигурация  траншеи  позволяет  иметь  неза-
+мерзающие участки засыпки. После вскрытия траншеи на трех ее сторонах устанавливается водонепро-
+ницаемый  геомембранный  слой.  Сыпучий  материал  толщиной  0,2  м  укладывается  на  дно  над  геомем-
+бранным слоем. Затем на сыпучий слой укладывается трубопровод и осуществляется его засыпка. Засып-
+ка прекращается на 0,3 м от уровня грунта, кладется водонепроницаемый геомембранный лист и прива-
+ривается  с  помощью  нагревания  к  каждой  стороне  первого  слоя,  чтобы  получить  водонепроницаемую 
+оболочку  вокруг  засыпки.  Представленный  материал  достаточно  гибкий,  также  присутствует  адаптируе-
+мость к значительным деформациям, стойкость к вдавливанию и стойкость к рыхлению. Однако следует 
+отметить, что засыпка должна быть сухой до тех пор, пока верхняя мембрана не будет положена и прива-
+рена по сторонам этой мембраны. Следовательно, никакие работы невозможны в дождливые дни. Более 
+того, нет гарантии, что герметичность геомембраны будет обеспечена в течение срока службы трубопро-
+вода, техническое обслуживание также связано с трудностями. 
+
+Траншея с блоками из полистирола. Эта конфигурация траншеи состоит в закладке полистиро-
+ловых блоков вокруг трубопровода. Сверху материала из полистирола производится засыпка камнем, 
+чтобы уравновесить плавучесть в случае подъема уровня воды. В данном случае должны быть уста-
+новлены стоки воды по профилю пересекаемой зоны. Преимуществами является то, что этот матери-
+ал  амортизирует  боковые  напряжения,  возникающие  при  сдвигах  при  землетрясении.  Он химически 
+устойчив и не абсорбирует влагу. Но, тем не менее, в материале возникают высокие напряжения при 
+сжатии, а также расход материала слишком велик. 
+
+100 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Траншея  с  полипропиленовыми  сотопластами.  Здесь  в  качестве  замещающего  материала  ис-
+пользуются  полипропиленовые  соты,  устанавливаемые  вокруг  трубопровода.  Для  защиты  трубопро-
+вода на дне траншеи укладывается слой полистирола. Полипропиленовые соты должны снабжаться 
+водонепроницаемой пленкой, чтобы не допустить попадания воды внутрь. Для защиты водонепрони-
+цаемой  пленки  вокруг  сотовых  блоков  должен  помещаться  слой  геотекстиля. Трубопровод покрыва-
+ется  пластом  полистирола,  который  засыпается  камнем,  чтобы  уравновесить  плавучесть  в  случае 
+повышения  уровня  воды.  Данный  сотовый  материал  компенсирует  допустимые  продольные  дефор-
+мации  при  принятых  смещениях  при  разломе  и  хорошо  выдерживает  химические  воздействия.  Ос-
+новным  недостатком  является  неопределенность  в  части  водонепроницаемости  сотовых  блоков  в 
+течение  срока  службы  установки.  Более  того,  в  случае  сильного  землетрясения  полипропиленовые 
+соты  становятся  непригодными для дальнейшего  использования  и должны  быть  заменены,  что  при-
+ведет к дополнительным расходам при техническом обслуживании. 
+
+Траншея с пенопластом. В этой конфигурации для обкладки трубопровода используется пено-
+пласт, размещаемый над трубопроводом и около трубопровода. На дне траншеи укладывается слой 
+полистирола  для  защиты  трубопровода.  Окончательная  засыпка  делается  камнем,  чтобы  уравнове-
+сить плавучесть в случае повышения уровня воды. Устанавливается также мембрана из геотекстиля 
+под и вне засыпки камнем, чтобы изолировать ее и облегчить ее подъем. Данный материал водоне-
+проницаем,  хорошо держит  углеводород,  а  поставщик  гарантирует  его  сохранность  в  течение  срока 
+службы установки. Основным недостатком является размер необработанных блоков, который связан 
+с дополнительными затратами на сварку и спекание блоков для получения необходимых размеров. 
+
+Существует также несколько альтернативных решений, таких как: траншея с резиновыми меш-
+ками, заполненными шариками из полистирола; траншея с ячеистым полистиролом (или сотами) и с 
+резиновыми мешками, заполненными шариками из полистирола. 
+
+На  рисунке  1  представлены  результаты  моделирования  распределения  напряжений  в  трубо-
+
+проводе. 
+
+Рисунок 1 – Система СВП в разрезе 
+
+Исходя  из  этого,  можно  сделать  вывод,  что  наилучшим  решением  для  подземной  прокладки 
+трубопровода  является  конфигурация  с  материалом-заменителем,  который  по  механическим  свой-
+ствам соответствует пенопласту, который амортизирует максимальные смещения разлома. 
+
+Литература: 
+
+1.  Шаммазов  А.М.  Решение  задач  оптимизации  реконструкции  и  развития  нефтепроводной  системы  / 
+
+А.М. Шаммазов и др. // Нефтяное хозяйство. – 2018. – № 8. – С. 80–83.  
+
+2.  Неганов Д.А. Формирование требований к надежности и безопасности эксплуатируемых участков линейной 
+части магистральных нефтепроводов и нефтепродуктопроводов / Д.А. Неганов, Н.А. Махутов, Н.Е. Зорин // Нефтяное 
+хозяйство. – 2019. – № 6. – С. 106–112.  
+
+3.  Попов  Б.К.  Управляемый  каскадный  электрический  привод  с  жидкостным  токосъемом 
+
+/                          
+
+Б.К.  Попов,  В.Ю.  Карандей 
+№ 2011127829/07 от 06.07.2011. 
+
+//  Патент  на  изобретение  RU  2461947  C1,  20.09.2012.  Заявка                                                    
+
+4.  Попов  Б.К.  Аксиальный  каскадный  электрический  привод  с  жидкостным  токосъемом  /  Б.К.  Попов,              
+
+В.Ю. Карандей, О.Б. Попова // Патент на изобретение RU 2483415 C1, 27.05.2013. Заявка № 2012109118/07 от 
+11.03.2012. 
+
+5.  Карандей  В.Ю.  Сигнализирующее  токосъемное  устройство  /  В.Ю.  Карандей,  Б.К.  Попов,  Ю.Ю.  Карандей, 
+
+В.Л. Афанасьев // Патент на изобретение RU 2601958 C1, 10.11.2016. Заявка № 2015131209/07 от 27.07.2015. 
+
+6.  Попов  Б.К.  Токосъемное  устройство  /  Б.К.  Попов,  В.Ю.  Карандей  //  Патент  на  изобретение                                 
+
+RU 2370869 C1, 20.10.2009. Заявка № 2008126609/09 от 30.06.2008. 
+
+7.  Попов  Б.К.  Управляемый  каскадный  электрический  привод  /  Б.К.  Попов,  В.Ю.  Карандей  //  Патент  на 
+
+изобретение RU 2402857C1, 27.10.2010. Заявка № 2009111708/09 от 30.03.2009. 
+
+101 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+8.  Афанасьев  В.Л.  Управляемый  каскадный  электрический  привод  /  В.Л.  Афанасьев,  В.Ю.  Карандей,                 
+
+Б.К. Попов // Патент на полезную модель RU 191959 U1, 28.08.2019. Заявка № 2019111630 от 16.04.2019. 
+
+9.  Karandey V.Yu. Optimization of parameters of special asynchronous electric drives / V.Yu. Karandey et al. // 
+
+IOP Conf. Series : Materials Science and Engineering. – 2018. – Vol. 327. – 052002.  
+
+10. Karandey V.Yu. Research of electrical power processes for optimum modeling and design of special electric 
+/  V.Yu.  Karandey  et  al. 
+
+in  Engineering  Research  conference  proceedings.  –  2018.  –                                
+
+//  Advances 
+
+drives 
+Vol. 157. – Р. 242–247.  
+
+11. Карандей  В.Ю.  Определение  магнитных  параметров  модели  статора  компонента  управляемого  асин-
+хронного каскадного электрического привода аксиальной конструкции / В.Ю. Карандей и др. // Политематический се-
+тевой электронный научный журнал Кубанского государственного аграрного университета. – 2017. – № 10(134). – 
+С. 1135–1151.  
+
+12. Карандей  В.Ю. Определение  магнитных  параметров  модели  статора  компонента  управляемого асин-
+хронного каскадного электрического привода цилиндрической конструкции / В.Ю. Карандей и др. // Политемати-
+ческий  сетевой  электронный  научный  журнал  Кубанского  государственного  аграрного  университета.  –  2017.  –               
+№ 09(133). – С. 1231–1248.  
+
+13. Karandey V.Yu. Research of change of parameters of a magnetic flux of the stator and rotor of special electric 
+drives  /  V.Yu.  Karandey,  B.K.  Popov,  V.L.  Afanasyev  //  2018  International  Multi-Conference  on  Industrial  Engineering 
+and Modern Technologies (FarEastCon). – 2018. – P. 8602911.  
+
+14. Karandey  V.Yu.  Research  of  electromagnetic  parameters  for  improvement  of  efficiency  of  special  electric 
+drives and components / V.Yu. Karandey [et al.] // 5th International Conference on Power Generation Systems and Re-
+newable Energy Technologies. – 2019. – Р. 69–74.  
+
+15. Karandey  V.Yu.  Research  dynamics  of  change  of  electromagnetic  parameters  of  controlled  special  electric 
+drives / V.Yu. Karandey et al. // 2019 International Multi-Conference on Industrial Engineering and Modern Technologies 
+(FarEastCon-2019). – 2019. – P. 8934751.  
+
+16. Карандей  В.Ю.  Mathematical  modeling  of  special  electric  drives  for  the  equipment  of  oil  and  gas  branch  / 
+В.Ю. Карандей, В.Л. Афанасьев // Политематический сетевой электронный научный журнал Кубанского государ-
+ственного аграрного университета. – 2017. – № 08(132). – С. 926–940.  
+
+17. Karandey  V.Yu.  Determination  of  power  and  moment  on  shaft  of  special  asynchronous  electric  drives  /                       
+V.Yu.  Karandey  et  al.  //  IOP  Conf.  Series:  Materials  Science  and  Engineering.  –  2018.  –  Vol.  327.  –  052003.                       
+DOI: 10.1088/1757-899X/327/5/052003. 
+
+18. Karandey  V.Yu.  Research  and  analysis  of force  and moment  of the  cascade  asynchronous  electric  drives  / 
+V.Yu. Karandey et al. // IOP Conference Series: Earth and Environmental Science  electronic edition. Saint-Petersburg 
+Mining University. – 2018. – Vol. 194. – Р. 5.  
+
+19. Попов  Б.К.  Программа  для  расчета  магнитной  системы  ротора  методом  магнитных  цепей 
+
+/                                  
+
+Б.К. Попов, В.Ю. Карандей // Свидетельство о регистрации программы для ЭВМ RU № 2008614047, зарегистри-
+ровано 30.06.2008 г. 
+
+20. Попов Б.К. Программа расчета токов статора и ротора в каскадном электрическом приводе / Б.К. По-
+пов,  В.Ю.  Карандей  //  свидетельство  о  регистрации программы  для  ЭВМ  RU №  2008614048,  зарегистрировано 
+30.06.2008 г. 
+
+References: 
+
+1.  Shammazov  A.M.  Solving  problems  of  reconstruction  and  development  optimization  of  a  pipeline  system  / 
+
+A.M. Shammazov et al. // Oil Industry. – 2018. – № 8. – P. 80–83.  
+
+2.  Neganov D.A. Formation of requirements to reliability and security of the exploited sections of the linear part of 
+trunk pipelines transportation of oil and oil products / D.A. Neganov, N.A. Makhutov, N.E. Zorin // Oil Industry. – 2019. – 
+№ 6. – P. 106–112.  
+
+3.  Popov B.K. Controlled cascade electric drive with liquid current terminal / B.K. Popov, V.Yu. Karandey // Patent for 
+
+invention № RU 2461947 C1, is registered 20.09.2012, application № 2011127829/07 here 06.07.2011. 
+
+4.  Popov  B.K.  Axial  cascade  electric  drive  with  liquid  current  terminal  /  B.K.  Popov,  V.Yu.  Karandey,                         
+
+O.B.  Popova  //  patent  for  invention  №  RU  2483415  C1,  is registered  27.05.2013,  application №  2012109118/07  here 
+11.03.2012. 
+
+5.  Karandey  V.Yu.  Signalling  liquid  current  terminal  /  V.Yu.  Karandey,  B.K.  Popov,  Yu.Yu.  Karandey,                        
+
+V.L.  Afanasyev 
+for 
+№ 2015131209/07 here 27.07.2015. 
+
+//  Patent 
+
+invention  №  RU  2601958  C1, 
+
+is 
+
+registered  10.11.2016.  Application                                               
+
+6.  Popov  B.K.  Liquid  current 
+
+terminal 
+
+/  B.K.  Popov,  V.Yu.  Karandey 
+
+//  Patent 
+
+for 
+
+invention                                       
+
+№ RU 2370869 C1, is registered 20.10.2009. Application № 2008126609/09 here 30.06.2008. 
+
+7.  Popov  B.K.  Controlled  cascade  electric  drive  /  B.K.  Popov,  V.Yu.  Karandey  //  Patent  for  invention                       
+
+№ RU 2402857 C1, is registered 27.10.2010, application № 2009111708/09 here 30.03.2009.  
+
+8.  Afanasyev V.L. The controlled cascade electric drive / V.L. Afanasyev, V.Yu. Karandey, B.K. Popov, patent for 
+
+utility model № RU 191959 U1, is registered 28.08.2019. Application № 2019111630 here 16.04.2019. 
+
+9.  Karandey V.Yu. Optimization of parameters of special asynchronous electric drives / V.Yu. Karandey et al. // 
+
+IOP Conf. Series: Materials Science and Engineering. – 2018. – Vol. 327. – 052002.  
+
+10. Karandey V.Yu. Research of electrical power processes for optimum modeling and design of special electric drives / 
+
+V.Yu. Karandey et al. // Advances in Engineering Research conference proceedings. – 2018. – Vol. 157. – Р. 242–247.  
+
+11. Karandey  V.Yu.  The  magnetic  model  parameters  determination  of  the  stator  of  the  component  of  the  con-
+trolled asynchronous cascade electric drive axial construction / V.Yu. Karandey et al. // Polythematic network electronic 
+scientific  magazine  of  the  Kuban  state  agricultural  university  (The  scientific  magazine  of  KUBGAU).  –  Krasnodar  : 
+KubGAU, 2017. – № 10(134). – P. 1135–1151.  
+
+102 
+
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+12. Karandey  V.Yu.  The  magnetic  model  parameters  determination  of  the  stator  of  the  component  of  the  con-
+trolled  asynchronous  cascade  electric  drive  of  cilindrical  construction  /  V.Yu.  Karandey  et  al.  //  Polythematic  network 
+electronic scientific magazine of the Kuban state agricultural university (The scientific magazine of KUBGAU). – Krasno-
+dar : KubGAU, 2017. – № 09(133). – P. 1231–1248.  
+
+13. Karandey V.Yu. Research of change of parameters of a magnetic flux of the stator and rotor of special electric 
+drives  /  V.Yu.  Karandey,  B.K.  Popov,  V.L.  Afanasyev  //  2018  International  Multi-Conference  on  Industrial  Engineering 
+and Modern Technologies (FarEastCon). – 2018. – P. 8602911.  
+
+14. Karandey  V.Yu.  Research  of  electromagnetic  parameters  for  improvement  of  efficiency  of  special  electric 
+drives and components / V.Yu. Karandey et al. // 5th International Conference on Power Generation Systems and Re-
+newable Energy Technologies. – 2019. – Р. 69–74.  
+
+15. Karandey  V.Yu.  Research  dynamics  of  change  of  electromagnetic  parameters  of  controlled  special  electric 
+drives / V.Yu. Karandey et al. // 2019 International Multi-Conference on Industrial Engineering and Modern Technologies 
+(FarEastCon-2019). – 2019. – P. 8934751.  
+
+16. Karandey  V.Yu.  Mathematical  modeling  of  special  electric  drives  for  the  equipment  of  oil  and  gas  branch  / 
+V.Yu.  Karandey,  V.L.  Afanasyev  //  Polythematic  network  electronic  scientific  magazine  of  the  Kuban  state  agricultural 
+university (The scientific magazine of KUBGAU). – Krasnodar : KubGAU, 2017. – № 08(132). – P. 926–940.  
+
+17. Karandey  V.Yu.  Determination  of  power  and  moment  on  shaft  of  special  asynchronous  electric  drives  /                         
+
+V.Yu. Karandey et al. // IOP Conf. Series: Materials Science and Engineering. – 2018. – Vol. 327. – 052003.  
+
+18. Karandey  V.Yu.  Research  and  analysis  of force  and moment  of the  cascade  asynchronous  electric  drives  / 
+V.Yu. Karandey et al. // IOP Conference Series: Earth and Environmental Science  electronic edition. Saint-Petersburg 
+Mining University. – 2018. – Vol. 194. – Р. 5.  
+
+19. Popov B.K. Program for calculation of magnetic system of a rotor by method of magnetic circuits / B.K. Popov 
+V.Yu.  Karandey  //  Certificate  on  official  registration  of  the  computer  program  RU  №  2008614047,  is  registered 
+30.06.2008 year. 
+
+20. Popov B.K. The program of calculation of currents of the stator and rotor in the cascade electric drive / B.K. Popov, 
+V.Yu.  Karandey  //  Certificate  on  official  registration  of  the  computer  program  RU  №  2008614048,  is  registered 
+30.06.2008 year. 
+
+103 
+
+ 
+ 
+ 
+ 
+ 
+

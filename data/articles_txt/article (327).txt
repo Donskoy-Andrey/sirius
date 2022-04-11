@@ -1,0 +1,91 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+УДК 665.642.2 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+СИСТЕМА КОНТРОЛЯ ПОТЕРЬ ЭНЕРГИИ 
+●●●●●● 
+CONTROL SYSTEM OF ENERGY LOSS 
+
+Абзарли Матин Мубариз 
+магистрант кафедры управления  
+и системной инжинерии, 
+Азербайджанский государственный  
+университет нефти и промышленности  
+
+Abzarli Matin Mubariz 
+Master of Department Control  
+and System Engineering, 
+Azerbaijan state university  
+of oil and industry 
+
+Аннотация.  Выбор  устройства  и  программного  обеспечения 
+позволяет оптимизировать параметры качества системы и кон-
+тролировать погрешности измерений, а также размер парамет-
+ров измерений. 
+
+Annotation. Choosing device and software is 
+optimizing  quality  parameters  of  the  system 
+and controlling errors in measurement also the 
+size of the measurement parameters. 
+
+Ключевые слова: потеря электроэнергии, асинхронные двига-
+тели, передача энергии, частота, амплитуда, фаза. 
+
+Keywords: electricity loss, asynchronous mo-
+tors,  power  transmission,  frequency,  ampli-
+tude, phase. 
+
+I 
+
+t is often required effective use electricity from the electrical grid for increasing efficiency of produc-
+tion. The main problem in this situation it is how to decrease electricity loss. The main part of the loss 
+is in the asynchronous motors which have power transmission. There are some consumer of electricity which 
+have inductance character. They are also have power losses and they producing reactive power [1]. 
+
+In thus thesis we will see how to improve efficiency of using electricity and controlling active and reactive 
+power. It is recommended to create control system for measuring main parameters of the electrical devices. 
+For measuring voltage with control system we need to know frequency, amplitude and phase. 
+
+Choosing device and software is optimizing quality parameters of the system and controlling errors in 
+measurement also the size of the measurement parameters. At the same times provides using measurement 
+and conversion. 
+
+The first results show that this system will reduce power loss and harmful compensation [2]. 
+
+Литература 
+
+7.  Железко  Ю.С.  Расчет,  анализ  и  нормирование  потерь  электроэнергии  в  электрических  сетях.  –  М.  :                   
+
+НУ ЭНАС, 2002. – 280 с. 
+
+8.  Воротницкий В.Э., Заслонов С.В., Туркина О.В. Методы и средства расчета, анализа и снижения потерь 
+
+электрической энергии при ее передаче по электрическим сетям. – М. : 2006. – 167 с. 
+
+References 
+
+7.  Zhelezko Yu.S. Calculation, analysis and rationing of the electric power losses in the electrical networks. – M. :                  
+
+NU ENAS, 2002. – 280 р. 
+
+8.  Vorotnitskiy V.E., Zaslonov S.V., Turkina O.V. Methods and means for calculation, analysis and reduction of the 
+
+electric energy loss at its transmission through the electric networks. – М. : 2006. – 167 р. 
+
+247 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

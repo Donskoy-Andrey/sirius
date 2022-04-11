@@ -1,0 +1,321 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+УДК 621.31, 62-83, 621.313.33 
+
+ПРИМЕНЕНИЕ ПРИБЛИЖЕННОГО ОПРЕДЕЛЕНИЯ МИНИМУМА  
+ДЛЯ РЕШЕНИЯ ЗАДАЧИ ОПТИМИЗАЦИИ  
+СПЕЦИАЛЬНЫХ ЭЛЕКТРИЧЕСКИХ ПРИВОДОВ  
+●●●●●● 
+APPLICATION OF APPROXIMATE MINIMUM DETERMINATION FOR SOLUTION  
+OF PROBLEM OF OPTIMIZATION OF SPECIAL ELECTRIC DRIVES 
+
+Попова Ольга Борисовна 
+кандидат технических наук, доцент, 
+Кубанский государственный  
+технологический университет 
+
+Афанасьев Виктор Леонидович 
+аспирант, 
+Кубанский государственный  
+технологический университет 
+
+Popova Olga Borisovna 
+Candidate of technical sciences,  
+Associate Professor, 
+Kuban state technological university 
+
+Afanasiev Viktor Leonidovich 
+Graduate student, 
+Kuban state technological university 
+
+Карандей Юрий Юрьевич 
+ПАО «РОССЕТИ» 
+
+Karandey Yury Yuryevich 
+PJSC ROSSETI 
+
+Аннотация. В статье рассмотрены задачи применения прибли-
+женного определения минимума. Исследование этих задач при 
+помощи геометрического программирования показывает, какие 
+преимущества  дает  использование  двойственной  программы 
+для решения задачи оптимизации. Это свойство используется 
+для решения задачи оптимизации специальных электрических 
+приводов. 
+
+Annotation. The article discusses the tasks of 
+applying the approximate definition of the min-
+imum.  Research  these  problems  using  geo-
+metric programming shows the benefits of us-
+ing  a  dual  program  to  solve  the  optimization 
+problem.  This  property  is  used  to  solve  the 
+problem  of  optimization  of  special  electric 
+drives. 
+
+Ключевые слова: специальный электрический привод, управ-
+ляемый асинхронный каскадный электропривод, методы опти-
+мизации,  геометрическое  программирование,  электромехани-
+ческое преобразование энергии, электромагнитная система. 
+
+Keywords:  special  electric  drive,  controlled 
+asynchronous  cascade  electric  drive,  optimi-
+zation  methods,  geometric  programming, 
+electromechanical  transformation  of  energy, 
+electromagnetic system. 
+
+Б 
+
+ольшое количество времени и ресурсов тратится на решение задач создания новых типов 
+устройств и механизмов. Ускорить решение данного класса задач позволит разработка но-
+вых подходов к системе структурирования [1] и поиска данных [2, 3], использование новых подходов к 
+оптимизации конструкций [4, 5] и процессов [6, 7]. Совместное применение таких подходов дает воз-
+можность  довольно  точно  определять  как  статические  [8,  9],  так  и  динамические  [10,  11] параметры 
+системы. Такое решение даст возможность исследовать электромагнитные и конструктивных характе-
+ристики [12, 13] специальных электрических приводов. Рассмотрим задачи применения приближенного 
+определения минимума. 
+
+При рассмотрении задачи 1 условия ортогональности и нормализации приводят к четырем ли-
+нейным уравнениям с четырьмя неизвестными и единственным решением. Таким образом, минималь-
+ная суммарная величина определяется сразу. Задача становится более сложной, если число линейных 
+уравнений меньше, чем число неизвестных. Такой случай имеет место в следующем примере. 
+
+Задача 2. Эта задача такая же, как и задача 1, за исключением того, что условия требуют, чтобы 
+
+t3 = 1. Мы видим, что теперь суммарная величина равна: 
+
+=
+
+g
+
+40
+tt
+21
+
++
+
+t
+40
+
+2
+
++
+
+t
+20
+1
+
++
+
+10
+
+tt
+21
+
+. 
+
+(1) 
+
+Двойственная функция опять совпадает и условия ортогональности совпадают с (1), но уравне-
+ние для D3 отсутствует. Теперь задача заключается в максимизации двойственной функции, подчинен-
+ной ограничениям, налагаемым тремя линейными уравнениями, которые определяются условиями ор-
+тогональности и нормализации. 
+
+312 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Приближенное  решение  задачи  2  можно  получить.  Во-первых,  заметим,  что  из  того,  что  веса 
+удовлетворяют условиям ортогональности и нормализации задачи 1, следует, что они удовлетворяют 
+также менее ограничительным условиям задачи 2. С другой стороны, двойственные функции для за-
+дачи 1 и задачи 2 совпадают. Следовательно, минимальная искомая величина не может быть меньше 
+определенного значения. 
+
+Чтобы получить верхнюю границу искомой величины, подставим в прямую функцию g пробные 
+значения  переменных.  Положим  t1  =  l  и  t2  =  1.  Тогда  следует,  что  минимальная  величина  не  может 
+превосходить другого близкого значения. Теперь мы имеем верхнюю и нижнюю оценки минимальной 
+стоимости. Если мы примем М равным среднему, то ошибка не может превосходить 5 %. 
+
+Исследование этих двух задач при помощи геометрического программирования показывает, ка-
+кие преимущества  дает использование двойственной программы.  Действительно,  задача  1  при  этом 
+решается  сразу.  Задача  2  оказалась  более  трудной,  но  приближенное  решение  было  получено  до-
+вольно просто. Такое решение позволяет использовать его для решения задачи оптимизации специ-
+альных электрических приводов [14]. Проверка точности полученного решения может быть проверена 
+с помощью системы контрольных примеров [15, 16].  
+
+Литература 
+
+1.  Popova O.B. Theoretical propositions and practical implementation of the formalization of structured knowledge 
+of the subject area for exploratory research / O.B. Popova, B.K. Popov, V.Yu. Karandei, Yu.D. Shevtsov, V.I. Klyuchko. 
+Advances in Intelligent Systems and Computing. Vol. 722, 432–437 pp., 2018. Doi: 10.1007/978-3-319-73888-8_67. 
+
+2.  Popova  O.B.  New  Methods  and  Evaluation  Criteria  of  Research  Efficiency  /  O.B.  Popova,  B.K.  Popov,                    
+
+V.Yu. Karandei, D.A. Romanov, S.A. Kobzeva & M.A. Evseeva (2015) // Mediterranean journal of social sciences, Vol 6, 
+№ 6 S5, pp. 212–217. 
+
+3.  Popova  O.B.  Analysis  of  forecasting  methods  as  a  tool  for  information  structuring  in  science  research  /                             
+
+O.B. Popova, B.K. Popov, V.Yu. Karandei, M.A. Evseeva // British Journal of Applied Science & Technology. – 2016. – 
+Vol. 17. – T. 2. – Р. 9–19. – Doi: 10.9734/BJAST/2016/26353. 
+
+4.  Карандей  В.Ю. Определение  магнитных  параметров  модели  статора компонента  управляемого асин-
+хронного каскадного электрического привода аксиальной конструкции / В.Ю. Карандей, В.Н. Кишко, В.Л. Афана-
+сьев, В.В. Квочкин // Политематический сетевой электронный научный журнал Кубанского государственного аграр-
+ного университета. – 2017. – № 10 (134). – С. 1135–1151. – Doi: 10.21515/1990-4665-134-092. 
+
+5.  Карандей  В.Ю. Определение  магнитных  параметров  модели  статора компонента  управляемого асин-
+
+хронного  каскадного  электрического  привода  цилиндрической  конструкции  /  В.Ю.  Карандей,  В.В.  Квочкин,                       
+В.Л. Афанасьев, В.Н. Кишко // Политематический сетевой электронный научный журнал Кубанского государствен-
+ного аграрного университета. – 2017. – № 09 (133). – С. 1231–1248. – Doi: 10.21515/1990-4665-133-105. 
+
+6.  Karandey V.Yu. Research of electrical power processes for optimum modeling and design of special electric 
+drives  /  V.Yu.  Karandey,  B.K.  Popov,  O.B.  Popova,  V.L.  Afanasyev  //  Advances  in  Engineering  Research  conference 
+proceedings. – 2018. – Vol. 157. – Р. 242–247. – Doi: 10.2991/aime-18.2018.47. 
+
+7.  Karandey V.Yu. Optimization of parameters of special asynchronous electric drives / V.Yu. Karandey, B.K. Po-
+pov, O.B. Popova, V.L. Afanasyev // IOP Conf. Series: Materials Science and Engineering, Vol. 327, 052002, 2018. Doi: 
+10.1088/1757-899X/327/5/052002. 
+
+8.  Карандей  В.Ю.  Mathematical  modeling  of  special  electric  drives  for  the  equipment  of  oil  and  gas  branch  /                
+
+В.Ю. Карандей, В.Л. Афанасьев // Политематический сетевой электронный научный журнал Кубанского государ-
+ственного аграрного университета. – 2017. – № 08 (132). – С. 926–940. – Doi: 10.21515/1990-4665-132-072.  
+
+9.  Karandey V.Yu. Research of electromagnetic parameters for improvement of efficiency of special electric drives 
+and  components  /  V.Yu.  Karandey,  B.K.  Popov,  O.B.  Popova,  V.L.  Afanasyev  5th  International  Conference  on  Power 
+Generation Systems and Renewable Energy Technologies 2019, 69–74 pp., 2016. Doi: 10.1109/PGSRET.2019.8882689. 
+
+10. Karandey  V.Yu.  Determination  of  power  and  moment  on  shaft  of  special  asynchronous  electric  drives  /                  
+V.Yu.  Karandey,  B.K.  Popov,  O.B.  Popova,  V.L.  Afanasyev  //  IOP  Conf.  Series:  Materials  Science  and  Engineering,                  
+Vol. 327, 052003, 2018. Doi: 10.1088/1757-899X/327/5/052003. 
+
+11. Karandey  V.Yu.  Research  and  analysis  of  force and moment  of the  cascade  asynchronous electric  drives /                 
+
+V.Yu. Karandey, B.K. Popov, O.B. Popova, V.L. Afanasyev // IOP Conference Series: Earth and Environmental Science elec-
+tronic edition. Saint-Petersburg Mining University. Vol. 194, Т. 5, 052009, 2018. Doi: 10.1088/1755-1315/194/5/052009. 
+
+12. Karandey  V.Yu.  Research  dynamics  of  change  of  electromagnetic  parameters  of  controlled  special  electric 
+drives / V.Yu. Karandey, O.B. Popova, B.K. Popov, V.L. Afanasyev // 2019 International Multi-Conference on Industrial 
+Engineering and Modern Technologies (FarEastCon-2019) 2019. p. 8934751. Doi: 10.1109/FarEastCon.2019.8934751. 
+
+13. Karandey V.Yu. Research of change of parameters of a magnetic flux of the stator and rotor of special electric 
+drives / V.Yu. Karandey, B.K. Popov, V.L. Afanasyev // 2018 International Multi-Conference on Industrial Engineering and 
+Modern Technologies (FarEastCon) 2018. p. 8602911. Doi: 10.1109/FarEastCon.2018.8602911. 
+
+14. Афанасьев  В.Л.  Управляемый  каскадный  электрический  привод  /  В.Л.  Афанасьев,  В.Ю.  Карандей,                  
+
+Б.К. Попов // патент на полезную модель RU 191959 U1, 28.08.2019, заявка № 2019111630 от 16.04.2019. 
+
+15. Попов Б.К. Программа для расчета магнитной системы ротора методом магнитных цепей / Б.К. Попов, 
+В.Ю.  Карандей  //  свидетельство  о  регистрации  программы  для  ЭВМ  RU  №  2008614047,  зарегистрировано 
+30.06.2008 г. 
+
+16. Попов Б.К. Программа расчета токов статора и ротора в каскадном электрическом приводе / Б.К. Попов, 
+В.Ю.  Карандей  //  свидетельство  о  регистрации  программы  для  ЭВМ  RU  №  2008614048,  зарегистрировано 
+30.06.2008 г. 
+
+313 
+
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+References 
+
+1.  Popova O.B. Theoretical propositions and practical implementation of the formalization of structured knowledge 
+of the subject area for exploratory research / O.B. Popova, B.K. Popov, V.Yu. Karandei, Yu.D. Shevtsov, V.I. Klyuchko. 
+Advances in Intelligent Systems and Computing. Vol. 722, 432–437 pp., 2018. Doi: 10.1007/978-3-319-73888-8_67. 
+
+2.  Popova O.B. New Methods and Evaluation Criteria of Research Efficiency / O.B. Popova, B.K. Popov, V.Yu. 
+Karandei, D.A. Romanov, S.A. Kobzeva & M.A. Evseeva (2015) // Mediterranean Journal of Social Sciences, Vol 6, № 6 
+S5, pp. 212–217. 
+
+3.  Popova  O.B.  Analysis  of  forecasting  methods  as  a  tool  for  information  structuring  in  scientific  research  /                     
+
+O.B. Popova, B.K. Popov, V.Yu. Karandei, M.A. Evseeva // British Journal of Applied Science & Technology. – 2016. – 
+Vol. 17. – T. 2. – Р. 9–19. – Doi: 10.9734/BJAST/2016/26353. 
+
+4.  Karandey V.Yu. Determination of the magnetic parameters of the stator model for the controlled asynchronous 
+cascade  electric  drive  component  of  the  axial  design  /  V.Yu.  Karandey,  V.N.  Kishko,  V.L.  Afanasiev,  V.V.  Kvochkin  // 
+Polythematic  network  electronic  scientific  journal  of  the  Kuban  State  Agrarian  University.  –  2017.  –  №  10  (134).  –                                
+Р. 1135–1151. – Doi: 10.21515/1990-4665-134-092. 
+
+5.  Karandey V.Yu. Determination of the magnetic parameters of the stator model of the controlled asynchronous 
+cascade electric drive component of the cylindrical design / V.Yu. Kvochkin, V.L. Afanas'ev, V.N. Kishko // Polythematic 
+network electronic scientific journal of the Kuban State Agrarian University. – 2017. – № 09 (133). – С. 1231–1248. – Doi: 
+10.21515/1990-4665-133-105. 
+
+6.  Karandey V.Yu. Research of electrical power processes for optimum modeling and design of special elec-tric 
+drives  /  V.Yu.  Karandey,  B.K.  Popov,  O.B.  Popova,  V.L.  Afanasyev  //  Advances  in  Engineering  Research  conference 
+proceedings. – 2018. – Vol. 157. – Р. 242–247. – Doi: 10.2991/aime-18.2018.47. 
+
+7.  Karandey V.Yu. Optimization of parameters of special asynchronous electric drives / V.Yu. Karandey, B.K. Po-
+pov, O.B. Popova, V.L. Afanasyev // IOP Conf. Series: Materials Science and Engineering, Vol. 327, 052002, 2018. Doi: 
+10.1088/1757-899X/327/5/052002. 
+
+8.  Karandey  V.Yu.  Mathematical  modeling  of  special  electric  drives  for  the  equipment  of  oil  and  gas  branch  /                   
+
+V.Yu. Karandey, V.L. Afanas'ev // Polythematic network electronic scientific journal of Kuban state agrarian university. – 
+2017. – № 08 (132). – Р. 926–940. – Doi: 10.21515/1990-4665-132-072.  
+
+9.  Karandey V.Yu. Research of electromagnetic parameters for improvement of special electric drives and com-
+ponents / V.Yu. Karandey, B.K. Popov, O.B. Popova, V.L. Afanasyev 5th International Conference on Power Generation 
+Systems and Renewable Energy Technologies 2019, 69-74 pp., 2016. Doi: 10.1109/PGSRET.2019.8882689. 
+
+10. Karandey  V.Yu.  Determination  of  power  and  moment  on  shaft  of  special  asynchronous  electric  drives  /                       
+
+V.Yu.  Karandey,  B.K.  Popov,  O.B.  Popova,  V.L.  Afanasyev  //  IOP  Conf.  Series:  Materials  Science  and  Engineering,                    
+Vol. 327, 052003, 2018. Doi: 10.1088/1757-899X/327/5/052003. 
+
+11. Karandey  V.Yu.  Research  and  analysis  of  force and moment  of the  cascade  asynchronous electric  drives / 
+V.Yu. Karandey, B.K. Popov, O.B. Popova, V.L. Afanasyev // IOP Conference Series: Earth and Environmental Science 
+electronic  edition.  Saint-Petersburg  Mining  University.  Vol.  194,  Т.  5,  052009,  2018.  Doi:  10.1088/1755-
+1315/194/5/052009. 
+
+12. Karandey  V.Yu.  Research  dynamics  of  change  of  electromagnetic  parameters  of  controlled  special  electric 
+drives / V.Yu. Karandey, O.B. Popova, B.K. Popov, V.L. Afanasyev // 2019 International Multi-Conference on Industrial 
+Engineering and Modern Technologies (FarEastCon-2019) 2019. p. 8934751. Doi: 10.1109/FarEastCon.2019.8934751. 
+
+13. Karandey V.Yu. Research of change of parameters of a magnetic flux of the stator and rotor of special electric 
+drives / V.Yu. Karandey, B.K. Popov, V.L. Afanasyev // 2018 International Multi-Conference on Industrial Engineering and 
+Modern Technologies (FarEastCon) 2018. p. 8602911. Doi: 10.1109/FarEastCon.2018.8602911. 
+
+14. Afanasiev  V.L.  Controlled  cascade  electric  drive  /  V.L.  Afanasiev,  V.Yu.  Karandey,  B.K.  Popov  //  Patent  for 
+
+useful model RU 191959 U1, 28.08.2019, application № 2019111630 of 16.04.2019. 
+
+15. Popov  B.K.  Program  for  the  calculation  of  the  rotor  magnetic  system  by  the  magnetic  circuit  method  /                           
+
+B.K. Popov, V.Yu. Karandey // Program registration certificate for computer RU № 2008614047, registered 30.06.2008. 
+
+16. Popov  B.K.  Program  for  the  stator  and  rotor  current  calculation  in  a  cascade  electric  drive  /  B.K.  Popov,                     
+
+V.Yu. Karandey // Program registration certificate for Computer RU № 2008614048, registered 30.06.2008. 
+
+314 
+
+ 
+ 
+ 
+ 
+ 
+

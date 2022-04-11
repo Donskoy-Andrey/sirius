@@ -1,0 +1,1317 @@
+92 
+
+УДК 331.45 
+
+ГРАФИЧЕСКИЙ АНАЛИЗ ПОЖАРОВЗРЫВОБЕЗОПАСНОСТИ 
+
+ПРОМЫШЛЕННОГО ПРЕДПРИЯТИЯ, ЭКСПЛУАТИРУЮЩЕГО 
+
+КОТЕЛЬНЫЕ УСТАНОВКИ 
+
+GRAPHICAL ANALYSIS OF FIRE AND EXPLOSION SAFETY  
+
+OF THE INDUSTRIAL ENTERPRISE OPERATING BOILER PLANTS 
+
+А.И. Щелчкова, Л.Ф. Хасанова, А.Р. Галеева, О.Г. Мартынова, 
+
+Р.И. Ахметшин, С.Т. Рахманова 
+
+ Уфимский государственный авиационный технический университет, 
+
+г. Уфа, Российская Федерация  
+
+К.Ш. Ямалетдинова 
+
+Челябинский государственный университет,  
+
+г. Челябинск, Российская Федерация 
+
+З.А. Янгуразова 
+
+Башкирский государственный университет, 
+
+г. Уфа, Российская Федерация 
+
+Anastasia I. Shchelchkova, Leysyan F. Khasanova, Alina R. Galeeva,  
+
+Olga G. Martynova, Rustam I. Akhmetshin, Svetlana T. Rakhmanova  
+
+Ufa State Aviation Technical University,Ufa, Russian Federation 
+
+Klara Sh. Yamaletdinova 
+
+Chelyabinsk State University, Chelyabinsk, Russian Federation 
+
+Zemfira A. Yangurazova 
+
+Bashkir State University, Ufa, Russian Federation. 
+
+e-mail: ahmetshin@bk.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+93 
+
+Аннотация.  Котельные  установки  –  это  комплекс  устройств,  которые 
+
+расположены  в  специальных  помещениях.  Они  служат  для  превращения 
+
+химической энергии топлива в тепловую энергию горячей воды или пара. 
+
+Котельные  установки  различаются  по  видам  применяемого  топлива: 
+
+газовые, твердотопливные, жидкотопливные и комбинированные. Газовые 
+
+котельные 
+
+в  настоящее 
+
+время 
+
+являются  одними  из  наиболее 
+
+востребованных  установок  благодаря  высокой  эффективности,  довольно 
+
+дешевому топливу и простоте эксплуатации. Однако широкое применение 
+
+газового  топлива  на  производстве  может  привести  к  непредвиденным 
+
+аварийным  ситуациям.  Аварийные  ситуации  могут  возникать  по  разным 
+
+причинам,  основными  из  них  являются  некачественные  монтаж  и  ремонт 
+
+оборудования, коррозия, сбои в системе автоматизации, ошибка персонала, 
+
+внешние факторы и др. Одной из главных опасностей при возникновении 
+
+аварийных  ситуаций  в  котельных  являются  разгерметизация  или 
+
+повреждение  газопровода с  утечкой  взрывоопасного  газа  и  последующим 
+
+взрывом 
+
+образующегося 
+
+облака 
+
+парогазовоздушной 
+
+смеси.  По 
+
+статистическим  данным  известно,  что  примерно  80–85  %  аварий 
+
+сопровождаются  взрывом  и  пожаром.  Как  правило,  взрывы  и  пожары 
+
+возникают  вследствие  искр,  которые,  в  свою  очередь,  появляются  в 
+
+результате  взаимодействия  и  трения  частиц  топлива  (газа)  с  металлами  и 
+
+твердыми  частицами  грунтовой  поверхности.  Такие  аварии  принято 
+
+приравнивать к чрезвычайным ситуациям, поскольку они могут повлечь за 
+
+собой  человеческие  жертвы, 
+
+значительные  материальные  убытки, 
+
+нарушения жизнедеятельности людей, а также нанести глобальный ущерб 
+
+окружающей  среде.  В  связи  с  этим  исследование  данной  проблемы  в 
+
+настоящее  время  является  актуальным.  В  данной  работе  рассмотрены 
+
+основные  проблемы  пожаровзрывобезопасности  котельных  установок  и 
+
+проведен их анализ с помощью графических методов, таких как диаграмма 
+
+Парето,  диаграмма  Исикавы,  круговая  диаграмма,  сектограмма  и  дерево 
+
+событий. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+94 
+
+Abstract. Boiler installations are a set of devices that are located in special 
+
+rooms.  They  serve  to  change  the  chemical  energy  of  the  fuel  in  the  thermal 
+
+energy of hot water or steam. Boiler installations differ in the types of fuel used: 
+
+gas, solid fuel, liquid fuel and combined. Gas boiler houses are currently one of 
+
+the  most  demanded  installations,  due  to  high  efficiency,  rather  cheap  fuel  and 
+
+ease  of  operation.  However,  the  widespread  use  of  gas  fuel  in  production  can 
+
+lead  to  unforeseen  emergency  situations.  Emergency  situations  can  arise  for 
+
+various  reasons,  but  the  main  ones  are:  poor-quality  installation  and  repair  of 
+
+equipment,  corrosion,  failures  in  the  automation  system,  personnel  error, 
+
+external factors, etc.  
+
+Also,  one  of  the  main  dangers,  in  the  event  of  emergencies  in  the  boiler 
+
+houses, is the depressurization or damage to the gas pipeline with the leakage of 
+
+explosive  gas  and  the  subsequent  explosion  of  the  resulting  cloud  of  the  gas-
+
+and-air mixture. According to statistics, it is known that approximately 80-85% 
+
+of accidents are accompanied by an explosion and a fire. As a rule, explosions 
+
+and  fires  are  caused  by  sparks,  which  in  turn  result  from  the  interaction  and 
+
+friction  of  particles  of  fuel  (gas)  with  metals  and  solid  particles  of  the  ground 
+
+surface. Such accidents are considered to be equated to emergency situations, as 
+
+they  can  entail  human  casualties,  significant  material  losses,  disruptions  in 
+
+people's lives, and also cause global damage to the environment. In this regard, 
+
+the study of this problem is currently relevant. In this paper, the main problems 
+
+of  fire  and  explosion  safety  of  boiler  plants  are  analyzed  and  analyzed  using 
+
+graphical  methods  such  as  Pareto  diagram,  Ishikawa  diagram,  pie  chart, 
+
+sectorogram and event tree. 
+
+Ключевые  слова:  котельная;  авария;  взрыв;  пожар;  разгерметизация 
+
+газопровода; графический анализ; диаграмма Парето; диаграмма Исикавы 
+
+Key  words:  the  smelting  of  iron;  boiler  room;  accident;  explosion;  fire; 
+
+depressurization  of  the  gas  pipeline;  graphical  analysis;  Pareto  chart;  Ishikawa 
+
+diagram 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+95 
+
+Среди 
+
+систем 
+
+теплоснабжения 
+
+котельные 
+
+остаются 
+
+самым 
+
+востребованным  вариантом  получения  энергии  и  тепла.  Одновременно 
+
+котельные  согласно  действующим  нормам  закона  относятся  к  опасным 
+
+производственным  объектам,  требующим  повышенного  внимания  к 
+
+обслуживанию и эксплуатации.  
+
+В России эксплуатируется более 70 000 паровых и водогрейных котлов. 
+
+Статистические данные, представленные на рисунке 1, свидетельствуют о 
+
+том,  что  из  этого  общего  количества  больше  половины  котельных 
+
+действуют  на  газе,  треть  –  на  дизельном  топливе,  порядка  10  %  – 
+
+комбинированные и не более 5 % – твердотопливные [1].  
+
+Технические 
+
+характеристики 
+
+различных 
+
+видов 
+
+котельных 
+
+представлены в таблице 1 [2]. 
+
+Рисунок 1. Котельные установки в зависимости от вида  
+применяемого топлива 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+96 
+
+Таблица  1.  Технические  характеристики  различных  видов  котельных 
+установок 
+
+Характеристики 
+
+Виды котельных 
+установок 
+
+,
+ь
+т
+с
+о
+н
+щ
+о
+М
+
+Т
+В
+к
+
+%
+
+,
+
+Д
+П
+К
+
+е
+е
+ч
+о
+б
+а
+Р
+
+,
+е
+и
+н
+е
+л
+в
+а
+д
+
+р
+а
+б
+
+а
+р
+у
+т
+а
+р
+е
+п
+м
+е
+Т
+
+,
+я
+л
+е
+т
+и
+с
+о
+н
+о
+л
+п
+е
+т
+
+С
+°
+
+-
+и
+л
+в
+а
+р
+д
+и
+Г
+
+е
+о
+к
+с
+е
+ч
+
+-
+в
+и
+т
+о
+р
+п
+о
+с
+
+а
+П
+М
+
+,
+е
+и
+н
+е
+л
+
+д
+о
+х
+с
+а
+Р
+
+ч
+/
+3
+м
+
+,
+а
+в
+и
+л
+п
+о
+т
+
+т
+В
+к
+1
+а
+з
+
+а
+н
+е
+Ц
+
+,
+
+и
+т
+с
+о
+н
+щ
+о
+м
+
+.
+
+б
+у
+р
+
+а
+н
+е
+Ц
+
+,
+я
+и
+н
+а
+в
+о
+д
+у
+р
+о
+б
+о
+
+.
+
+б
+у
+р
+.
+с
+ы
+т
+
+Газовая 
+
+2000 
+
+94 
+
+Комбини-рованная  2000 
+
+97 
+
+Жидкотоп-ливная  2000 
+
+90 
+
+6 
+
+6 
+
+5 
+
+115 
+
+0,01 
+
+236 
+
+0,5 
+
+737 
+
+100 
+
+0,03 
+
+200 
+
+3,3 
+
+802,6 
+
+110 
+
+0,0002 
+
+245 
+
+2,8 
+
+456 
+
+Твердотоп-ливная  2000 
+
+83 
+
+36 
+
+200 
+
+0,07 
+
+294 
+
+0,9 
+
+650 
+
+Для  наглядной  оценки  характеристик  видов  котельных  установок 
+
+построена  сектограмма  (рисунок  2),  позволяющая  сравнить  их  числовые 
+
+показатели. 
+
+Проанализировав полученную сектограмму, можно сделать следующие 
+
+выводы.  
+
+Наиболее 
+
+эффективными  и 
+
+экономичными 
+
+являются 
+
+газовые 
+
+котельные установки, так как при высокой мощности и КПД, сравнительно 
+
+низком 
+
+гидравлическом  сопротивлении 
+
+затраты  на  установку  и 
+
+эксплуатацию остаются невелики. 
+
+Показатели  других  котельных  установок  уступают  по  многим 
+
+параметрам,  поэтому  целесообразно  применение  газовых  котельных 
+
+установок.  Однако  широкое  использование  природного  газа  в  котельных 
+
+может привести к аварийным ситуациям.  
+
+Аварии  газовых  котельных  по  статистике  являются наиболее  частыми 
+
+техногенными чрезвычайными ситуациями [3]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+97 
+
+Рисунок 2. Сектограмма сравнительных характеристик различных видов 
+котельных установок 
+
+Определено, что аварийные ситуации в котельных чаще всего связаны 
+
+с утечкой природного газа вследствие разгерметизации газопровода.  
+
+Для  анализа  причины  чрезвычайного  события  (ЧС),  связанной  с 
+
+разгерметизацией  газопровода  в  котельной  установке  предприятия  N, 
+
+построена диаграмма Исикавы, представленная на рисунке 3. 
+
+Для решения и представления некоторых проблем диаграмма Исикавы 
+
+на  основе  статистических  данных,  представленных  в  таблице  2  [4], 
+
+дополнена диаграммой Парето (рисунок 4).   
+
+Диаграмма  Парето  позволяет  выявить  основные  причины,  с  которых 
+
+необходимо начинать решать проблему. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+98 
+
+Рисунок 3. Комплексное влияние факторов на разгерметизацию 
+газопровода в котельной 
+
+Таблица  2.  Статистические  данные  по  типам  причин  разгерметизации 
+газопровода в котельной 
+
+Проблема 
+
+Количество 
+случаев/год 
+
+Накопленный 
+итог, % 
+
+Накопленный 
+итог, % 
+
+Механические  
+повреждения газопровода 
+
+Взрывы топлива 
+
+Коррозия 
+
+Разрывы сварных швов 
+
+Повреждения  
+в результате природных  
+явлений 
+
+25 
+
+12 
+
+6 
+
+3 
+
+1 
+
+25 
+
+37 
+
+43 
+
+46 
+
+47 
+
+52 
+
+77 
+
+90 
+
+97 
+
+100 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+99 
+
+Рисунок 4. Диаграмма Парето по типам причин разгерметизации 
+газопровода в котельной 
+
+Как  видно  из  диаграммы  Парето,  первые  две  проблемы  возникли 
+
+примерно  в  77  %  случаях.  Диаграмма  Парето  в  данном  формате 
+
+высвечивает  ключевые  области  и  помогает 
+
+группам  установить 
+
+приоритеты в своей деятельности. 
+
+Для  определения,  анализа  и  графического  представления  вариантов 
+
+развития  аварии  используется  дерево  событий,  которое  представлено  на 
+
+рисунке 5. 
+
+На  основе  дерева 
+
+событий  произведен  расчет 
+
+вероятности 
+
+возникновения наиболее опасного и вероятного сценария развития ЧС.  
+
+По результатам расчета вероятность возникновения наиболее опасного 
+
+сценария  развития  ЧС  –  взрыв  парогазового  облака  составила  
+
+0,6  ·  10-4  год-1,  вероятность  возникновения  наиболее  вероятного  сценария 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+ 
+развития  ЧС  –  рассеивание  парогазового  облака  составила  0,7  10-4 год-1 
+
+[5]. 
+
+100 
+
+Рисунок 5. Разработка сценариев развития ЧС в котельной с помощью 
+дерева событий 
+
+Полученные диаграммы позволяют наглядно и в полном объеме понять 
+
+проблему, что в дальнейшем поможет найти пути ее решения [6–13]. 
+
+Выводы 
+
+Таким  образом,  возможности  графического  анализа  и  представления 
+
+проблемы  пожаровзрывобезопасности  промышленного  предприятия  N, 
+
+эксплуатирующего  котельные  установки,  в  настоящей  работе  были 
+
+выражены  в  виде  построения  таких  диаграмм  как  круговая  диаграмма, 
+
+сектограмма, диаграмма Исикавы и диаграмма Парето.  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+ 
+101 
+
+Полученные диаграммы позволяют наглядно и в полном объеме понять 
+
+проблему, что в дальнейшем поможет найти пути ее решения.  
+
+Представление  данных  в  графическом  виде  позволяет  решать  самые 
+
+разнообразные  задачи,  что  является  одним  из  основных  достоинств 
+
+графических возможностей анализа какой-либо проблемы. 
+
+Список используемых источников 
+
+1.  Лыкова  А.И.,  Яковлева  Е.В.  Анализ  опасностей  при  эксплуатации 
+
+городских  котельных  //  Научное  сообщество  студентов  XXI  столетия. 
+
+Технические науки: сб. ст. по матер. XXX студенческой междунар. науч.-
+
+практ. конф. Новосибирск: Ассоциация научных сотрудников «Сибирская 
+
+академическая книга», 2015. № 3 (29). С. 178-182. 
+
+2.  Технический  каталог  котельного  оборудования  «LAVART».  Омск: 
+
+LAVART, 2014. 75 с. 
+
+3.  Гостева  А.В.,  Глебова  Е.В.,  Черноплёков  А.Н.  Прогнозирование 
+
+чрезвычайных  ситуаций  на  магистральных  газопроводах  на  основе 
+
+результатов анализа риска // Нефть, газ и бизнес. 2009. № 9. С. 68-70. 
+
+4.  Кузнецов  В.В.,  Ляпин  A.A.,  Монахов  P.E.,  Шавкин  C.B. 
+
+Сравнительный  анализ  статистических  данных  по  аварийности  на 
+
+магистральных трубопроводах в России и в Западной Европе // Нефть, газ 
+
+и бизнес. 2007. № 12. С. 49-56. 
+
+5.  Лисанов  М.В.,  Печеркин  А.С.,  Сидоров  В.И.  Анализ  риска  и 
+
+декларирование 
+
+безопасности 
+
+объектов 
+
+нефтяной 
+
+и 
+
+газовой 
+
+промышленности  //  Сертификация  и  безопасность  оборудования.  1998. 
+
+№ 1. С. 37-41. 
+
+6.  Галиакберов В.В., Мартынова О.Г., Ахметшин Р.И., Рахманова С.Т. 
+
+Графические  особенности  анализа  ветроэнергопотенциала  региона 
+
+// 
+
+Современные  тенденции  развития  науки  и  производства:  сб.  матер.  VII 
+
+Междунар.  науч.-практ.  конф.  Кемерово:  Западно-Сибирский  научный 
+
+центр, 2017. Т. 2. С. 99-104. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+102 
+
+7.  Кияшко  И.Ю.,  Кияшко  Л.Ю.,  Елизарьев  А.Н.,  Манякова  Г.М., 
+
+Габдулхаков  Р.Р.,  Мартынова  О.Г.  Моделирование  экологических  ЧС, 
+
+вызванных  загрязнением  водных  объектов 
+
+//  Успехи  современного 
+
+естествознания. 2016. № 2. С. 159-163. 
+
+8.  Елизарьева  Е.Н.,  Янбаев  Ю.А.,  Юнусова  Д.М.,  Дементьев  Д.Г., 
+
+Мартынова  О.Г.,  Ахметшин  Р.И.,  Гибадуллин  И.З.,  Рахманова  С.Т. 
+
+Использование 
+
+методов 
+
+графического 
+
+анализа 
+
+для 
+
+оценки 
+
+фиторемедиационного  потенциала  сельскохозяйственных  растений 
+
+// 
+
+Естественные и технические науки. 2018. № 2 (116). C. 28-32. 
+
+9.  Юсупов  Т.Р.,  Кадырова  Г.А.,  Шайдуллин  Р.Р.,  Мартынова  О.Г., 
+
+Рахманова  С.Т.,  Ахметшин  Р.И.  Графическое  представление  обеспечения 
+
+экологической безопасности функционирования промывочно-пропарочной 
+
+станции  железнодорожного  комплекса 
+
+//  Наукоемкие  технологии  в 
+
+решении  проблем  нефтегазового  комплекса:  матер.  VIII  Междунар. 
+
+молодежн. науч. конф. Уфа: БашГУ, 2018. С. 249-254. 
+
+10. Дьяченко  О.В.,  Шарипова  К.Р.,  Мартынова  О.Г.,  Рахманова  С.Т., 
+
+Ахметшин  Р.И.,  Хафизов  А.Р.,  Гарматин  А.В.  К  вопросу  о 
+
+прогнозировании  и  принятии  решений  в  условиях  возникновении 
+
+чрезвычайных  ситуаций  //  Наукоемкие  технологии  в  решении  проблем 
+
+нефтегазового  комплекса:  матер.  VIII  Междунар.  молодежн.  науч.  конф. 
+
+Уфа: БашГУ, 2018. С. 40-43. 
+
+11. Ахметшин 
+
+Р.И., 
+
+Гарифьянов 
+
+Т.Р.,  Курбангулова  Л.К., 
+
+Давлетгареев В.Р.,  Мартынова  О.Г.  Графическое  представление  способа 
+
+снижения  шума  в  городской  среде  с  помощью  акустического  экрана  // 
+
+Вестник современных исследований. 2018. № 12.14 (27). С. 48-53. 
+
+12. Абдрахманова  А.А.,  Кадырова  Г.А.,  Курбангулова  Л.К., 
+
+Мартынова О.Г.,  Ахметшин  Р.И.  Графические  приемы  визуализации 
+
+механизма  действия  ингибиторов  кислотной  коррозии  и  оценки  их 
+
+эффективности // Вестник современных исследований. 2018. № 12.14 (27). 
+
+С. 5-11. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+13. Ахметшин Р.И., Зиганшина Л.Б., Гизетдинова А.А., Мартынова О.Г. 
+
+Использование  графического  3D-моделирования  для  представления 
+
+токсического  эффекта наночастиц оксидов металлов на живые  организмы 
+
+// Вестник современных исследований. 2018. № 12.14 (27). С. 54-60. 
+
+103 
+
+Reference 
+
+1.  Lykova  A.I.,  Yakovleva  E.V.  Analiz  opasnostei  pri  ekspluatatsii 
+
+gorodskikh  kotel'nykh  [Hazard  Analysis  during  the  Operation  of  Urban  Boiler 
+
+Rooms].  Sbornik  statei  po  materialam  XXX  studencheskoi  mezhdunarodnoi 
+
+nauchno-prakticheskoi  konferentsii  «Nauchnoe  soobshchestvo  studentov  XXI 
+
+stoletiya. Tekhnicheskie nauki» [Collection of Articles Based on Materials from 
+
+the  XXX  Student  International  Scientific  and  Practical  Conference  «The 
+
+Scientific  Community  of  Students  of  the  XXI  Century.  Technical  Science»]. 
+
+Novosibirsk, 
+
+Assotsiatsiya 
+
+nauchnykh 
+
+sotrudnikov 
+
+«Sibirskaya 
+
+akademicheskaya kniga» Publ., 2015, No. 3 (29), pp. 178-182. [in Russian]. 
+
+2.  Tekhnicheskii  katalog  kotel'nogo  oborudovaniya  «LAVART»  [Technical 
+
+Catalog of Boiler Equipment «LAVART»]. Omsk, LAVART Publ., 2014, 75 p. 
+
+[in Russian]. 
+
+3.  Gosteva  A.V.,  Glebova  E.V.,  Chernoplekov  A.N.  Prognozirovanie 
+
+chrezvychainykh  situatsii  na  magistral'nykh  gazoprovodakh  na  osnove 
+
+rezul'tatov  analiza  riska  [Prediction  of  Emergency  Situations  on  Gas  Pipelines 
+
+Based  on  the  Results  of  Risk  Analysis].  Neft',  gaz  i  biznes  –  Oil,  Gas  and 
+
+Business, 2009, No. 9, pp. 68-70. [in Russian]. 
+
+4.  Kuznetsov  V.V.,  Lyapin  A.A.,  Monakhov  P.E.,  Shavkin  C.B. 
+
+Sravnitel'nyi  analiz  statisticheskikh  dannykh  po  avariinosti  na  magistral'nykh 
+
+truboprovodakh  v  Rossii  i  v  Zapadnoi  Evrope  [Comparative  Analysis  of 
+
+Accident Statistics on Trunk Pipelines in Russia and Western Europe]. Neft', gaz 
+
+i biznes – Oil, Gas and Business, 2007, No. 12, pp. 49-56. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+104 
+
+5.  Lisanov M.V., Pecherkin A.S., Sidorov V.I. Analiz riska i deklarirovanie 
+
+bezopasnosti ob"ektov neftyanoi i gazovoi promyshlennosti [Risk Analysis and 
+
+Safety  Declaration  of  Oil  and  Gas  Industry  Facilities].  Sertifikatsiya  i 
+
+bezopasnost' oborudovaniya – Certification and Equipment Safety, 1998, No. 1, 
+
+pp. 37-41. [in Russian]. 
+
+6.  Galiakberov V.V., Martynova O.G., Akhmetshin R.I., Rakhmanova S.T. 
+
+Graficheskie  osobennosti  analiza  vetroenergopotentsiala  regiona  [Graphic 
+
+Features of the Analysis of the Wind-Energy Potential of the Region].  Sbornik 
+
+materialov 
+
+VII  Mezhdunarodnoi 
+
+nauchno-prakticheskoi 
+
+konferentsii 
+
+«Sovremennye 
+
+tendentsii  razvitiya  nauki 
+
+i  proizvodstva»  [Collection  of 
+
+Materials of the VII International Scientific and Practical Conference «Modern 
+
+Trends in the Development of Science and Production»]. Kemerovo, Zapadno-
+
+Sibirskii nauchnyi tsentr Publ., 2017, Vol. 2, pp. 99-104. [in Russian]. 
+
+7.  Kiyashko  I.Yu.,  Kiyashko  L.Yu.,  Elizar'ev  A.N.,  Manyakova  G.M., 
+
+Gabdulkhakov  R.R.,  Martynova  O.G.  Modelirovanie  ekologicheskikh  ChS, 
+
+vyzvannykh  zagryazneniem  vodnykh  ob"ektov  [Modeling  of  the  Ecological 
+
+Emergencies  Caused  by  Pollution  of  Water  Objects].  Uspekhi  sovremennogo 
+
+estestvoznaniya – Advances in Current Natural Sciences, 2016, No. 2, pp. 159-
+
+163. [in Russian]. 
+
+8.  Elizareva  E.N.,  Yanbaev  Yu.A.,  Yunusova  D.M.,  Dement'ev  D.G., 
+
+Martynova  O.G.,  Akhmetshin  R.I.,  Gibadullin  I.Z.,  Rakhmanova  S.T. 
+
+Ispol'zovanie metodov graficheskogo analiza dlya otsenki fitoremediatsionnogo 
+
+potentsiala  sel'skokhozyaistvennykh 
+
+rastenii 
+
+[Using  Graphical  Analysis 
+
+Methods  to  Assess  the  Phytoremediation  Potential  of  Agricultural  Plants]. 
+
+Estestvennye  i  tekhnicheskie  nauki  –  Natural  and  Technical  Sciences,  2018, 
+
+No. 2 (116), pp. 28-32. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+105 
+
+9.  Yusupov  T.R.,  Kadyrova  G.A.,  Shaidullin  R.R.,  Martynova  O.G., 
+
+Rakhmanova  S.T.,  Akhmetshin  R.I.  Graficheskoe  predstavlenie  obespecheniya 
+
+ekologicheskoi  bezopasnosti  funktsionirovaniya  promyvochno-proparochnoi 
+
+stantsii  zheleznodorozhnogo  kompleksa  [Graphical  Representation of  Ensuring 
+
+Environmental Safety of the Operation of the Washing and Steaming Station of 
+
+the Railway Complex].  Materialy VIII Mezhdunarodnoi molodezhnoi nauchnoi 
+
+konferentsii  «Naukoemkie 
+
+tekhnologii  v  reshenii  problem  neftegazovogo 
+
+kompleksa»  [Materials  of  the  VIII  International  Youth  Scientific  Conference 
+
+«High-Tech  in  Solving  the  Problems  of  the  Oil  and  Gas  Complex»].  Ufa, 
+
+BashGU Publ., 2018, pp. 249-254. [in Russian]. 
+
+10. Dyachenko  O.V.,  Sharipova  K.R.,  Martynova  O.G.,  Rakhmanova  S.T., 
+
+Akhmetshin R.I., Khafizov A.R., Garmatin A.V. K voprosu o prognozirovanii i 
+
+prinyatii reshenii v usloviyakh vozniknovenii chrezvychainykh situatsii [On the 
+
+Issue of Forecasting and Decision-Making in Emergency Situations]. Materialy 
+
+VIII  Mezhdunarodnoi  molodezhnoi  nauchnoi  konferentsii  «Naukoemkie 
+
+tekhnologii v reshenii problem neftegazovogo kompleksa» [Materials of the VIII 
+
+International Youth Scientific Conference «High-Tech in Solving the Problems 
+
+of  the  Oil  and  Gas  Complex»].  Ufa,  BashGU  Publ.,  2018,  pp.  40-43. 
+
+[in Russian]. 
+
+11. Akhmetshin 
+
+R.I.,  Garif'yanov 
+
+T.R.,  Kurbangulova 
+
+L.K., 
+
+Davletgareev V.R.,  Martynova  O.G.  Graficheskoe  predstavlenie  sposoba 
+
+snizheniya  shuma  v  gorodskoi  srede  s  pomoshch'yu  akusticheskogo  ekrana  [A 
+
+Graphical Representation of an Acoustic Noise Reduction Method in an Urban 
+
+Environment].  Vestnik  sovremennykh  issledovanii  –  Bulletin  of  Modern 
+
+Research, 2018, No. 12.14 (27), pp. 48-53. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+106 
+
+12. Abdrakhmanova  A.A.,  Kadyrova  G.A.,  Kurbangulova  L.K., 
+
+Martynova O.G.,  Akhmetshin  R.I.  Graficheskie 
+
+priemy 
+
+vizualizatsii 
+
+mekhanizma  deistviya  ingibitorov  kislotnoi  korrozii  i  otsenki  ikh  effektivnosti 
+
+[Graphic  Techniques  for  Visualizing  the  Mechanism  of  Action  of  Acid 
+
+Corrosion Inhibitors and Evaluating their Effectiveness]. Vestnik sovremennykh 
+
+issledovanii  –  Bulletin  of  Modern  Research,  2018,  No.  12.14  (27),  pp.  5-11. 
+
+[in Russian]. 
+
+13. Akhmetshin  R.I.,  Ziganshina  L.B.,  Gizetdinova  A.A.,  Martynova  O.G. 
+
+Ispol'zovanie 
+
+graficheskogo 
+
+3D-modelirovaniya 
+
+dlya 
+
+predstavleniya 
+
+toksicheskogo  effekta  nanochastits  oksidov  metallov  na  zhivye  organizmy 
+
+[Using  3D  Graphic  Modeling  to  Represent  the  Toxic  Effect  of  Metal  Oxide 
+
+Nanoparticles  on  Living  Organisms].  Vestnik  sovremennykh  issledovanii  – 
+
+Bulletin of Modern Research, 2018, No. 12.14 (27), pp. 54-60. [in Russian]. 
+
+Сведения об авторах 
+
+About the authors 
+
+Щелчкова  Анастасия  Игоревна,  магистрант  кафедры  «Основы 
+
+конструирования  механизмов  и  машин»,  УГАТУ,  г. Уфа,  Российская 
+
+Федерация 
+
+Anastasia  I.  Shchelchkova,  Undergraduate  Student  of  Fundamentals  of 
+
+Design  of  Mechanisms  and  Machines  Department,  USАTU,  Ufa,  Russian 
+
+Federation 
+
+e-mail: Kulborisowanastya@yandex.ru 
+
+Хасанова  Лейсян  Флюровна,  магистрант 
+
+кафедры 
+
+«Основы 
+
+конструирования  механизмов  и  машин»,  УГАТУ,  г. Уфа,  Российская 
+
+Федерация 
+
+Leysyan  F.  Khasanova,  Undergraduate  Student  of  Fundamentals of  Design 
+
+of Mechanisms and Machines  Department, USАTU, Ufa, Russian Federation 
+
+e-mail: lesyaonelesya@gmail.com 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+ 
+107 
+
+Галеева  Алина 
+
+Рифкатовна,  магистрант 
+
+кафедры 
+
+«Основы 
+
+конструирования  механизмов  и  машин»,  УГАТУ,  г. Уфа,  Российская 
+
+Федерация 
+
+Alina  R.  Galeeva,  Undergraduate  Student  of  Fundamentals  of  Design  of 
+
+Mechanisms and Machines  Department, USАTU, Ufa, Russian Federation 
+
+e-mail: galeeva-alina@list.ru 
+
+Мартынова  Ольга  Галеевна,  кандидат  технических  наук,  доцент, 
+
+доцент  кафедры  «Основы  конструирования  механизмов  и  машин», 
+
+УГАТУ, г. Уфа, Российская Федерация 
+
+Olga  G.  Martynova,  Candidate  of  Engineering  Sciences,  Associate 
+
+Professor,  Assistant  Professor  of  Fundamentals  of  Design  of  Mechanisms  and 
+
+Machines  Department, USАTU, Ufa, Russian Federation 
+
+e-mail: olgamar07@mail.ru 
+
+Ахметшин  Рустам  Ильясович,  старший  преподаватель  кафедры 
+
+«Основы  конструирования  механизмов  и  машин»,  УГАТУ,  г. Уфа, 
+
+Российская Федерация 
+
+Rustam  I.  Akhmetshin,  Senior  Lecturer  of  Fundamentals  of  Design  of 
+
+Mechanisms and Machines Department, USАTU, Ufa, Russian Federation  
+
+e-mail: ahmetshin@bk.ru 
+
+Рахманова  Светлана  Талгатовна,  старший  преподаватель  кафедры 
+
+«Основы  конструирования  механизмов  и  машин»,  УГАТУ,  г. Уфа, 
+
+Российская Федерация 
+
+Svetlana  T.  Rakhmanova,  Senior  Lecturer  of  Fundamentals  of  Design  of 
+
+Mechanisms and Machines  Department, USАTU, Ufa, Russian Federation 
+
+e-mail: raxm.sveta@mail.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+ 
+108 
+
+Ямалетдинова Клара Шаиховна, доктор технических наук, заведующий 
+
+кафедрой  «Управление  качеством  в  производственно-технологических 
+
+системах»,  Институт  экономики  отраслей,  бизнеса  и  администрирования, 
+
+Челябинский  государственный  университет,  г.  Челябинск,  Российская 
+
+Федерация  
+
+Klara Sh. Yamaletdinova, Doctor of Engineering Sciences, Head of Quality 
+
+Management in Production and Technological Systems Department, Institute of 
+
+Economics  of  Industries,  Business  and  Administration,  Chelyabinsk  State 
+
+University, Chelyabinsk, Russian Federation 
+
+e-mail: clara-yk@yandex.ru 
+
+Янгуразова Земфира Ахметовна, доктор биолгических наук, профессор, 
+
+профессор  кафедры  «Экология  и  безопасность  жизнедеятельности», 
+
+Башкирский государственный университет, г. Уфа, Российская Федерация 
+
+Zemfira  A.  Yangurazova,  Doctor  of  Biological  Sciences,  Professor, 
+
+Professor  of  Ecology  and  Life  Safety  Department,  Bashkir  State  University, 
+
+Ufa, Russian Federation 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №3 
+
+http://ogbus.ru 
+
+ 
+

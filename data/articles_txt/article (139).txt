@@ -1,0 +1,332 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+УДК: 004.942 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+ИМИТАЦИОННЫЕ МОДЕЛИ КАК СРЕДСТВА ДОПОЛНИТЕЛЬНОГО 
+ПРОФЕССИОНАЛЬНОГО ОБУЧЕНИЯ И СОВРЕМЕННОЙ 
+ИНФОРМАЦИОННОЙ ПОДДЕРЖКИ ОПЕРАТОРОВ ХИМИКОВ-ТЕХНОЛОГОВ 
+––––––– 
+STRENGTHENING PIPELINE BRANCHES WITH HELP  
+REINFORCEMENT ELEMENT FROM POLYCARBAMIDE 
+
+Кузнецов Андрей Сергеевич 
+кандидат технических наук, доцент, 
+кафедра информационные системы в химической технологии, 
+МИРЭА – Российский технологический университет, 
+институт тонких химических технологий 
+
+Kuznetsov Andrey Sergeyevich  
+Candidate of Technical Sciences, 
+Associate Professor, 
+Department of Information Systems in 
+Chemical Technology, 
+MIREA – Russian Technological University, 
+Institute of Fine Chemical Technology 
+
+Корнюшко Валерий Федорович 
+доктор технических наук, профессор, профессор 
+кафедры информационные системы в химической технологии, 
+МИРЭА – Российский технологический университет, 
+институт тонких химических технологий 
+
+Kornyushko Valery Fedorovich 
+Doctor of Technical Sciences, Professor 
+Department of Information Systems in 
+Chemical Technology, 
+MIREA – Russian Technological University, 
+Institute of Fine Chemical Technology 
+
+Аннотация.  Рассмотрены  вопросы,  касающиеся  разработки 
+средств обучения инженеров-технологов в практике их производ-
+ственной  деятельности.  Показана  целесообразность  создания 
+системы  непрерывного  профессионального  обучения  с  исполь-
+зованием комплекса информационных систем, включающих ими-
+тационные  модели.  Применение  таких  информационных  систем 
+позволяют  инженеру-технологу  совершенствовать  подходы  к 
+принятию решений в сложной технологической обстановке, когда 
+управленческие  решения  неоднозначны  и  могут  быть  недоста-
+точно  эффективными,  приводя  к  образованию  брака  продукции. 
+Такой подход особенно эффективен в системе дополнительного 
+непрерывного  профессионального  обучения  и  представляет  со-
+бой  расширенную  модель  информационной  поддержки  для  оп-
+тимизации принятия решений на производстве.  
+Предложена  модель  алгоритмической  и  информационной 
+поддержки,  основанная  на  интеллектуальной  системе  управ-
+ления  на  основе  комплексного  анализа  технологической  ин-
+формации,  базе  данных  основной  технологической  информа-
+ции.  Данная  интеллектуальная  информационная  система  яв-
+ляется программной средой для дополнительного профессио-
+нального  обучения  операторов  инженеров  –  технологов  и  од-
+новременно – одним из инструментов для оптимизации управ-
+ления химико-технологическими процессами на производстве. 
+
+Annotation.  Issues  related  to  the  develop-
+ment of training tools for process engineers in 
+the  practice  of  their  production  activities  are 
+considered.  The  expediency  of  creating  a 
+system  of  continuous  professional  education 
+using  a  complex  of  information  systems, 
+including  simulation  models,  is  shown.  The 
+use  of  such  information  systems  allows  the 
+process  engineer  to  improve  approaches  to 
+decision-making  in  a  complex  technological 
+environment,  when  managerial  decisions  are 
+ambiguous and may not be effective enough, 
+leading  to  product  defects.  This  approach  is 
+especially effective in the system of additional 
+continuous vocational training and represents 
+an  extended  model  of  information  support  to 
+optimize decision making in production. 
+A  model  of  algorithmic  and  information  sup-
+port  based  on  an  intelligent  control  system 
+based  on  a  comprehensive  analysis  of  tech-
+nological  information,  a  database  of  basic 
+technological  information  is  proposed.  This 
+intelligent  information  system  is  a  software 
+environment  for  additional  professional  train-
+ing of operators of process engineers and, at 
+the same time, one of the tools for optimizing 
+the  management  of  chemical-technological 
+processes in production. 
+
+Ключевые слова: имитационная модель, средства информа-
+ционной  поддержки,  профессиональное  обучение,  принятие 
+решений. 
+
+Keywords:  simulation  model, 
+information 
+support  tools,  vocational  training,  decision 
+making. 
+
+Н 
+
+а сегодняшний день интеллектуальные тренажеры являются основным средством обуче-
+ния операторов химиков – технологов [1]. Они являются необходимым звеном в формиро-
+вании  уровня  специалистов  по  контролю  и управлению химико-технологическими  процессами,  обес-
+печивая  передачу  ценных  знаний.  Применение  имитационных  моделей  в  обучении  позволяет  в без-
+опасных условиях воспроизвести огромное количество технологических ситуаций на реальном произ-
+водстве  химической  продукции,  решить  задачи  их  прогнозирования,  идентификации,  анализа,  фор-
+мирования  и,  в  конечном  итоге,  выработки  и  принятия  управленческих  решений  [2].  Предложенная 
+программно-алгоритмическая  модель  информационной  поддержки  включает  в  себя  модуль  базы 
+данных и базы знаний по контролю и управлению процессом (рис. 1). 
+
+271 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+Модуль «база знаний» содержит набор продукционных правил – инструкций – рекомендаций по 
+принятию  решения  в  данной  технологической  ситуаций.  Применение  средств  информационной  под-
+держки по контролю и управлению химико-технологическими процессами призвано облегчить и уско-
+рить процесс принятия решений в сложной и неоднозначной обстановке. 
+
+Система  содержит  ряд  подсистем,  из  которых  далее  рассматривается  подсистема  поддержки 
+
+управленческих решений.  
+
+Подсистема  поддержки  принятия  управленческих  решений  содержит  блок  визуализации,  базу 
+данных,  блок математических моделей  и  блок  подготовки  управленческих  решений  на  основе  выра-
+ботанной системы продукционных правил (продукционных моделей). 
+
+Рисунок 1 – Архитектура интегрированной информационной системы управления 
+химико-технологическими процессами смешения и структурирования эластомерных композитов. 
+Обозначения: ЛПР – лицо, принимающее решения 
+
+Основная проблема, с которой сегодня сталкиваются промышленные производители – пробле-
+ма  надлежащей  подготовки  специалистов  по  контролю  и управлению  производственными  процесса-
+ми. В основе безопасной, эффективной и высокопроизводительной работы лежит хорошая подготов-
+ка  и  компетентность  операторов.  Основные  преимущества  применения  системы  обучения  операто-
+ров-технологов на основе комплекса информационных моделей приведены на рисунке 2: 
+
+Рисунок 2 – Преимущества внедрения комплекса информационных моделей 
+для обучения операторов-технологов 
+
+272 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+Предложенная модель обучающего комплекса направлена на выработку, закрепление и углуб-
+ление  профессиональных  знаний  и  практических  навыков  по  контролю  и  управлению  химико-
+технологическими процессами. 
+
+Управление в химико-технологических процессах трактуется как направленное воздействие на 
+химико-технологическую  систему  производства  продукции,  которое  обеспечивает  поддержание  опти-
+мальных параметров данного процесса [11]. 
+
+Дополнительное  непрерывное  профессиональное  обучение  инженеров-технологов  –  крайне 
+важная  задача.  Профессионализм  оператора  –  технолога  в  значительной  степени  определяется 
+своевременностью  и  точностью  принятия  решений  по  контролю  и  управлению  производственными 
+процессами.  При  этом  важную  роль  играет  интеллектуальная  система  информационной  поддержки. 
+Наиболее эффективным вариантом является программный комплекс – тренажер на основе интеллек-
+туальной  информационной  системы  управления  на  основе  сформированной  базы  знаний  (системы 
+продукционных правил), построенных на основе анализа накопленной технологической информации. 
+Блок математических моделей позволяет получить набор количественных характеристик, описываю-
+щих различные стадии переработки исходного сырья в готовую продукцию, что значительно облегча-
+ет процесс принятия решений при различных технологических ситуациях на производстве. 
+
+Литература: 
+
+1.  Запасная Л.А. Интеллектуальная автоматизированная система подготовки химиков-технологов : авто-
+
+реф. дис. … канд. техн. наук. – М., 2014. – 20 с. 
+
+2.  Разработка автоматизированных лабораторных комплексов: учеб. пособие / А.Ф. Егоров [и др.]. – М. : 
+
+РХТУ им. Д.И. Менделеева, 2006. – 176 с. 
+
+3.  Егоров А.Ф., Савицкая Т.В., Запасная Л.А. Междисциплинарная автоматизированная система обучения 
+на  основе  сетевых  технологий  для  многоуровневой  подготовки  химиков-технологов  //  Открытое  образование, 
+2012. – № 6. – С. 20–33. 
+
+4.  Реологические  и  вулканизационные  свойства  эластомерных  композиций  /  И.А.  Новаков  [и  др.].  –  М.  : 
+
+ИКЦ «Академкнига», 2008. – 332 с.  
+
+5.  Monsanto Rheometer 100, Description and application. Technical Bulletin № IS-1. – Р. 18. 
+6.  Новаков И.А., Новопольцева О.М., Кракшин М.А. Методы оценки и регулирования пластоэластических 
+
+и вулканизационных свойств эластомеров и композиций на их основе. – М. : Химия, 2000. – 240 c. 
+
+7.  Coughanowr D. Process Systems Analysis and Control McGraw-Hill Science // Engineering/Math; 2 edition. – 
+
+1991. – 640 p. 
+
+8.  Кузнецов А.С., Агаянц И.М., Овсяников Н.Я. Модификация осей координат при количественной интер-
+
+претации реометрических кривых // Тонкие химические технологии. – 2015. – № 2. – С. 67–70. 
+
+9.  Кузина  Е.В.  Разработка  математического  обеспечения  экспертной  обучающей  системы  подготовки 
+
+операторов химических производств : автореф. дис. … канд. техн. наук. – М., 1996. – 22 с. 
+
+10. Рылов  С.А.  Разработка компьютерных  информационных  тренажеров  на основе  технологий  виртуали-
+
+зации : автореф. дис. … канд. техн. наук. – М., 2011. – 20 с. 
+
+11. Мешалкин В.П. Экспертные системы в химической технологии. – М. : Химия, 1995. – 367 с. 
+12. ISO 6502 Rubber–Measurement of vulcanization characteristics with rotorless curemetrs. Second edition, 1991. 
+13. Уральский М.Л., Горелик Р.А., Буканов А.М. Контроль и регулирование технологических свойств рези-
+
+новых смесей. – М. : Химия, 1983. – 128 с. 
+
+14. Агаянц И.М., Наумова Ю.А., Кузнецов А.С. Анализ корреляционных соотношений в области реометри-
+
+ческих исследований резин // Вестник МИТХТ, 2013. – Т. 8. – № 1. – С. 15–19. 
+
+15. Кузнецов А.С. Информационная поддержка системы управления технологическим процессом структу-
+рирования  эластомерных  систем  с  применением  реометрических  кривых  /  В.Ф.  Корнюшко,  И.А.  Гончаров,        
+И.М. Агаянц // Прикладная информатика. – 2016. – № 2. – С. 5–12. 
+
+16. Кузнецов  А.С.,  Агаянц  И.М.,  Корнюшко  В.Ф.  Реограмма  как  инструмент  управления  технологическим 
+процессом структурирования эластомерных систем // Наукоемкие химические технологии – 2015 : сб. тр. науч.-
+практ. конф. – М. : Изд-во МИТХТ им. М.В. Ломоносова, 2015. – С. 143. 
+
+17. Ogunnaike B., Ray W. Process Dynamics, Modeling, and Control Oxford University Press. 1994. – 1296 p. 
+18. Кузнецов А.С., Корнюшко В.Ф. Информационная поддержка системы управления технологическим про-
+цессом структурирования эластомерных систем // Российско-американская научная школа-конференция «Моде-
+лирование и оптимизация химико-технологических процессов» : сб. тр. науч.-практ. конф. – Казань, 2016. – С. 35. 
+
+References: 
+
+1.  Zapasnaya L.A. Intelligent Automated System of Training of Chemical Process Engineers: Ph. Candidate of 
+
+Technical Sciences. – М., 2014. – 20 р. 
+
+2.  Development of automated laboratory complexes: tutorial / A.F. Egorov [et al.]. – M. : D. I. Mendeleev Russian 
+
+Chemical Technology University, 2006. – 176 p. 
+
+3.  Egorov A.F., Savitskaya T.V., Zapasnaya L.A. Interdisciplinary automated training system based on network 
+
+technologies for multilevel training of chemical engineers // Open Education, 2012. – № 6. – P. 20–33. 
+
+4.  Rheological  and  vulcanizing  properties  of  elastomeric  compositions  /  I.A.  Novakov  [et  al.].  –  M.  :  ICC 
+
+«Academkniga», 2008. – 332 p. 
+
+273 
+
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+5.  Monsanto Rheometer 100, Description and application. Technical Bulletin № IS-1. – Р. 18. 
+6.  Novakov  I.A.,  Novopoltseva  O.M.,  Krakshin  M.A.  Methods  of  evaluation  and  regulation  of  plastoelastic  and 
+
+vulcanization properties of elastomers and compositions based on them. – M. : Chemistry, 2000. – 240 p. 
+
+7.  Coughanowr D. Process Systems Analysis and Control McGraw-Hill Science // Engineering/Math; 2 edition. – 
+
+1991. – 640 p. 
+
+8.  Kuznetsov A.S., Aghayants I.M., Ovsyanikov N.Y. Modification of coordinate axes during quantitative interpret-
+
+ing of rheometric curves // Fine Chemical Technologies. – 2015. – № 2. – P. 67–70. 
+
+9.  Kuzina E.V. Development of mathematical support for an expert training system for chemical production oper-
+
+ators: Ph. Candidate of Technical Sciences. – М., 1996. – 22 p. 
+
+10. Rylov  S.A.  Development  of  computer  information  simulators  on  the  basis  of  virtualization  technologies:  ab-
+
+stract of Ph. Candidate of Technical Sciences. – М., 2011. – 20 p. 
+
+11. Meshalkin V.P. Expert systems in chemical technology. – M. : Chemistry, 1995. – 367 p. 
+12. ISO 6502 Rubber–Measurement of vulcanization characteristics with rotorless curemetrs. Second edition, 1991. 
+13. Uralsky  M.L.,  Gorelik  R.A.,  Bukanov  A.M.  Control  and  regulation  of  technological  properties  of  rubber  mix-
+
+tures. – M. : Chemistry, 1983. – 128 p. 
+
+14. Agayants I.M., Naumova A.A., Kuznetsov A.S. Analysis of correlation relations in the field of rheometric stud-
+
+ies of rubbers // Bulletin of MITHT, 2013. – Vol. 8. – № 1. – P. 15–19. 
+
+15. Kuznetsov  A.S.  Information  support  of  control  system  of  elastomeric  systems  structuring  technological  pro-
+cess using rheometric curves / V.F. Kornyushko, I.A. Goncharov, I.M. Aghayants // Applied Informatics. – 2016. – № 2. – 
+P. 5–12. 
+
+16. Kuznetsov A.S., Agayants I.M., Kornyushko V.F. Rheogram as a control tool for the technological process of 
+structuring  elastomeric  systems  //  Science-intensive  chemical  technologies  –  2015:  Proceedings  of  scientific-practical 
+conference – M. : Publishing house of MITHT named after M.V. Lomonosov, 2015. – P. 143. 
+
+17. Ogunnaike B., Ray W. Process Dynamics, Modeling, and Control Oxford University Press. 1994. – 1296 p. 
+18. Kuznetsov  A.S.,  Korniushko  V.F.  Information  support  for  control  systems  of  elastomer  systems  structuring 
+technological  process  //  Russian-American  scientific  school-conference  «Modeling  and  optimization  of  chemical-
+technological processes». – Kazan, 2016. – Р. 35. 
+
+274 
+
+ 
+ 
+ 
+ 
+ 
+

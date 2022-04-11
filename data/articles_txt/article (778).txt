@@ -1,0 +1,1687 @@
+71 
+
+УДК 665.644 
+
+АНАЛИЗ ОСНОВНЫХ ФАКТОРОВ ЭФФЕКТИВНОСТИ 
+
+ИНТЕГРИРОВАННОЙ СИСТЕМЫ УПРАВЛЕНИЯ 
+
+ПРОМЫШЛЕННОЙ БЕЗОПАСНОСТЬЮ И ОХРАНОЙ ТРУДА  
+
+В НЕФТЕГАЗОВОЙ ОТРАСЛИ 
+
+ANALYSIS OF THE MAIN FACTORS OF EFFICIENCY  
+
+OF THE INTEGRATED MANAGEMENT CONTROL SYSTEM  
+
+OF INDUSTRIAL SAFETY AND LABOR PROTECTION  
+
+IN THE OIL AND GAS INDUSTRY 
+
+А.В. Федосов, А.Р. Губайдуллина,  
+
+Э.Н. Абдрахманова, Р.А. Шайбаков  
+
+Уфимский государственный нефтяной технический университет, 
+
+г. Уфа, Российская Федерация 
+
+Artem V. Fedosov, Aliya R. Gubaydullina,  
+
+Emiliya N. Abdrakhmanova, Rustem A. Shaibakov 
+
+Ufa State Petroleum Technological University, Ufa, Russian Federation 
+
+e-mail: fedsv-artem@rambler.ru 
+
+Аннотация. 
+
+В 
+
+данной 
+
+статье 
+
+исследована 
+
+методология 
+
+совершенствования 
+
+функционирования 
+
+интегрированной 
+
+системы 
+
+управления  промышленной  безопасностью  и  охраной 
+
+труда 
+
+в 
+
+нефтегазовой  сфере.  Создание  безопасных  условий  труда,  сохранение 
+
+жизни  и  здоровья  работников,  обеспечение  надежной  работы  опасных 
+
+производственных  объектов 
+
+являются  одними  из  приоритетных 
+
+направлений деятельности любой нефтегазодобывающей компании. 
+
+Рассмотрены  нормативно-правовая  база  в  области  промышленной 
+
+безопасности и охраны труда, главные принципы построения и реализации 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+72 
+
+интегрированной системы управления, виды аудитов, а также определены 
+
+основные 
+
+критерии 
+
+оценки 
+
+эффективности 
+
+функционирования 
+
+интегрированной  системы  управления  промышленной  безопасностью  и 
+
+охраной труда.  
+
+Цель  данной  статьи  заключается  в  определении  критериев  оценки 
+
+эффективности  функционирования  интегрированной  системы  управления 
+
+промышленной безопасностью и охраной труда.  
+
+Для реализации указанной цели поставлены следующие задачи: 
+
+1.  Провести 
+
+анализ  нормативной  правовой  базы 
+
+в  области 
+
+промышленной  безопасности  и  охраны  труда  на  объектах  нефтегазовой 
+
+отрасли; 
+
+2.  Проанализировать  основные  принципы  построения  и  реализации 
+
+интегрированной  системы  управления  промышленной  безопасностью  и 
+
+охраной труда; 
+
+3.  Определить  порядок  функционирования  системы  управления 
+
+безопасностью; 
+
+4.  Провести  анализ  основных  факторов  (критериев),  определяющих 
+
+эффективность  системы  управления  промышленной  безопасностью  и 
+
+охраной труда в нефтегазовой отрасли. 
+
+Abstract.  This  article  explores  the  methodology  for  improving  the 
+
+functioning of the integrated management control system of industrial safety and 
+
+labor  protection  in  the  oil  and  gas  sector.  Creating  safe  working  conditions, 
+
+preserving  the  life  and  health  of  workers,  ensuring  reliable  operation  of 
+
+hazardous  production  facilities  is  one  of  the  priorities  of  any  oil  and  gas 
+
+company. 
+
+The  regulatory  legal  base  in  the  field  of  industrial  safety  and  labor 
+
+protection,  the  main  principles  of  construction  and  implementation  of  an 
+
+integrated  management  system,  types  of  audits  are  considered,  and  the  main 
+
+criteria  for  evaluating  the  performance  of  an  integrated  system  of  industrial 
+
+safety and labor protection management are defined. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+73 
+
+The  purpose  of  this  article  is  to  determine  the  criterion  for  evaluating  the 
+
+performance of an integrated industrial safety and labor protection management 
+
+system. 
+
+To achieve this goal, there were set the following tasks: 
+
+1. To analyze the regulatory framework in the field of industrial safety and 
+
+labor protection at the facilities of the oil and gas industry; 
+
+2. To analyze the basic principles of the construction and implementation of 
+
+an integrated system of industrial safety and labor protection management; 
+
+3. To determine the operation of the safety management system; 
+
+4. To analyze the main factors (criteria) determining the effectiveness of the 
+
+integrated system of industrial safety and labor protection management in the oil 
+
+and gas industry. 
+
+Ключевые 
+
+слова: 
+
+интегрированная 
+
+система 
+
+управления, 
+
+промышленная  безопасность,  охрана  труда,  принципы  построения 
+
+системы, критерии оценки эффективности 
+
+Key words: integrated management control system, industrial safety, labor 
+
+protection, system construction principle, performance evaluation criteria 
+
+В  современных  условиях  повышения  объемов  добычи  и  обработки 
+
+углеводородного  сырья  работа  нефтегазовых  фирм  имеет  стратегическое 
+
+значение  с  целью  формирования  экономики  страны,  а  их  надежная  и 
+
+безаварийная 
+
+деятельность 
+
+в 
+
+значительной 
+
+степени 
+
+определяет 
+
+энергетическую защищенность и стойкое социально-финансовое развитие 
+
+Российской  Федерации  [1,  2].  Достичь подобного  результата  можно, если 
+
+будет  присутствовать  непрерывный  процесс  улучшения 
+
+системы 
+
+управления безопасностью на объектах нефтяной отрасли. 
+
+Интегрированная 
+
+система 
+
+управления 
+
+(ИСУ) 
+
+промышленной 
+
+безопасностью  (ПБ)  и  охраной  труда  (ОТ)  представлена  в  виде  одной  из 
+
+составляющих  единиц  всего  способа  организации  административного 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+74 
+
+управления  нефтяных  и  газовых  корпораций.  ИСУ  выступает  в  роли 
+
+совокупности процессов, операций, законов, организационного устройства 
+
+и  ресурсов,  которые  нужны  для  воплощения  идей  политики,  достижения 
+
+целей и управления промышленной безопасностью и охраной труда. ИСУ 
+
+промышленной  безопасностью  и  охраной  труда  в  нефтегазовой  отрасли 
+
+основывается на принципах: 
+
+-  вовлеченности  каждой  ступени  штата  организации  в  минимизацию 
+
+производственных рисков и совершенствование системы управления ПБ и 
+
+ОТ;  
+
+-  личного  поручительства  каждого  сотрудника  корпорации 
+
+за 
+
+выполнение  предписаний  по  уменьшению  производственных  рисков, 
+
+способных 
+
+нанести 
+
+вред  физическому 
+
+состоянию 
+
+работников, 
+
+окружающей среде и имуществу;  
+
+-  мотивирования  коллег  на  поиски  возможностей  оптимизации 
+
+регулирования производственных опасностей;  
+
+-  преимущества предостерегающих мер перед реагирующими мерами;  
+
+-  непрерывного улучшения ИСУ ПБ и ОТ [3, 4]. 
+
+Цели в сфере ПБ и ОТ сориентированы на: 
+
+-  предупреждение  опасных  ситуаций,  которые  способны  оказать 
+
+отрицательное  влияние  на  окружающую  природную  среду,  здоровье 
+
+сотрудников и собственность; 
+
+-  снижение  вредного  воздействия  промышленной  деятельности  на 
+
+состояние здоровья работников компании; 
+
+-  ликвидацию  рисков  на  производстве  или  их  снижение  при 
+
+определенных обстоятельствах; 
+
+-  модернизацию и внедрение  новых  научно-технических достижений, 
+
+использование  материалов,  сырья  и  реагентов,  которые  оказывают 
+
+неопасное воздействие с точки зрения ПБ и ОТ; 
+
+-  рационализацию ИСУ. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+75 
+
+Цели  должны  быть  измеримыми,  реальными  и  точными.  При 
+
+установлении  коллективных  целей  предусматриваются  промышленные 
+
+опасности.  Реализация  целей  ИСУ,  ПБ  и  ОТ  осуществляется  путем 
+
+разработки специальных программ. Такие программы включают в себя:  
+
+- события по реализации целей и задач системы; 
+
+- способы и сроки выполнения установленных задач; 
+
+-  рассредоточение  возможностей  и  ответственности  за  выполнение 
+
+событий в сфере промышленной безопасности и охраны труда. 
+
+Политика  организации  нефтегазовой  отрасли  в  сфере  промышленной 
+
+безопасности и охраны труда должна:  
+
+-  быть пригодной для работы; 
+
+-  быть  сопоставима  с  влиянием  на  самочувствие  всего  штата 
+
+сотрудников,  окружающую  среду  и  собственность  данных  отраслей 
+
+деятельности;  
+
+-  быть совместима с иными правилами корпорации;  
+
+-  быть введена и поддерживаться на каждой ступени организации;  
+
+-  быть открытой для причастных сторон;  
+
+-  подходить по применяемым законодательным распоряжениям;  
+
+-  включать в себя обязанность по актуализации нормативно-правовой 
+
+базы ИСУ промышленной безопасностью и охраной труда;  
+
+-  определять  основные  цели  и  задачи  организаций  в  сфере 
+
+промышленной безопасности, охраны труда и окружающей среды; 
+
+-  предупреждать  всевозможные  риски,  оказывающие  влияние  на 
+
+физическое  состояние  сотрудников  и  окружающую  природную  среду  
+
+[5, 6]. 
+
+На рисунке 1 представлена схема функционирования ИСУ ПБ и ОТ.  
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+76 
+
+Постоянное улучшение 
+
+Анализ со стороны  
+руководства 
+
+Политика 
+
+Планирование 
+
+Проверки и  
+корректирующие  
+действия 
+
+Внедрение и  
+функционирование 
+
+Рисунок 1. Схема процессов функционирования ИСУ 
+
+Формирование  законодательной  базы  в  Российской  Федерации 
+
+осуществляется  на  федеральном,  территориальном,  муниципальном  и 
+
+объектовом  уровнях.  Нормативно-правовые  акты,  которую  имеют 
+
+различную  юридическую  силу,  являются  нормативной,  правовой  и 
+
+методологической  основой  в  области  обеспечения  безопасности  опасных 
+
+производственных объектов (ОПО) [7, 8].  
+
+Основу  нормативной  правовой  базы  составляют:  Конституция  РФ, 
+
+Трудовой  кодекс  РФ,  федеральные  законы,  приказы,  постановления, 
+
+ГОСТы,  СНиПы  и  др.  В  последние  годы  в  нормативно-правовой  базе 
+
+России  наблюдается  увеличение  числа  положений,  которые  содержат 
+
+основные  методы  анализа  риска  для  обеспечения  безопасности  объектов 
+
+нефтегазовой отрасли [9]. 
+
+Нефтяные  компании  должны  руководствоваться  в  своей  деятельности 
+
+действующими законодательными и другими постановлениями. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+77 
+
+Для  исполнения  обязательств  по  соблюдению  законодательных  и 
+
+других  условий  в  сфере  промышленной  безопасности  и  охраны  труда  в 
+
+компании:  
+
+-  актуализируются 
+
+сведения 
+
+о 
+
+законодательных 
+
+и 
+
+других 
+
+распоряжениях с введенной периодичностью; 
+
+-  определяются ключи идентификации; 
+
+-  определяются законодательные и прочие распоряжения; 
+
+-  доводятся  штату 
+
+организации 
+
+сведения 
+
+о 
+
+надлежащих 
+
+законодательных  и  прочих  распоряжениях,  предоставляется  допуск 
+
+соответствующего 
+
+персонала 
+
+организации 
+
+к 
+
+уже 
+
+известным 
+
+законодательным и иным условиям; 
+
+-  правится техдокументация, охватывающая законодательные и другие 
+
+вопросы; 
+
+-  гарантируется  циркуляция  данных  о  законодательных  и  иных 
+
+распоряжениях на предприятии [10, 11]. 
+
+Основополагающим  документом  системы  управления  безопасностью 
+
+производства является политика компании в области ИСУ ПБ и ОТ. 
+
+Уровень промышленной безопасности и охраны труда на предприятиях 
+
+нефтегазовой  отрасли  определяется  при  помощи  различных  видов 
+
+проверок  (аудитов).  Аудиты  бывают  двух  видов:  внешний  и  внутренний 
+
+[12, 13]. 
+
+Первый  вид  аудита  проводится  независимыми  аудиторами  на  базе 
+
+договора  с  аудируемыми  лицами  или  сторонними  организациями 
+
+(юридическими 
+
+лицами).  При 
+
+проведении 
+
+аудита 
+
+в 
+
+области 
+
+промышленной безопасности и охраны труда удается  выявить нарушения 
+
+в  технологических  процессах.  После  этого  аудиторы  дают  необходимые 
+
+рекомендации,  которые  направлены  на  усовершенствование  системы 
+
+управления  безопасностью,  улучшение  производственного  процесса  и 
+
+интеграцию производственной безопасности.  
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+78 
+
+Другим  доступным  средством  контроля  за  состоянием  условий  труда 
+
+на каждом рабочем месте и уровнем аварийности на предприятии является 
+
+внутренний  аудит 
+
+[14].  По  окончании  таких  аудиторских  работ 
+
+руководитель  организации  использует  материал  данной  проверки  для 
+
+составления  внутренних  статистических  данных  о  нарушениях  в  области 
+
+промышленной безопасности и охраны труда, предоставляет необходимую 
+
+информацию акционерам и инвесторам об эффективности своей работы. 
+
+Этапы проведения аудита представлены на рисунке 2.  
+
+Рисунок 2. Этапы проведения аудита 
+
+В  нефтяных  компаниях  с  определенной  периодичностью  проводятся 
+
+проверки  по  основным  операциям,  непосредственно  оказывающим 
+
+воздействие  на  самочувствие  работников,  имущество  и  окружающую 
+
+природную среду (мониторинг и измерения, оценка несоответствия).  
+
+Исходя  из  представленной  выше  информации,  накопленного  опыта, 
+
+можно  сказать,  что  в  настоящее  время  назрела  необходимость  внедрения 
+
+инструментов аудита в области ПБ. Аудит ПБ, с одной стороны, позволит 
+
+убедиться  в  том,  что документация  организации,  эксплуатирующей  ОПО, 
+
+соответствует  фактическому  состоянию  и  все  сформулированные  в  ней 
+
+требования  выполняются  и  приносят  результат,  проектные  решения 
+
+полностью реализованы и не подвержены изменениям, а с другой, создать 
+
+убежденность  у  руководства  таких  организаций  в  соответствии  объектов 
+
+аудита требованиям ПБ [12–15]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+79 
+
+Организации,  проводящие  аудит  ПБ,  должны  быть  уполномочены 
+
+Ростехнадзором  на  осуществление  этого  вида  деятельности  посредством 
+
+механизмов, 
+
+аналогичных 
+
+процедуре 
+
+аккредитации. 
+
+Лица, 
+
+непосредственно  проводящие  аудит  в  организациях,  эксплуатирующих 
+
+ОПО, 
+
+т.е. 
+
+аудиторы,  должны  будут  пройти 
+
+соответствующую 
+
+профессиональную 
+
+подготовку 
+
+в 
+
+специализированных 
+
+центрах. 
+
+Результаты 
+
+проведенного 
+
+аудита  ПБ, 
+
+оформляемые 
+
+в 
+
+виде 
+
+соответствующего  заключения  или  отчета,  должны  быть  направлены  не 
+
+только непосредственному заказчику его проведения, но и в сжатом виде в 
+
+органы  Ростехнадзора  для  регистрации,  учета,  дальнейшего  обобщения  и 
+
+анализа.  Наряду  с  фактическим  отражением  сложившейся  обстановки  в 
+
+области  ПБ  по  итогам  проведенного  аудита  могут  разрабатываться 
+
+рекомендации  по  улучшению  и  развитию  ситуации  в  этой  сфере, 
+
+формироваться цели, разрабатываться соответствующие программы по их 
+
+достижению. 
+
+Для реализации системы аудита ПБ требуется, прежде всего, введение 
+
+на  законодательном  уровне  нового  вида  деятельности  в  области  ПБ  – 
+
+аудита  ПБ,  а  также  последующей  разработки  соответствующей 
+
+нормативно-правовой базы, включающей нормативные документы разных 
+
+уровней  и  различных  областей  действия.  Таким  образом,  будет  создан 
+
+правовой  механизм  перераспределения  проверочных  мероприятий  в 
+
+области  ПБ,  позволяющий  устранять  нарушения  требований  ПБ  без 
+
+проведения  надзорных  мероприятий  и  назначения  санкций  за  эти 
+
+нарушения. 
+
+В  настоящее  время  ведется  разработка  нового  законопроекта  «О 
+
+промышленной  безопасности»  в  целях  разрешения  назревших  в  этой 
+
+области многочисленных проблем. Для закрепления процедуры аудита ПБ 
+
+на  законодательном  уровне  потребуется  отдельная  статья  закона  «Аудит 
+
+промышленной безопасности» [12]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+80 
+
+Создание  интегрированной  системы  управления  промышленной 
+
+безопасностью  и  охраной  труда  в  нефтяной  отрасли  позволит  повысить 
+
+уровень эффективности работы этой систем [16]. 
+
+Управление рисками  –  это важная  задача  в рамках функционирования 
+
+системы  управления  на  предприятии,  которая  сформирована  на  основе 
+
+рекомендаций  международных  стандартов 
+
+[17].  Это  предполагает 
+
+выявление  опасностей  и  оценку  риска,  постановку  целей  и  задач  по 
+
+снижению риска до приемлемых значений  
+
+В настоящее  время риски весьма разнообразны. Особое внимание при 
+
+проведении  исследований  в  области  рисков  посвящено  риску  смерти  и 
+
+потери здоровья, временной или постоянной нетрудоспособности, то есть 
+
+индивидуальному  риску 
+
+[18].  Главным 
+
+абсолютным  показателем 
+
+индивидуального  риска  является  вероятность  преждевременной  смерти. 
+
+«Приемлемость» – это важный термин в области управления рисками [19].  
+
+Оценка 
+
+эффективности  функционирования  ИСУ,  ПБ  и  ОТ 
+
+осуществляется  по  определенным  критериям.  Использование  критериев 
+
+оценки  эффективности  в  области  промышленной  безопасности  и  охраны 
+
+труда  в  комплексе  гарантирует  полноту  и  всестороннюю  оценку 
+
+эффективности и безопасности производства [20, 21].  
+
+Оценку  эффективности  функционирования  ИСУ  ПБ  и  ОТ  в  области 
+
+охраны труда проводят по критериям, приведенным ниже [22, 23]:  
+
+-  соотношение  числа  уже  проведенных  внутренних  аудитов  к  числу 
+
+запланированных на год; 
+
+-  общее число совещаний по охране труда; 
+
+-  наличие выборочных опросов работников по охране труда; 
+
+-  число уже определенных рисков на производстве; 
+
+-  число проведенных на определенном этапе оценок рисков, в которых 
+
+приняли участие работники; 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+81 
+
+-  общее  число  пунктов  предписаний,  несоответствий  требованиям 
+
+охраны труда, выявленных в ходе проверок государственными органами и 
+
+внутри организации; 
+
+-  общее  число  аудитов  безопасного  поведения,  проведенных  в 
+
+организации; 
+
+-  число тренингов по охране труда; 
+
+-  организация  процедуры  расследования  причин  несчастных  случаев 
+
+внутри организации; 
+
+-  строгое соблюдение норм и сроков выдачи средств индивидуальной 
+
+защиты работникам; 
+
+-  число  предложений,  поступивших  от  работников  по  улучшению 
+
+системы безопасности; 
+
+-  наличие  внутри  организации  локальных  нормативных  документов, 
+
+которые улучшают условия труда на рабочих местах; 
+
+-  оперативность  и 
+
+наглядность  информационной  пропаганды 
+
+безопасного труда. 
+
+С  целью  предоставления  всесторонней  и  правдивой  оценки 
+
+эффективности функционирования ИСУ, ПБ и ОТ в части промышленной 
+
+безопасности  существуют  комплекс  количественных  и  качественных 
+
+показателей:  
+
+Общие  показатели  аварийности  и  травматизма  в  организации.  Сюда 
+
+включены:  коэффициенты  частоты  и  тяжести  аварий  и  травм;  число 
+
+несчастных  случаев,  инцидентов,  аварий;  общая  динамика  степени 
+
+защищенности производства; 
+
+Экономические  показатели:  общий  ущерб,  наносимый  организации  в 
+
+результате травмирования работников, аварий, инцидентов и перерывов в 
+
+производстве;  общие  затраты,  связанные  с  обеспечением  безопасности  в 
+
+организации; 
+
+Показатели,  определяющие  текущее  состояние  системы  безопасности 
+
+(наличие 
+
+повреждений 
+
+в 
+
+оборудовании, 
+
+которые 
+
+приводят 
+
+к 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+82 
+
+производственным 
+
+рискам): 
+
+профессионализм 
+
+работников, 
+
+результативность  концепции  оплаты  труда,  осведомленность  персонала, 
+
+условия,  обуславливающие  проявление  небезопасных  производственных 
+
+обстановок [24, 25]. 
+
+Достичь  эффективности  в  управлении  риском  на  производстве 
+
+возможно  при  постоянном  контроле  за  соблюдением  требований 
+
+безопасности и воздействии на основные причины таких нарушений.  
+
+Вывод 
+
+Проведение  аудитов  позволяет  определить  соответствие  деятельности 
+
+и  результатов  организации  в  области  промышленной  безопасности  и 
+
+охраны 
+
+труда 
+
+существующим 
+
+требованиям 
+
+законодательства. 
+
+Эффективное  использование  набора  критериев  оценки  эффективности 
+
+системы  безопасности  является  залогом  совершенствования  ИСУ,  ПБ  и 
+
+ОТ.  Совершенствование  ИСУ  ПБ  и  ОТ  позволяет  предотвратить 
+
+количество  аварий,  инцидентов,  случаев  травмирования,  ухудшения 
+
+здоровья  персонала  в  нефтяной  отрасли  и  приводит  к  снижению 
+
+неблагоприятного воздействия на окружающую среду. 
+
+Список используемых источников 
+
+1.  Федосов  А.В.,  Вадулина  Н.В.,  Абдрахманова  К.Н.  Особенности 
+
+организации  промышленной  безопасности  и 
+
+охраны 
+
+труда  на 
+
+предприятиях  нефтегазовой  отрасли  //  Проблемы  сбора,  подготовки  и 
+
+транспорта нефти и нефтепродуктов. 2017. Вып. 4 (110). С. 193-201.  
+
+2.  Абдрахманов  Н.Х.,  Матвеев  В.П.,  Нищета  А.С.,  Савицкий  В.В., 
+
+Доржиева О.А., Хакимов Т.А. Анализ отечественного и зарубежного опыта 
+
+исследований  в  области  безопасного  проектирования  и  эксплуатации 
+
+технологических  объектов  нефтеперерабатывающих  и  нефтехимических 
+
+производств  //  Экспертиза  промышленной  безопасности  и  диагностика 
+
+опасных производственных объектов: сб. тр. Уфа, 2015. С. 162-164.  
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+83 
+
+3.  Абдрахманов  Н.Х.,  Шайбаков  Р.А.,  Байбурин  Р.А.  Роль  анализа 
+
+причин  аварий  на  объектах  нефтехимических  и  нефтеперерабатывающих 
+
+производств в оценке уровня рисков // Нефтегазовое дело. 2008. Т. 6. № 1. 
+
+С. 189-190.  
+
+4.  Абдрахманов  Н.Х.,  Абдрахманова  К.Н.,  Ворохобко  В.В., 
+
+Шайбаков Р.А.  Современное  состояние  разработки  методологии  анализа 
+
+системных  рисков  при  проектировании  и  эксплуатации  нефтегазового 
+
+оборудования  опасных  производственных  объектов 
+
+//  Электронный 
+
+научный журнал «Нефтегазовое дело». 2014. № 3. С. 359-376.   
+
+5.  Абдрахманов  Н.Х.,  Абдрахманова  К.Н.,  Ворохобко  В.В., 
+
+Абдрахманов  Р.Н.  Требования  к  информационному,  организационному  и 
+
+техническому  обеспечению  построения  информационно-  управляющей 
+
+системы  безопасности  для  предприятий  нефтегазоперерабатывающей 
+
+промышленности 
+
+//  Экспертиза  промышленной 
+
+безопасности  и 
+
+диагностика  опасных  производственных  объектов:  сб.  тр.  Уфа,  2016. 
+
+№ 2(8). С. 14-17. 
+
+6.  Абдрахманов  Н.Х.,  Абдрахманова  К.Н.,  Ворохобко  В.В., 
+
+Абдрахманов  Р.Н.  Требования  к  программному  обеспечению  построения 
+
+информационно-управляющей  системы  безопасности  при  эксплуатации 
+
+опасных  производственных  объектов  нефтегазовой  отрасли  //  Экспертиза 
+
+промышленной  безопасности  и  диагностика  опасных  производственных 
+
+объектов: сб. тр. Уфа, 2016. № 2 (8). С. 43-45.  
+
+7.  Кускильдин  Р.А.,  Абдрахманов  Н.Х.,  Закирова  З.А.,  Ялалова  Э.Ф., 
+
+Абдрахманова  К.Н.,  Ворохобко  В.В.  Современные  технологии  для 
+
+проведения 
+
+производственного 
+
+контроля, 
+
+повышающие 
+
+уровень 
+
+промышленной  безопасности  на  объектах  нефтегазовой  отрасли 
+
+// 
+
+Проблемы сбора, подготовки и транспорта нефти и нефтепродуктов. 2017. 
+
+Вып. 2 (108). С. 111-120.  
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+84 
+
+8.  Kunelbayev  M.M.,  Gaisin  E.Sh.,  Repin  V.V.,  Galiullin  M.M., 
+
+Abdrakhmanova K.N.  Heat Absorption by Heat-Transfer Agent in a Flat Plate 
+
+Solar Collector // International Journal of Pure and Applied Mathematics. 2017. 
+
+Т. 115. № 3. С. 561-575. 
+
+9.   Гражданкин  А.И.,  Печеркин  А.С.,  Сидоров  В.И.  Исследование 
+
+аварий  в  химической,  нефтехимической  и  нефтеперерабатывающей 
+
+промышленности США. Правовая практика и уроки // Безопасность труда 
+
+в промышленности. 2013. № 7. С. 58-66. 
+
+10. Akbashev N.R., Solodovnikov A.V. Analysis of a Management System 
+
+for  Industrial  Safety  at  Oil  Refineries // Chemical  and  Petroleum  Engineering. 
+
+2014. Vol. 50. No. 7-8. pp. 542-546. 
+
+11. Fedosov  A.V.,  Abdrakhmanov  N.  Kh.,  Gaysin E.  Gh., 
+
+Sharafutdinova G.M.,  Abdrakhmanova  K.  N.,  Shammatova  A.A.  The  Use  of 
+
+Mathematical  Models in  the  Assessment of the  Measurements'  Uncertainty  for 
+
+the  Purpose  of  the  Industrial  Safety  Condition  Analysis  of  the  Dangerous 
+
+Production  Objects  //  International  Journal  of  Pure  and  Applied  Mathematics. 
+
+2018. Vol. 10. P. 433-437. 
+
+12. Карабанов  Ю.Ф.,  Печёркин  А.С.,  Ткаченко  В.А.,  Сидоров  В.И. 
+
+Аудит  промышленной безопасности  опасных производственных объектов 
+
+// Безопасность труда в промышленности. 2019. № 2. С. 60-69.  
+
+13.  Проскура В.С., Галлямов М.А., Абдрахманова К.Н., Басырова А.Р. 
+
+Анализ  и  актуальные  проблемы  обеспечения  безопасности  эксплуатации 
+
+опасного производственного объекта на примере установки гидроочистки 
+
+бензиновых  фракций  НПЗ  //  Проблемы  сбора,  подготовки  и  транспорта 
+
+нефти и нефтепродуктов. 2018. Вып. 5 (115). С. 124-133. 
+
+14. Александрова  А.В.  О  сущности  внутреннего  аудита  в  управлении 
+
+охраной труда на промышленных предприятиях // Международный журнал 
+
+прикладных и фундаментальных исследований. 2018. № 5. С. 273-277. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+85 
+
+15. Абдрахманов  Н.Х.,  Абдрахманова  К.Н.,  Ворохобко  В.В., 
+
+Шайбаков Р.А.  Анализ  системных  рисков  при  проектировании  и 
+
+эксплуатации  опасных  производственных  объектов  //  Промышленная 
+
+безопасность 
+
+на 
+
+взрывопожароопасных 
+
+и 
+
+химически 
+
+опасных 
+
+производственных  объектах:  матер.  VIII  науч.-практ.  конф.  Уфа:  УГНТУ, 
+
+2014. С. 28-31. 
+
+16. Булыгин  О.В,  Емельянов  А.А,  Емельянова  Н.З.,  Кукушкин  А.А. 
+
+Системный анализ в управлении. М.: ИНФРА-М, 2017. 450 с. 
+
+17. Abdrakhmanov  N.,  Abdrakhmanova  K.,  Vorohobko  V., 
+
+Abdrakhmanova L.,  Basyirova  A.  Development  of  Implementation  Chart  for 
+
+Non-Stationary  Risks  Minimization  Management  Technology  Based  on 
+
+Information-Management Safety System // Journal of Engineering and Applied 
+
+Sciences. 2017. No. 12. Р. 7880-7888.  
+
+18. Федосов А.В., Маннанова Г.Р., Шипилова Ю.А. Анализ опасностей, 
+
+оценка 
+
+риска 
+
+аварий 
+
+на опасных 
+
+производственных 
+
+объектах 
+
+и рекомендации  по  выбору  методов  анализа  риска  //  Нефтегазовое  дело.  
+
+2016. № 3.  С. 322-336. 
+
+19. Lavorato  D,  Nuti  C,  Santini  S,  Briseghella  B,  Xue  J.  A  Repair  and 
+
+Retroftting  Intervention  to  Improve  Plastic  Dissipation  and  Shear  Strength  of 
+
+Oil Tanks // IABSE Conference «Structural Engineering, Providing Solutions to 
+
+Global Challenges Report». Geneva, 2015. pp. 1762-1767. 
+
+20. Abdrakhmanov  N.Kh.,  Vadulina  N.V.,  Fedosov  A.V.,  Ryamova  S.M., 
+
+Gaisin  E.Sh.  A  New  Approach  for  a  Special  Assessment  of  the  Working 
+
+Conditions  at 
+
+the  Production  Factors'  Impact 
+
+through  Forecasting 
+
+the 
+
+Occupational Risks // Man in India. 2017. Vol. 97. No. 20. Р. 495-511.  
+
+21. Monteiro  M.S.  Experimental  Investigations  of  Various  Methods  of 
+
+Sludge  Measurements  in  Storage  Oil  Tanks  //  Advances  in  Remote  Sensing. 
+
+2015. Vol. 4. No. 2. Р. 119-137. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+86 
+
+22. Федосов  А.В.,  Ахметова  Д.Д.,  Галеева  А.Ф.  Обзор  существующих 
+
+методов  анализа  и  оценки  ресурсов  на  опасных  производственных 
+
+объектах //  Актуальные проблемы науки и техники: матер. IX Междунар. 
+
+науч.-практ. конф. молодых ученых. Уфа, 2016. С. 194-195. 
+
+23. Gaisina  L.M.,  Maier  V.V.,  Abdrakhmanov N.K.,  Sultanova  E.A., 
+
+Belonozhko  M.L.  Deliberate  Reorganization of the System of Social Relations 
+
+in Oil and Gas Companies in the Period of Changes in Economics // Espacios. 
+
+2017. Vol. 38. No. 48. Р. 12. 
+
+24. Sekerin  V.D.,  Gaisina  L.M.,  Shutov  N.V.,  Abdrakhmanov  N.Kh., 
+
+Valitova  N.E.  Improving  the  Quality  of  Competence-Oriented  Training  of 
+
+Personnel  at  Industrial  Enterprises  //  Quality  –  Access  to  Success.  2018.  Vol. 
+
+19. No. 165. Р. 68-73. 
+
+25. Koufoudi E., Cornou C., Grange S., Dufour F., Imtiaz A. Quantification 
+
+of the Amplitude Variability of the Steel. Variability of Linear and Non-Linear 
+
+Structural Response of a Single Degree of Freedom System // Bull. Earthq. Eng. 
+
+2018. No. 5. Р. 202-208. 
+
+References 
+
+1.  Fedosov  A.V.,  Vadulina  N.V.,  Abdrakhmanova  K.N.  Osobennosti 
+
+organizacii  promyshlennoj  bezopasnosti  i  okhrany  truda  na  predpriyatiyakh 
+
+neftegazovoj otrasli [Features of the Organization of Industrial Safety and Labor 
+
+Protection  at  the  Enterprises  of  the  Oil  and  Gas  Industry].  Problemy  sbora, 
+
+podgotovki  i  transporta  nefti  i  nefteproduktov  –  Problems  of  Gathering, 
+
+Treatment  and  Transportation  of  Oil  and  Oil  Products,  2017,  Issue  4  (110), 
+
+pp. 193-201. [in Russian]. 
+
+2.  Abdrakhmanov  N.Kh.,  Matveev  V.P.,  Nishcheta A.S.,  Savitskii  V.V., 
+
+Dorzhieva O.A., Khakimov T.A. Analiz otechestvennogo i zarubezhnogo opyta 
+
+issledovanii 
+
+v 
+
+oblasti 
+
+bezopasnogo 
+
+proektirovaniya 
+
+i 
+
+ekspluatatsii 
+
+tekhnologicheskikh ob"ektov neftepererabaty-vayushchikh i neftekhimicheskikh 
+
+proizvodstv  [Analysis  of  Domestic  and  Foreign  Experience of  Research in  the 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+87 
+
+Field of Safe Design and Operation of Technological Facilities of Oil Refining 
+
+and  Petrochemical  Industries].  Ekspertiza  promyshlennoi  bezopasnosti 
+
+i 
+
+diagnostika  opasnykh  proizvodstvennykh  ob"ektov  –  Expertise  of  Industrial 
+
+Safety  and  Diagnostics  of  Hazardous  Production  Facilities,  2015,  No.  5, 
+
+pp. 162-164. [in Russian]. 
+
+3.  Abdrahmanov  N.  KH.,  Shajbakov  R.A.,  Bajburin  R.A.  Rol'  analiza 
+
+prichin  avarij  na  ob"ektakh  neftekhimicheskikh  i  neftepererabatyvayushchikh 
+
+proizvodstv  v  ocenke  urovnya  riskov  [Role  of  the  Analysis  of  the  Reasons  of 
+
+Accidents  on  Objects  of  Petrochemical  and  Oil  Processing  Productions  in 
+
+Assessment  of  Level  of  Risks].  Neftegazovoe  delo  –  Petroleum  Engineering, 
+
+2008, Vol. 6, No. 1, pp. 189-190. [in Russian].  
+
+4.  Abdrakhmanov  N.KH.,  Abdrakhmanova  K.N.,  Vorokhobko  V.V., 
+
+Shajbakov  R.A.  Sovremennoe  sostoyanie  razrabotki  metodologii  analiza 
+
+sistemnykh 
+
+riskov  pri  proektirovanii 
+
+i 
+
+ehkspluatacii  neftegazovogo 
+
+oborudovaniya  opasnykh  proizvodstvennykh  ob"ektov  [The  Current  State  of 
+
+Development  of  Methodology  of  the  Analysis  of  System  Risks  at  Design  and 
+
+Operation  of  the  Oil  and  Gas  Equipment  of  hazardous  Production  Facilities]. 
+
+Elektronnyi  nauchnyi  zhurnal  «Neftegazovoe  delo»  –  Electronic  Scientific 
+
+Journal «Oil and Gas Business», 2014, No. 3, pp. 359-376.. [in Russian].   
+
+5.  Abdrahmanov  N.KH.,  Abdrakhmanova  K.N.,  Vorokhobko  V.V., 
+
+Abdrakhmanov  R.N.  Trebovaniya  k  informacionnomu,  organizacionnomu  i 
+
+tekhnicheskomu  obespecheniyu  postroeniya  informacionno-upravlyayushchej 
+
+sistemy 
+
+bezopasnosti 
+
+dlya 
+
+predpriyatij 
+
+neftegazopererabatyvayushchej 
+
+promyshlennostI  [Requirements  to  Information,  Organizational  and  Technical 
+
+Support  of  Creation  of  the  Information  Operating  Security  System  for  the 
+
+Enterprises of the Oil and Gas Processing Industry].  Ekspertiza promyshlennoi 
+
+bezopasnosti i diagnostika opasnykh proizvodstvennykh ob"ektov – Expertise of 
+
+Industrial Safety and Diagnostics of Hazardous Production Facilities, 2016, No. 
+
+2 (8), pp. 14-17. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+88 
+
+6.  Abdrahmanov  N.Kh.,  Abdrakhmanova  K.N.,  Vorokhobko  V.V., 
+
+Abdrakhmanov R.N. Trebovaniya k programmnomu obespecheniyu postroeniya 
+
+informacionno-upravlyayushchej 
+
+sistemy  bezopasnosti  pri  ehkspluatacii 
+
+opasnykh  proizvodstvennykh  ob"ektov  neftegazovoj  otrasli  [Requirements  to 
+
+the  Software  of  Creation  of  a  Management  Information  Security  System  at 
+
+Operation  of  Hazardous  Production  Facilities  of  the  Oil  and  Gas  Industry]. 
+
+Ekspertiza 
+
+promyshlennoi 
+
+bezopasnosti 
+
+i 
+
+diagnostika 
+
+opasnykh 
+
+proizvodstvennykh ob"ektov – Expertise of Industrial Safety and Diagnostics of 
+
+Hazardous Production Facilities, 2016, No. 2 (8), pp. 43-45. [in Russian]. 
+
+7.  Kuskil'din  R.A.,  Abdrakhmanov  N.Kh.,  Zakirova  Z.A.,  Yalalova  E.F., 
+
+Abdrakhmanova  K.N.,  Vorokhobko  V.V.  Sovremennye  tekhnologii  dlya 
+
+provedeniya 
+
+proizvodstvennogo 
+
+kontrolya, 
+
+povyshayushchie 
+
+uroven' 
+
+promyshlennoi  bezopasnosti  na  ob"ektakh  neftegazovoi  otrasli  [Modern 
+
+Technologies  for  Operation  Control  Monitoring  Increasing  Industrial  Safety 
+
+Level  on  Oil  and  Gas  Industry  Objects].  Problemy  sbora,  podgotovki  i 
+
+transporta  nefti  i  nefteproduktov  –  Problems  of  Gathering,  Treatment  and 
+
+Transportation  of  Oil  and  Oil  Products,  2017,  Issue  2  (108),  pp.  111-120. 
+
+[in Russian]. 
+
+8.  Kunelbayev  M.M.,  Gaisin  E.Sh.,  Repin  V.V.,  Galiullin  M.M., 
+
+Abdrakhmanova K.N. Heat Absorption by Heat-Transfer  Agent in a Flat Plate 
+
+Solar Collector. International Journal of Pure and Applied Mathematics, 2017, 
+
+Vol. 115, No. 3, pp. 561-575. 
+
+9.  Grazhdankin  A.I.,  Pecherkin  A.S.,  Sidorov  V.I.  Issledovanie  avarij  v 
+
+khimicheskoJ,  neftekhimicheskoj  i  neftepererabatyvayushchej  promyshlennosti 
+
+SSHA.  Pravovaya  praktika  i  urokI  [Research  of  Accidents  in  Chemical, 
+
+Petrochemical  and  Oil-Processing  Industry  of  the  USA.  Legal  Practice  and 
+
+Lessons].  Bezopasnost'  truda  v  promyshlennostI  –  Occupational  Safety  in 
+
+Industry, 2013, No. 7, pp. 58-66. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+89 
+
+10. Akbashev N.R., Solodovnikov A.V. Analysis of a Management System 
+
+for  Industrial  Safety  at  Oil  Refineries.  Chemical  and  Petroleum  Engineering, 
+
+2014, Vol. 50, No. 7-8, рp. 542-546. 
+
+11. Fedosov 
+
+A.V., 
+
+Abdrakhmanov 
+
+N.Kh., 
+
+Gaysin E.Gh., 
+
+Sharafutdinova G.M.,  Abdrakhmanova K.N.,  Shammatova  A.A.  The  Use  of 
+
+Mathematical  Models in  the  Assessment of  the  Measurements'  Uncertainty  for 
+
+the  Purpose  of  the  Industrial  Safety  Condition  Analysis  of  the  Dangerous 
+
+Production  Objects.  International  Journal  of  Pure  and  Applied  Mathematics, 
+
+2018, Vol. 10, pp. 433-437. 
+
+12. Karabanov  YU.F.,  Pechyorkin  A.S.,  Tkachenko  V.A.,  Sidorov  V.I. 
+
+Audit  promyshlennoj  bezopasnosti  opasnykh  proizvodstvennykh  ob"ektov 
+
+[Audit  of  Industrial  Safety  of  Hazardous  Production  Facilities].  Bezopasnost' 
+
+truda  v  promyshlennosti  –  Occupational  Safety  in  Industry,  2019,  No.  2,  
+
+pp. 60-69. [in Russian]. 
+
+13. Proskura  V.S,  Gallyamov  M.A.,  Abdrakhmanova  K.N.,  Basyrova  A.R. 
+
+Analiz 
+
+i  aktual'nye  problemy  obespecheniya  bezopasnosti  ehkspluatacii 
+
+opasnogo  proizvodstvennogo  ob"ekta  na  primere  ustanovki  gidroochistki 
+
+benzinovykh  frakcij  NPZ  [The  Analysis  and  Current  Problem  of  Ensuring  the 
+
+Safe  Operation  of  Hazardous  Production  Facility  for  Example  Installing 
+
+Gasoline  Fractions  Hydrotreating  Oil  Refinery].  Problemy  sbora,  podgotovki  i 
+
+transporta  nefti  i  nefteproduktov  –  Problems  of  Gathering,  Treatment  and 
+
+Transportation  of  Oil  and  Oil  Products,  2018,  Issue  5  (115),  pp.  124-133. 
+
+[in Russian]. 
+
+14. Aleksandrova  A.V.  O  sushchnosti  vnutrennego  audita  v  upravlenii 
+
+okhranoj truda na promyshlennykh predpriyatiyaKH [On the Essence of Internal 
+
+Audit  in  the  Management  of  Labor  Protection  at  Industrial  Enterprises]. 
+
+Mezhdunarodnyj  zhurnal  prikladnykh 
+
+i 
+
+fundamental'nykh 
+
+issledovanii   
+
+International  Journal  of  Applied and  Fundamental  Research, 2018,  No. 5,  рp. 
+
+273-277. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+90 
+
+15. Abdrakhmanov  N.Kh.,  Abdrakhmanova K.N.,  Vorokhobko  V.V., 
+
+Shaibakov  R.A.  Analiz  sistemnykh  riskov  pri  proektirovanii  i  ekspluatatsii 
+
+opasnykh  proizvodstvennykh  ob"ektov  [Analysis  of  Systemic  Risks  in  the 
+
+Design  and  Operation  of  Hazardous  Production  Facilities].  Materialy  VIII 
+
+nauchno-prakticheskoi 
+
+konferentcii 
+
+«Promyshlennayа 
+
+bezopasnost' 
+
+na 
+
+vzryvopozharoopasnykh  i  khimicheski  opasnykh  proizvodstvennykh  ob''ektakh» 
+
+[Proceedings  of  the  VIII  Scientific-Practical  Conference  «Industrial  Safety  at 
+
+Explosive  and  Chemically  Hazardous  Production  Facilities»],  Ufa,  UGNTU, 
+
+2014, pp. 28-31. [in Russian]. 
+
+16. Bulygin  O.V.,  Emelyanov  A.A.,  Emelyanova  N.Z.,  Kukushkin  A.A. 
+
+Sistemnyj  analiz  v  upravlenii  [Systems  Analysis  in  Management].  Moscow, 
+
+INFRA, 2017. 450 p. [in Russian]. 
+
+17. Abdrakhmanov  N.,  Abdrakhmanova  K.,  Vorohobko  V., 
+
+Abdrakhmanova L.,  Basyirova  A.  Development  of  Implementation  Chart  for 
+
+Non-Stationary  Risks  Minimization  Management  Technology  based  on 
+
+Information-Management  Safety  System.  Journal  of  Engineering  and  Applied 
+
+Sciences, 2017, No. 12, pp. 7880-7888. 
+
+18. Fedosov  A.V.,  Mannanova  G.R.,  ShipilovaYu.A.  Analiz  opasnosteJ, 
+
+ocenka  riska  avarij  na  opasnykh  proizvodstvennykh  ob"ektakh  i  rekomendacii 
+
+po vyboru metodov analiza riska [Hazard Analysis, Accident Risk Assessment 
+
+at  Hazardous  Production  Facilities  and  Recommendations  for  Choosing  Risk 
+
+Analysis  Methods].  Neftegazovoe  delo  –  Petroleum  Engineering,  2016,  No.  3, 
+
+pp. 322-336 [in Russian]. 
+
+19. Lavorato  D,  Nuti  C,  Santini  S,  Briseghella  B,  Xue  J  A  Repair  and 
+
+Retroftting  Intervention  to  Improve  Plastic  Dissipation  and  Shear  Strength  of 
+
+Oil  Tanks.  IABSE  Conference «Structural  Engineering,  Providing  Solutions to 
+
+Global Challenges Report». Geneva, 2015, рр. 1762-1767. 
+
+20. Abdrakhmanov  N.Kh.,  Vadulina  N.V.,  Fedosov  A.V.,  Ryamova  S.M., 
+
+Gaisin  E.Sh.  A  New  Approach  for  a  Special  Assessment  of  the  Working 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+91 
+
+Conditions  at 
+
+the  Production  Factors'  Impact 
+
+through  Forecasting 
+
+the 
+
+Occupational Risks. Man in India, 2017, Vol. 97, No. 20, pp. 495-511. 
+
+21. Monteiro  M.S.  Experimental  Investigations  of  Various  Methods  of 
+
+Sludge Measurements in Storage Oil Tank. Advances in Remote Sensing, 2015, 
+
+Vol. 4, No. 2, рр. 119-137. 
+
+22. Fedosov  A.V.,  Akhmetova  D.D.,  Galeeva  A.F.  Obzor 
+
+sushchestvuyushchikh  metodov  analiza 
+
+i  ocenki  resursov  na  opasnykh 
+
+proizvodstvennykh  ob"ektaKH  [Review  of  Existing  Methods  of  Analysis  and 
+
+Assessment  of  Resources  at  Hazardous  Production  Facilities].  Sbornik  statei, 
+
+dokladov  i  vystuplenij  IX  Mezhdunarodnoj  nauchno-prakticheskoj  konferencii 
+
+molodykh uchenyKH «Aktual'nye problemy nauki i tekhniki – 2016» [Collection 
+
+of Articles, Reports and Speeches of the IX International Scientific and Practical 
+
+Conference of Young Scientists «Actual Problems of Science and Technology – 
+
+2016»]. Ufa, 2016, pp. 194-195. [in Russian]. 
+
+23. Gaisina  L.M.,  Maier  V.V.,  Abdrakhmanov  N.K.,  Sultanova  E.A., 
+
+Belonozhko  M.L. Deliberate  Reorganization of the System of Social Relations 
+
+in  Oil  and  Gas  Companies  in  the  period  of  Changes  in  Economics.  Espacios, 
+
+2017, Vol. 38, No. 48, 12 p. 
+
+24. Sekerin  V.D.,  Gaisina  L.M.,  Shutov  N.V.,  Abdrakhmanov  N.Kh., 
+
+Valitova  N.E.  Improving  the  Quality  of  Competence-Oriented  Training  of 
+
+Personnel at Industrial Enterprises. Quality – Access to Success, 2018, Vol. 19, 
+
+No. 165, pp. 68-73  
+
+25. Koufoudi E, Cornou C, Grange S, Dufour F, Imtiaz A Quantification of 
+
+the  Amplitude  Variability  of  the  Steel.  Variability  of  Linear  and  Non-Linear 
+
+Structural Response of a Single Degree of Freedom System. Bull. Earthq. Eng., 
+
+2018, No. 5, рр. 202-208. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+92 
+
+Сведения об авторах  
+
+About the authors 
+
+Губайдуллина  Алия  Рустемовна,  студент  кафедры  «Промышленная 
+
+безопасность и охрана труда», УГНТУ, г. Уфа, Российская Федерация 
+
+Aliya  R.  Gubaydullina,  Student  of  Industrial  Safety  and  Labor  Protection 
+
+Department, USPTU, Ufa, Russian Federation 
+
+e-mail: gubaydullina_28@mail.ru 
+
+Федосов  Артем  Васильевич,  кандидат  технических  наук,  доцент 
+
+кафедры  «Промышленная  безопасность  и  охрана  труда»,  УГНТУ,  г.  Уфа, 
+
+Российская Федерация 
+
+Artem V. Fedosov, Candidate of Engineering Sciences, Associate Professor 
+
+of  Industrial  Safety  and  Labor  Protection  Department,  USPTU,  Ufa,  Russian 
+
+Federation 
+
+e-mail: fedsv-artem@rambler.ru 
+
+Абдрахманова  Эмилия  Наилевна,  канд.  техн.  наук,  доцент  кафедры 
+
+«Промышленная  безопасность  и  охрана  труда»,  УГНТУ,  г.  Уфа, 
+
+Российская Федерация 
+
+Emiliya  N.  Abdrakhmanova,  Candidate  of  Engineering  Sciences,  Assistant 
+
+Professor  of  Industrial  Safety  and  Labor  Protection  Department,  USPTU,  Ufa, 
+
+Russian Federation  
+
+e-mail: pbot@mail.ru 
+
+Шайбаков  Рустем  Ахтямович,  канд.  техн.  наук,  доцент  кафедры 
+
+«Промышленная  безопасность  и  охрана  труда»,  УГНТУ,  г. Уфа, 
+
+Российская Федерация 
+
+Rustem  A.  Shaibakov,  Candidate  of  Engineering  Sciences,  Assistant 
+
+Professor  of  Industrial  Safety  and  Labor  Protection  Department,  USPTU,  Ufa, 
+
+Russian Federation  
+
+e-mail: rashaibakov@mail.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+

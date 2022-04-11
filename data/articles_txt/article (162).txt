@@ -1,0 +1,360 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+УДК 621.31, 62-83, 621.313.33 
+
+ПРОБЛЕМЫ УТИЛИЗАЦИИ СОЛНЕЧНЫХ ПАНЕЛЕЙ 
+––––––– 
+PROBLEMS OF RECYCLING SOLAR PANELS 
+
+Махинько Владислав Сергеевич 
+Кубанский государственный технологический университет 
+
+Mahinko Vladislav Sergeyevich  
+Kuban State Technological University 
+
+Коваль Алексей Николаевич 
+Кубанский государственный технологический университет 
+
+Koval Aleksey Nikolaevich 
+Kuban State Technological University 
+
+Ляшенко Андрей Михайлович 
+Кубанский государственный технологический университет 
+
+Lyashenko Andrey Mikhaylovich 
+Kuban State Technological University 
+
+Аннотация.  В  статье  показано,  с  какими  проблемами  прихо-
+дится  сталкиваться  ученым  и  экологам  при  утилизации  сол-
+нечных панелей. 
+
+Annotation.  The  article  shows  what  prob-
+lems  scientists  and  ecologists  have  to  face 
+when disposing of solar panels. 
+
+Ключевые  слова:  солнечные  панели,  экология,  утилизация, 
+электроэнергетика, электротехнические комплексы и системы. 
+
+Keywords:  solar  panel,  ecology,  utilization, 
+electric  power,  electrical  complexes  and 
+systems. 
+
+И 
+
+спользование  солнечных  панелей  в  электроэнергетике  имеет  как  положительные  факто-
+ры,  так  и  отрицательные  [1,  2].  Применение  солнечной  энергетике  имеет  ряд  особенно-
+стей,  применительно  к  работе  электротехнических  и  электромеханических  устройств  [3,  4]  и  компо-
+нентов [5, 6]. При работе устройств на солнечной энергии может влиять на оптимальные параметры 
+работы [7, 8], такие как электромагнитная энергия [9, 10], мощности [11, 12] и момента на валу приво-
+да [13]. Для корректировки необходимы новые подходы [14, 15] и методы [16, 17] и программные ком-
+плексы [18, 19] моделирования [20]. 
+
+В современном мире, солнечная энергетика – это молодая отрасль, которая быстро развивает-
+ся и занимает перспективное место в добыче электроэнергии. Она является «чистым» способом вы-
+работки  электроэнергии,  поскольку  во  время  ее  работы  процесса  сжигания  топлива  не  происходит. 
+Но перед учеными-экологами из разных стран возникла серьёзная проблема. Они выяснили, что срок 
+эксплуатации  сотни  тысяч  солнечных  панелей,  установленных  на  территории  различных  стран  в 
+начале 2000-х годов, постепенно подходит к концу. А технологии их утилизации так и не вошли в про-
+мышленное  производство,  поскольку  обладают  рядом  существенных  недостатков.  Панель  –  самая 
+большая деталь  солнечной  батареи  и  изготавливается,  как  правило,  из  стекла  и  токсичных  элемен-
+тов, а именно кремний, свинец, алюминий, серебро и медь. В итоге большая часть этого стекла, ско-
+рее всего, окажется на свалках, а вещества в них будут нести вред окружающей среде. 
+
+Основными  недостатками  солнечных  панелей,  помимо  их  высокой  стоимости  и  длительному 
+периоду  окупаемости,  относят  плодотворность  работы,  которая  зависит  от  погоды  и  климатических 
+условий. К примеру, эффективность солнечных батарей может существенно снизиться в период пас-
+мурной  погоды  или  тумана.  При  наличии  низкой  температуры,  зимой,  КПД  падает.  Также  отмечу 
+необходимость больших площадей для установки панелей. 
+
+Сегодня объемы отходов солнечной энергетики невелики, поскольку отрасль молодая, а срок служ-
+бы модулей обычно составляет 20–25 лет, а то и меньше в зависимости от природных явлений. В то же 
+время в не таком уж далеком будущем нас ждет экспоненциальный рост этих объемов. Отходы солнечных 
+батарей содержат токсичные элементы, которые могут просочиться в землю, если панели утилизируются 
+на свалках. Более того, из-за этих элементов, рециркуляция солнечных батарей представляет собой про-
+блему. Она заключается в том, что, хотя 76 процентов панели  – это стекло, ее  нельзя просто перерабо-
+тать, как любое другое стекло, из-за примесей. По мере того, как солнечная энергия используется все ча-
+ще, в том числе в домашних электростанциях, отходы от подобных устройств тоже растут. 
+
+Стекло от фотоэлектрических модулей можно повторно использовать в производстве остекле-
+ния для домов. Однако, наибольшую ценность для переработки здесь представляют серебро и алю-
+миний, которые имеют потенциальную выгоду от утилизации панелей, поскольку их запасы ограниче-
+ны. В настоящее время существует грубая и тонкая переработка. 
+
+В грубой происходит извлечение материалов, составляющую основную массу модуля. А в тон-
+кой переработки происходит извлечение практически всех химических элементов. В связи с тем, что 
+сегодня  объемы  солнечных  отходов  невелики,  модули  в  основном  перерабатываются  на  заводах, 
+предназначенных для переработки многослойного  стекла, металлов или электронных отходов. В ре-
+зультате выделяются только основные материалы, в то время как солнечные ячейки и другие мате-
+риалы, такие как пластмассы, сжигаются или отправляются на свалки. 
+
+174 
+
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+Рисунок 1 – Солнечные панели 
+
+Поэтому пока этот вопрос не будет урегулирован, мы и дальше будем утилизировать на общий 
+конвейер и не получать максимальную отдачу. В связи с этим, Европейский союз первым ввёл прави-
+ла утилизации отходов солнечных электростанций – модули должны утилизироваться в соответствии 
+с Директивой об отходах электрического и электронного оборудования (WEEE). С 2012 года положе-
+ния Директивы WEEE были включены в национальное законодательство странами-членами Европей-
+ского союза, создав первый рынок, на котором переработка солнечных модулей обязательна. Амери-
+канская компания First Solar еще в 2005 году создала глобальную программу по сбору и переработке 
+своих  солнечных  модулей.  Технология  позволяет  обеспечить  повторное  использование  90  %  полу-
+проводниковых материалов и стекла. Такая политика производителей  обусловлена не только посто-
+янным ужесточением требований регуляторов или «повышенной социальной ответственностью». Пе-
+реработка солнечных модулей не лишена экономического смысла. 
+
+Но все же нельзя отворачиваться от солнечной электроэнергетики. Согласно прогнозам компа-
+нии GTM Research, к 2050 году рынок вырастет до 15 млрд долларов в год, а из накопленного объема 
+отходов можно будет произвести 2 млрд солнечных модулей (эквивалентно 630 ГВт). Также солнеч-
+ные панели уже в ближайшие 30–40 лет смогут производить около 20 % мировой потребности элек-
+троэнергии. 
+
+Литература: 
+
+1.  News.rambler.ru  //  Пора  подумать  об  утилизации  отработанных  солнечных  панелей.  –  URL  : 
+
+https://news.rambler.ru/other/44957835-pora-podumat-ob-utilizatsii-otrabotannyh-solnechnyh-paneley/ 
+
+2.  Electricalnet.ru  /  Глобальные  проблемы  солнечной  электроэнергетики.  –  URL  :  https://electricalnet.ru/ 
+
+blog/globalnye-problemy-solnechnoi-energetiki/  
+
+3.  Карандей В.Ю., Попов Б.К. Управляемый каскадный электрический привод с жидкостным токосъемом // 
+
+Патент на изобретение № 2461947 зарегистрировано 20.09.2012 г. 
+
+4.  Афанасьев  В.Л.,  Карандей  В.Ю.,  Попов  Б.К.  Управляемый  каскадный  электрический привод  //  Патент 
+
+на полезную модель RU 191959 U1, 28.08.2019, заявка № 2019111630 от 16.04.2019. 
+
+5.  Карандей В.Ю., Попов Б.К. Токосъемное устройство // Патент на изобретение № 2370869 зарегистри-
+
+ровано30.06.2008 г. 
+
+6.  Сигнализирующее  токосъемное  устройство  /  В.Ю.  Карандей  [и  др.]  //  Патент  на  изобретение                 
+
+№ 2601958 от 27 июля 2015 г, зарегистрировано 18.10.2016 г. 
+
+7.  Research  of  electrical  power  processes  for  optimum  modeling  and  design  of  special  electric  drives  /          
+
+V.Yu. Karandey [et al.] // Advances in Engineering Research conference proceedings. – 2018. – Vol. 157. – Р. 242–247. 
+doi:10.2991/aime-18.2018.47. 
+
+8.  Определение магнитных параметров модели статора компонента управляемого асинхронного каскад-
+ного электрического привода аксиальной конструкции / В.Ю. Карандей [и др.] // Политематический сетевой элек-
+тронный научный журнал Кубанского государственного аграрного университета [Электронный ресурс]. – 2017. – 
+№ 10 (134). – С. 1135–1151. Doi: 10.21515/1990-4665-134-092. 
+
+9.  Карандей  В.Ю.  Разработка  подхода  к  расчету  магнитного  потока  одной  катушечной  группы  обмотки 
+статора  компонента  управляемого  асинхронного  каскадного  электрического  привода  /  В.Ю.  Карандей  [и  др.]  // 
+Политематический  сетевой  электронный  научный журнал  Кубанского  государственного  аграрного  университета 
+(Научный журнал КубГАУ) [Электронный ресурс]. – Краснодар : КубГАУ, 2016. – № 06 (120). – С. 563–574. – IDA 
+[article ID]: 1201606039. – URL : http://ej.kubagro.ru/2016/06/pdf/39.pdf 
+
+10. Карандей В.Ю., Карандей Ю.Ю., Афанасьев В.Л. Подход к определению магнитных параметров управ-
+ляемого асинхронного каскадного электрического привода с уточненной геометрией // Политематический сетевой 
+электронный  научный  журнал  Кубанского  государственного  аграрного  университета  (Научный  журнал  КубГАУ) 
+:  
+[Электронный  ресурс].  –  Краснодар 
+http://ej.kubagro.ru/2016/06/pdf/40.pdf 
+
+(120).  –  С.  575–586.  –  URL 
+
+:  КубГАУ,  2016.  –  №  06 
+
+11. Research  dynamics  of  change  of  electromagnetic  parameters  of  controlled  special  electric  drives  /              
+
+V.Yu.  Karandey  [et  al.]  //  2019  International  Multi-Conference  on  Industrial  Engineering  and  Modern  Technologies 
+(FarEastCon-2019). – 2019. – Р. 8934751. Doi: 10.1109/FarEastCon.2019.8934751. 
+
+175 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+12. Research of electromagnetic parameters for improvement of efficiency of special electric drives and compo-
+nents  /  V.Yu.  Karandey  [et  al.] //  5th  International  Conference  on  Power  Generation  Systems  and  Renewable  Energy 
+Technologies. – 2019. – Р. 69–74. Doi: 10.1109/PGSRET.2019.8882689. 
+
+13. Карандей  В.Ю.,  Афанасьев  В.Л.  Mathematical  modeling  of  special  electric  drives  for  the  equipment  of  oil 
+and gas branch // Политематический сетевой электронный научный журнал Кубанского государственного аграрно-
+го университета [Электронный ресурс]. – 2017. – № 08 (132). – С. 926–940., Doi: 10.21515/1990-4665-132-072. 
+
+14. Popova O.B.,  Popov  B.K.,  Karandey  V.Yu. Intelligence  amplification  in  distance  learning through  the  binary 
+tree  of  question-answer  system  //  Procedia-Social  and  Behavioral  Sciences.  –  2015.  –  Vol.  214.  –  Р.  75–85.  Doi: 
+10.1016/j.sbspro.2015.11.597. 
+
+15. Theoretical propositions and practical implementation of the formalization of structured knowledge of the sub-
+
+ject  area  for  exploratory research  / O.B.  Popova  [et  al.]  // Advances  in Intelligent  Systems  and  Computing.  – 2018.  –     
+Vol. 722. – P. 432–437. Doi: 10.1007/978-3-319-73888-8_67. 
+
+16. New Methods and Evaluation Criteria of Research Efficiency / O.B. Popova [et al.] // Mediterranean journal of 
+
+social sciences. – 2015. – Vol 6. – № 6 S5. – Р. 212–217. 
+
+17. Analysis of forecasting methods as a tool for information structuring in science research / O.B. Popova [et al.] // 
+
+British Journal of Applied Science & Technology. – 2016. – Vol. 17. – Р. 9–19. Doi: 10.9734/BJAST/2016/26353. 
+
+18. Попов Б.К., Карандей В.Ю. Программа для расчета магнитной системы ротора методом магнитных це-
+
+пей // свидетельство о регистрации программы для ЭВМ RU № 2008614047, зарегистрировано 30.06.2008 г. 
+
+19. Попов Б.К., Карандей В.Ю. Программа расчета токов статора и ротора в каскадном электрическом при-
+
+воде // свидетельство о регистрации программы для ЭВМ RU № 2008614048, зарегистрировано 30.06.2008 г. 
+
+20. Intelligence amplification via language of choice description as a mathematical object (binary tree of question-
+
+answer system) / V.Yu. Karandey [et al.] // Procedia-social and behavioral science. – 2015. – Vol. 214. – Р. 897–905. 
+
+References: 
+
+1.  News.rambler.ru 
+
+// 
+
+It's 
+
+time 
+
+to 
+
+think  about 
+
+recycling  used 
+
+solar  panels.  –  URL 
+
+: 
+
+https://news.rambler.ru/other/44957835-pora-podumat-ob-utilizatsii-otrabotannyh-solnechnyh-paneley/ 
+
+2.  Electricalnet.ru / Global problems of solar electricity. – URL : https://electricalnet.ru/ blog/globalnye-problemy-
+
+solnechnoi-energetiki/  
+
+3.  Karandey  V.Y.,  Popov  B.K.  Controlled  cascade  electric  drive  with  liquid current  collector  //  Invention  patent      
+
+№ 2461947 registered 20.09.2012. 
+
+4.  Afanasiev V.L., Karandey V.Y., Popov B.K. Controlled cascade electric drive // Utility model patent RU 191959 
+
+U1, 28.08.2019, application № 2019111630 dated 16.04.2019. 
+
+5.  Karandey  V.Y.,  Popov  B.K.  Current-carrying  device  //  Patent  for  the  invention  №  2370869  registered 
+
+30.06.2008. 
+
+6.  Signaling  current-carrying  device  /  V.Yu.  Karandei  [et  al.] //  Patent  for invention №  2601958  dated  July 27, 
+
+2015, registered 18.10.2016. 
+
+7.  Research  of  electrical  power  processes  for  optimum  modeling  and  design  of  special  electric  drives  /          
+
+V.Yu. Karandey [et al.] // Advances in Engineering Research conference proceedings. – 2018. – Vol. 157. – Р. 242–247. 
+doi:10.2991/aime-18.2018.47. 
+
+8.  Determination of magnetic parameters of the stator model component of the controlled asynchronous cascade 
+electric drive axial design / V.Yu. Karandei [et al.] // Polythematic network electronic scientific journal of the Kuban State 
+Agrarian University [Electronic resource]. – 2017. – № 10 (134). – Р. 1135–1151. Doi: 10.21515/1990-4665-134-092. 
+
+9.  Karandey V.Yu. Development of approach to calculation of magnetic flux of one coil group of stator winding 
+component  controlled  asynchronous  cascade  electric  drive  /  V.Yu.  Karandey  [et  al]  //  Polythematic  network  electronic 
+scientific journal of Kuban State Agrarian University (Scientific Journal of KubGAU) [Electronic resource]. – Krasnodar : 
+KubGAU,  2016.  –  №  06  (120).  –  Р.  563–574.  –  AEA 
+:  http://ej. 
+kubagro.ru/2016/06/pdf/39.pdf 
+
+:  1201606039.  –  URL 
+
+[article 
+
+ID] 
+
+10. Karandey V.Y., Karandey Yu.Y., Afanasyev V.L. Approach to determining the magnetic parameters of the con-
+trolled asynchronous cascade electric drive with refined geometry // Polythematic network electronic scientific journal of 
+the  Kuban  State  Agrarian  University  (Scientific  Journal  of  KubGAU)  [Electronic  resource].  –  Krasnodar  :  KubGAU,              
+2016. – № 06 (120). – Р. 575–586. – URL : http://ej.kubagro.ru/2016/06/pdf/40.pdf 
+
+11. Research  dynamics  of  change  of  electromagnetic  parameters  of  controlled  special  electric  drives  /              
+
+V.Yu.  Karandey  [et  al.]  //  2019  International  Multi-Conference  on  Industrial  Engineering  and  Modern  Technologies 
+(FarEastCon-2019). – 2019. – Р. 8934751. Doi: 10.1109/FarEastCon.2019.8934751. 
+
+12. Research of electromagnetic parameters for improvement of efficiency of special electric drives and compo-
+nents  /  V.Yu.  Karandey  [et  al.] //  5th  International  Conference  on  Power  Generation  Systems  and  Renewable  Energy 
+Technologies. – 2019. – Р. 69–74. Doi: 10.1109/PGSRET.2019.8882689. 
+
+13. Karandey V.Y., Afanasiev V.L. Mathematical modeling of special electric drives for the equipment of oil and 
+gas  branch  //  Mathematical  Network  Electronic  Scientific  Journal  of  Kuban  State  Agrarian  University  [Electronic  re-
+source]. – 2017. – № 08 (132). – P. 926–940., Doi: 10.21515/1990-4665-132-072. 
+
+14. Popova O.B.,  Popov  B.K.,  Karandey  V.Yu. Intelligence  amplification  in  distance  learning through  the  binary 
+tree  of  question-answer  system  //  Procedia-Social  and  Behavioral  Sciences.  –  2015.  –  Vol.  214.  –  Р.  75–85.  Doi: 
+10.1016/j.sbspro.2015.11.597. 
+
+15. Theoretical propositions and practical implementation of the formalization of structured knowledge of the sub-
+
+ject  area  for  exploratory research  / O.B.  Popova  [et  al.]  // Advances  in Intelligent  Systems  and  Computing.  – 2018.  –     
+Vol. 722. – P. 432–437. Doi: 10.1007/978-3-319-73888-8_67. 
+
+16. New Methods and Evaluation Criteria of Research Efficiency / O.B. Popova [et al.] // Mediterranean journal of 
+
+social sciences. – 2015. – Vol 6. – № 6 S5. – Р. 212–217. 
+
+176 
+
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2021 
+
+17. Analysis of forecasting methods as a tool for information structuring in science research / O.B. Popova [et al.] // 
+
+British Journal of Applied Science & Technology. – 2016. – Vol. 17. – Р. 9–19. Doi: 10.9734/BJAST/2016/26353. 
+
+18. Popov B.K., Karandey V.U. Software for the calculation of the rotor magnetic system by means of the magnet-
+
+ic circuit method // Registration certificate of the computer program RU № 2008614047, registered on 30.06.2008. 
+
+19. Popov B.K., Karandey V.U. Software for the calculation of the stator and rotor currents in the cascade electric 
+
+drive // Registration certificate of software registration RU № 2008614048, registered on 30.06.2008. 
+
+20. Intelligence amplification via language of choice description as a mathematical object (binary tree of question-
+
+answer system) / V.Yu. Karandey [et al.] // Procedia-social and behavioral science. – 2015. – Vol. 214. – Р. 897–905. 
+
+177 
+
+ 
+ 
+ 
+ 
+ 
+

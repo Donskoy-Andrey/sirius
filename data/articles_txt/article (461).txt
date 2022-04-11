@@ -1,0 +1,442 @@
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+УДК 622.245.544/ 622.24.063.2 
+
+ВЛИЯНИЕ ТЕМПЕРАТУРЫ И ДАВЛЕНИЯ  
+НА ВЕЛИЧИНУ ПОВЕРХНОСТНОГО НАТЯЖЕНИЯ ВОДНОЙ ФАЗЫ  
+БУРОВЫХ РАСТВОРОВ, ОБРАБОТАННЫХ ПАВАМИ 
+●●●●●● 
+THE EFFECT OF TEMPERATURE AND PRESSURE  
+ON THE SURFACE TENSION OF THE AQUEOUS PHASE  
+OF DRILLING FLUIDS TREATED WITH SURFACTANTS 
+
+Бороздин Сергей Олегович 
+старший преподаватель  
+кафедры бурения нефтяных и газовых скважин, 
+РГУ нефти и газа (НИУ) имени И.М. Губкина 
+
+Borozdin Sergey Olegovich 
+Senior Lecturer,  
+Oil and Gas Well Drilling Department, 
+Gubkin University 
+
+Подгорнов Валерий Михайлович 
+доктор технических наук, профессор,  
+профессор кафедры бурения нефтяных и газовых скважин, 
+РГУ нефти и газа (НИУ) имени И.М. Губкина 
+
+Podgornov Valery Mikhailovich 
+Doctor of Technical Sciences, Professor, 
+Professor of Department  
+of Oil and Gas Well Drilling,  
+Gubkin University 
+
+Аннотация. При депрессионном вскрытии продуктивных низко-
+проницаемых коллекторов не смотря на отсутствие гидродина-
+мической фильтрации в пласт может проникать водная фаза в 
+результате  капиллярной  пропитки,  интенсивность  которой 
+определяется  величиной  межфазного  натяжения.  Обработка 
+буровых  растворов  ПАВам  производится  для  регулирования 
+межфазного  натяжения  на  границе  фильтрата  с  пластовыми 
+флюидами, однако их эффективность в термобарических усло-
+виях забоя скважины не сохраняется при повышении темпера-
+туры  и  давления.  Исследования  влияния  термобарических 
+условий на величину межфазного натяжения водной фазы бу-
+ровых  растворов,  обработанных  различными  ПАВами,  прово-
+дились с использованием программного обеспечения DSA1 для 
+анализа формы и размера висящей или лежачей капли, полу-
+ченных  при  различных  термобарических  условиях на  приборе 
+KRUSS  DSA  100.  Установлено,  что  реагент  Safe-Surf  WN                
+(2,2'-Оксидиэтанол) уже при малых концентрациях (0,1 %) эф-
+фективен при давлениях в диапазоне от 80 до 345 бар и темпе-
+ратурах в диапазоне от 45 до 90 град. 
+
+Annotation. During the underbalanced drilling 
+of productive low-permeability reservoirs,  de-
+spite  the  absence  of  hydrodynamic  filtration, 
+the aqueous phase can penetrate into the for-
+mation  as  a  result  of  capillary  imbibition,  the 
+intensity of which is determined by the magni-
+tude  of  interfacial  tension.  Drilling  fluids  are 
+treated  with  surfactants  to  control  interfacial 
+tension at the boundary of the filtrate with for-
+mation  fluids,  however,  their  effectiveness  in 
+thermobaric  conditions  of  the  bottom  hole  is 
+not  preserved  with  increasing  temperature 
+and  pressure.  Investigations  of  the  influence 
+of  thermobaric  conditions  on  the  interfacial 
+tension of the aqueous phase of drilling fluids 
+treated  with  various  surfactants  were  carried 
+out using DSA1 software to analyze the shape 
+and size  of a  hanging or lying  drop obtained 
+under  different  thermobaric  conditions  on  a 
+KRUSS DSA 100 instrument. It was found that 
+Safe-  Surf  WN  (2,2'-Oxydiethanol)  is  already 
+effective at low concentrations (0.1 %) at pres-
+sures in the range from 80 to 345 bar and tem-
+peratures in the range from 45 to 90 degrees. 
+
+Ключевые  слова:  межфазное  натяжение,  капиллярная  про-
+питка,  депрессионное  вскрытие,  термобарические  условия  на 
+забое. 
+
+Keywords: interfacial tension, capillary  imbi-
+bition,  underbalanced  drilling, 
+thermobaric 
+conditions at the bottom. 
+
+ведение 
+
+В 
+
+В практике бурения скважин, особенно при вскрытии продуктивных коллекторов, для регу-
+лирования межфазного натяжения используются ПАВ. Рекомендуемые рецептуры обработок буровых 
+растворов ПАВам, чаще всего, не учитывают термобарические условия на забое скважины, в резуль-
+тате не всегда в полной мере получают желаемый результат. 
+
+Особенно важно иметь фактические значения межфазного натяжения при исследовании физико-
+химических процессов, происходящих при первичном вскрытии пласта в процессе формирования зоны 
+проникновения  фильтратов  буровых  растворов.  В  низкопроницаемых  газонасыщенных  коллекторах 
+скорость  капиллярной пропитки  в  ряде  случаев  соизмерима  со  скоростью проникновения фильтрата 
+бурового раствора в пласт при гидродинамической фильтрации [1]. 
+
+Известно, что скорость продвижения фронта пропитки зависит от капиллярного давления, вели-
+
+чина которого зависит от межфазного натяжения [2, 3]. 
+
+42 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Чаще  всего  проникновение  фильтрата  бурового  раствора  в  пласт  исследуется  под  действием 
+репрессии  со  стороны  ствола  скважины.  В  этом  случае  сложно  оценить  участие  физико-химических 
+процессов в формировании зоны проникновения фильтрата бурового раствора.  
+
+Отдельные  исследователи  изучают  проникновение  фильтрата  бурового  раствора  в  пласт  при 
+бурении на равновесии или же депрессии [4–7], регистрируют снижение загрязнения продуктивоного 
+пласта фильтратом бурового раствора и отмечают участие при этом капиллярного проникновения вод-
+ной фазы в призабойную зону пласта. С помощью геофизических измерений удельного сопротивления 
+в  призабойной  зоне  коллектора  через  определённые  промежутки  времени  можно  оценить интенсив-
+ность капиллярной пропитки при бурени на равновесии и депрессии в реальных условиях [8–12]. При-
+водится методика определения капиллярной пропитки, точность которой сопоставима с каротажными 
+данными [12]. 
+
+Низкопроницаемые пласты гораздо более чувствительны к воздейсвию физико-химических воз-
+действий, вызывающих провреждение пласта, и в результате глубина поврежденной зоны за счёт ка-
+пиллярной пропитки может быть существенной и не всегда преодаляется перфорационными каналами 
+[14, 15, 16]. 
+
+ Таким  образом,  необходимо  оценивать  и  при  необходимости  регулировать  капиллярную  про-
+питку продуктивного коллектора фильтрата бурового раствора с целью управления процессом форми-
+рования зоны проникновения фильтрата. Для этой цели используются определённые ПАВ, с помощью 
+которых  можно  регулировать  капиллярную  активность  фильтратов  буровых  растворов.  Капиллярное 
+давление, определяющее скорость капиллярной пропитки, зависит радиуса поровых каналов, от угла 
+смачивания и межфазного натяжения. 
+
+В научно-технической литературе обозначены основные факторы, влияние которых на величину 
+межфазного натяжения между нефтью и пластовыми водами в продуктивных пластах, можно обобщить 
+следующим образом: 
+
+1.  Температура: повышение температуры приводит к уменьшению межфазного натяжения. 
+2.  Давление: повышение давления также уменьшает межфазное натяжение. 
+3.  Газ,  растворенный  в  нефти  и  воде:  чем  больше  растворенного  в  нефти  газа  при  давлении 
+выше точки кипения, тем меньше межфазное натяжение; чем больше растворенного газа при давлении 
+ниже точки кипения, тем больше межфазное натяжение. 
+
+4.  Вязкость: уменьшение различий в величине вязкости нефти и воды приводит к уменьшению 
+
+межфазного натяжения. 
+
+5.  Плотность: уменьшение различий в плотности нефти и воды обычно приводит к уменьшению 
+межфазного натяжения; снижение плотности, как правило, означает и снижение вязкости; таким обра-
+зом, связь между плотностью и межфазным натяжением может быть аналогична связи между послед-
+ним и вязкостью. 
+
+6.  ПАВ: величина межфазного натяжения зависит от активности ПАВ в реальных термодинами-
+
+ческих условиях.  
+
+Таким  образом,  чтобы  регулировать  скорость  капиллярной  пропитки  необходимо  подобрать 
+ПАВы применительно к реальным пластовым условиям с учётом влияния термобарических условий на 
+меличину межфазного натяжения.  
+
+ Исследования влияние температуры и давления на величину межфазного о натяжения водной фазы 
+буровых растворов, обработанных ПАВами, проводились с использованием прибора KRUSS DSA 100. Для 
+измерения поверхностного и межфазного натяжения в приборах серии DSA для измерения краевого угла 
+используется метод висящей капли. В камере прибора имеется окно для фиксирования формы и размеров 
+висячей капли, изображения которой фиксируется для обработки. Так как поверхностное натяжение стре-
+мится  минимизировать  площадь  поверхности  жидкости,  то  геометрия  капли  в  отсутствие  гравитации 
+должна соответствовать идеальной сфере, т.к. на каплю действуют силы гравитации, то она вытягивается 
+вдоль оси действия сил гравитации. По форме деформации капли вычисляется угол смачивания и величина 
+межфазного  напряжения  при  моделируемых  термобарических  условиях.  Прибор  поставляется  вместе  с 
+программным обеспечением DSA1, которое позволяет вычислить поверхностное натяжение контактирую-
+щих жидкостей по форме и размеру висящей или лежачей капли [17]. Измерение производятся в автомати-
+ческом режиме. 
+
+Со оптическим оборудованием прибора допустимый диапазон измерения составляет от 0,1 мН/м 
+до нескольких сотен мН/м. В качестве «углеводородной фазы» использовался керосин ТС-1, в качестве 
+«фильтрата бурового раствора» использовалась дистиллированная вода с добавлением ПАВ различ-
+ных типов: ECF-1840 – содержит бутоксиэтанол, лимонную кислоту, нефтяные дистилляты и алкильный 
+эфир кукурузного сахара; ECF-1841 – содержит алкильный эфир кукурузного сахара; Safe-Surf O – гид-
+рофилизатор,  растворяет  нефть;  Safe-Surf  WN  –  2,2'-Оксидиэтанол,  используется  при  обработке 
+ствола лучшего сцепления цементного камня с породой и металлом обсадной колонны; Нефтенол К – 
+многокомпонентная смесь анионных и катионных поверхностно-активных веществ разного химического 
+строения. 
+
+43 
+
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Зависимости  межфазного  натяжения  от  концентрации  ПАВ  при  атмосферных  условиях  приве-
+
+дены на рисунке 1. 
+
+Рисунок 1 – Зависимость межфазного натяжения от концентрации ПАВ при атмосферных условиях 
+
+Из рисунка 1 следует, что наиболее заметно межфазное натяжение снижают Safe-Surf WN и ECF-
+1841, содержащие большее количество алкильного эфира кукурузного сахара. А наименьшее снижение 
+межфазного натяжения дает Safe-Surf O и нефтенол.  
+
+ Исследование влияния температуры и давления на межфазное натяжение проводились в спе-
+циальной камере прибора KRUSS DSA 100, в которой моделировались варианты сочетания давления 
+и температуры, типичные для промысловых условий Западной Сибири, поскольку в пластовых усло-
+виях эти два фактора действуют одновременно. 
+
+Применялись сочетания термобарических условий (обозначены также как на последующих ри-
+
+сунках): 1 – 23 °С – 1 бар; 2 – 45 °С – 80 бар; 3 – 70 °С – 240 бар; 4 – 90 °С – 345 бар.  
+
+Полученные результаты показаны на рисунках 2–4. 
+
+Рисунок 2 – Зависимость межфазного натяжения от давления, температуры и концентрации ПАВ Safe-Surf WN 
+
+44 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Рисунок 3 – Зависимость межфазного натяжения от давления, температуры и концентрации ПАВ Safe-Surf O 
+
+Рисунок 4 – Зависимость межфазного натяжения от давления, температуры и концентрации ПАВ ECF-1840 
+
+Из рис. 2-4 следует, что из исследованных ПАВ наиболее эффективен Safe-Surf WN (химическое 
+название вещества «2,2'-Оксидиэтанол», структурная формула C4H10O3, класс 1 согласно классифи-
+кации по опасности загрязнения воды) т.к. он уже при концентрации 0,1 % снижает межфазное натяже-
+ние при исследованных сочетаниях термобарических условий и может активно влиять на процесс ка-
+пиллярной пропитки в пластовых условиях. 
+
+Выводы. 
+Чтобы регулировать межфазное натяжение на контакте водный фильтрат бурового раствора с 
+углеводородной фазой, насыщающий коллектор, необходимо подобрать ПАВы применительно к пла-
+стовым  условиям  с  учётом  влияния  термобарических  условий  на  меличину  межфазного  натяжения. 
+Проведённые исследования зависимости межфазного натяжения от термобарических условий позво-
+ляет сделать вывод, что реагент Safe-Surf WN при минимальных концентрациях в буровых растворах 
+(0,1 %) обеспечивает снижение величины поверхностного натяжения меньше 4 мН/м при давлении в 
+диапазоне от 80 до 345 бар и температурах в диапазоне от 45 до 90 град., что даёт возможность ис-
+пользовать его для регулирования в забойных условиях кинетики капиллярной пропитки ПЗП грануляр-
+ных газонасыщенных коллекторов. 
+
+45 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+Литература 
+
+1.  Бороздин С.О., Подгорнов В.М. Чувствительность коллектора к физико-химическим процессам при фор-
+
+мировании зоны проникновения // Газовая промышленность. – 2016. – № 4. – С. 13–17. 
+
+2.  Al-Ameri Aymen, Gamadi Talal, Watson Marshall, 2018. The Impact of the Fracturing Fluid Spontaneous Imbi-
+bition on the Petrophysical Properties of Low Permeability Reservoirs, 10.2118/189570-MS, Society of Petroleum Engi-
+neers, SPE-189570-MS, SPE. 
+
+3.  Deng L., & King M.J. (2018, August 9). Theoretical Investigation of Water Blocking in Unconventional Reservoirs 
+Imbibition  and  Water  Adsorption.  Unconventional  Resources  Technology  Conference. 
+to  Spontaneous 
+
+Due 
+doi:10.15530/URTEC-2018-2875353. 
+
+4.  Хомейнизаде  Масуд.  Экспериментальное  исследование  повреждений  в  трещиноватых  коллекторах 
+(обусловленных самопроизвольным впитыванием) при бурении на депрессии / Масуд Хомейнизаде, Халил Шах-
+бази, Саяд Реза Шадизаде // Нефтегазовое дело. – 2013. – № 3. 
+
+5.  Friedel Torsten, Voigt Hans-Dieter, 2004. Numerical Simulation of the Gas Inflow During Underbalanced Drilling 
+(UBD) and Investigation of the Impact of UBD on Longtime Well Productivity, 10.2118/91558-MS, Society of Petroleum 
+Engineers, SPE-91558-MS, SPE. 
+
+6.  Khansari Alireza Naziri, 2009. Evaluation of Well Productivity Loss Due to Formation Damage Caused by Spon-
+taneous  Imbibition  in  Underbalanced  Drilling,  10.2118/122268-MS,  Society  of  Petroleum  Engineers,  SPE-122268-MS, 
+SPE. 
+
+7.  R. Arabjamaloei, S. Shadizadeh, M. Ekramzadeh, A. Hamzei & M. Azad (2011) Numerical Model of Counter-
+current Spontaneous Imbibition in Underbalanced Drilling: Formation Damage Investigation, Petroleum Science and Tech-
+nology, 29:16, 1615-1624, DOI: 10.1080/10916460903581369. 
+
+8.  Jiang Yanjiao & Sun Jianmeng & Gao Jianshen & Zhang Pengyun & Cui Jiangman (2017). A simulation of mud 
+invasion  and  characteristics  of array  laterolog responses  in  a  low-permeability  gas reservoir:  A  case  study.  Journal  of 
+Geophysics and Engineering. 14. 456-465. 10.1088/1742-2140/aa5e69. 
+
+9.  Jiang  Yanjiao  &  Sun  Jianmeng  &  Gao  Jianshen  &  Cui  Jiangman.  (2017).  Mud  invasion  and  array  laterolog 
+responses  in  horizontal  well  based  on  numerical  simulation.  Journal  of  Geophysics  and  Engineering.  14.  15-25. 
+10.1088/1742-2132/14/1/15. 
+
+10. Нестерова Г.В. Эволюция зоны проникновения по данным повторного каротажа и гидродинамического 
+
+моделирования / Г.В. Нестерова, А.А. Кашеваров, И.Н. Ельцов // Каротажник. – 2008. – № 1 (166). – С. 52–68. 
+
+11. Нестерова  Г.В.  Моделирование  проникновения  сильнопроводящего  бурового  раствора  в  пласт  /                   
+
+Г.В. Нестерова, А.А. Кашеваров, И.Н. Ельцов // Каротажник. – 2008. – № 9 (174). – С. 45–60. 
+
+12. Формирование зоны проникновения по данным натурного эксперимента / А.А. Кашеваров [и др.] // Каро-
+
+тажник. – 2009. – № 4 (181). – С. 109–119. 
+
+13. Adams Stephen. Modeling Imbibition Capillary Pressure Curves, 10.2118/84298-MS, Society of Petroleum En-
+
+gineers, SPE-84298-MS, SPE. 
+
+14. Qutob  Hani,  Byrne  Micheal,  Wed  Jun  03  01:00:00  BST  2015.  Formation  Damage  in  Tight  Gas  Reser-
+
+voirs,10.2118/174237-MS, Society of Petroleum Engineers, SPE-174237-MS, SPE. 
+
+15. Ramalho John, Suryanarayana P.V., Vaidya Ravi, Wu Zhan, 2006. Qualification of Overbalanced-Induced In-
+vasive Damage and the Estimation of Equivalent Skin Effect on Production, 10.2118/104467-MS, Society of Petroleum 
+Engineers, SPE-104467-MS, SPE. 
+
+16. Кошелев В.Н., Шишков С.Н. Обеспечение качественного вскрытия продуктивных пластов в условиях ано-
+
+мально низких пластовых давлений // Нефтяное хозяйство. – 2007. – № 6. – С. 38–41. 
+
+17. Руководство по эксплуатации прибора для измерения межфазного натяжения KRUSS DSA 100. 
+
+References 
+
+1.  Borozdin S.O., Podgornov V.M. Collector sensitivity to the physical and chemical processes at formation of the 
+
+penetration zone (in Russian) // Gas industry. – 2016. – № 4. – Р. 13–17. 
+
+2.  Al-Ameri Aymen, Gamadi Talal, Watson Marshall, 2018. The Impact of the Fracturing Fluid Spontaneous Imbi-
+bition on the Petrophysical Properties of Low Permeability Reservoirs, 10.2118/189570-MS, Society of Petroleum Engi-
+neers, SPE-189570-MS, SPE. 
+
+3.  Deng L., & King M.J. (2018, August 9). Theoretical Investigation of Water Blocking in Unconventional Reservoirs 
+Imbibition  and  Water  Adsorption.  Unconventional  Resources  Technology  Conference. 
+to  Spontaneous 
+
+Due 
+doi:10.15530/URTEC-2018-2875353. 
+
+4.  Khomeinizade Masood. Experimental study of damages in cracked reservoirs (caused by spontaneous absorp-
+tion) during underbalanced drilling / Masud Khomeinizade, Khalil Shahbazi, Sayad Reza Shadizade // Oil and gas case. – 
+2013. – № 3. 
+
+5.  Friedel Torsten, Voigt Hans-Dieter, 2004. Numerical Simulation of the Gas Inflow During Underbalanced Drilling 
+(UBD) and Investigation of the Impact of UBD on Longtime Well Productivity, 10.2118/91558-MS, Society of Petroleum 
+Engineers, SPE-91558-MS, SPE. 
+
+6.  Khansari Alireza Naziri, 2009. Evaluation of Well Productivity Loss Due to Formation Damage Caused by Spon-
+taneous  Imbibition  in  Underbalanced  Drilling,  10.2118/122268-MS,  Society  of  Petroleum  Engineers,  SPE-122268-MS, 
+SPE. 
+
+7.  R. Arabjamaloei, S. Shadizadeh, M. Ekramzadeh, A. Hamzei & M. Azad (2011) Numerical Model of Counter-
+current Spontaneous Imbibition in Underbalanced Drilling: Formation Damage Investigation, Petroleum Science and Tech-
+nology, 29:16, 1615-1624, DOI: 10.1080/10916460903581369. 
+46 
+
+ 
+ 
+ 
+ 
+БУЛАТОВСКИЕ ЧТЕНИЯ 
+
+СБОРНИК СТАТЕЙ – 2020 
+
+8.  Jiang Yanjiao & Sun Jianmeng & Gao Jianshen & Zhang Pengyun & Cui Jiangman (2017). A simulation of mud 
+invasion  and  characteristics  of array  laterolog responses  in  a  low-permeability  gas reservoir:  A  case  study.  Journal  of 
+Geophysics and Engineering. 14. 456-465. 10.1088/1742-2140/aa5e69. 
+
+9.  Jiang  Yanjiao  &  Sun  Jianmeng  &  Gao  Jianshen  &  Cui  Jiangman.  (2017).  Mud  invasion  and  array  laterolog 
+responses  in  horizontal  well  based  on  numerical  simulation.  Journal  of  Geophysics  and  Engineering.  14.  15-25. 
+10.1088/1742-2132/14/1/15. 
+
+10. Nesterova G.V. Evolution of the penetration zone according to the repeated logging and hydrodynamic simula-
+
+tion data (in Russian) / G.V. Nesterova, A.A. Kashevarov, I.N. Yeltsov // Karotazhnik. – 2008. – № 1 (166). – Р. 52–68. 
+
+11. Nesterova G.V.  Simulation  of  a strong-conducting  drilling mud penetration  into a  stratum  (in  Russian) / G.V. 
+
+Nesterova, A.A. Kashevarov, I.N. Yeltsov // Karotazhnik. – 2007. – 2008. – № 9 (174). – Р. 45–60. 
+
+12. Formation of the penetration zone according to the natural experiment data / A.A. Kashevarov [et al.] // Karota-
+
+zhnik. – 2009. – № 4 (181). – Р. 109–119. 
+
+13. Adams Stephen. Modeling Imbibition Capillary Pressure Curves, 10.2118/84298-MS, Society of Petroleum En-
+
+gineers, SPE-84298-MS, SPE. 
+
+14. Qutob  Hani,  Byrne  Micheal,  Wed  Jun  03  01:00:00  BST  2015.  Formation  Damage  in  Tight  Gas  Reser-
+
+voirs,10.2118/174237-MS, Society of Petroleum Engineers, SPE-174237-MS, SPE. 
+
+15. Ramalho John, Suryanarayana P.V., Vaidya Ravi, Wu Zhan, 2006. Qualification of Overbalanced-Induced In-
+vasive Damage and the Estimation of Equivalent Skin Effect on Production, 10.2118/104467-MS, Society of Petroleum 
+Engineers, SPE-104467-MS, SPE. 
+
+16. Koshelev V.N., Shishkov S.N. Maintenance of a quality opening of the productive strata under the abnormally 
+
+low formation pressure (in Russian) // Oil economy. – 2007. – № 6. – Р. 38–41. 
+
+17. Operating manual of the KRUSS DSA 100 interface tension measuring device. 
+
+47 
+
+ 
+ 
+ 
+ 
+ 
+

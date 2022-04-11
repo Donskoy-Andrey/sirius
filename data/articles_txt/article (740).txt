@@ -1,0 +1,1310 @@
+УДК 621.65.03 
+
+ОПТИМИЗАЦИЯ СИСТЕМЫ ЭНЕРГОСНАБЖЕНИЯ ПЛАВУЧЕГО 
+
+КОМПЛЕКСА МОРСКОГО БАЗИРОВАНИЯ 
+
+194 
+
+OPTIMIZATION OF THE POWER SUPPLY SYSTEM  
+
+OF THE SEA-BASED FLOATING COMPLEX 
+
+А.М. Сулейманов, А.Ю. Трофимов, О.В. Смородова, С.В. Китаев 
+
+Уфимский государственный нефтяной технический университет, 
+
+г. Уфа, Российская Федерация 
+
+Azat M. Suleymanov, Andrei Yu. Trofimov,  
+
+Olga V. Smorodova, Sergei V. Kitaev 
+
+Ufa State Petroleum Technological University, Ufa, Russian Federation 
+
+e-mail: olga_smorodova@mail.ru 
+
+Аннотация. 
+
+В 
+
+работе 
+
+рассмотрены 
+
+вопросы 
+
+повышения 
+
+энергетической  эффективности  эксплуатации  объектов  добычи  нефти. 
+
+Одним 
+
+из 
+
+перспективных 
+
+направлений 
+
+повышения 
+
+запасов 
+
+углеводородного 
+
+сырья  в  последнее  время  является  разработка 
+
+месторождений,  расположенных  в  донной  части  морей  и  океанов. 
+
+Эксплуатация  таких  нефтеносных  залежей  связана  со  сложностью 
+
+энергообеспечения  основных  технологических  установок  объектов  и 
+
+вспомогательных  инженерных 
+
+систем  –  отопления, 
+
+вентиляции, 
+
+кондиционирования и горячего водоснабжения. 
+
+Плавучий  морской  комплекс  (ПМК)  предназначен  для  проживания 
+
+персонала,  выполняющего  строительные,  ремонтные  и  пуско-наладочные 
+
+работы на нефтегазовых месторождениях в непосредственной близости от 
+
+моря. Комплекс является полностью автономным в плане энергоснабжения 
+
+и жизнеобеспечения. Преимуществом его использования в акватории моря 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+195 
+
+является  быстрое перемещение всего штата персонала с оборудованием в 
+
+любую точку, где необходимо проводить технические работы. 
+
+Для  производства  электрической  и  тепловой  энергии  на  ПМК 
+
+используются  дизель-генераторы  и  водогрейные  котлы,  работающие  на 
+
+дизельном  топливе,  что  обуславливает  значительные  экономические 
+
+затраты на его покупку, хранение и доставку. 
+
+В  составе  оборудования  ПМК  имеются  технические  средства  на 
+
+подключение  энергоснабжения  корабля  в  период  стояния  у  причала  от 
+
+энергосистем берега. Однако технически это не всегда осуществимо из-за 
+
+разных  рабочих  частот  сети  плавучих  комплексов  (60 Гц)  и  сетей 
+
+электроснабжения  береговой  зоны  (50 Гц).  Кроме  того,  штатная  система 
+
+для  подключения  от  внешнего  питания  рассчитана 
+
+только  на 
+
+ограниченную  мощность,  недостаточную  для  обеспечения  максимумов 
+
+энергосистемы в период низких температур наружного воздуха. 
+
+Полный переход на питание электрической энергией, поставляемой от 
+
+энергоцентра  береговых  объектов  в  период  стояния  у  причала,  позволит 
+
+исключить  затраты  дизельного  топлива  на  производство  электрической  и 
+
+тепловой  энергии.  В  работе  рассмотрены  техническая  возможность  и 
+
+перспективные  решения  подключения  электрического  питания  плавучего 
+
+комплекса  морского  базирования  в период  стояния  у  береговой  зоны,  где 
+
+электроснабжение 
+
+осуществляется 
+
+от 
+
+собственной 
+
+газотурбинной 
+
+электростанции. 
+
+Abstract. The paper considers issues of increasing the energy efficiency of 
+
+the  operation  of  oil  production  facilities.  One  of  the  promising  directions  of 
+
+increasing hydrocarbon reserves in recent years is the development of deposits 
+
+located in the bottom of the seas and oceans. The operation of such oil deposits 
+
+is  associated  with  the  complexity  of  energy  supply  of  the  main  technological 
+
+installations  of  facilities  and  auxiliary  engineering  systems  –  heating, 
+
+ventilation, air conditioning and hot water supply. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+196 
+
+The  floating marine complex (FMC) is intended for accommodation of the 
+
+personnel performing construction, repair and commissioning works on oil and 
+
+gas fields in close proximity to the sea. The complex is completely autonomous 
+
+in terms of energy supply and life support. The advantage of its use in the sea 
+
+area is the rapid movement of the entire staff with equipment to any point where 
+
+it is necessary to carry out technical work.   
+
+For  the  production  of  electric  and  thermal  energy,  FMC  uses  diesel 
+
+generators and hot-water boilers running on diesel fuel, which causes significant 
+
+economic costs for its purchase, storage and delivery.  
+
+During  the  period  of  berthing  as  part  of  the  FMC  equipment,  there  are 
+
+technical means to connect the ship's power supply from the power systems of 
+
+the  shore.  However, technically  this is not  always  feasible  due  to  the different 
+
+operating frequencies of the floating complexes network (60 Hz) and the power 
+
+supply  of  the  coastal  zone  (50 Hz).  In  addition,  the  standard  system  for 
+
+connection  from  an  external power supply  is  designed  only  for  limited  power, 
+
+insufficient  to  ensure  the  maximum  of  the  power  system  during  low  outdoor 
+
+temperatures. 
+
+The full transition to the power supply of electric energy supplied from the 
+
+power  center  of  onshore  facilities  during  berthing  will  eliminate  the  cost  of 
+
+diesel fuel for the production of electric and thermal energy.  
+
+The  paper  considers  the  technical  possibility  and  possible  solutions  for 
+
+connecting the electric power of a sea-based floating complex in the period of 
+
+standing to the coastal zone, where the power supply is carried out from its own 
+
+gas turbine power plant. 
+
+Ключевые  слова:  плавучий  морской  комплекс;  газотурбинная 
+
+электростанция;  частотный  преобразователь; 
+
+электрический  котел; 
+
+энергосбережение 
+
+Key  words:  floating  marine  complex;  gas  turbine  power  plant;  frequency 
+
+converter; electric boiler; energy saving 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+197 
+
+С начала XXI века около 30 % углеводородного сырья мировой добычи 
+
+обеспечивают 
+
+морские 
+
+месторождения 
+
+[1]. 
+
+Рейтинг 
+
+стран, 
+
+обеспечивающих  добычу  нефти  и  газа  мощностями  морского  шельфа, 
+
+возглавляют  пять  государств,  которые  в  2016  году  обеспечили  43  %  всей 
+
+морской добычи нефти: Саудовская Аравия, Бразилия, Мексика, Норвегия 
+
+и Соединённые Штаты (рисунок 1) [2]. 
+
+Рисунок 1. Карта добычи нефти и газа на морских месторождениях 
+мира [3] 
+
+В  России  добыча  нефти  на  морском  шельфе  реализуется  в  акватории 
+
+четырех  морей.  Около  75  %  суммарной  морской  добычи  углеводородов 
+
+обеспечивают  «Сахалин-1»  и  «Сахалин-2».  В  2016  г.  в  России  морская 
+
+добыча  нефти  составила  19,4  млн  т,  или  3,8  %  от  суммарной  добычи 
+
+нефтяного  кластера.  По  прогнозам 
+
+(Аналитический  центр  при 
+
+Правительстве  РФ)  увеличение  объёмов  добычи  нефти  на  морских 
+
+месторождениях  в  России  составит  около  30  %  и  достигнет  25  млн  тн  в 
+
+2021 г. Перспективными источниками являются нефтегазоносные залежи в 
+
+Каспийском и Печорском морях. За период до 2022 г. прогнозируется рост 
+
+добычи углеводородов за их счет в размере  до 10 млн т в год.  
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+198 
+
+Эксплуатация  морских  месторождений  связана  с  дополнительными 
+
+затратами по сравнению с материковыми нефтеносными залежами [4]. Не 
+
+только  глубоководная  добыча  нефти,  но  и  залежи  на  мелководье  –  так 
+
+называемые Shallow water  –  требуют  повышенных затрат на организацию 
+
+энергоснабжения  [5,  6].  Как  правило,  технологическое  оборудование 
+
+располагается  на  искусственно 
+
+создаваемых  намытых  островах. 
+
+Административные и бытовые помещения часто размещаются на баржах – 
+
+плавучих  морских  комплексах  (ПМК).  Статья  посвящена  вопросам 
+
+оптимизации  снабжения  ПМК  одного  из  морских  месторождений 
+
+ближнего зарубежья России электрической и тепловой энергией [7, 8].  
+
+На  данный  момент  ПМК  представляет  собой  автономный  в  плане 
+
+энергоснабжения 
+
+и  жизнеобеспечения 
+
+комплекс, 
+
+оборудованный 
+
+собственными  дизель-генераторными  установками  [9],  пластинчатыми 
+
+теплообменными  аппаратами  [10],  опреснительными  установками  [11], 
+
+установкой очистки  сточных  вод  [12],  инсинератором бытовых отходов  и 
+
+т.д. 
+
+На  ПМК  установлено  два  основных  дизельных 
+
+генератора 
+
+электрической  мощностью  1500  кВт  и  один  аварийный  дизельный 
+
+генератор электрической мощностью 500 кВт [13]. Частота электрической 
+
+энергии,  вырабатываемой  дизельными  генераторами  судна,  –  60  Гц.  Для 
+
+работы системы отопления и вентиляции ПМК используется водогрейный 
+
+судовой  котел  мощностью  900  кВт,  работающий  на  дизельном  топливе. 
+
+Котел  обеспечивает  нагрузку  системы  отопления  и  вентиляции  при 
+
+температурах  наружного  воздуха  минус  20 °С  и  ниже.  При  температурах 
+
+выше  минус  20 °С  система  теплоснабжения  работает  от  контура 
+
+охлаждения  дизельных  генераторов.  Отбор  тепла  осуществляется  от 
+
+контура 
+
+охлаждения 
+
+через 
+
+промежуточный 
+
+теплоноситель 
+
+(этиленгликолевая  смесь)  с  помощью  пластинчатых  теплообменников. 
+
+Нагреваемый  теплоноситель  после  пластинчатых  теплообменников  
+
+поступает  в  систему  воздушного  отопления.  Избыток  тепла  через 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+199 
+
+отдельную  систему  охлаждения  рассеивается  в  окружающей  среде. 
+
+Регулирование 
+
+нагрузки 
+
+воздушного 
+
+отопления 
+
+осуществляется 
+
+использованием  трехходового  клапана  по  температурам  наружного 
+
+воздуха и в помещениях. 
+
+Система воздушного отопления разделена на две зоны: 
+
+- зона жилого сектора, с поддержанием температуры 22–24 °С; 
+
+- зона рабочего сектора, с поддержанием температуры 18–20 °С. 
+
+Анализ  данных  штатных  приборов  учета  тепловой  и  электрической 
+
+энергии за последние три года показал, что фактическая нагрузка системы 
+
+теплоснабжения в среднем составила 840 кВт. При этом годовая выработка 
+
+тепловой энергии достигает 1700 Гкал. 
+
+Максимальная  электрическая  мощность,  зафиксированная  приборами 
+
+учета  электрической  энергии  за  тот  же  период,  составила  800  кВт,  при 
+
+среднегодовой выработке электрической энергии 5200 тыс. кВт·ч.  
+
+Расход дизельного топлива для  нужд ПМК за год составил 1296 м3, в 
+
+том  числе  1291  м3  на  выработку  электроэнергии  и  5 м3  на  выработку 
+
+тепловой  энергии  водогрейным  котлом.  Себестоимость  выработки 
+
+электрической 
+
+энергии 
+
+на 
+
+дизельных 
+
+генераторах 
+
+составляет 
+
+12,6 руб./кВт·ч.  Столь  высокая  тарифная  ставка  вызывает  необходимость 
+
+оптимизации системы электроснабжения – как типа самого источника, так 
+
+и сети электроснабжения [14–16]. 
+
+На 
+
+материковой 
+
+части 
+
+электроснабжение 
+
+технологического 
+
+оборудования  и  жилых  модулей  осуществляется  от  газотурбинной 
+
+электростанции (ГТЭС), состоящей из 4 газотурбинных генераторов (два в 
+
+работе,  два  в  резерве)  мощностью  25  МВт  каждый.  В  настоящий  момент 
+
+загрузка  по  газотурбинным  генераторам  составляет  не  более  50 %,  что 
+
+связано 
+
+с  неполной 
+
+загрузкой 
+
+технологических  мощностей.  Но 
+
+себестоимость  выработки  электрической  энергии  на  ГТЭС  составляет 
+
+всего 2,6 руб./кВт·ч, что в 5 раз ниже себестоимости выработки на дизель-
+
+генераторах ПМК. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+200 
+
+На  судне  морского  базирования  для  подключения  внешнего 
+
+электроснабжения  при  стоянке  в  порту  имеется  распределительный  щит 
+
+питания с берега (ЩПБ). ЩПБ подключен к главному распределительному 
+
+щиту  и  способен  обеспечить  питание  корабля  электрической  нагрузкой 
+
+0,4 кВ  мощностью  до  600 кВт.  Для  этого  на  причале  должны  быть 
+
+установлены  специальные  электроколонки.  Подключение,  как  правило, 
+
+производится посредством шлангового трехжильного кабеля.  
+
+Сложностью  выполнения  подключения  к  береговым  системам 
+
+рассматриваемого  судна  является  разность  частот  сети  ПМК  (60 Гц)  и 
+
+ГТЭС  (50 Гц)  [17].  Часть  потребителей  ПМК  (бытовые  приборы  жилого 
+
+сектора  и  система  освещения  [18])  могут  работать  с  частотой  питающей 
+
+сети 50 Гц. Суммарная мощность потребителей ПМК, способных работать 
+
+на частоте 50 Гц, составляет около 80 кВт. 
+
+Однако  данные  потребители  не  выделены  в  отдельную  группу.  Это 
+
+приводит  к  тому,  что  обеспечить  ПМК  электроснабжением  50  Гц 
+
+технически осуществимо, но потребует значительных затрат на перекладку 
+
+кабелей и на переподключение потребителей. 
+
+Использование  конвертора  для  преобразования  частоты  с  50 Гц  на 
+
+60 Гц  позволит  устранить  эту  проблему.  Для  этого  должны  быть  решены 
+
+следующие задачи: 
+
+–  подключение  к  РУ  береговой  линии  дополнительной  мощности  в 
+
+размере 800 кВт; 
+
+– установка преобразователей частоты 50/60 Гц на площади ПМК; 
+
+–  обеспечение  возможности переключения  системы  электроснабжения 
+
+ПМК  на  автономные  источники  (дизельные  генераторы)  при  аварийном 
+
+отключении внешнего питания. 
+
+В  результате  изучения  исходной  информации 
+
+(технических  и 
+
+электрических  схем,  технологических  регламентов,  паспортов  и  планов 
+
+размещения  оборудования  и  т.д.)  были  сформированы  основные 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+201 
+
+направления, 
+
+требующие 
+
+разработки 
+
+технического 
+
+задания 
+
+на 
+
+проектирование [19, 20]: 
+
+–  установка  дополнительных  шкафов  с  комплектом  низковольтных 
+
+устройств в РУ-0,4кВ в количестве 2 шт. на 800А каждый; 
+
+–  прокладка  двух  кабелей  от  РУ-0,4кВ  до  ЩПБ  длиной  100  м 
+
+каждый [21]; 
+
+– установка дополнительной ячейки главного распределительного щита 
+
+ПМК; 
+
+–  установка  частотного  преобразователя  50/60  Гц  мощностью  800 кВт 
+
+(рисунок 2); 
+
+–  разработка  системы  диспетчеризации  между  РУ-0,4кВ  и  главным 
+
+распределительным  щитом  с  возможностью  оперативного  переключения 
+
+при отсутствии внешнего питания. 
+
+Рисунок 2. План размещения главного распределительного 
+щита и преобразователя частоты 50/60 Гц 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+ 
+202 
+
+Для  надежного  электроснабжения  ПМК  в  случае  аварийной  или 
+
+плановой  остановки  ГТЭС  в  проекте  реконструкции  необходимо 
+
+предусмотреть  монтаж  кабеля  обмена  информацией  «Берег  –  ПМК»  и 
+
+оборудования  системы  диспетчеризации  (с  выводом  сигналов  на  рабочее 
+
+место) 
+
+с 
+
+целью 
+
+организации 
+
+оперативного 
+
+переключения 
+
+на 
+
+существующие дизельные генераторы ПМК [22]. 
+
+Экономический 
+
+эффект  определяется  как  разница 
+
+стоимости 
+
+производства  электрической  энергии  на  электростанции  ПМК,  стоимости 
+
+производства  электрической  энергии  на  береговой  ГТЭС    и  стоимости 
+
+производства  тепловой  энергии  дизельным  котлом  ПМК  (необходимо 
+
+помнить, что при поставке электрической энергии с материка на отопление 
+
+ПМК необходимо будет использовать собственный водогрейный котел). 
+
+Для производства тепловой энергии  в отопительный период в объеме 
+1700  Гкал  потребуется  218,1 м3  дизельного  топлива  стоимостью 
+
+9,65 млн руб. 
+
+Годовые  затраты  на  производство  электрической  энергии  дизель-
+
+генераторами  ПМК  составили  65,6  млн  руб.  При  производстве  того  же 
+
+количества  электрической  энергии  на  ГТЭС  затраты  составили  бы 
+
+13,5 млн руб.  Соответственно  экономический  эффект  при  переходе  на 
+
+поставку электрической энергии от ГТЭС составляет 42,4 млн руб./год. 
+
+Оценочные  затраты  на  установку  преобразователя  частоты  закрытого 
+
+исполнения,  дооборудование  РУ-0,4кВ,  ЩПБ  и  питающих  кабелей 
+
+составят  27,3  млн  руб.  Таким  образом,  простой  срок  окупаемости 
+
+составляет менее одного года. 
+
+В 
+
+качестве 
+
+второго 
+
+варианта 
+
+рассматривалась 
+
+установка 
+
+электрического  водогрейного  тепла  на  территории  ПМК.  Данное 
+
+мероприятие  позволило  бы  отказаться  от  использования  дизельного 
+
+водогрейного котла для производства тепловой энергии.  
+
+Требования, предъявляемые к электрокотлу: 
+
+– количество – 2 шт.; 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+203 
+
+– мощность – 500 кВт; 
+
+– напряжение – 0,4 кВ; 
+
+– частота питания – 50Гц; 
+
+– подключение к системе АСТУЭ – да; 
+
+– дополнительные требования: исполнение 1ExdIIBT4. 
+
+Экономический  эффект  при  переходе  на  поставку  электрической 
+
+энергии от ГТЭС с учетом внедрения электрокотлов составит 47,4 млн руб. 
+
+При оценочных затратах на установку преобразователя частоты закрытого 
+
+исполнения и электрических котлов в размере 29,6 млн руб. простой срок 
+
+окупаемости составит также менее одного года. 
+
+Вывод 
+
+В  работе  рассмотрены  техническая  возможность  и  перспективные 
+
+решения  подключения  электрического  питания  плавучего  комплекса 
+
+морского  базирования  в  период  стояния  у  береговой  зоны,  где 
+
+электроснабжение 
+
+осуществляется 
+
+от 
+
+собственной 
+
+газотурбинной 
+
+электростанции. 
+
+Список используемых источников 
+
+1.   Черепанов  В.В.,  Филиппов  А.Г.,  Петренко  В.Е.,  Новиков  А.И., 
+
+Мирзоев  Д.А.,  Ибрагимов  И.Э.,  Гречко  А.Г.  Морские  подводные 
+
+нефтегазовые  промыслы  //  Оборудование  для  подводного  обустройства  и 
+
+эксплуатации морских нефтегазовых месторождений. М.: 2017. Т. 1. 276 с. 
+
+2.   Картамышева  Е.С.,  Иванченко  Д.С.  Морская  добыча  нефти  // 
+
+Молодой 
+
+ученый. 
+
+2017.  № 
+
+25. 
+
+С. 
+
+107-110. 
+
+URL: 
+
+https://moluch.ru/archive/159/44708  (дата обращения: 24.10.2019). 
+
+3.   Пономарев  А.С.,  Поздняков  А.С.  Современные  тренды  развития 
+
+мирового сектора морской добычи углеводородов // Территория Нефтегаз. 
+
+2018. № 11. С. 40-50. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+204 
+
+4.   Белошицкий 
+
+А.В. 
+
+Технологические 
+
+тренды 
+
+развития 
+
+нефтесервисной отрасли  //  Нефтегазовое  дело.  2019.  Т.  17.  №  2.  С.  50-55. 
+
+URL: 
+
+http://ngdelo.ru/files/ngdelo/2019/2/ngdelo-2-2019-p50-55.pdf 
+
+(дата 
+
+обращения: 24.10.2019). DOI: 10.17122/ngdelo-2019-2-50-55. 
+
+5.   Janakiraman  S.  Digital  Oil  Fields  –  Intelligent  Wells  and  Platforms  // 
+
+Нефтегазовое 
+
+дело. 
+
+2018.  Т. 
+
+16.  № 
+
+5.  С. 
+
+24-29.  URL: 
+
+http://ngdelo.ru/files/ngdelo/2018/5/ngdelo-5-2018-p24-29.pdf 
+
+(дата 
+
+обращения: 24.10.2019). DOI: 10.17122/ngdelo-2018-5-24-29. 
+
+6.   Харченко  Ю.А., 
+
+Гриценко 
+
+А.И., 
+
+Сугунушев 
+
+С.С. 
+
+Электроснабжение  подводно-добычных  комплексов 
+
+//  Строительство 
+
+нефтяных и газовых скважин на суше и на море. 2019. № 3. С. 64-69. DOI: 
+
+10.30713/0130-3872-2019-3-64-69. 
+
+7.   Абызбаев  И.И.,  Фазлеева  Д.Р.,  Абызбаев  Н.И.,  Янченко  С.В.  К 
+
+вопросу 
+
+комплексного 
+
+проектирования 
+
+разработки 
+
+нефтяных 
+
+месторождений  //  Проблемы  сбора,  подготовки  и  транспорта  нефти  и 
+
+нефтепродуктов. 2019. Вып. 3 (119). С. 82-88. DOI: 10.17122/ntj-oil-2019-3-
+
+82-88. 
+
+8.   Бурдыгина Е.В., Сулейманов А.М., Трофимов А.Ю., Хафизов Ф.М. 
+
+Особенности системы отопления объектов добычи газа // Трубопроводный 
+
+транспорт  –  2008:  матер.  IV  Междунар.  учеб.-науч.-практ.  конф.  Уфа: 
+
+УГНТУ, 2008. С. 230-231. 
+
+9.   Ершов  М.С.,  Егоров  А.В.,  Трифонов  А.А.  Предпроектные 
+
+исследования  для  реконструкции  систем  электроснабжения  морских 
+
+объектов  нефтегазодобычи  и  систем  их  управления 
+
+//  Территория 
+
+Нефтегаз. 2009. № 3. С. 74-77. 
+
+10.  Бурдыгина  Е.В.,  Трофимов  А.Ю.  Сравнение  теплообменных 
+
+аппаратов для целей теплоснабжения // Трубопроводный транспорт – 2017: 
+
+тез.  докл.  XII  Междунар.  учеб.-науч.-практ.  конф.  Уфа:  УГНТУ,  2017. 
+
+С. 345-346. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+205 
+
+11.  Мелинова  Л.В.,  Подберезный  В.Л.  Опыт 
+
+эксплуатации 
+
+дистилляционных 
+
+опреснительных 
+
+установок 
+
+с  израильскими 
+
+с 
+
+горизонтальнотрубными  плёночными  испарителями  на  воде  каспийского 
+
+моря // Энергетик. 2018. № 9. С. 52-56. 
+
+12.  Гендрин  А.Г.,  Надоховская  Г.А.,  Чемерис  А.Н.,  Энгель  И.В., 
+
+Русинова  Е.С.  Экологическое  сопровождение  разработки  нефтегазовых 
+
+месторождений. Новосибирск: ГПНТБ СО РАН, 2009. 119 с. 
+
+13.  Белкин  А.П.,  Третьякова  П.А.  Пример  внедрения  принципов 
+
+собственной  генерации  энергии  //  Энергосбережение  и  водоподготовка. 
+
+2018. № 6 (116). С. 3-8. 
+
+14.  Singh  Н.,  Нао  S.,  Papalexopoulos  A.D.  Transmission  Congestion 
+
+Management in Competitive Electricity Markets // IEEE Transactions on Power 
+
+Systems. 1998. Vol. 13. No. 5. P. 672-680. 
+
+15.  Liu G.X., Sasaki H., Yorino N. Application of Network to Long Range 
+
+Composite Expansion Planning of Generation and Transmission Lines // Electric 
+
+Power Systems Research. 2001. No. 57. P. 157-162. 
+
+16.  Dodu  J.C.,  Merlin  A.  Dynamic  Model  for  Long-Term  Expansion 
+
+Planning Studies of Power Transmission Systems: The Ortie Model // Electrical 
+
+Power and Energy Systems. 1981. Vol. 3. No. 1. P. 1-16. 
+
+17.  Фомин  С.Г.  Комплексный  подход  к  вопросам  управления 
+
+процессами  выработки  электрической  и  тепловой  энергии  на  дизельных 
+
+электростанциях  многоагрегатного  состава  //  Оборудование  и  технологии 
+
+для нефтегазового комплекса. 2008. № 3. С. 33-35. 
+
+18.  Сулейманов  А.М.,  Сулейманова  С.М.  Снижение  мощности 
+
+наружного  освещения  //  Трубопроводный  транспорт  –  2006:  тез.  докл. 
+
+Междунар. учеб.-науч.-практ. конф. Уфа: УГНТУ, 2006. С. 190. 
+
+19.  Байков  И.Р.,  Смородов  Е.А.,  Смородова  О.В.  Оптимизация 
+
+размещений  энергетических  объектов  по  критерию  минимальных  потерь 
+
+энергии  //  Известия  высших  учебных  заведений.  Проблемы  энергетики. 
+
+1999. № 3-4. С. 27-30. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+206 
+
+20.  Бердин  А.С.,  Семенова  Л.А.  Интеграция  техноценологического 
+
+подхода  и  теории  нечетких  множеств  в  задачах  оптимизации  систем 
+
+электроснабжения  //  Известия  высших  учебных  заведений.  Проблемы 
+
+энергетики. 2010. № 3-4. С. 151-156. 
+
+21.  Huddkeston  C.T.,  Broadwater  R.P.  Reconfiguration  Algorithm  for 
+
+Minimizing  Losses  in  Radial  Electric  Distribution  Systems  //  Electric  Power 
+
+Systems Research. 1990. No. 18. P. 31-34. 
+
+22.  Андреев  В.В.,  Перетятко  М.А.,  Перетятко  С.А.  Выбор 
+
+энергоэффективного оборудования в энергетических установках на основе 
+
+методов системного анализа // Энергосбережение и водоподготовка.  2019. 
+
+№ 3 (119). С. 71-75. 
+
+References 
+
+1.   Cherepanov  V.V.,  Filippov  A.G.,  Petrenko  V.E.,  Novikov  A.I., 
+
+Mirzoev D.A., Ibragimov I.E., Grechko A.G. Morskie podvodnye neftegazovye 
+
+promysly  [Offshore  Subsea  Oil  and  Gas  Fields].  Oborudovanie  dlya 
+
+podvodnogo obustroistva i ekspluatatsii morskikh neftegazovykh mestorozhdenii 
+
+[Equipment for Underwater Construction and Operation of Offshore Oil and Gas 
+
+Fields]. Moscow, 2017, Vol. 1, 276 p. [in Russian]. 
+
+2.   Kartamysheva E.S., Ivanchenko D.S. Morskaya dobycha nefti [Offshore 
+
+Oil Production]. Molodoi uchenyi – Young Scientist, 2017, No. 25, pp. 107-110. 
+
+Available  at:  https://moluch.ru/archive/159/44708 
+
+(accessed  24.10.2019). 
+
+[in Russian]. 
+
+3.   Ponomarev  A.S.,  Pozdnyakov  A.S.  Sovremennye  trendy  razvitiya 
+
+mirovogo  sektora  morskoi  dobychi  uglevodorodov  [Global  Trends  of  the 
+
+Offshore Oil and Gas Production Industry Transformation]. Territoriya Neftegaz 
+
+– Oil and Gas Territory, 2018, No. 11, pp. 40-50. [in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+207 
+
+4.   Beloshitskii  A.V.  Tekhnologicheskie  trendy  razvitiya  nefteservisnoi 
+
+otrasli 
+
+[Technological  Trends  of  Oil  Service 
+
+Industry  Development]. 
+
+Neftegazovoe  delo  –  Petroleum  Engineering,  2019,  Vol.  17,  No.  2,  pp.  50-55. 
+
+URL:  http://ngdelo.ru/files/ngdelo/2019/2/ngdelo-2-2019-p50-55.pdf  (accessed 
+
+24.10.2019). DOI: 10.17122/ngdelo-2019-2-50-55. [in Russian]. 
+
+5.   Janakiraman  S.  Digital  Oil  Fields  –  Intelligent  Wells  and  Platforms. 
+
+Neftegazovoe  delo  –  Petroleum  Engineering,  2018,  Vol.  16,  No.  5,  pp.  24-29. 
+
+URL:  http://ngdelo.ru/files/ngdelo/2018/5/ngdelo-5-2018-p24-29.pdf  (accessed 
+
+24.10.2019). DOI: 10.17122/ngdelo-2018-5-24-29. 
+
+6.   Kharchenko Yu.A., Gritsenko A.I., Sugunushev S.S. Elektrosnabzhenie 
+
+podvodno-dobychnykh  kompleksov 
+
+[Electrical  Supply  of  Underwater 
+
+Production Complexes]. Stroitel'stvo neftyanykh i gazovykh skvazhin na sushe i 
+
+na more – Construction of Oil and Gas Wells on-Land and off-Shore, 2019, No. 
+
+3, pp. 64-69. DOI: 10.30713/0130-3872-2019-3-64-69. [in Russian]. 
+
+7.   Abyzbaev  I.I.,  Fazleeva  D.R.,  Abyzbaev  N.I.,  Yanchenko  S.V.  K 
+
+voprosu  kompleksnogo  proektirovaniya  razrabotki  neftyanykh  mestorozhdenii 
+
+[About  Complex  Design  of  Oil  Field  Development].  Problemy  sbora, 
+
+podgotovki  i  transporta  nefti  i  nefteproduktov  –  Problems  of  Gathering, 
+
+Treatment and Transportation of Oil and Oil Products, 2019, Issue 3 (119), pp. 
+
+82-88. DOI: 10.17122/ntj-oil-2019-3-82-88. [in Russian]. 
+
+8.   Burdygina  E.V.,  Suleimanov  A.M.,  Trofimov  A.Yu.,  Khafizov  F.M. 
+
+Osobennosti sistemy otopleniya ob"ektov dobychi gaza [Features of the Heating 
+
+System  of  Gas  Production  Facilities].  Materialy  IV  Mezhdunarodnoi  uchebno-
+
+nauchno-prakticheskoi  konferentsii  «Truboprovodnyi 
+
+transport  –  2008» 
+
+[Materials  of  the  IV  International  Educational-Scientific-Practical  Conference 
+
+«Pipeline  Transport-2008»].  Ufa,  UGNTU  Publ.,  2008,  pp.  230-231. 
+
+[in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+208 
+
+9.   Ershov M.S., Egorov A.V., Trifonov A.A. Predproektnye issledovaniya dlya 
+
+rekonstruktsii  sistem  elektrosnabzheniya  morskikh  ob"ektov  neftegazodobychi  i 
+
+sistem  ikh  upravleniya  [Pre-Project  Studies  for  Reconstruction  of  Power  Supply 
+
+Systems of Offshore Oil and Gas Production Facilities and their Control Systems]. 
+
+Territoriya Neftegaz – Oil and Gas Territory, 2009, No. 3, pp. 74-77. [in Russian]. 
+
+10.  Burdygina E.V., Trofimov A.Yu. Sravnenie teploobmennykh apparatov 
+
+dlya tselei teplosnabzheniya  [Comparison of Heat  Exchangers for Heat Supply 
+
+Purposes].  Tezisy 
+
+dokladov  XII  Mezhdunarodnoi 
+
+uchebno-nauchno-
+
+prakticheskoi konferentsii «Truboprovodnyi transport – 2017» [Abstracts of the 
+
+XII  International  Educational,  Scientific  and  Practical  Conference  «Pipeline 
+
+Transport – 2017»]. Ufa, UGNTU, 2017, pp. 345-346. [in Russian]. 
+
+11.  Melinova  L.V.,  Podbereznyi  V.L.  Opyt  ekspluatatsii  distillyatsionnykh 
+
+opresnitel'nykh  ustanovok  s  izrail'skimi  s  gorizontal'notrubnymi  plenochnymi 
+
+isparitelyami  na  vode  kaspiiskogo  morya  [Operating  Experience  of  Distillation 
+
+Desalination Plants with Israeli Made Horizontal Pipe thin Film Evaporators on the 
+
+Caspian Sea Water]. Energetik – Energetik, 2018, No. 9, pp. 52-56. [in Russian]. 
+
+12.  Gendrin  A.G.,  Nadokhovskaya  G.A.,  Chemeris  A.N.,  Engel  I.V., 
+
+Rusinova  E.S.  Ekologicheskoe  soprovozhdenie  razrabotki  neftegazovykh 
+
+mestorozhdenii  [Environmental  Support  of  Oil  and  Gas  Field  Development]. 
+
+Novosibirsk, GPNTB SO RAN Publ., 2009. 119 p. [in Russian]. 
+
+13.  Belkin A.P., Tretyakova P.A. Primer vnedreniya printsipov sobstvennoi 
+
+generatsii  energii  [Example  of  Implementation  of  Principles  of  own  Power 
+
+Generation]. Energosberezhenie i vodopodgotovka – Energy Saving and Water 
+
+Treatment, 2018, No. 6 (116), pp. 3-8. [in Russian]. 
+
+14.  Singh  Н.,  Нао  S.,  Papalexopoulos  A.D.  Transmission  Congestion 
+
+Management in Competitive Electricity Markets. IEEE Transactions on Power 
+
+Systems, 1998, Vol. 13, No. 5, pp. 672-680. 
+
+15.  Liu G.X., Sasaki H., Yorino N. Application of Network to Long Range 
+
+Composite Expansion Planning of Generation and Transmission Lines. Electric 
+
+Power Systems Research, 2001, No. 57, pp. 157-162. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+209 
+
+16.  Dodu  J.C.,  Merlin  A.  Dynamic  Model  for  Long-Term  Expansion 
+
+Planning Studies of Power Transmission Systems: The Ortie  Model. Electrical 
+
+Power and Energy Systems, 1981, Vol. 3, No. 1, pp. 1-16. 
+
+17.  Fomin S.G. Kompleksnyi podkhod k voprosam upravleniya protsessami 
+
+vyrabotki  elektricheskoi  i  teplovoi  energii  na  dizel'nykh  elektrostantsiyakh 
+
+mnogoagregatnogo  sostava  [An  Integrated  Approach  to  the  Management  of 
+
+Processes of Generation of Electric and Thermal Energy at Diesel Power Plants 
+
+of  Multi-Unit  Composition].  Oborudovanie  i  tekhnologii  dlya  neftegazovogo 
+
+kompleksa  –  Equipment  and  Technologies  for  Oil  and  Gas  Complex,  2008, 
+
+No. 3, pp. 33-35. [in Russian]. 
+
+18.  Suleimanov  A.M.,  Suleimanova  S.M.  Snizhenie  moshchnosti 
+
+naruzhnogo  osveshcheniya  [Reducing  the  Power  of  Outdoor  Lighting].  Tezisy 
+
+dokladov  Mezhdunarodnoi 
+
+uchebno-nauchno-prakticheskoi 
+
+konferentsii 
+
+«Truboprovodnyi transport – 2006» [Abstracts of the International Educational-
+
+Scientific-Practical  Conference  «Pipeline  Transport  –  2006»].  Ufa,  UGNTU 
+
+Publ., 2006, pp. 190. [in Russian]. 
+
+19.  Baikov 
+
+I.R.,  Smorodov  E.A.,  Smorodova  O.V.  Optimizatsiya 
+
+razmeshchenii  energeticheskikh  ob"ektov  po  kriteriyu  minimal'nykh  poter' 
+
+energii [Optimization of Energy Facilities Locations According to the Criterion 
+
+of Minimum Energy Losses]. Izvestiya vysshikh uchebnykh zavedenii. Problemy 
+
+energetiki  –  Power Engineering:  Research, Equipment, Technology, 1999,  No. 
+
+3-4, pp. 27-30. [in Russian]. 
+
+20.  Berdin  A.S.,  Semenova  L.A.  Integratsiya  tekhnotsenologicheskogo 
+
+podkhoda  i  teorii  nechetkikh  mnozhestv  v  zadachakh  optimizatsii  sistem 
+
+elektrosnabzheniya [Integration of Technocenosis the Approach and the Theory 
+
+of Fuzzy Sets in Problems of Optimization of Systems of an Electrical Supply]. 
+
+Izvestiya  vysshikh  uchebnykh  zavedenii.  Problemy  energetiki  –  Power 
+
+Engineering:  Research,  Equipment,  Technology,  2010,  No.  3-4.  pp.  151-156. 
+
+[in Russian]. 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+210 
+
+21.  Huddkeston  C.T.,  Broadwater  R.P.  Reconfiguration  Algorithm  for 
+
+Minimizing  Losses  in  Radial  Electric  Distribution  Systems.  Electric  Power 
+
+Systems Research, 1990, No. 18, pp. 31-34. 
+
+22.  Andreev  V.V., 
+
+Peretyatko  M.A., 
+
+Peretyatko 
+
+S.A.  Vybor 
+
+energoeffektivnogo  oborudovaniya  v  energeticheskikh  ustanovkakh  na  osnove 
+
+metodov sistemnogo analiza [Selection of Energy Efficient Equipment in Power 
+
+Plants  Based  on  System  Analysis  Methods].  Energosberezhenie 
+
+i 
+
+vodopodgotovka  –  Energy  Saving  and  Water  Treatment,  2019,  No.  3  (119), 
+
+pp. 71-75. [in Russian]. 
+
+Сведения об авторах 
+
+About the authors 
+
+Сулейманов  Азат  Маратович,  канд.  техн.  наук,  доцент  кафедры 
+
+«Промышленная теплоэнергетика», УГНТУ, г. Уфа, Российская Федерация 
+
+Azat  M.  Suleymanov,  Candidate  of  Engineering  Sciences,  Assistant 
+
+Professor of the Chair «Industrial Heat  and Power Engineering», USPTU, Ufa, 
+
+Russian Federation 
+
+e-mail: azatsam@mail.ru  
+
+Трофимов  Андрей  Юрьевич,  канд.  техн.  наук,  доцент  кафедры 
+
+«Промышленная теплоэнергетика», УГНТУ, г. Уфа, Российская Федерация 
+
+Andrei  Yu.  Trofimov,  Candidate  of  Engineering  Sciences,  Assistant 
+
+Professor of the Chair «Industrial Heat and Power Engineering»,  USPTU, Ufa, 
+
+Russian Federation 
+
+e-mail: trofimov_pte@mail.ru  
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+ 
+ 
+ 
+ 
+Смородова  Ольга  Викторовна,  канд.  техн.  наук,  доцент  кафедры 
+
+«Промышленная теплоэнергетика», УГНТУ, г. Уфа, Российская Федерация 
+
+Olga V. Smorodova, Candidate of Engineering Sciences, Assistant Professor 
+
+of  the  Chair  «Industrial  Heat  and  Power  Engineering»,  USPTU,  Ufa,  Russian 
+
+211 
+
+Federation 
+
+e-mail: olga_smorodova@mail.ru   
+
+Китаев  Сергей  Владимирович,  д-р  техн.  наук,  профессор  кафедры 
+
+«Транспорт  и  хранение  нефти  и  газа»,  УГНТУ,  г.  Уфа,  Российская 
+
+Федерация 
+
+Sergei V. Kitaev, Doctor of Engineering Sciences, Professor of Oil and Gas 
+
+Transportation and Storage Department, USPTU, Ufa, Russian Federation 
+
+e-mail: svkitaev@mail.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2019. №6 
+
+http://ogbus.ru 
+
+ 
+ 
+

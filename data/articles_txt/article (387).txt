@@ -1,0 +1,1376 @@
+15 
+
+УДК 536.243 
+
+СОПОСТАВЛЕНИЕ ХАРАКТЕРИСТИК КУПОЛА-СЕПАРАТОРА 
+
+ИЗ ПОЛИУРЕТАНА, РЕЗИНЫ И ДЮРАЛЮМИНИЯ 
+
+CHARACTERISTICS COMPARISON OF DOME SEPARATOR  
+
+MADE OF POLYURETHANE, RUBBER AND DURALUMINIUM 
+
+И.А. Чиглинцев, А.А. Насыров, А.С. Чиглинцева 
+
+Башкирский государственный университет,  
+
+филиал, г. Бирск, Российская Федерация, 
+
+Уфимский государственный нефтяной технический университет, 
+
+г. Уфа, Российская Федерация 
+
+Igor A. Chiglincev, Azat A. Nasyrov, Angelina S. Chiglinceva 
+
+Bashkir State University, Branch, Birsk, Russian Federation, 
+
+Ufa State Petroleum Technological University, Ufa, Russian Federation  
+
+e-mail: nasaza@mail.ru 
+
+Аннотация.  В  статье  описывается  использование  установки  «купол-
+
+сепаратор»,  представляющей  собой  огромный  резервуар  цилиндрической 
+
+формы и открытой снизу. Высота установки достигает нескольких десятков 
+
+метров,  а  радиус  –  несколько  метров.  Такая  конструкция  может  быть 
+
+изготовлена  из  эластичных  (например  полиуретана,  резины)  или  твердых 
+
+(дюралюминий)  материалов.  Купол  можно  использовать  для  устранения 
+
+прорывов газовых и нефтяных скважин на больших глубинах (более 500 м), 
+
+когда блокировка скважины является трудным событием. Предполагаются 
+
+достаточно большие размеры установки, чтобы входящая в нее смесь могла 
+
+быть разделена на газовую и нефтяную фазы для раздельного отбора. Также 
+
+купольный сепаратор можно использовать как метод добычи. Изготовление 
+
+такой  конструкции  из  упругих  материалов  способствует  упрощению 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+16 
+
+способа  транспортировки  купола-сепаратора  к  месту  эксплуатации. 
+
+Математическое  моделирование 
+
+такой 
+
+установки  показало, 
+
+что 
+
+изготовление 
+
+резинового 
+
+купола-сепаратора 
+
+способствует 
+
+более 
+
+эффективному 
+
+аккумулированию 
+
+тепла  внутри  конструкции,  что 
+
+благотворно  сказывается  на  разложении  гидрата,  который  может 
+
+образовываться в рабочих условиях. 
+
+Abstract.  The  paper  describes  the  use  of  the  of  the  dome-separator 
+
+installation, which is a huge tank, cylindrical in shape and open from the bottom. 
+
+The  installation  height  reaches  several  tens  of  meters  and  a  radius  of  several 
+
+meters. Such a design can be made of elastic (such as polyurethane, rubber) or 
+
+hard  (duralumin)  materials.  The  dome-separator  can  be  used  to  eliminate  the 
+
+breakthroughs  of  gas  and  oil  wells  at  great  depths  (more  than  500  m),  when 
+
+blocking  the  well  is  a  difficult  event.  Sufficiently  large  dimensions  of  the 
+
+installation are needed so that the mixture entering it can be separated into gas and 
+
+oil  phases  for  separate  selection.  Also,  the  dome-separator  can  be  used  as  a 
+
+method  for  extraction.  The  manufacture  of  such  a  structure  made  of  elastic 
+
+materials contributes to an easier way to transport the dome-separator to the place 
+
+of operation. The mathematical modeling of such an installation showed that the 
+
+manufacture of a rubber dome-separator contributes to more efficient heat storage 
+
+inside the structure, which has a beneficial effect on the decomposition of hydrate, 
+
+which can be formed under operating conditions. 
+
+Ключевые слова: гидрат; купол-сепаратор; углеводороды; полиуретан; 
+
+резина; дюралюминий 
+
+Key  words:  hydrate;  dome-separator;  hydrocarbons;  polyurethane;  rubber; 
+
+duralumin 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+ 
+17 
+
+Введение 
+
+В условиях возрастания уровня нефтедобычи, особенно в зонах шельфа, 
+
+важной  задачей  является  предотвращение  последствий  нефтегазовых 
+
+аварий.  Примерами  таких  аварийных  выбросов  углеводородов  в  воды 
+
+мирового океана являются случаи в 2010 г. на нефтяной платформе возле 
+
+берегов США в Мексиканском заливе и Северном море в 2012 г. [1, 2]. В 
+
+условиях  увеличения  нефтедобычи  в  районах  шельфа  Северного 
+
+Ледовитого  океана  особо  важным  становится  вопрос  защиты  экосистем 
+
+данной  области  от  подобных  аварий,  потому  как  живые  организмы, 
+
+обитающие в этих суровых широтах, особо чувствительны к изменениям в 
+
+окружающей  среде.  Предотвратить последствия  таких  аварий  возможно  с 
+
+помощью  купола-сепаратора,  предназначенного  для  сбора  углеводородов 
+
+[3, 4]. В случае же применения такой установки также возможно появление 
+
+дополнительных  проблем,  связанных  с  образующимся  газогидратом  на 
+
+глубинах, при которых реализуются соответствующие условия, что, в свою 
+
+очередь, будет затруднять процесс откачки углеводородов. Сам механизмам 
+
+процесса  гидратообразования  описан  во  множестве  работ  [5‒11].  Данная 
+
+статья является развитием работ [12] и [13]. Здесь рассматривается процесс 
+
+разложения газогидрата в куполе-сепараторе, изготовленном из различных 
+
+материалов. 
+
+Основные уравнения 
+
+Рассмотрим случай аварийного выброса углеводородов из скважины. На 
+
+рисунке  1  изображён  купол-сепаратор,  который  закреплён  у  дна  океана  в 
+
+месте  прорыва.  Для  упрощения  описания  форма  купола  принята 
+
+цилиндрической.  В  данном  случае  внутри  установки  располагается 
+
+скважина,  через  которую  и  происходит  аварийный  выброс.  Фазы  внутри 
+
+купола располагаются согласно значениям их плотностей. В верхней части 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+при  сборе  углеводородов  скапливается  газ,  далее  идёт  слой  нефти,  ниже 
+
+газогидрат и вода. 
+
+18 
+
+Рисунок 1. Принципиальная схема купола-сепаратора 
+
+На  принципиальной  схеме  показаны  параметры  купола  и  скважины,  а 
+
+также  расположение 
+
+границ  фаз.  Таким  образом 
+
+  ‒  радиус 
+
+рассматриваемого  трубопровода,  из  которого  произошёл  прорыв; 
+
+  –  радиус  описываемой  установки; 
+
+, 
+
+  –  координаты  границ 
+
+купола (верхней и нижней, соответственно); 
+
+, 
+
+, 
+
+ – координаты, 
+
+описывающие  границы  разделения  фаз  на  нефть  и  газ,  нефть  и  гидрат, 
+
+гидрат и воду соответственно; 
+
+,  
+
+ – площади поперечных сечений труб 
+
+в  верхней  части  купола  для  откачки  нефти  и  газа; 
+
+  –  расстояние, 
+
+отсчитываемое от поверхности океана до его дна; 
+
+ – толщина слоя гидрата 
+
+газа. 
+
+В работе предполагается, что внутри описываемого купола-сепаратора 
+
+не происходит процесса массопереноса между соприкасающимися фазами. 
+
+Тогда  можно  при  помощи  записи  уравнения  сохранения  массы  для  фаз 
+
+описать их динамику в установке [14]: 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+a)(zRupzdownzgaszoilzhydratezoSgShhh 
+, 
+
+, 
+
+, 
+
+19 
+
+(1) 
+
+. 
+
+В  записанном  уравнении  mj  –  массовый  расход  углеводородов, 
+
+поступающих  в  купол  при  их  сборе
+
+.  Так  же 
+
+  –  массы 
+
+накапливаемых газа и нефти; 
+
+ – площадь купола в поперечном сечении 
+
+в координате 
+
+; 
+
+ – плотности рассматриваемых фаз. 
+
+Для  имеющейся  воды  внутри  установки,  которая  вытесняется  из-под 
+
+купола при аварийном сборе углеводородов у дна океана, также необходимо 
+
+записать уравнение сохранения, описывающее данный процесс: 
+
+, 
+
+(2) 
+
+где 
+
+  –  скорость  с  которой  движется  граница  воды; 
+
+  –  масса  воды; 
+
+F(zh) – площадь цилиндрического купола-сепаратора в поперечном сечении 
+
+на координате 
+
+. 
+
+Изменение  массы  гидрата  газа,  который  находится  (согласно  своей 
+
+плотности)  под  слоем  нефти  и  над  слоем  купольной  воды,  будет 
+
+происходить по следующему уравнению: 
+
+, 
+
+(3) 
+
+где 
+
+ – приведённая интенсивность образования гидрата; 
+
+ – его масса. 
+
+Далее,  применяя  закон  сохранения  энергии,  мы  можем  записать 
+
+выражения,  с  помощью  которых  допустимо  определить  средние 
+
+температуры имеющихся внутри установки фаз: 
+
+ ,  (4) 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+jjdMmdt1)(jjzzjjdzzFM22)()(azRzF1jjzzzogj,jM)(zFzj()wwwhdMwFzdtwwwMhydratez()hhhdMFzjdthjhMggggogegupzzeggggTcmqzFqzFdzqzRzRdtTcMdupg)()()(1)(22 
+ 
+ 
+20 
+
+, 
+
+(5) 
+
+, 
+
+(6) 
+
+. 
+
+Здесь 
+
+, 
+
+, 
+
+, 
+
+, 
+
+, 
+
+показаны  выше  на  рисунке  1; 
+
+, 
+
+, 
+
+, 
+
+, 
+
+  –  тепловые  потоки,  которые 
+
+  –  средние  температуры  фаз, 
+
+определяемые  с  помощью  выражений  (4)–(6); 
+
+, 
+
+  –  удельные 
+
+теплоемкости  газа  и  нефти,  которые  поступают  в  купол-сепаратор,  а 
+
+, 
+
+ – их температуры. 
+
+Условие гидростатического равновесия позволяет определить давления, 
+
+создаваемые  в  установке  «купол-сепаратор»,  на  рассматриваемой 
+
+глубине 
+
+: 
+
+, 
+
+(7) 
+
+где
+
+ – гидростатическое давление океанической воды от его  поверхности 
+
+до  нижней  границы  купола; 
+
+, 
+
+  –  координаты  границ  фаз  и  нижнего 
+
+части купола; 
+
+ – давление газа под куполом. 
+
+Тепломассобмен 
+
+Интенсивность образования гидрата определим из баланса тепла: 
+
+, 
+
+(8) 
+
+здесь 
+
+, 
+
+ – тепловые потоки от нефти в слой гидрата и от гидрата в воду. 
+
+Для  описания  теплообмена  между  собранными  под  куполом  фазами 
+
+запишем [15]: 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+22()1()()()gozoooeghogoooooozdMcTRzRzqdzFzqFzqmcTdt22()1()()()()hdzwwwewwhhdwhwwwwzdMcTRzRzqdzFzqFzqFzwcTdtdzzdRzR)()(ewqwhqwqegqgoqeoqgoqhoqgTwToTgcocgToTh)()(dowogogoczzgzzgppocpjzdzgphwohhqqjlhoqwhq 
+ 
+ 
+ 
+21 
+
+(9) 
+
+, 
+
+, 
+
+, 
+
+. 
+
+Здесь 
+
+, 
+
+, 
+
+  –  тепловые  потоки,  приведённые  к  единице  площади 
+
+фаз; 
+
+, 
+
+  ‒  коэффициенты  температуро-  и  теплопроводности 
+
+; 
+
+ – приведенный тепловой поток между водой в куполе и 
+
+под ним;   – время, берущее начало в момент заполнения установки. 
+
+Примем  во  внимание  то,  что  в  основную  часть  попутного  газа  входит 
+
+метан [16]. Поэтому будем полагать, что в куполе-сепараторе идёт процесс 
+
+образования 
+
+газогидрата  метана  при  соответствующей  для  него 
+
+равновесной температуре, которая будет завесить от создаваемого давления 
+
+.  Данная  температура  будет  равна  температуре  на  границе
+
+,  и 
+
+описывается она в соответствии с [17–20] в виде: 
+
+, 
+
+(10) 
+
+где 
+
+, 
+
+,
+
+ – параметры, которые определяются из эксперимента. 
+
+Рассмотрим  работу  купола-сепаратора,  когда  сбор  углеводородов 
+
+производится  в  течение  суток.  Это  позволит  считать  границы  фаз 
+
+находящимися  в  покое,  что,  в  свою  очередь,  даст  возможность  записать 
+
+процесс передачи тепла через стенку купола в окружающую среду от воды, 
+
+гидрата, нефти и газа в установке как [21]:   
+
+, 
+
+, 
+
+, 
+
+, 
+
+, 
+
+, 
+
+, 
+
+. 
+
+(11) 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+gogogooggoTTqtt()swhwwhlhhwTpTqtt()sohohoohhoTpTqtt022wwwwwwTTqtwhqhoqgoqjjwhogj,,,wqtocphz0*0()lnocsochhpTpTTp*T0hp0hTcjcjTTqccccTTq0wccTTqc)(2zRNujjcccjjwwczzNu1njjjGrBNuPrnwwwGrBNuPr 
+ 
+ 
+ 
+22 
+
+Здесь все записанные тепловые потоки приведены к единице площади. 
+
+Также 
+
+, 
+
+, 
+
+  –  соответственно  приведённые  тепловые  потоки  через 
+
+стенку  установки  толщиной 
+
+  от  фаз 
+
+  к  внутренней  стенке 
+
+установки и от внешней поверхности стенки в окружающую среду. Далее 
+
+ и 
+
+ – температуры внешней и внутренней поверхностей стенок купола; 
+
+  и 
+
+  –  константы  (вертикальная  поверхность); 
+
+,
+
+  –  коэффициенты 
+
+теплопроводности 
+
+воды  и 
+
+стенки 
+
+[22–25] 
+
+(
+
+  –  полиуретан, 
+
+  –    дюралюминий, 
+
+  –  резина); 
+
+,
+
+, 
+
+  –  числа  Нуссельта, 
+
+Прандтля, Грасгофа. 
+
+Предполагая, что тепловые потоки 
+
+, 
+
+, 
+
+  будут равны между собой 
+
+(11), можно записать: 
+
+где 
+
+, 
+
+(12) 
+
+. 
+
+(13) 
+
+Примем,  что  отбор  газа  и  нефти  из-под  купола-сепаратора  не 
+
+производится. При проведении сравнительных расчётов рассмотрим купол, 
+
+изготовленный из полиуретана, дюралюминия и резины. 
+
+Расчётные данные 
+
+Расчёты показывают динамику границ и изменение температур фаз при 
+
+заполнении  установки  в  течение  промежутка  времени,  равного  1  сут. 
+
+Параметры  для  рассматриваемого  купола-сепаратора  примем  равными 
+
+ = 1000 м, 
+
+ = 25 м, 
+
+ = 5 м, 
+
+ = 5 м; радиус скважины 
+
+ = 0,2 м. 
+
+Температуру  углеводородов  в  поступающей  смеси  примем  равной 
+
+;  массовые  расходы  нефти  и 
+
+газа 
+
+соответственно  
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+cqjqcqwogj,,cTcTnBwcpdurrubNuPrGrjqcqcq0wjccjejTTqqqqccc1111hupzdownzRa370ogTTК 
+ 
+, 
+
+;  толщина  стенки  купола 
+
+1,5  см.  Для 
+
+теплофизических  параметров  фаз  примем: 
+
+; 
+
+23 
+
+; 
+
+; 
+
+; 
+
+; 
+
+; 
+
+; 
+
+; 
+
+;   
+
+; 
+
+; 
+
+; 
+
+; 
+
+; 
+
+; 
+
+; 
+
+; 
+
+; 
+
+; 
+
+; 
+
+; 
+
+; 
+
+; 
+
+; 
+
+;  
+
+; 
+
+. 
+
+Начальные значения для уровня газа 
+
+м; для уровня нефти
+
+м; толщина слоя гидрата  
+
+ м. 
+
+ штриховые линии – газовая фаза; сплошные – нефтяная фаза;  
+штрихпунктирные – соответственно верхняя и нижняя границы купола 
+
+Рисунок 2. Динамика границ для фаз «газ – нефть» и «нефть – гидрат»  
+
+На рисунке 2 и далее черная кривая соответствует случаю изготовления 
+
+купола-сепаратора  из  полиуретана,  красная  кривая  –  резине  и  синяя  – 
+
+дюралюминию. Как видно, наполнение купола, изготовленного из резины, 
+
+происходит  быстрее  по  причине  того,  что  в  этом  случае  материал 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+10omкг/с1gmкг/с1670ocКкгДж/866o3кг/м12,0oКмВт/4102,9o-1К43,0oсмкг/410965,4o/см22770wTК58,0wКмВт/310wсмкг/1000w3кг/м41054,0w-1К4218wcКкгДж/610w/см203,0gКмВт/8101028gсмкг/2365gcКкгДж/38,519gRКкгДж/11,0rubКмВт/25,0pКмВт/145durКмВт/5,0hКмВт/910h3кг/м2830hTК95,60hpМПа10*TК5105lДж/кг2044hcКкгДж/024,9gz024,8oz00,1hh 
+ 
+ 
+ 
+24 
+
+способствует  менее  интенсивному  процессу  теплообмена  с  окружающей 
+
+средой,  в  результате  чего  фазы  медленнее  остывают  и  газ  имеет  более 
+
+высокую  температуру.  Применение  купола  из  дюралюминия,  в  свою 
+
+очередь, позволяет проводить сбор углеводородов более длительное время 
+
+по сравнению с другими рассматриваемыми материалами. 
+
+Штриховые линии соответствуют фазе газа; сплошные – нефти; 
+штрихпунктирные линии – температура окружающей среды (277 К) и 
+поступающей смеси (370 К) 
+
+Рисунок 3. Изменение температуры газа 
+
+Полученные 
+
+данные 
+
+показывают, 
+
+что 
+
+температура 
+
+газа 
+
+в 
+
+дюралюминиевом  куполе  по  сравнению  с  резиновым  и  полиуретановым 
+
+падает быстро и становится равной температуре окружающей среды Tw=277 
+
+K  уже  на  самом  начальном  этапе  использования  установки.  Это  также,  в 
+
+свою  очередь,  способствует  более  длительному  процессу  наполнения 
+
+купола-сепаратора. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+25 
+
+Рисунок 4. Изменение давления газа 
+
+Из приведённых расчетов видно, что давление газа в случаях купола из 
+
+резины и полиуретана растет значительно быстрее по сравнению с куполом 
+
+из  дюралюминия,  что  связано  с  теплоизоляционными  свойствами  этих 
+
+материалов. В случае дюралюминия падение температуры газа приводит к 
+
+тому, что давление в процессе наполнения купола-сепаратора растёт более 
+
+медленно. 
+
+Рисунок 5. Разложение газогидратного слоя в куполе-сепараторе 
+
+На рисунке 5 представлен закон изменения толщины слоя газогидрата в 
+
+куполе-сепараторе.  Видно,  что  интенсивность  разложения  газогидрата  в 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+ 
+ 
+26 
+
+установках  из  различных  материалов  в  коротких  периодах  времени 
+
+несильно  отличается.  Тем  не  менее,  наблюдается  тенденция  к  более 
+
+интенсивному разложению гидрата в куполе из резины, что, в свою очередь, 
+
+будет  более  способствовать  решению  проблемы  закупорки  отводящих 
+
+трубопроводов  от  купола  на  поверхность  океана  при  аварийном  отборе 
+
+углеводородов  с  его  дна.  При  этом  сама  интенсивность  разложения 
+
+газогидрата остаётся довольно низкой, и за 1 сут в случае резинового купола 
+
+количество  гидрата  уменьшилось  чуть  более  чем  на  10  %,  поэтому 
+
+необходимо проведение дополнительных мероприятий по интенсификации 
+
+процесса разложения. 
+
+Выводы 
+
+Полученные данные показали, что в куполе, изготовленном из резины, 
+
+теплообмен  происходит  более  медленно,  что  способствует  сохранению 
+
+температуры  газа  на  более  высоком  значении.  Это,  в  свою  очередь, 
+
+оказывает влияние на его давление в куполе. Так как фазы в установке из 
+
+такого материала сохраняют больше тепла, то и процесс разложения гидрата 
+
+происходит быстрее. Данное обстоятельство более способствует решению 
+
+проблем  откачки  углеводородов  на  поверхность  океана.  В  свою  очередь, 
+
+купол-сепаратор из дюралюминия в случае сбора углеводородов позволяет 
+
+эксплуатировать  установку  более  длительные  периоды  времени,  но  не 
+
+способствует процессу разложения гидрата. 
+
+Благодарность 
+
+Работа  поддержана  грантом  президента  Российской  Федерации  для 
+
+государственной поддержки молодых российских ученых ‒ докторов наук 
+
+(Конкурс ‒ МД-2020) № МД-2179.2020.1. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+27 
+
+Acknowledgments 
+
+The research was funded by a grant of the President of the Russian Federation 
+
+for state support of young Russian scientists ‒ doctors of sciences (Competition ‒ 
+
+MD-2020), according to the research project No. MD-2179.2020.1. 
+
+Список используемых источников 
+
+1.  Carte  G.A.  Novel  Concept  to  Control  and  Remediate  Deep  Water  Oil 
+
+Spills:  the  Universal  Deepwater  Oil  Containment  System  (UDOC)  //  Yumpu. 
+
+URL: https://www.yumpu.com/en/document/read/3649822/universal-deepwater-
+
+oil-containment-george-carter-inventions (дата обращения: 27.06.2020). 
+
+2.  Report to the President. Deep Water: The Gulf Oil Disaster and the Future 
+
+of Offshore Drilling // National Commission on the BP Deepwater Horizon Oil 
+
+Spill 
+
+and  Offshore  Drilling.  2011.  URL:  https://www.govinfo.gov/ 
+
+content/pkg/GPO-OILCOMMISSION/pdf/GPO-OILCOMMISSION.pdf 
+
+(дата 
+
+обращения: 27.06.2020). 
+
+3.  Жуков  А.В.,  Звонарев  М.И.,  Жукова  Ю.А.  Способ  добычи  газа  из 
+
+глубоководных  месторождений  газогидратов  //  Международный  журнал 
+
+прикладных и фундаментальных исследований. 2013. № 10-1. С. 16-20. 
+
+4.  Гималтдинов  И.К.,  Кильдибаева  С.Р.  К  теории  начального  этапа 
+
+накопления  нефти  в  куполе-сепараторе  //  Теплофизика  и  аэромеханика. 
+
+2015. Т. 22. № 3. С. 401-406. 
+
+5.  Макогон Ю.Ф. Гидраты природных газов. М.: Недра, 1974. 208 с. 
+
+6.  Истомин В.А., Якушев В.С. Газовые гидраты в природных условиях. 
+
+М.: Недра, 1992. 235 с. 
+
+7.  Masutani S.M., Adams E.E. Experimental Study of Multi-Phase Plumes 
+
+with Application to Deep Ocean Oil Spills. Final Report of U.S. Department of 
+
+the Interior. Minerals Management Service. Hawaii: University of Hawaii, 2003. 
+
+88 p. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+28 
+
+8.  Mingjun Y., Yongchen S., Yu L.,  Yongjun C., Qingping L. Influence of 
+
+Pore Size, Salinity and Gas Composition upon the Hydrate Formation Conditions 
+
+// Chinese Journal of Chemical Engineering. 2010. Vol. 18. Issue 2. P. 292-296. 
+
+DOI: 10.1016/S1004-9541(08)60355-9. 
+
+9.  Шагапов  В.Ш.,  Чиглинцева  А.С.,  Русинов  А.А.  О  миграции 
+
+пузырьков  в  условиях  образования  гидрата  //  Прикладная  механика  и 
+
+техническая  физика. 
+
+2015.  Т. 
+
+56.  № 
+
+2.  С. 
+
+43-52.  DOI: 
+
+10.15372/PMTF20150205. 
+
+10.  Шагапов  В.Ш.,  Тазетдинов  Б.И.  К 
+
+теории  разложения 
+
+метастабильного  газогидрата 
+
+//  Теоретические  основы  химической 
+
+технологии. 2013. Т. 47. № 4. С. 454-463. DOI: 10.7868/S0040357113030123. 
+
+11.  Шагапов  В.Ш.,  Тазетдинов  Б.И.,  Нурисламов  О.Р.  К  теории 
+
+образования и разложения газогидратных частиц в процессе их всплытия в 
+
+воде  //  Вестник  Томского  государственного  университета.  Математика  и 
+
+механика. 2013. № 6 (26). С. 106-113. 
+
+12.  Насыров  А.А.  Моделирование  процесса  наполнения  «купола-
+
+сепаратора»,  предназначенного  для  ликвидации  нефтегазовых  выбросов  в 
+
+зоне морского дна // Вестник Кемеровского государственного университета. 
+
+2015. № 2-1 (62). С. 41-45. 
+
+13.  Чиглинцев  И.А.,  Насыров  А.А.  Моделирование  процесса 
+
+наполнения 
+
+«купола-сепаратора», 
+
+с 
+
+разложением 
+
+газогидрата, 
+
+образовавшегося  в  период  монтажа  установки  //  Инженерно-физический 
+
+журнал. 2016. Т. 89. № 4. С. 851-860. 
+
+14.  Кильдибаева  С.Р.  Моделирование  купола-сепаратора  при  разливе 
+
+нефти в шельфе // Фундаментальные исследования. 2013. № 10-5. С. 1045-
+
+1050. 
+
+15.  Тихонов А.Н., Самарский А.А. Уравнения математической физики. 
+
+М.: Изд-во МГУ, 2004. 798 с.  
+
+16.  Гиматудинов Ш.К. Физика нефтяного и газового пласта. М.: Недра, 
+
+1971. 312 c. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+29 
+
+17.  Бык  С.Ш.,  Макогон  Ю.Ф.,  Фомина  В.И.  Газовые  гидраты.  М.: 
+
+Химия, 1980. 296 c. 
+
+18.  Нигматулин  Р.И.,  Шагапов  В.Ш.,  Сыртланов  В.Р.  Автомодельная 
+
+задача о разложении газогидратов в пористой среде при депрессии и нагреве 
+
+// Прикладная механика и техническая физика. 1998. Т. 39. № 3. С. 111-118. 
+
+19.  Шагапов  В.Ш.,  Чиглинцева  А.С.,  Сыртланов  В.Р.  О  возможности 
+
+вымывания газа из газогидратного массива посредством циркуляции теплой 
+
+воды  //  Прикладная  механика  и  техническая  физика.  2009.  Т.  50.  №  4.  
+
+С. 100-111. 
+
+20. .  Шагапов  В.Ш.,  Чиглинцева  А.С.,  Белова  С.В.  Математическое 
+
+моделирование  нагнетания  гидратообразующего  газа  в  снежный  массив, 
+
+насыщенный тем же газом // Труды Института механики им. Р.Р. Мавлютова 
+
+УНЦ РАН. 2016. Т. 11. № 2. С. 233-239. DOI: 10.21662/uim2016.2.034. 
+
+21. .  Кутателадзе  С.С.  Основы  теории  теплообмена.  М.:  Атомиздат, 
+
+1979. 416 с. 
+
+22. .  Чиркин  В.С.  Теплофизические  свойства  материалов  ядерной 
+
+техники. М.: Атомиздат, 1968. 484 с. 
+
+23. .  Бабичев  А.П.,  Бабушкина  Н.А.,  Братковский  А.М.  Физические 
+
+величины: справочник. М.: Энергоатомиздат, 1991. 1232 с. 
+
+24. .  Белецкий  В.М.,  Кривов  Г.А.  Алюминиевые  сплавы  (состав, 
+
+свойства,  технология,  применение):  справочник.  Киев:  Коминтех,  2005. 
+
+365 с. 
+
+25. .  Богданов  С.Н.,  Бурцев  С.И.,  Иванов  О.П.,  Куприянова  А.В. 
+
+Холодильная  техника.  Кондиционирование  воздуха.  Свойства  веществ: 
+
+справочник. СПб.: СПбГАХПТ, 1999. 308 с. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+30 
+
+References 
+
+1.  Carte  G.A.  Novel  Concept  to  Control  and  Remediate  Deep  Water  Oil 
+
+Spills: the Universal Deepwater Oil Containment System (UDOC). Yumpu. URL: 
+
+https://www.yumpu.com/en/document/read/3649822/universal-deepwater-oil-
+
+containment-george-carter-inventions (accessed 27.06.2020). 
+
+2.  Report to the President. Deep Water: The Gulf Oil Disaster and the Future 
+
+of  Offshore  Drilling.  National  Commission  on  the  BP  Deepwater  Horizon  Oil 
+
+Spill  and  Offshore  Drilling.  2011.  URL:  https://www.govinfo.gov/content/ 
+
+pkg/GPO-OILCOMMISSION/pdf/GPO-OILCOMMISSION.pdf 
+
+(accessed 
+
+27.06.2020). 
+
+3.  Zhukov  A.V.,  Zvonarev  M.I.,  Zhukova  Yu.A.  Sposob  dobychi  gaza  iz 
+
+glubokovodnykh mestorozhdenii gazogidratov [Gas Mining Method from Deep 
+
+Water  Deposits  of  Gas  Hydrates].  Mezhdunarodnyi  zhurnal  prikladnykh  i 
+
+fundamental'nykh 
+
+issledovanii  –  International  Journal  of  Applied  and 
+
+Fundamental Research, 2013, No. 10-1, pp. 16-20. [in Russian]. 
+
+4.  Gimaltdinov I.K., Kildibaeva S.R. K teorii nachal'nogo etapa nakopleniya 
+
+nefti v kupole-separatore [About the Theory of Initial Stage of Oil Accumulation 
+
+in  a  Dome-Separator].  Teplofizika  i  aeromekhanika  –  Thermophysics  and 
+
+Aeromechanics, 2015, Vol. 22, No. 3, pp. 401-406. [in Russian]. 
+
+5.  Makogon  Yu.F.  Gidraty  prirodnykh  gazov  [Natural  Gas  Hydrates]. 
+
+Moscow, Nedra Publ., 1974. 208 p. [in Russian]. 
+
+6.  Istomin  V.A.,  Yakushev  V.S.  Gazovye  gidraty  v  prirodnykh  usloviyakh 
+
+[Gas  Hydrates  in  Natural  Conditions].  Moscow,  Nedra  Publ.,  1992.  235  p. 
+
+[in Russian]. 
+
+7.  Masutani S.M., Adams  E.E.  Experimental Study  of Multi-Phase Plumes 
+
+with Application to Deep Ocean Oil Spills. Final Report of U.S. Department of 
+
+the Interior. Minerals Management Service. Hawaii, University of Hawaii, 2003. 
+
+88 p. 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+31 
+
+8.  Mingjun Y., Yongchen S., Yu L.,  Yongjun C., Qingping L. Influence of 
+
+Pore Size, Salinity and Gas Composition upon the Hydrate Formation Conditions. 
+
+Chinese Journal of Chemical Engineering, 2010, Vol. 18, Issue 2, pp. 292-296. 
+
+DOI: 10.1016/S1004-9541(08)60355-9. 
+
+9.  Shagapov V.Sh., Chiglintseva A.S., Rusinov A.A. O migratsii puzyr'kov v 
+
+usloviyakh obrazovaniya gidrata [Bubble Migration during Hydrate Formation]. 
+
+Prikladnaya mekhanika i tekhnicheskaya fizika – Journal of Applied Mechanics 
+
+and  Technical  Physics,  2015,  Vol.  56,  No.  2,  pp.  43-52.  DOI: 
+
+10.15372/PMTF20150205. [in Russian]. 
+
+10.  Shagapov V.Sh., Tazetdinov B.I. K teorii razlozheniya metastabil'nogo 
+
+gazogidrata [On the Theory of the Decomposition of a Metastable Gas Hydrate]. 
+
+Teoreticheskie  osnovy  khimicheskoi  tekhnologii  –  Theoretical  Foundation  of 
+
+Chemical  Engineering,  2013,  Vol.  47,  No.  4,  pp.  454-463.  DOI: 
+
+10.7868/S0040357113030123. [in Russian]. 
+
+11.  Shagapov V.Sh., Tazetdinov B.I., Nurislamov O.R. K teorii obrazovaniya 
+
+i  razlozheniya  gazogidratnykh  chastits  v  protsesse  ikh  vsplytiya  v  vode 
+
+[A  Contribution  to  the  Theory  of  Gas  Hydrate  Particle  Formation  and 
+
+Decomposition  in  the  Process  of  Their  Ascent  in  Water].  Vestnik  Tomskogo 
+
+gosudarstvennogo  universiteta.  Matematika  i  mekhanika  –  Tomsk  State 
+
+University  Journal of Mathematics and Mechanics,  2013,  No. 6 (26), pp. 106-
+
+113. [in Russian]. 
+
+12.  Nasyrov  A.A.  Modelirovanie  protsessa  napolneniya  «kupola-
+
+separatora», prednaznachennogo dlya likvidatsii neftegazovykh vybrosov v zone 
+
+morskogo  dna  [Modelling  of  Filling  the  «Dome-Separator»  Intended  for 
+
+Elimination  of  Oil  and  Gas  Emissions  in  the  Seabed  Zone].  Vestnik 
+
+Kemerovskogo  gosudarstvennogo  universiteta  –  Bulletin  of  Kemerovo  State 
+
+University, 2015, No. 2-1 (62), pp. 41-45. [in Russian]. 
+
+13.  Chiglintsev  I.A.,  Nasyrov  A.A.  Modelirovanie  protsessa  napolneniya 
+
+«kupola-separatora»,  s  razlozheniem  gazogidrata,  obrazovavshegosya  v  period 
+
+montazha ustanovki [Modeling of the Process of Filling a Dome Separator with 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+32 
+
+the  Decomposition  of  a  Gas  Hydrate  Formed  during  the  Mounting  of  the 
+
+Installation]. Inzhenerno-fizicheskii zhurnal – Journal of Engineering Physics and 
+
+Thermophysics, 2016, Vol. 89, No. 4, pp. 851-860. [in Russian]. 
+
+14.  Kildibaeva  S.R.  Modelirovanie  kupola-separatora  pri  razlive  nefti  v 
+
+shel'fe [Modeling Dome-Separators for Oil Spills on the Shelf]. Fundamental'nye 
+
+issledovaniya  –  Fundamental  Research,  2013,  No.  10-5,  pp.  1045-1050. 
+
+[in Russian]. 
+
+15.  Tikhonov  A.N.,  Samarskii  A.A.  Uravneniya  matematicheskoi  fiziki 
+
+[Equations  of  Mathematical  Physics].  Moscow,  MGU  Publ.,  2004.  798  p. 
+
+[in Russian]. 
+
+16.  Gimatudinov Sh.K. Fizika neftyanogo i gazovogo plasta [Physics of Oil 
+
+and Gas Reservoir]. Moscow, Nedra Publ., 1971. 312 p. [in Russian]. 
+
+17.  Byk S.Sh., Makogon Yu.F., Fomina V.I. Gazovye gidraty [Gas Hydrates]. 
+
+Moscow, Khimiya Publ., 1980. 296 p. [in Russian]. 
+
+18.  Nigmatulin  R.I.,  Shagapov  V.Sh.,  Syrtlanov  V.R.  Avtomodel'naya 
+
+zadacha o razlozhenii gazogidratov v poristoi srede pri depressii i nagreve [Self-
+
+Similar  Problem  on  the  Decomposition  of  Gas  Hydrates  in  a  Porous  Medium 
+
+under Depression and Heating]. Prikladnaya mekhanika i tekhnicheskaya fizika – 
+
+Journal  of  Applied  Mechanics  and  Technical  Physics,  1998,  Vol.  39,  No.  3, 
+
+pp. 111-118. [in Russian]. 
+
+19.  Shagapov  V.Sh.,  Chiglintseva  A.S.,  Syrtlanov  V.R.  O  vozmozhnosti 
+
+vymyvaniya  gaza  iz  gazogidratnogo  massiva  posredstvom  tsirkulyatsii  teploi 
+
+vody [Possibility of Gas Washout from a Gas-Hydrate Massif by Circulation of 
+
+Warm  Water].  Prikladnaya  mekhanika  i  tekhnicheskaya  fizika  –  Journal  of 
+
+Applied Mechanics and Technical Physics, 2009, Vol. 50, No. 4, pp. 100-111. 
+
+[in Russian]. 
+
+20.  Shagapov  V.Sh.,  Chiglintseva  A.S.,  Belova  S.V.  Matematicheskoe 
+
+modelirovanie  nagnetaniya  gidratoobrazuyushchego  gaza  v  snezhnyi  massiv, 
+
+nasyshchennyi tem zhe gazom [Mathematical Modelling of Injection Gas Hydrate 
+
+Formation  into  the  Massif  of  Snow  Saturated  the  Same  Gas].  Trudy  Instituta 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+33 
+
+mekhaniki  im.  R.R.  Mavlyutova  UNTs  RAN  –  Proceedings  of  the  Mavlyutov 
+
+Institute  of  Mechanics,  2016,  Vol.  11,  No.  2,  pp.  233-239.  DOI: 
+
+10.21662/uim2016.2.034. [in Russian]. 
+
+21.  Kutateladze  S.S.  Osnovy  teorii  teploobmena  [Basics  of  the  Theory  of 
+
+Heat Transfer]. Moscow, Atomizdat Publ., 1979. 416 p. [in Russian]. 
+
+22.  Chirkin  V.S.  Teplofizicheskie  svoistva  materialov  yadernoi  tekhniki 
+
+[Thermophysical  Properties  of  Materials  for  Nuclear  Technology].  Moscow, 
+
+Atomizdat Publ., 1968. 484 p. [in Russian]. 
+
+23.  Babichev  A.P.,  Babushkina  N.A.,  Bratkovskii  A.M.  Fizicheskie 
+
+velichiny. 
+
+Spravochnik 
+
+[Physical  Quantities.  Directory].  Moscow, 
+
+Energoatomizdat Publ., 1991. 1232 p. [in Russian]. 
+
+24.  Beletskii  V.M.,  Krivov  G.A.  Alyuminievye  splavy  (sostav,  svoistva, 
+
+tekhnologiya,  primenenie):  Spravochnik  [Aluminum  Alloys  (Composition, 
+
+Properties, Technology, Application). Directory]. Kiev, Komintekh Publ., 2005. 
+
+365 p. [in Russian]. 
+
+25.  Bogdanov  S.N.,  Burtsev  S.I.,  Ivanov  O.P.,  Kupriyanova  A.V. 
+
+Kholodil'naya  tekhnika.  Konditsionirovanie  vozdukha.  Svoistva  veshchestv: 
+
+Spravochnik  [Refrigeration  Equipment.  Air  Conditioning.  Properties  of 
+
+Substances:  Handbook].  Saint-Petersburg,  SPbGAKhPT  Publ.,  1999.  308  p. 
+
+[in Russian]. 
+
+Сведения об авторах 
+
+About the authors 
+
+Чиглинцев Игорь Александрович, канд. физ.-мат. наук, доцент кафедры 
+
+технологического  образования,  БашГУ,  филиал,  г.  Бирск,  Республика 
+
+Башкортостан, Российская Федерация 
+
+Igor  A.  Chiglintsev,  Candidate  of  Physical  and  Mathematical  Sciences, 
+
+Assistant  Professor  of  Technological  Education  Department,  BashSU,  Branch, 
+
+Birsk, Republic of Bashkortostan, Russian Federation 
+
+e-mail: schnik@mail.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+34 
+
+Насыров  Азат  Аскатович,  канд.  физ.-мат.  наук,  г.  Бирск,  Республика 
+
+Башкортостан, Российская Федерация 
+
+Azat A. Nasyrov, Candidate of Physical and Mathematical Sciences, Birsk, 
+
+Republic of Bashkortostan, Russian Federation 
+
+e-mail: nasaza@mail.ru 
+
+Чиглинцева  Ангелина  Сергеевна,  д-р  физ.-мат.  наук,  доцент  кафедры 
+
+физики, УГНТУ, г. Уфа, Российская Федерация 
+
+Angelina  S.  Chiglintseva,  Doctor  of  Physical  and  Mathematical  Sciences, 
+
+Assistant Professor of Physics Department, USPTU, Ufa, Russian Federation 
+
+е-mail: Сhangelina@rambler.ru 
+
+© Сетевое издание «Нефтегазовое дело». 2020. №4 
+
+http://ogbus.ru 
+
+ 
+

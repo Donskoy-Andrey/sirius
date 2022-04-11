@@ -27,6 +27,9 @@ if __name__ == '__main__':
 
     for path in articles_files:
         print(path)
+        file_number = int(str(path)[23:-5])
+        # if file_number == 545:
+        #     continue
         extract_txt(path, folder='articles_txt')
 
 
