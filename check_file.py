@@ -7,10 +7,13 @@ from transrom_pdf import articles_names, mydict_names
 import pandas as pd
 
 
-def check_new_file(path, resave=False, new_stop=[]):
+def check_new_file(path, resave=False, new_stop=[], extension='pdf'):
     new_articles_data = load_articles_data()
     current_file_path = Path(path)
-    txt_file_path = extract_txt(current_file_path, folder='test_folder', return_value=True)
+    if extension != 'txt':
+        txt_file_path = extract_txt(current_file_path, folder='test_folder', return_value=True)
+    else:
+        txt_file_path = path
     new_file_txt = file_processing(txt_file_path, new_stop=new_stop)
     new_articles_data.append(new_file_txt)
 

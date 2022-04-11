@@ -1,6 +1,7 @@
 from check_file import check_new_file
 from time import sleep
 from txt_file_processing import file_processing
+from OCR import get_ocr_file
 
 
 def script(resave=False, new_stop=[]):
@@ -24,8 +25,28 @@ def script(resave=False, new_stop=[]):
         )
     df.index = range(1, df.shape[0]+1)
     df.head(n_strings).to_excel(r'.\data\test_folder\result.xlsx', encoding='utf-8')
+
+    if df.loc[1, 'value'] < 0.05:
+        print('File unreadable. Use OCR...')
+        OCR_PATH = check_path[:-4] + '.txt'
+        text = get_ocr_file(check_path)
+        with open(OCR_PATH, 'w', encoding='utf-8') as file:
+            file.write(text)
+
+        df = check_new_file(OCR_PATH, extension='txt')
+        all_names = df.term.head(n_search_strings).values
+
+        df['variants'] = \
+            df.term.head(n_strings) \
+                .apply(lambda x: ', '.join(
+                [i for i in all_names
+                 if (x in i) and (x != i)][:n_add_strings - 1]
+            )
+                       )
+        df.index = range(1, df.shape[0] + 1)
+        df.head(n_strings).to_excel(r'.\data\test_folder\result.xlsx', encoding='utf-8')
+
     print('===== Script finished! =====')
-    sleep(30)
 
 
 if __name__ == '__main__':
