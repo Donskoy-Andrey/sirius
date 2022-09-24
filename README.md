@@ -12,7 +12,7 @@
 xlsx-файл, содержащий топ-N слов (term) с наибольшей метрикой (value) и его наиболее весомые вариации (variants).
 
 <p align="center">
-  <img src="https://github.com/Donskoy-Andrey/sirius/blob/master/data/test_folder/output.png" />
+  <img src="https://github.com/Donskoy-Andrey/sirius/blob/master/images/output.png" />
 </p>
 
 # Описание репозитория 
@@ -32,7 +32,7 @@ xlsx-файл, содержащий топ-N слов (term) с наибольш
 6. **transrom_pdf.py** - конвертация библиотеки из pdf в txt
 7. **txt_file_processing.py** - обработка txt результатов (приведение к изначальным морфемам, удаление мусора и ненужных символов)
 
-![Результаты работы](https://github.com/Donskoy-Andrey/sirius/blob/master/data/results.png)
+![Результаты работы](https://github.com/Donskoy-Andrey/sirius/blob/master/images/results.png)
 
 # Основные проблемы
 1. Часто человек берет ключевые слова "из головы", то есть они не встречаются в тексте.
