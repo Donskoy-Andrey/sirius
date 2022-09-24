@@ -1,2 +1,5 @@
+src/data/original_data/articles
+src/data/original_data/mydict
+venv
 .idea/
 **/__pycache__/
