@@ -8,7 +8,7 @@ When adding materials, employees need to fill a number of fields in the material
 
 2. Unify tags to documents in the "Knowledge Library", by selecting keywords from those already created by scanning the list of already created keywords. If necessary, keywords defined in the document should change their word form, so as not to increase the list of already created keywords.
 
-# Output
+## Output
 xlsx-file containing the top-N words (term) with the highest metric (value) and its most weighted variants (variants).
 
 <p align="center">
