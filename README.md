@@ -1,36 +1,36 @@
-# Описание проекта:
-В группе компаний Газпром нефть существует портал “Система распространения знаний”, где каждый сотрудник компании может поделиться полезными материалами (книгами, статьями, извлеченными уроками и прочее). 
+# Description:
+The «Gazprom Neft» Group has a portal "Knowledge Dissemination System", where every employee of the company can share useful materials (books, articles, lessons learned, etc.). 
 
-При добавлении материалов сотрудникам необходимо заполнить ряд полей карточки материала. Данная процедура требует большого количества времени. Поэтому предлагается в рамках решения данной задачи сэкономить время работы персонала и оптимизировать бизнес-процесс за счет частичной автоматизации. Необходимо, чтобы при добавлении материала система “сканировала документ” и определяла ключевые слова в нем.
+When adding materials, employees need to fill a number of fields in the material card. This procedure requires a lot of time. Therefore, it is proposed to save staff time and optimize the business process by partially automating this task. It is necessary that when adding a material the system "scanned the document" and determine the keywords in it.
 
-# Задача:
-1. Сократить время сотрудников на заполнение карточки документа, загружаемого в “Библиотеку знаний”;
+# Problem:
+1. Reduce employee time to fill out a document card to be uploaded to the "Knowledge Library";
 
-2. Унифицировать теги к документам в “Библиотеке знаний”, за счет подбора ключевых слов из уже созданных путем сканирования списка уже созданных ключевых слов. При необходимости ключевые слова, определенные в документе, должны менять свою словоформу, чтобы не увеличивать список уже созданных ключевых слов.
+2. Unify tags to documents in the "Knowledge Library", by selecting keywords from those already created by scanning the list of already created keywords. If necessary, keywords defined in the document should change their word form, so as not to increase the list of already created keywords.
 
-# Формат выхода
-xlsx-файл, содержащий топ-N слов (term) с наибольшей метрикой (value) и его наиболее весомые вариации (variants).
+# Output
+xlsx-file containing the top-N words (term) with the highest metric (value) and its most weighted variants (variants).
 
 <p align="center">
   <img src="https://github.com/Donskoy-Andrey/sirius/blob/master/images/output.png" />
 </p>
 
-# Описание репозитория и условия запуска
+# Repository Description and Launch Conditions
 
-0. Внутри папки **data** должна лежать **original_data** со следующим содержимым:\
-0.1. **articles** - папка с исходными статьями, база данных 1\
-0.2. **mydict** - папка с исходными словарями, база данных 2
+0. Inside the **data** folder should be **original_data** with the following contents:\
+0.1. **articles** - folder with original articles, database 1\.
+0.2. **mydict** - folder with source dictionaries, database 2
 
-1. **OCR.py** - скрипт запуска оптического распознавания символов (при нечитабельном pdf исходнике)
-2. **check_file.py** - подсчет важных слов для файла
-3. **data_transfering.py** - скрипт чтения и загрузки библиотеки
-4. **script.py** - **основной скрипт**, запускающий подсчет важных слов статьи
-5. **transrom_pdf.py** - конвертация библиотеки из pdf в txt
-6. **txt_file_processing.py** - обработка txt результатов (приведение к изначальным морфемам, удаление мусора и ненужных символов)
+1. **OCR.py** - script to start optical character recognition (in case of unreadable pdf source)
+2. **check_file.py** - counting important words for file
+3. **data_transfering.py** - library reading and loading script
+4. **script.py** - **main script** which runs important words counting
+5. **transrom_pdf.py** - library conversion from pdf to txt
+6. **txt_file_processing.py** - processing txt results (converting to the original morphemes, removing garbage and unnecessary characters)
 
-![Результаты работы](https://github.com/Donskoy-Andrey/sirius/blob/master/images/results.png)
+![Results](https://github.com/Donskoy-Andrey/sirius/blob/master/images/results.png)
 
-# Основные проблемы
-1. Часто человек берет ключевые слова "из головы", то есть они не встречаются в тексте.
-2. Обработка сборников текстов затруднительна ввиду наличия мусорных слов на каждой странице.
-3. Иногда человек делает ключевым словом фразу из 5-6 слов, а алгоритм настроен максимум на 3 слова.
+# Basic problems
+1. A person often takes keywords "out of his head," that is, they do not occur in the text.
+2. It's difficult to process collections of texts because of the presence of trash words on each page.
+Sometimes a person makes a keyword phrase of 5-6 words, and the algorithm is set to a maximum of 3 words.
